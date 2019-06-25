@@ -1,7 +1,5 @@
 Introduction:
-
-FreePCB is a free, open-source PCB editor for Microsoft Windows, released under the GNU General Public License. It was designed to be easy to learn and easy to use, yet capable of professional-quality work. It does not have a built-in autorouter, but it can use the FreeRoute web-based autorouter at www.freerouting.net. Some of its features are:
-
+***
 * 1 to 16 copper layers
 * Board size up to 60 inches by 60 inches
 * Uses English or metric units (i.e. mils or mm) for most functions.
