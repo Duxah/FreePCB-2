@@ -2,16 +2,17 @@ Introduction:
 
 FreePCB is a free, open-source PCB editor for Microsoft Windows, released under the GNU General Public License. It was designed to be easy to learn and easy to use, yet capable of professional-quality work. It does not have a built-in autorouter, but it can use the FreeRoute web-based autorouter at www.freerouting.net. Some of its features are:
 
-1 to 16 copper layers
-Board size up to 60 inches by 60 inches
-Uses English or metric units (i.e. mils or mm) for most functions.
-Footprint libraries courtesy of Ivex Design International, PCB Matrix and the IPC.
-Copper fill areas
-Footprint Wizard and Footprint Editor for creating or modifying footprints
-Imports and exports PADS-PCB netlists
-Exports extended Gerber files (RS274X) and Excellon drill files
-Design rule checker
-Autosave
+* 1 to 16 copper layers
+* Board size up to 60 inches by 60 inches
+* Uses English or metric units (i.e. mils or mm) for most functions.
+* Footprint Wizard and Footprint Editor for creating or modifying footprints
+* Import and automatic export of PADS-PCB lists
+* Import and export to mechanical format DXF
+* Import and export Pcad ASCII files
+* Exports extended Gerber files (RS274X) and Excellon drill files
+* Design rule checker
+* Autosave
+***
 ![PCB](https://github.com/Duxah/FreePCB/blob/master/img2.png)
 # About development
 ***
