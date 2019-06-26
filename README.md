@@ -21,9 +21,9 @@ The FreePcb-2.000 and above program presented on this site is an upgrade of vers
 
 # Major improvements and new features
 ----------------------------------------
-|Improved graphical display of selected objects
-|Improved detailing frame
-|free rotation of parts
+* Improved graphical display of selected objects
+* Improved detailing frame
+* free rotation of parts
 * [moving the group to the opposite side](https://youtu.be/WTI2HnneCzk)
 * set of zero coordinate on any object(menu TOOLS)
 * [merge a group of parts into one object](https://youtu.be/ef0Bef-Ql0M)
@@ -47,12 +47,12 @@ The FreePcb-2.000 and above program presented on this site is an upgrade of vers
 * Import PCAD( ACCEL ASCII )
 (2014-2017)
 
-Version 2-019 (2018-02-20):
+`Version 2-019 (2018-02-20):`
 
 * The function of automatic [selection of parallel segments](https://youtu.be/5JjDa58_ABA) for quick editing is added 
 * AREA_SPLITTER.EXE and [INFOBOX.EXE improved](https://youtu.be/ItGi7xaLnlY), [show pins](https://youtu.be/_XKBCJiFBmQ).
 
-Version 2-020 (2018-05-01):
+*Version 2-020 (2018-05-01):*
 
 * added 3 new layers:  2 for notes, scribing
 * when moving the origin in the footprint the position of the part on the board remains
