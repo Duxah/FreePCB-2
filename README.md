@@ -33,11 +33,11 @@ The FreePcb-2.000 and above program presented on this site is an upgrade of vers
 * Improved work with polygons
 * the ability to set a specified gap between any lines [(set_clearance)](https://youtu.be/Z1GgYGOtFfU)
 * preparation of the code for the introduction of micro transition holes
-* possibility of rounding corners of traces
-* possibility of adding smooth transition holes
-* changing some parameters at once
-* combining several footprints into one directly in PCB editing mode
-* the ability to organize libraries alphabetically, by the number of pins or by the number of holes
+* possibility of rounding vertices of traces
+* possibility of adding drop vias (using the external application RoundingRect.exe)
+* replacing some parameters in the project file using the external program Replace.exe
+* combining several footprints into one directly in PCB editing mode using the external program Libraries.exe
+* the ability to organize libraries alphabetically, by the number of pins or by the number of holes (Libraries.exe)
 * external program [infobox.exe](https://youtu.be/I0mb6RNXuqo) knows how to [find parts](https://youtu.be/8IQnL1ws65g) on a printed circuit board
 * in freepcb, you can not fill copper polygons. gaps are drawn automatically when creating the Gerber files, but sometimes you need to fill it. External program [AREA_SPLITTER.EXE](https://youtu.be/2jqGSPgFSpU) fills polygons
 * [export to mechanical format dxf](https://youtu.be/5NpD_ZXCbkI)
