@@ -11,7 +11,7 @@
 * Design rule checker
 * Autosave
 
-![PCB](https://github.com/Duxah/FreePCB/blob/master/img2.png)
+![PCB](https://raw.githubusercontent.com/Duxah/FreePCB/master/img2.png)
 
 # About development
 ---
