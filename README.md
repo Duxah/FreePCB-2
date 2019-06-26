@@ -114,11 +114,12 @@ The SET_CLEARANCE function becomes universal and takes on a larger scale. For ex
 * Specifying a folder with FREEPCB projects in the INFOBOX SETTINGS menu is no longer required (21.06.2019)
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) The [download](https://drive.google.com/open?id=1qPDMzfwV7oMmpA2gsspwId4ZLeLsT6BZ) (Updated 27.06.2019!) includes a folder with the program, manual 1.359, footprint libraries, examples of printed circuit boards, a description of the 2.028 file format for developers.
-	
+
+
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/По%20рукам.png) If you like version 2-028, place a freepcb.dev link on your site. Have fun using FreePcb
 
 ------------------------------------------------------------
-============================================================
+
 [More video:](https://www.youtube.com/watch?v=BqJPxMCFzyc&list=UUAfxUv-ywajGqFkucOYEtbw)
 * [Routing branch](https://youtu.be/FPJLVRgZ5So)
 * [Remove bridge](https://youtu.be/aCoLDw9o3DA)
@@ -148,15 +149,13 @@ The SET_CLEARANCE function becomes universal and takes on a larger scale. For ex
 * 1  way
 * [2 way](https://youtu.be/YiW7-XE1Sa0)
 * How to save footprints when paneling if the footprint names in files are the same, but footprints are different
-
-## Contacts.
 ***
+## Contacts.
 * [User forum](https://groups.yahoo.com/neo/groups/FreePCB/info) on Yahoo Group. 
 * If you have any suggestions related to FREEPCB or you do not want to submit your question for public review, send an [email](mailto:freepcb.development@gmail.com).
 * If you want to improve the translation of this document send your file to [email](mailto:freepcb.development@gmail.com).
-
-# Get started with FreePcb
 ***
+# Get started with FreePcb
 1) License
 2) FreePcb user guide 1-359
 3) FreePcb user guide 2-028
