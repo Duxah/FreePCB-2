@@ -112,7 +112,11 @@ Version 2-028 (2019-06-12):
 * Overwrite protection when saving a file that was created in FREEPCB version 1.359
 * Specifying a folder with FREEPCB projects in the INFOBOX SETTINGS menu is no longer required (21.06.2019)
 
-![](
+![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png)The download (Updated 25.06.2019!) includes a folder with the program, manual 1.359, footprint libraries, examples of printed circuit boards, a description of the 2.028 file format for developers.
+	
+![]If you like the program FreePcb2.028 place the link www.freepcb.online on your site. Have fun using FreePcb 2!
 
+
+How to export gerber ?
 ### this repository is under development 
 ### (c)2019
