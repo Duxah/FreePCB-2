@@ -11,7 +11,7 @@
 * Design rule checker
 * Autosave
 
-![PCB](https://raw.githubusercontent.com/Duxah/FreePCB/master/img2.png)
+![PCB](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/img2.png)
 
 # About development
 ------------------------------------
@@ -112,7 +112,7 @@ Version 2-028 (2019-06-12):
 * Overwrite protection when saving a file that was created in FREEPCB version 1.359
 * Specifying a folder with FREEPCB projects in the INFOBOX SETTINGS menu is no longer required (21.06.2019)
 
-
+![](
 
 ### this repository is under development 
 ### (c)2019
