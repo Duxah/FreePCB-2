@@ -52,7 +52,7 @@ The FreePcb-2.000 and above program presented on this site is an upgrade of vers
 * The function of automatic [selection of parallel segments](https://youtu.be/5JjDa58_ABA) for quick editing is added 
 * AREA_SPLITTER.EXE and [INFOBOX.EXE improved](https://youtu.be/ItGi7xaLnlY), [show pins](https://youtu.be/_XKBCJiFBmQ).
 
-*Version 2-020 (2018-05-01):*
+`Version 2-020 (2018-05-01):`
 
 * added 3 new layers:  2 for notes, scribing
 * when moving the origin in the footprint the position of the part on the board remains
@@ -62,7 +62,7 @@ The FreePcb-2.000 and above program presented on this site is an upgrade of vers
 * in InfoBox when clicking on a cell in the "Pin" column on the right all pins of this detail are displayed](https://youtu.be/2NqhzvQQsBQ)
 * [Select/Unselect](https://youtu.be/4FUoShPmiI8)
 
-Version 2-021 (2018-06-01):
+`Version 2-021 (2018-06-01):`
 
 * in the InfoBox column is added the [range of indexes](https://youtu.be/9mD0dIe6yyk) of notation details
 * added the SET ORIGIN TO SELECTED ITEM function in the TOOLS menu
@@ -70,17 +70,17 @@ Version 2-021 (2018-06-01):
 * Improved auto-refs (REF-AUTO-POS)
 * added the SHOW_MERGES (F6) button to find the merge on the board, [selection several mergers](https://youtu.be/z-ttbtUvRCA)
 
-Version 2-022 (2018-07-22):
+`Version 2-022 (2018-07-22):`
  
 * added the SELECT ALL button in the EDIT menu
 
-Version 2-023 (2018-10-07):
+`Version 2-023 (2018-10-07):`
 
 * in the footprint editor added the ability to create pins with one common name (MULTIPIN)
 * added the ability to divide the net into 2 different (SPLITNET)
 * added the ability to block a netlist in the Project-> Nets menu ...
 
-Version 2-024 (2018-12-31):
+`Version 2-024 (2018-12-31):`
 
 * added a button to select all objects located inside any polyline (F9 INSIDE CONTOUR)
 * copper polygon with edge thickness 0 and the none fill style is now a ghost polygon, and serves as a fill area for the program Area Splitter
@@ -88,21 +88,21 @@ Version 2-024 (2018-12-31):
 * if the symbol | is added to the element designation (REF) that the text after the symbol on the printed circuit board is not displayed (for multichannel devices).
 * display of clearance when the trace segment moves by the keyboard arrows (set in the TOOLS->DRC->trace to trace, you can temporarily change it with the SET_CLEARANCE function, return to the initial value when you save the file again).
 
-Version 2-025 (2019-04-12):
+`Version 2-025 (2019-04-12):`
 
 The SET_CLEARANCE function becomes universal and takes on a larger scale. For example, you can set clearance between the segment of trace and the side of copper area.
 * the measurement tool (activated with the M key) leaves a trace on the screen with the display of numerical value, and is a polyline, i.e. allows you to measure the perimeter of a polygon
 * Opening a file by dragging on the window
 
-Version 2-026 (2019-04-19):
+`Version 2-026 (2019-04-19):`
 
 * Added option to the LAYERS menu: file colors versus system colors.
 
-Version 2-027 (2019-04-27):
+`Version 2-027 (2019-04-27):`
 
 * [Improved SET_POSITION](https://youtu.be/7WguD56Wu3U) function for polyline vertices 
 
-Version 2-028 (2019-06-12):
+`Version 2-028 (2019-06-12):`
 
 * In the footprint editor, you can edit a group of objects: duplication, rotation, mirroring.
 * Added warning in DRC check if PCB name is missing
@@ -112,10 +112,11 @@ Version 2-028 (2019-06-12):
 * Overwrite protection when saving a file that was created in FREEPCB version 1.359
 * Specifying a folder with FREEPCB projects in the INFOBOX SETTINGS menu is no longer required (21.06.2019)
 
-![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) The download (Updated 25.06.2019!) includes a folder with the program, manual 1.359, footprint libraries, examples of printed circuit boards, a description of the 2.028 file format for developers.
+![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) The [download](https://drive.google.com/open?id=1qPDMzfwV7oMmpA2gsspwId4ZLeLsT6BZ) (Updated 27.06.2019!) includes a folder with the program, manual 1.359, footprint libraries, examples of printed circuit boards, a description of the 2.028 file format for developers.
 	
-![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/По%20рукам.png) If you like the program FreePcb2.028 place the link www.freepcb.online on your site. Have fun using FreePcb 2!
+![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/По%20рукам.png) # If you like the program FreePcb2.028 place the link <freepcb.dev> on your site. Have fun using FreePcb2
 ------------------------------------------------------------
+============================================================
 [More video:](https://www.youtube.com/watch?v=BqJPxMCFzyc&list=UUAfxUv-ywajGqFkucOYEtbw)
 * [Routing branch](https://youtu.be/FPJLVRgZ5So)
 * [Remove bridge](https://youtu.be/aCoLDw9o3DA)
@@ -147,12 +148,17 @@ Version 2-028 (2019-06-12):
 * How to save footprints when paneling if the footprint names in files are the same, but footprints are different
 
 ## Contacts.
------------
+***
 * [User forum](https://groups.yahoo.com/neo/groups/FreePCB/info) on Yahoo Group. 
 * If you have any suggestions related to FREEPCB or you do not want to submit your question for public review, send an [email](mailto:freepcb.development@gmail.com).
 * If you want to improve the translation of this document send your file to [email](mailto:freepcb.development@gmail.com).
 
-
-How to export gerber ?
-### this repository is under development 
-### (c)2019
+# Get started with FreePcb
+***
+1) License
+2) FreePcb user guide 1-359
+3) FreePcb user guide 2-028
+4) Comment on file format 2-028
+5) How to export gerber?(for PCB factories)
+### dir /this repository is under development !
+### ©2019
