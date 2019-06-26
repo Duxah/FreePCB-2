@@ -149,18 +149,21 @@ The SET_CLEARANCE function becomes universal and takes on a larger scale. For ex
 * 1  way
 * [2 way](https://youtu.be/YiW7-XE1Sa0)
 * How to save footprints when paneling if the footprint names in files are the same, but footprints are different
+
 ***
 ## Contacts.
 * [User forum](https://groups.yahoo.com/neo/groups/FreePCB/info) on Yahoo Group. 
 * If you have any suggestions related to FREEPCB or you do not want to submit your question for public review, send an [email](mailto:freepcb.development@gmail.com).
-* If you want to improve the translation of this document send your file to [email](mailto:freepcb.development@gmail.com).
+* If you want to improve the translation of this document send your file to [email](mailto:freepcb.development@gmail.com)
+
 ***
 # Get started with FreePcb
-1) License
-2) FreePcb user guide 1-359
-3) FreePcb user guide 2-028
-4) Comment on file format 2-028
-5) How to export gerber?(for PCB factories)
+1. License
+2. FreePcb user guide 1-359
+3. FreePcb user guide 2-028
+4. Comment on file format 2-028
+5. How to export gerber?(for PCB factories)
 
-       ### this repository is under development
-       ### ©2019
+***
+### this repository is under development
+### ©2019
