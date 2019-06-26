@@ -11,6 +11,7 @@
 * Design rule checker
 * Autosave
 
+View
 ![PCB](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/img2.png)
 
 # About development
@@ -58,8 +59,8 @@ The FreePcb-2.000 and above program presented on this site is an upgrade of vers
 * when moving the origin in the footprint the position of the part on the board remains
 * when selecting a detail pin, the network is also highlighted
 * in export DXF_3dFaces drawing of pads by solid
-* [in InfoBox when clicking on a cell in the column "Net in PCB" on the left all pins of this net are displayed
-* in InfoBox when clicking on a cell in the "Pin" column on the right all pins of this detail are displayed](https://youtu.be/2NqhzvQQsBQ)
+* [in InfoBox when clicking on a cell in the column "Net in PCB" on the left all pins of this net are displayed](https://youtu.be/2NqhzvQQsBQ)
+* [in InfoBox when clicking on a cell in the "Pin" column on the right all pins of this detail are displayed](https://youtu.be/2NqhzvQQsBQ)
 * [Select/Unselect](https://youtu.be/4FUoShPmiI8)
 
 `Version 2-021 (2018-06-01):`
@@ -114,7 +115,8 @@ The SET_CLEARANCE function becomes universal and takes on a larger scale. For ex
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) The [download](https://drive.google.com/open?id=1qPDMzfwV7oMmpA2gsspwId4ZLeLsT6BZ) (Updated 27.06.2019!) includes a folder with the program, manual 1.359, footprint libraries, examples of printed circuit boards, a description of the 2.028 file format for developers.
 	
-![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/По%20рукам.png) If you like version 2-028, place a <freepcb.dev> link on your site. Have fun using FreePcb
+![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/По%20рукам.png) If you like version 2-028, place a freepcb.dev link on your site. Have fun using FreePcb
+
 ------------------------------------------------------------
 ============================================================
 [More video:](https://www.youtube.com/watch?v=BqJPxMCFzyc&list=UUAfxUv-ywajGqFkucOYEtbw)
@@ -160,5 +162,6 @@ The SET_CLEARANCE function becomes universal and takes on a larger scale. For ex
 3) FreePcb user guide 2-028
 4) Comment on file format 2-028
 5) How to export gerber?(for PCB factories)
-     ### this repository is under development !
-     ### ©2019
+
+       ### this repository is under development
+       ### ©2019
