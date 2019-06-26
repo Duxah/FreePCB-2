@@ -87,7 +87,7 @@ The FreePcb-2.000 and above program presented on this site is an upgrade of vers
 * added a button to select all objects located inside any polyline (F9 INSIDE CONTOUR)
 * copper polygon with edge thickness 0 and the none fill style is now a ghost polygon, and serves as a fill area for the program Area Splitter
 * rotation of a group of objects at any integer angle
-* if the symbol | is added to the element designation (REF) that the text after the symbol on the printed circuit board is not displayed (for multichannel devices).
+* if the symbol `|` is added to the element designation (REF) that the text after the symbol on the printed circuit board is not displayed (for multichannel devices).
 * display of clearance when the trace segment moves by the keyboard arrows (set in the TOOLS->DRC->trace to trace, you can temporarily change it with the SET_CLEARANCE function, return to the initial value when you save the file again).
 
 `Version 2-025 (2019-04-12):`
