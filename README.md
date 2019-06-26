@@ -21,9 +21,9 @@ The FreePcb-2.000 and above program presented on this site is an upgrade of vers
 
 # Major improvements and new features
 ----------------------------------------
-* Improved graphical display of selected objects
-* Improved detailing frame
-* free rotation of parts
+|* Improved graphical display of selected objects
+|* Improved detailing frame
+|* free rotation of parts
 * [moving the group to the opposite side](https://youtu.be/WTI2HnneCzk)
 * set of zero coordinate on any object(menu TOOLS)
 * [merge a group of parts into one object](https://youtu.be/ef0Bef-Ql0M)
@@ -147,7 +147,7 @@ Version 2-028 (2019-06-12):
 * How to save footprints when paneling if the footprint names in files are the same, but footprints are different
 
 ## Contacts.
-
+-----------
 * [User forum](https://groups.yahoo.com/neo/groups/FreePCB/info) on Yahoo Group. 
 * If you have any suggestions related to FREEPCB or you do not want to submit your question for public review, send an [email](mailto:freepcb.development@gmail.com).
 * If you want to improve the translation of this document send your file to [email](mailto:freepcb.development@gmail.com).
