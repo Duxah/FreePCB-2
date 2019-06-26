@@ -114,7 +114,7 @@ The SET_CLEARANCE function becomes universal and takes on a larger scale. For ex
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) The [download](https://drive.google.com/open?id=1qPDMzfwV7oMmpA2gsspwId4ZLeLsT6BZ) (Updated 27.06.2019!) includes a folder with the program, manual 1.359, footprint libraries, examples of printed circuit boards, a description of the 2.028 file format for developers.
 	
-![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/По%20рукам.png) # If you like the program FreePcb2.028 place the link <freepcb.dev> on your site. Have fun using FreePcb2
+![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/По%20рукам.png) If you like version 2-028, place a <freepcb.dev> link on your site. Have fun using FreePcb
 ------------------------------------------------------------
 ============================================================
 [More video:](https://www.youtube.com/watch?v=BqJPxMCFzyc&list=UUAfxUv-ywajGqFkucOYEtbw)
@@ -160,5 +160,5 @@ The SET_CLEARANCE function becomes universal and takes on a larger scale. For ex
 3) FreePcb user guide 2-028
 4) Comment on file format 2-028
 5) How to export gerber?(for PCB factories)
-### dir /this repository is under development !
-### ©2019
+     ### this repository is under development !
+     ### ©2019
