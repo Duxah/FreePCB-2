@@ -21,9 +21,9 @@ The FreePcb-2.000 and above program presented on this site is an upgrade of vers
 
 # Major improvements and new features
 ----------------------------------------
-|* Improved graphical display of selected objects
-|* Improved detailing frame
-|* free rotation of parts
+* |Improved graphical display of selected objects|
+* |Improved detailing frame|
+* |free rotation of parts|
 * [moving the group to the opposite side](https://youtu.be/WTI2HnneCzk)
 * set of zero coordinate on any object(menu TOOLS)
 * [merge a group of parts into one object](https://youtu.be/ef0Bef-Ql0M)
