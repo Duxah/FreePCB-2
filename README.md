@@ -112,9 +112,45 @@ Version 2-028 (2019-06-12):
 * Overwrite protection when saving a file that was created in FREEPCB version 1.359
 * Specifying a folder with FREEPCB projects in the INFOBOX SETTINGS menu is no longer required (21.06.2019)
 
-![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png)The download (Updated 25.06.2019!) includes a folder with the program, manual 1.359, footprint libraries, examples of printed circuit boards, a description of the 2.028 file format for developers.
+![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) The download (Updated 25.06.2019!) includes a folder with the program, manual 1.359, footprint libraries, examples of printed circuit boards, a description of the 2.028 file format for developers.
 	
-![]If you like the program FreePcb2.028 place the link www.freepcb.online on your site. Have fun using FreePcb 2!
+![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/По%20рукам.png) If you like the program FreePcb2.028 place the link www.freepcb.online on your site. Have fun using FreePcb 2!
+------------------------------------------------------------
+[More video:](https://www.youtube.com/watch?v=BqJPxMCFzyc&list=UUAfxUv-ywajGqFkucOYEtbw)
+* [Routing branch](https://youtu.be/FPJLVRgZ5So)
+* [Remove bridge](https://youtu.be/aCoLDw9o3DA)
+* [Arc elements](https://youtu.be/Rl8hyAXn1Lk)
+* [Align merges](https://youtu.be/dCAhdzjO4l8)
+* [Align parts](https://youtu.be/5YJZ7ADQruM)
+* [Align board](https://youtu.be/2pZpUzymLcc)
+* [Drag part](https://youtu.be/36UT71BUEm0)
+* [Hilite 2 gerber](https://youtu.be/2q5XgN500uE)
+* [Hilite first pin and printing](https://youtu.be/gYQWfOK9_QI)
+* Example routing
+* Example routing with external netlist
+* Export DXF example
+* [Copper area cutter](https://youtu.be/rhsPvqH7rdo)
+* [Copper area cutter](https://youtu.be/DLLKXDGEXuA)
+* Copper area cutter
+* [Import BMP](https://youtu.be/WMQjF043Kko)
+* [Combine footprints](https://youtu.be/4xpSpHkO-iM)
+* [Save footprint to library](https://youtu.be/SL4raX00w2g)
+* [Editing traces](https://youtu.be/CZk4pxCQKaQ)
+* [Change side](https://youtu.be/WTI2HnneCzk)(for group)
+* [Set Clearance more](https://youtu.be/f3_C0MA4M1Q)
+* [Split Net](https://youtu.be/gE-gt-o9I4Y)
+* [Set Ref & Value size](https://youtu.be/HjpzUJ0DZh0)(for group)
+* [Radius of trace to raise/lower](https://youtu.be/BqJPxMCFzyc)
+* How to save designations when panelizing
+* 1  way
+* [2 way](https://youtu.be/YiW7-XE1Sa0)
+* How to save footprints when paneling if the footprint names in files are the same, but footprints are different
+
+## Contacts.
+
+* [User forum](https://groups.yahoo.com/neo/groups/FreePCB/info) on Yahoo Group. 
+* If you have any suggestions related to FREEPCB or you do not want to submit your question for public review, send an [email](mailto:freepcb.development@gmail.com).
+* If you want to improve the translation of this document send your file to [email](mailto:freepcb.development@gmail.com).
 
 
 How to export gerber ?
