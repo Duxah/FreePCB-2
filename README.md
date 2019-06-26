@@ -1,5 +1,6 @@
+
+***
 # Introduction:
-------------------------------------
 * 1 to 16 copper layers
 * Board size up to 60 inches by 60 inches
 * Uses English or metric units (i.e. mils or mm) for most functions.
@@ -14,14 +15,14 @@
 View
 ![PCB](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/img2.png)
 
+***
 # About development
-------------------------------------
 The FreePcb-2.000 and above program presented on this site is an upgrade of version [1.359](www.freepcb.com) published in 2010. Now FreePcb has made great strides in comparison with the 2010 version and is suitable for both simple and large-scale developments, although the appearance remains the same. Includes footprint editor, provides the ability to create your own libraries, can import external netlists in the PADS-PCB format, supports the preservation of REF-names of parts when paneling printed circuit boards. The program is focused on accessibility, ease of use, saving computer hard disk memory, but at the same time it includes almost all the tools necessary for professional use. A distinctive feature of this program is the interface with the use of function keys, which speeds up the process of editing a printed circuit board for an experienced user. Start working with FreePCB right now to appreciate all benefits of this interface. 
 
 (Translated from Russian by Google inc.)
 
+***
 # Major improvements and new features
-----------------------------------------
 * Improved graphical display of selected objects
 * Improved detailing frame
 * free rotation of parts
@@ -116,9 +117,9 @@ The SET_CLEARANCE function becomes universal and takes on a larger scale. For ex
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) The [download](https://drive.google.com/open?id=1qPDMzfwV7oMmpA2gsspwId4ZLeLsT6BZ) (Updated 27.06.2019!) includes a folder with the program, manual 1.359, footprint libraries, examples of printed circuit boards, a description of the 2.028 file format for developers.
 
 
-![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/По%20рукам.png) If you like version 2-028, place a freepcb.dev link on your site. Have fun using FreePcb
+![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/По%20рукам.png) If you like version 2-028, place a `freepcb.dev` link on your site. Have fun using FreePcb
 
-------------------------------------------------------------
+***
 
 [More video:](https://www.youtube.com/watch?v=BqJPxMCFzyc&list=UUAfxUv-ywajGqFkucOYEtbw)
 * [Routing branch](https://youtu.be/FPJLVRgZ5So)
@@ -151,7 +152,7 @@ The SET_CLEARANCE function becomes universal and takes on a larger scale. For ex
 * How to save footprints when paneling if the footprint names in files are the same, but footprints are different
 
 ***
-## Contacts.
+Contacts.
 * [User forum](https://groups.yahoo.com/neo/groups/FreePCB/info) on Yahoo Group. 
 * If you have any suggestions related to FREEPCB or you do not want to submit your question for public review, send an [email](mailto:freepcb.development@gmail.com).
 * If you want to improve the translation of this document send your file to [email](mailto:freepcb.development@gmail.com)
@@ -165,5 +166,4 @@ The SET_CLEARANCE function becomes universal and takes on a larger scale. For ex
 5. How to export gerber?(for PCB factories)
 
 ***
-### this repository is under development
-### ©2019
+`this repository is under development` ©2019
