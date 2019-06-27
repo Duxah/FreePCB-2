@@ -167,7 +167,7 @@ Contacts.
 # Get started with FreePcb
 Download the folder with the application and run the file FreePcb.exe
 
-## Training on the example of the kitchen_000 file in the EXAMPLES folder
+## Training on the example of the smart_kitchen.fpc file in the EXAMPLES folder
 In this example, 3 independent circuit boards. (this is called a printed circuit board panel). In the context menu of the right mouse button, click the full view to see them entirely.
 
 ### How to move a part?
@@ -182,7 +182,18 @@ In this example, 3 independent circuit boards. (this is called a printed circuit
 
 ### How to add board outline?
 
-### How to add a new part?
+### How to make DRC?
+trace width           | The minimum trace width allowed
+pad to pad            | The minimum distance from the edge of one pad to another on a different net
+pad to trace          | The minimum distance from the edge of a pad to a trace on a different net
+trace to trace        | The minimum distance from the edge of a trace to a trace on a different net
+hole to pad or trace  | The minimum distance from the edge of a hole to a pad or trace on a different net
+hole to hole          | The minimum distance from the edge of a hole to the edge of another hole
+annular ring (pins)   | The minimum width of copper surrounding a hole for a pin
+annular ring (vias)   | The minimum width of copper surrounding a hole for a via
+board edge to any copper | The minimum clearance between any copper feature and the edge of the board
+board edge to hole    | The minimum clearance between the edge of a hole and the edge of the board
+copper area to copper area | The minimum clearance between copper areas
 
 ### How to export gerber?(for PCB factories)
 
