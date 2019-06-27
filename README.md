@@ -158,12 +158,32 @@ Contacts.
 * If you want to improve the translation of this document send your file to [email](mailto:freepcb.development@gmail.com)
 
 ***
-# Get started with FreePcb
+`useful links`
 1. License
 2. FreePcb user guide 1-359
-3. FreePcb user guide 2-028
-4. Comment on file format 2-028
-5. How to export gerber?(for PCB factories)
+3. File format 2-028 with comments
 
 ***
+# Get started with FreePcb
+Download the folder with the application and run the file FreePcb.exe
+
+## Training on the example of the kitchen_000 file in the EXAMPLES folder
+In this example, 3 independent circuit boards. (this is called a printed circuit board panel). In the context menu of the right mouse button, click the full view to see them entirely.
+
+### How to move a part?
+
+### How to add a new part?
+
+### How to draw a copper track between two pins?
+
+### How to add copper area
+
+### How to pour copper area
+
+### How to add board outline?
+
+### How to add a new part?
+
+### How to export gerber?(for PCB factories)
+
 `this repository is under development` ©2019
