@@ -17,7 +17,7 @@ View
 
 ***
 # About
-The FreePcb-2.000 or later program presented on this site is a development branch of version 1.359, published in 2010. FreePcb-2 contains new features not available in version 1.359 and provides more freedom for circuit board developers. Start working with FreePcb-2 right now to feel the difference.
+The FreePcb-2.000 or later program presented on this site is a development branch of version [1.359](www.freepcb.com), published in 2010. FreePcb-2 contains new features not available in version 1.359 and provides more freedom for circuit board developers. Start working with FreePcb-2 right now to feel the difference.
 
 ***
 # The program is focused on:
@@ -48,7 +48,7 @@ but at the same time includes almost all the tools needed for professional use (
 ***
 Contacts.
 * [User forum](https://groups.yahoo.com/neo/groups/FreePCB/info) on Yahoo Group. 
-* If you have any suggestions related to FREEPCB or you do not want to submit your question for public review, send an [email](mailto:freepcb.development@gmail.com).
+* If you have any suggestions related to FreePcb-2 or you do not want to submit your question for public review, send an [email](mailto:freepcb.development@gmail.com).
 * If you want to improve the translation of this document send your file to [email](mailto:freepcb.development@gmail.com)
 
 ***
