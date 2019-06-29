@@ -19,14 +19,13 @@ View
 # About
 The FreePcb-2.000 or later program presented on this site is a development branch of version 1.359, published in 2010. FreePcb-2 contains new features not available in version 1.359 and provides more freedom for circuit board developers. Start working with FreePcb-2 right now to feel the difference.
 
-The program is focused on:
+***
+# The program is focused on:
 1. accessibility (it does not have a limit on the number of pins, footprint libraries or any other parameters, it has only limitations on 10,000 parts contained in the project file, but I think that this is more than enough),
 2. ease of learning (creating a manual for version 2-028),
 3. reduction of time for the development of printed circuit boards (A distinctive feature of FreePcb and FreePcb-2 from other PCB-editors is an interface using function keys, which speeds up the process of editing a printed circuit board for an experienced user),
 4. saving computer memory (takes ~ 35MB hard drive),
 but at the same time includes almost all the tools needed for professional use (suitable for small businesses). 
-
-(Translated from Russian by Google inc.)
 
 ***
 # Latest improvements and new features
@@ -97,6 +96,7 @@ Contacts.
 Download the folder with the application and run the file FreePcb.exe
 
 ### Training on the example of the smart_kitchen.fpc file in the EXAMPLES folder
-In this example, 3 independent circuit boards. (printed circuit board panel). In the context menu of the right mouse button, click the full view to see them entirely.
+In this example, 3 independent circuit boards. (printed circuit board panel). In the context menu of the right mouse button, click the full view to see them entirely. From the Tools main menu, launch the Infobox application, which will help you find the pcb part in the project.
 
+`(Translated from Russian by Google inc.)`
 `this repository is under development` ©2019
