@@ -1,4 +1,7 @@
 # Major improvements and new features
+
+![]()
+
 * Improved graphical display of selected objects
 * Improved detailing frame
 * free rotation of parts
@@ -89,3 +92,36 @@ The SET_CLEARANCE function becomes universal and takes on a larger scale. For ex
 * A button to quickly [export gerber files to ViewMate](https://youtu.be/ZzjedfBTwvc) has been added to the File menu. (for viewing and printing)
 * Overwrite protection when saving a file that was created in FREEPCB version 1.359
 * Specifying a folder with FREEPCB projects in the INFOBOX SETTINGS menu is no longer required (21.06.2019)
+
+***
+
+[More video:](https://www.youtube.com/watch?v=BqJPxMCFzyc&list=UUAfxUv-ywajGqFkucOYEtbw)
+* [Routing branch](https://youtu.be/FPJLVRgZ5So)
+* [Remove bridge](https://youtu.be/aCoLDw9o3DA)
+* [Arc elements](https://youtu.be/Rl8hyAXn1Lk)
+* [Align merges](https://youtu.be/dCAhdzjO4l8)
+* [Align parts](https://youtu.be/5YJZ7ADQruM)
+* [Align board](https://youtu.be/2pZpUzymLcc)
+* [Drag part](https://youtu.be/36UT71BUEm0)
+* [Hilite 2 gerber](https://youtu.be/2q5XgN500uE)
+* [Hilite first pin and printing](https://youtu.be/gYQWfOK9_QI)
+* Example routing
+* Example routing with external netlist
+* Export DXF example
+* [Copper area cutter](https://youtu.be/rhsPvqH7rdo)
+* [Copper area cutter](https://youtu.be/DLLKXDGEXuA)
+* Copper area cutter
+* [Import BMP](https://youtu.be/WMQjF043Kko)
+* [Combine footprints](https://youtu.be/4xpSpHkO-iM)
+* [Save footprint to library](https://youtu.be/SL4raX00w2g)
+* [Editing traces](https://youtu.be/CZk4pxCQKaQ)
+* [Change side](https://youtu.be/WTI2HnneCzk)(for group)
+* [Set Clearance more](https://youtu.be/f3_C0MA4M1Q)
+* [Split Net](https://youtu.be/gE-gt-o9I4Y)
+* [Set Ref & Value size](https://youtu.be/HjpzUJ0DZh0)(for group)
+* [Radius of trace to raise/lower](https://youtu.be/BqJPxMCFzyc)
+* How to save designations when panelizing
+* 1  way
+* [2 way](https://youtu.be/YiW7-XE1Sa0)
+* How to save footprints when paneling if the footprint names in files are the same, but footprints are different
+
