@@ -16,8 +16,15 @@ View
 ![PCB](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/img2.png)
 
 ***
-# About development
-The FreePcb-2.000 and above program presented on this site is an upgrade of version [1.359](www.freepcb.com) published in 2010. Now FreePcb has made great strides in comparison with the 2010 version and is suitable for both simple and large-scale developments, although the appearance remains the same. Includes footprint editor, provides the ability to create your own libraries, can import external netlists in the PADS-PCB format, supports the preservation of REF-names of parts when paneling printed circuit boards. The program is focused on accessibility, ease of use, saving computer hard disk memory, but at the same time it includes almost all the tools necessary for professional use. A distinctive feature of this program is the interface with the use of function keys, which speeds up the process of editing a printed circuit board for an experienced user. Start working with FreePCB right now to appreciate all benefits of this interface. 
+# About
+The FreePcb-2.000 or later program presented on this site is a development branch of version 1.359, published in 2010. FreePcb-2 contains new features not available in version 1.359 and provides more freedom for circuit board developers. Start working with FreePcb-2 right now to feel the difference.
+
+The program is focused on:
+1. accessibility (it does not have a limit on the number of pins, footprint libraries or any other parameters, it has only limitations on 10,000 parts contained in the project file, but I think that this is more than enough),
+2. ease of learning (creating a manual for version 2-028),
+3. reduction of time for the development of printed circuit boards (A distinctive feature of FreePcb and FreePcb-2 from other PCB-editors is an interface using function keys, which speeds up the process of editing a printed circuit board for an experienced user),
+4. saving computer memory (takes ~ 35MB hard drive),
+but at the same time includes almost all the tools needed for professional use (suitable for small businesses). 
 
 (Translated from Russian by Google inc.)
 
