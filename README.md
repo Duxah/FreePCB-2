@@ -57,7 +57,7 @@ Contacts.
 2. FreePcb user guide 1-359
 3. FreePcb-2 "How to.." guide
 4. File format 2-028 with comments
-5. [About this development branch](https://github.com/Duxah/FreePCB/edit/master/About_development.md)
+5. [About this development branch](https://github.com/Duxah/FreePCB/blob/master/About_development.md)
 
 ***
 ## Get started with FreePcb-2
