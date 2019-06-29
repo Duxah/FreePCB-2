@@ -88,13 +88,15 @@ Contacts.
 `useful links`
 1. License
 2. FreePcb user guide 1-359
-3. FreePcb "How to.." guide
+3. FreePcb-2 "How to.." guide
 4. File format 2-028 with comments
+5. [About this development branch](https://github.com/Duxah/FreePCB/edit/master/About_development.md)
+
 ***
-# Get started with FreePcb
+## Get started with FreePcb-2
 Download the folder with the application and run the file FreePcb.exe
 
-## Training on the example of the smart_kitchen.fpc file in the EXAMPLES folder
-In this example, 3 independent circuit boards. (this is called a printed circuit board panel). In the context menu of the right mouse button, click the full view to see them entirely.
+### Training on the example of the smart_kitchen.fpc file in the EXAMPLES folder
+In this example, 3 independent circuit boards. (printed circuit board panel). In the context menu of the right mouse button, click the full view to see them entirely.
 
 `this repository is under development` ©2019
