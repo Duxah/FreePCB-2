@@ -17,7 +17,7 @@ View
 
 ***
 # About
-The FreePcb-2.000 or later program presented on this site is a development branch of version [1.359](www.freepcb.com), published in 2010. FreePcb-2 contains new features not available in version 1.359 and provides more freedom for circuit board developers. Start working with FreePcb-2 right now to feel the difference.
+The FreePcb-2.000 or later program presented on this site is a development branch of version [1.359](http://freepcb.com), published in 2010. FreePcb-2 contains new features not available in version 1.359 and provides more freedom for circuit board developers. Start working with FreePcb-2 right now to feel the difference.
 
 ***
 # The program is focused on:
