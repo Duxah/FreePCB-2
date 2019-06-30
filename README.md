@@ -47,8 +47,8 @@ but at the same time includes almost all the tools needed for professional use (
 ***
 Contacts.
 * [User forum](https://groups.yahoo.com/neo/groups/FreePCB/info) on Yahoo Group. 
-* If you have any suggestions related to FreePcb-2 or you do not want to submit your question for public review, send an [email](mailto:freepcb.development@gmail.com).
-* If you want to improve the translation of this document send your file to [email](mailto:freepcb.development@gmail.com)
+* If you have any suggestions related to FreePcb-2 or you do not want to submit your question for public review, send an [email](https://freepcb.online/Discuss/).
+* If you want to improve the translation of this document send your file to [email](https://freepcb.online/Discuss/)
 
 ***
 `useful links`
