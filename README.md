@@ -40,8 +40,9 @@ but at the same time includes almost all the tools needed for professional use (
 * Overwrite protection when saving a file that was created in FreePcb version 1.359
 * Specifying a folder with FreePcb-2 projects in the INFOBOX SETTINGS menu is no longer required (21.06.2019)
 
-![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) The [download](https://drive.google.com/open?id=1qPDMzfwV7oMmpA2gsspwId4ZLeLsT6BZ) (Updated 27.06.2019!) includes a folder with the program, manual 1.359, footprint libraries, examples of printed circuit boards, a description of the 2.028 file format for developers.
+![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) The [download]() (Updated 27.06.2019!) includes a folder with the program, manual 1.359, footprint libraries, examples of printed circuit boards, a description of the 2.028 file format for developers.
 
+https://drive.google.com/open?id=1qPDMzfwV7oMmpA2gsspwId4ZLeLsT6BZ
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/По%20рукам.png) If you like version 2-028, place a `freepcb.dev` link on your site. Have fun using FreePcb-2
 
