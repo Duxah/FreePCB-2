@@ -1,0 +1,25 @@
+ACCEL_ASCII ""
+
+(asciiHeader
+  (asciiVersion 3 0)
+  (timeStamp 2006 1 27 14 31 18)
+  (program "FreePCB 1.359" "18.00.2727")
+  (copyright "")
+  (fileAuthor "")
+  (headerString "")
+  (fileUnits mm)
+  (guidString "")
+)
+
+(library "Library_1"
+  (padStyleDef "(Default)"
+    (holeDiam 0.9652)
+    (StartRange 1)
+    (EndRange 2)
+    (padShape (layerNumRef 1) (padShapeType Ellipse) (shapeWidth 1.524) (shapeHeight 1.524) )
+    (padShape (layerNumRef 2) (padShapeType Ellipse) (shapeWidth 1.524) (shapeHeight 1.524) )
+    (padShape (layerType Signal) (padShapeType Ellipse) (shapeWidth 1.524) (shapeHeight 1.524) )
+    (padShape (layerType Plane) (padShapeType Thrm4_45) (outsideDiam 2.1336) (insideDiam 1.524) (spokeWidth 0.381) )
+    (padShape (layerType NonSignal) (padShapeType Ellipse) (shapeWidth 0.0) (shapeHeight 0.0) )
+  )
+END

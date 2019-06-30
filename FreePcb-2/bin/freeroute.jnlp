@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- JNLP File for Freeroute -->
+
+<jnlp codebase="http://freerouting.net/java" href="freeroute.jnlp">
+   <information>
+      <title>Routing Application</title>
+      <vendor>FreeRouting</vendor>
+      <description>Printed Circuit Board Routing Application</description>
+      <homepage href="http://www.freerouting.net"/>
+      <shortcut online="true"/>
+   </information>
+   <resources>     
+   	<jar download="eager" href="router.jar"/>   
+      <extension href="help.jnlp" name="Java Help"/>
+	<j2se version="1.5+"
+	      href="http://java.sun.com/products/autodl/j2se"/>
+   </resources>
+   <application-desc main-class="gui.MainApplication">
+      <argument>-webstart</argument> 
+      <argument>-Xincgc</argument>
+      <argument>-Xmx512m</argument>
+   </application-desc>
+</jnlp>

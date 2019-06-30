@@ -1,0 +1,14 @@
+name: "ASSY_TOP_LINES_ID1154"
+units: NM
+sel_rect: -254000 -20254000 25654000 -17746000
+ref_text: 300000 0 0 0 10000
+value_text: 300000 0 0 0 10000
+centroid: 0 0 0 0
+outline_polyline: 200000 0 -18000000
+next_corner: 0 -20000000 0
+next_corner: 25400000 -20000000 0
+next_corner: 25400000 -18000000 0
+close_polyline: 0
+text: "IMPORT P-CAD: ASSY_TOP_L..." 1000000 600000 -19400000 0 200000 0 4
+n_pins: 0
+end

@@ -1,0 +1,14 @@
+name: "BOTTOM_LINES_ID1154"
+units: NM
+sel_rect: -254000 -4254000 25654000 -1746000
+ref_text: 300000 0 0 0 10000
+value_text: 300000 0 0 0 10000
+centroid: 0 0 0 0
+outline_polyline: 200000 0 -2000000
+next_corner: 0 -4000000 0
+next_corner: 25400000 -4000000 0
+next_corner: 25400000 -2000000 0
+close_polyline: 0
+text: "IMPORT P-CAD: BOTTOM_LIN..." 1000000 600000 -3400000 0 200000 0 4
+n_pins: 0
+end

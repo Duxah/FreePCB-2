@@ -1,0 +1,89 @@
+  (textStyleDef "T1.9050x0.2540"
+    (font 
+      (fontType Stroke)
+      (fontFamily SanSerif)
+      (fontFace "Quality")
+      (fontHeight 2.6670)
+      (strokeWidth 0.2540)
+    )
+    (textStyleAllowTType False)
+    (textStyleDisplayTType False)
+  )
+  (textStyleDef "T2.1590x0.2540"
+    (font 
+      (fontType Stroke)
+      (fontFamily SanSerif)
+      (fontFace "Quality")
+      (fontHeight 3.0226)
+      (strokeWidth 0.2540)
+    )
+    (textStyleAllowTType False)
+    (textStyleDisplayTType False)
+  )
+  (textStyleDef "T1.5240x0.2032"
+    (font 
+      (fontType Stroke)
+      (fontFamily SanSerif)
+      (fontFace "Quality")
+      (fontHeight 2.1336)
+      (strokeWidth 0.2032)
+    )
+    (textStyleAllowTType False)
+    (textStyleDisplayTType False)
+  )
+  (textStyleDef "T1.2700x0.1778"
+    (font 
+      (fontType Stroke)
+      (fontFamily SanSerif)
+      (fontFace "Quality")
+      (fontHeight 1.7780)
+      (strokeWidth 0.1778)
+    )
+    (textStyleAllowTType False)
+    (textStyleDisplayTType False)
+  )
+  (textStyleDef "T1.0160x0.1778"
+    (font 
+      (fontType Stroke)
+      (fontFamily SanSerif)
+      (fontFace "Quality")
+      (fontHeight 1.4224)
+      (strokeWidth 0.1778)
+    )
+    (textStyleAllowTType False)
+    (textStyleDisplayTType False)
+  )
+  (textStyleDef "T3.0000x0.4500"
+    (font 
+      (fontType Stroke)
+      (fontFamily SanSerif)
+      (fontFace "Quality")
+      (fontHeight 4.2000)
+      (strokeWidth 0.4500)
+    )
+    (textStyleAllowTType False)
+    (textStyleDisplayTType False)
+  )
+  (textStyleDef "T2.0000x0.3000"
+    (font 
+      (fontType Stroke)
+      (fontFamily SanSerif)
+      (fontFace "Quality")
+      (fontHeight 2.8000)
+      (strokeWidth 0.3000)
+    )
+    (textStyleAllowTType False)
+    (textStyleDisplayTType False)
+  )
+  (textStyleDef "T1.5240x0.2286"
+    (font 
+      (fontType Stroke)
+      (fontFamily SanSerif)
+      (fontFace "Quality")
+      (fontHeight 2.1336)
+      (strokeWidth 0.2286)
+    )
+    (textStyleAllowTType False)
+    (textStyleDisplayTType False)
+  )
+END

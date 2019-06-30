@@ -1,0 +1,97 @@
+(pcbDesign "PcbDesign_1"
+  (pcbDesignHeader
+    (workspaceSize 900.0 900.0)
+    (gridDfns
+      (grid "0.0508mm")
+      (grid "0.127mm")
+      (grid "0.254mm")
+      (grid "0.635mm")
+      (grid "2.54mm")
+    )
+    (designInfo
+      (fieldSet "(Default)"
+        (fieldDef "Date" "")
+        (fieldDef "Time" "")
+        (fieldDef "Author" "")
+        (fieldDef "Revision" "")
+        (fieldDef "Title" "")
+        (fieldDef "Approved By" "")
+        (fieldDef "Checked By" "")
+        (fieldDef "Company Name" "")
+        (fieldDef "Drawing Number" "")
+        (fieldDef "Drawn By" "")
+        (fieldDef "Engineer" "")
+      )
+    )
+    (solderSwell 0.1905)
+    (pasteSwell 0.0)
+    (planeSwell 0.254)
+    (refPointSize 2.54)
+    (infoPointSize 2.54)
+    (gluePointSize 2.54)
+    (pickPointSize 2.54)
+    (testPointSize 2.54)
+    (refPointSizePrint 2.54)
+    (infoPointSizePrint 2.54)
+    (gluePointSizePrint 2.54)
+    (pickPointSizePrint 2.54)
+    (testPointSizePrint 2.54)
+    (solderFlowDirection solderFlowTopToBottom)
+  )
+  (layerDef "Top Assy"
+    (layerNum 10)
+    (layerType NonSignal)
+    (fieldSetRef "(Default)")
+  )
+  (layerDef "Top Silk"
+    (layerNum 6)
+    (layerType NonSignal)
+    (fieldSetRef "(Default)")
+  )
+  (layerDef "Top Paste"
+    (layerNum 8)
+    (layerType NonSignal)
+    (fieldSetRef "(Default)")
+  )
+  (layerDef "Top Mask"
+    (layerNum 4)
+    (layerType NonSignal)
+    (fieldSetRef "(Default)")
+  )
+  (layerDef "Top"
+    (layerNum 1)
+    (layerType Signal)
+    (fieldSetRef "(Default)")
+  )
+  (layerDef "Bottom"
+    (layerNum 2)
+    (layerType Signal)
+    (fieldSetRef "(Default)")
+  )
+  (layerDef "Bot Mask"
+    (layerNum 5)
+    (layerType NonSignal)
+    (fieldSetRef "(Default)")
+  )
+  (layerDef "Bot Paste"
+    (layerNum 9)
+    (layerType NonSignal)
+    (fieldSetRef "(Default)")
+  )
+  (layerDef "Bot Silk"
+    (layerNum 7)
+    (layerType NonSignal)
+    (fieldSetRef "(Default)")
+  )
+  (layerDef "Bot Assy"
+    (layerNum 11)
+    (layerType NonSignal)
+    (fieldSetRef "(Default)")
+  )
+  (layerDef "Board"
+    (layerNum 3)
+    (layerType NonSignal)
+    (fieldSetRef "(Default)")
+  )
+  (multiLayer
+END

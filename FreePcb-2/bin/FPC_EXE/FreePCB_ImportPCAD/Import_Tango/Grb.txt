@@ -1,0 +1,4 @@
+Units: MM
+mask_clearance: 50000
+shrink_paste_mask: 0
+fill_clearance: 254000

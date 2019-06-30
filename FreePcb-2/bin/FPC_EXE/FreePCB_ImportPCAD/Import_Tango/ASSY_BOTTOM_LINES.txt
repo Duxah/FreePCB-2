@@ -1,0 +1,14 @@
+name: "ASSY_BOTTOM_LINES_ID1154"
+units: NM
+sel_rect: -254000 -22254000 25654000 -19746000
+ref_text: 300000 0 0 0 10000
+value_text: 300000 0 0 0 10000
+centroid: 0 0 0 0
+outline_polyline: 200000 0 -20000000
+next_corner: 0 -22000000 0
+next_corner: 25400000 -22000000 0
+next_corner: 25400000 -20000000 0
+close_polyline: 0
+text: "IMPORT P-CAD: ASSY_BOTTO..." 1000000 600000 -21400000 0 200000 0 4
+n_pins: 0
+end

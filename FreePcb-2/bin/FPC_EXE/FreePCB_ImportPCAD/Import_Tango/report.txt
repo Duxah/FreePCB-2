@@ -1,0 +1,15 @@
+FreePCB project report (default units = MM)
+============================================
+Project name: ImportTango
+Project file: D:\Мои прогр\FreePCB_ImportPCAD\Import_Tango\ImportTango.fpc
+Default library folder: i:\рабочая папка\library for freepcb
+
+Board statistics
+==============
+Number of copper layers: 4
+Number of board outlines: 1
+Board outline(s) extent: X = 103 MM; Y = 170 MM
+Number of parts: 552
+Number of pins: 1412 (219 through-hole, 1193 SMT)
+Number of vias: 402
+Number of holes: 621

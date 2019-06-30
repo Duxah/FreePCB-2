@@ -1,0 +1,1 @@
+If the program does not start you must put the contents of the folder "dll" to folder c:\Windows\System32\
