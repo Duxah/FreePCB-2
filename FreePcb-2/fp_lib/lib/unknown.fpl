@@ -1,0 +1,88 @@
+name: "HOLE_100_NOPAD"
+package: ""
+units: MIL
+sel_rect: -76 -76 76 76
+ref_text: 50 0 0 0 5
+n_pins: 1
+pin: 1 100 0 0 270
+top_pad: 0 0 0 0
+bottom_pad: 0 0 0 0
+inner_pad: 0 0 0 0
+
+name: "HOLE_100_RND_200"
+package: ""
+units: MIL
+sel_rect: -126 -126 126 126
+ref_text: 50 0 0 0 5
+n_pins: 1
+pin: 1 100 0 0 270
+top_pad: 1 200 0 0
+bottom_pad: 1 200 0 0
+inner_pad: 1 200 0 0
+
+name: "HOLE_100_SQR_200"
+package: ""
+units: MIL
+sel_rect: -126 -126 126 126
+ref_text: 50 0 0 0 5
+n_pins: 1
+pin: 1 100 0 0 270
+top_pad: 2 200 0 0
+bottom_pad: 2 200 0 0
+inner_pad: 1 200 0 0
+
+name: "HOLE_125_NOPAD"
+package: ""
+units: MIL
+sel_rect: -89 -89 89 89
+ref_text: 50 0 0 0 5
+n_pins: 1
+pin: 1 125 0 0 270
+top_pad: 0 0 0 0
+bottom_pad: 0 0 0 0
+inner_pad: 0 0 0 0
+
+name: "HOLE_125_RND_200"
+package: ""
+units: MIL
+sel_rect: -126 -126 126 126
+ref_text: 50 0 0 0 5
+n_pins: 1
+pin: 1 125 0 0 270
+top_pad: 1 200 0 0
+bottom_pad: 1 200 0 0
+inner_pad: 1 200 0 0
+
+name: "HOLE_125_RND_250"
+package: ""
+units: MIL
+sel_rect: -135 -135 135 135
+ref_text: 50 0 0 0 5
+n_pins: 1
+pin: 1 125 0 0 270
+top_pad: 1 250 0 0
+bottom_pad: 1 250 0 0
+inner_pad: 1 250 0 0
+
+name: "HOLE_125_SQR_200"
+package: ""
+units: MIL
+sel_rect: -126 -126 126 126
+ref_text: 50 0 0 0 5
+n_pins: 1
+pin: 1 125 0 0 270
+top_pad: 2 200 0 0
+bottom_pad: 2 200 0 0
+inner_pad: 1 200 0 0
+
+name: "HOLE_125_SQR_250"
+package: ""
+units: MIL
+sel_rect: -135 -135 135 135
+ref_text: 50 0 0 0 5
+n_pins: 1
+pin: 1 125 0 0 270
+top_pad: 2 250 0 0
+bottom_pad: 2 250 0 0
+inner_pad: 1 250 0 0
+

@@ -1,0 +1,200 @@
+name: "CHIP_A"
+package: ""
+author: "Ivex, Allan Wright"
+description: "Capacitor, Case size A, EIA code 3216-18"
+units: MIL
+sel_rect: -53 -48 171 48
+ref_text: 50 59 80 0 7
+outline_polyline: 7 -45 40
+next_corner: 163 40 0
+next_corner: 163 -40 0
+next_corner: -45 -40 0
+close_polyline: 0
+n_pins: 2
+pin: 1 0 0 0 0
+top_pad: 3 71 27 27
+pin: 2 0 118 0 0
+top_pad: 3 71 27 27
+
+name: "CHIP_B"
+package: ""
+author: "Ivex, Allan Wright"
+description: "Capacitor, Case size B, EIA code 3528-21"
+units: MIL
+sel_rect: -63 -67 220 67
+ref_text: 50 79 99 0 7
+outline_polyline: 7 -45 59
+next_corner: 202 59 0
+next_corner: 202 -59 0
+next_corner: -45 -59 0
+close_polyline: 0
+n_pins: 2
+pin: 1 0 0 0 0
+top_pad: 3 110 27 27
+pin: 2 0 157 0 0
+top_pad: 3 110 27 27
+
+name: "CHIP_C"
+package: ""
+author: "Ivex, Allan Wright"
+description: "Capacitor, Case size C, EIA code 6032-28"
+units: MIL
+sel_rect: -65 -67 273 67
+ref_text: 50 104 99 0 7
+outline_polyline: 7 -57 59
+next_corner: 265 59 0
+next_corner: 265 -59 0
+next_corner: -57 -59 0
+close_polyline: 0
+n_pins: 2
+pin: 1 0 0 0 0
+top_pad: 3 110 39 39
+pin: 2 0 208 0 0
+top_pad: 3 110 39 39
+
+name: "CHIP_D"
+package: ""
+author: "Ivex, Allan Wright"
+description: "Capacitor, Case size D, EIA code 7343-31"
+units: MIL
+sel_rect: -67 -72 343 72
+ref_text: 50 138 104 0 7
+outline_polyline: 7 -57 64
+next_corner: 333 64 0
+next_corner: 333 -64 0
+next_corner: -57 -64 0
+close_polyline: 0
+n_pins: 2
+pin: 1 0 0 0 0
+top_pad: 3 119 39 39
+pin: 2 0 276 0 0
+top_pad: 3 119 39 39
+
+name: "CHIP_E"
+package: ""
+author: "Ivex, Allan Wright"
+description: "Capacitor, Case size E, EIA code 7343-43"
+units: MIL
+sel_rect: -67 -72 343 72
+ref_text: 50 138 104 0 7
+outline_polyline: 7 -57 64
+next_corner: 333 64 0
+next_corner: 333 -64 0
+next_corner: -57 -64 0
+close_polyline: 0
+n_pins: 2
+pin: 1 0 0 0 0
+top_pad: 3 119 39 39
+pin: 2 0 276 0 0
+top_pad: 3 119 39 39
+
+name: "TANT_A"
+package: ""
+author: "Ivex, Allan Wright"
+description: "Tantalum capacitor, Case size A, EIA code 3216-18"
+units: MIL
+sel_rect: -115 -53 176 55
+ref_text: 50 59 80 0 7
+outline_polyline: 7 -45 40
+next_corner: 163 40 0
+next_corner: 163 -40 0
+next_corner: -45 -40 0
+close_polyline: 0
+outline_polyline: 10 -100 20
+next_corner: -60 20 0
+outline_polyline: 10 -80 40
+next_corner: -80 0 0
+n_pins: 2
+pin: 1 0 0 0 0
+top_pad: 3 71 27 27
+pin: 2 0 118 0 0
+top_pad: 3 71 27 27
+
+name: "TANT_B"
+package: ""
+author: "Ivex, Allan Wright"
+description: "Tantalum capacitor, Case size B, EIA code 3528-21"
+units: MIL
+sel_rect: -135 -72 215 75
+ref_text: 50 79 99 0 7
+outline_polyline: 7 -45 59
+next_corner: 202 59 0
+next_corner: 202 -59 0
+next_corner: -45 -59 0
+close_polyline: 0
+outline_polyline: 10 -90 60
+next_corner: -90 0 0
+outline_polyline: 10 -120 30
+next_corner: -60 30 0
+n_pins: 2
+pin: 1 0 0 0 0
+top_pad: 3 110 27 27
+pin: 2 0 157 0 0
+top_pad: 3 110 27 27
+
+name: "TANT_C"
+package: ""
+author: "Ivex, Allan Wright"
+description: "Tantalum capacitor, Case size C, EIA code 6032-28"
+units: MIL
+sel_rect: -145 -72 278 75
+ref_text: 50 104 99 0 7
+outline_polyline: 7 -57 59
+next_corner: 265 59 0
+next_corner: 265 -59 0
+next_corner: -57 -59 0
+close_polyline: 0
+outline_polyline: 10 -100 60
+next_corner: -100 0 0
+outline_polyline: 10 -130 30
+next_corner: -70 30 0
+n_pins: 2
+pin: 1 0 0 0 0
+top_pad: 3 110 39 39
+pin: 2 0 208 0 0
+top_pad: 3 110 39 39
+
+name: "TANT_D"
+package: ""
+author: "Ivex, Allan Wright"
+description: "Tantalum capacitor, Case size D, EIA code 7343-31"
+units: MIL
+sel_rect: -145 -77 346 77
+ref_text: 50 138 104 0 7
+outline_polyline: 7 -57 64
+next_corner: 333 64 0
+next_corner: 333 -64 0
+next_corner: -57 -64 0
+close_polyline: 0
+outline_polyline: 10 -100 60
+next_corner: -100 0 0
+outline_polyline: 10 -130 30
+next_corner: -70 30 0
+n_pins: 2
+pin: 1 0 0 0 0
+top_pad: 3 119 39 39
+pin: 2 0 276 0 0
+top_pad: 3 119 39 39
+
+name: "TANT_E"
+package: ""
+author: "Ivex, Allan Wright"
+description: "Tantalum capacitor, Case size E, EIA code 7343-43"
+units: MIL
+sel_rect: -145 -77 346 77
+ref_text: 50 138 104 0 7
+outline_polyline: 7 -57 64
+next_corner: 333 64 0
+next_corner: 333 -64 0
+next_corner: -57 -64 0
+close_polyline: 0
+outline_polyline: 10 -100 60
+next_corner: -100 0 0
+outline_polyline: 10 -130 30
+next_corner: -70 30 0
+n_pins: 2
+pin: 1 0 0 0 0
+top_pad: 3 119 39 39
+pin: 2 0 276 0 0
+top_pad: 3 119 39 39
+

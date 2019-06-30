@@ -1,0 +1,2254 @@
+name: "16PINSIP"
+package: ""
+author: "Ivex"
+units: MIL
+sel_rect: -58 -58 1558 58
+ref_text: 50 282 100 0 7
+outline_polyline: 7 -50 50
+next_corner: -50 -50 0
+outline_polyline: 7 -50 -50
+next_corner: 1550 -50 0
+outline_polyline: 7 1550 -50
+next_corner: 1550 50 0
+outline_polyline: 7 1550 50
+next_corner: -50 50 0
+n_pins: 16
+pin: "1" 45 0 0 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "2" 45 100 0 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "3" 45 200 0 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "4" 45 300 0 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "5" 45 400 0 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "6" 45 500 0 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "7" 45 600 0 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "8" 45 700 0 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "9" 45 800 0 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "10" 45 900 0 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "11" 45 1000 0 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "12" 45 1100 0 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "13" 45 1200 0 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "14" 45 1300 0 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "15" 45 1400 0 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "16" 45 1500 0 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+
+name: "20UCONN"
+package: ""
+author: "Ivex"
+units: MIL
+sel_rect: -53 -53 953 153
+ref_text: 50 227 -90 0 7
+n_pins: 20
+pin: "1" 40 0 0 0
+top_pad: 3 90 37 37
+bottom_pad: 3 90 37 37
+inner_pad: 1 90 37 37
+pin: "2" 28 100 0 0
+top_pad: 1 90 35 35
+bottom_pad: 1 90 35 35
+inner_pad: 1 90 35 35
+pin: "3" 28 200 0 0
+top_pad: 1 90 35 35
+bottom_pad: 1 90 35 35
+inner_pad: 1 90 35 35
+pin: "4" 28 300 0 0
+top_pad: 1 90 35 35
+bottom_pad: 1 90 35 35
+inner_pad: 1 90 35 35
+pin: "5" 28 400 0 0
+top_pad: 1 90 35 35
+bottom_pad: 1 90 35 35
+inner_pad: 1 90 35 35
+pin: "6" 28 500 0 0
+top_pad: 1 90 35 35
+bottom_pad: 1 90 35 35
+inner_pad: 1 90 35 35
+pin: "7" 28 600 0 0
+top_pad: 1 90 35 35
+bottom_pad: 1 90 35 35
+inner_pad: 1 90 35 35
+pin: "8" 28 700 0 0
+top_pad: 1 90 35 35
+bottom_pad: 1 90 35 35
+inner_pad: 1 90 35 35
+pin: "9" 28 800 0 0
+top_pad: 1 90 35 35
+bottom_pad: 1 90 35 35
+inner_pad: 1 90 35 35
+pin: "10" 28 900 0 0
+top_pad: 1 90 35 35
+bottom_pad: 1 90 35 35
+inner_pad: 1 90 35 35
+pin: "11" 28 900 100 0
+top_pad: 1 90 35 35
+bottom_pad: 1 90 35 35
+inner_pad: 1 90 35 35
+pin: "12" 28 800 100 0
+top_pad: 1 90 35 35
+bottom_pad: 1 90 35 35
+inner_pad: 1 90 35 35
+pin: "13" 28 700 100 0
+top_pad: 1 90 35 35
+bottom_pad: 1 90 35 35
+inner_pad: 1 90 35 35
+pin: "14" 28 600 100 0
+top_pad: 1 90 35 35
+bottom_pad: 1 90 35 35
+inner_pad: 1 90 35 35
+pin: "15" 28 500 100 0
+top_pad: 1 90 35 35
+bottom_pad: 1 90 35 35
+inner_pad: 1 90 35 35
+pin: "16" 28 400 100 0
+top_pad: 1 90 35 35
+bottom_pad: 1 90 35 35
+inner_pad: 1 90 35 35
+pin: "17" 28 300 100 0
+top_pad: 1 90 35 35
+bottom_pad: 1 90 35 35
+inner_pad: 1 90 35 35
+pin: "18" 28 200 100 0
+top_pad: 1 90 35 35
+bottom_pad: 1 90 35 35
+inner_pad: 1 90 35 35
+pin: "19" 28 100 100 0
+top_pad: 1 90 35 35
+bottom_pad: 1 90 35 35
+inner_pad: 1 90 35 35
+pin: "20" 28 0 100 0
+top_pad: 1 90 35 35
+bottom_pad: 1 90 35 35
+inner_pad: 1 90 35 35
+
+name: "2CONBIG"
+package: ""
+author: "Ivex"
+units: MIL
+sel_rect: -208 -158 208 158
+ref_text: 50 132 200 0 7
+outline_polyline: 7 -200 150
+next_corner: -200 -150 0
+outline_polyline: 7 -200 -150
+next_corner: 200 -150 0
+outline_polyline: 7 200 -150
+next_corner: 200 150 0
+outline_polyline: 7 200 150
+next_corner: -200 150 0
+outline_polyline: 7 -150 150
+next_corner: -200 100 0
+n_pins: 2
+pin: "1" 79 -100 0 0
+top_pad: 1 125 62 62
+bottom_pad: 1 125 62 62
+inner_pad: 1 125 62 62
+pin: "2" 79 100 0 0
+top_pad: 1 125 62 62
+bottom_pad: 1 125 62 62
+inner_pad: 1 125 62 62
+
+name: "4MOTOCON"
+package: ""
+author: "Ivex"
+units: MIL
+sel_rect: -408 -158 408 158
+ref_text: 50 -117 200 0 7
+outline_polyline: 7 -400 150
+next_corner: 400 150 0
+outline_polyline: 7 400 150
+next_corner: 400 -150 0
+outline_polyline: 7 400 -150
+next_corner: -400 -150 0
+outline_polyline: 7 -400 -150
+next_corner: -400 150 0
+outline_polyline: 7 -350 150
+next_corner: -350 -150 0
+n_pins: 4
+pin: "1" 79 -300 0 0
+top_pad: 1 125 62 62
+bottom_pad: 1 125 62 62
+inner_pad: 1 125 62 62
+pin: "2" 79 -100 0 0
+top_pad: 1 125 62 62
+bottom_pad: 1 125 62 62
+inner_pad: 1 125 62 62
+pin: "3" 79 100 0 0
+top_pad: 1 125 62 62
+bottom_pad: 1 125 62 62
+inner_pad: 1 125 62 62
+pin: "4" 79 300 0 0
+top_pad: 1 125 62 62
+bottom_pad: 1 125 62 62
+inner_pad: 1 125 62 62
+
+name: "4TERMBIG"
+package: ""
+author: "Ivex"
+units: MIL
+sel_rect: -113 -283 713 283
+ref_text: 50 367 165 0 7
+outline_polyline: 7 -105 0
+next_corner: -105 275 0
+outline_polyline: 7 705 275
+next_corner: 705 0 0
+outline_polyline: 7 705 0
+next_corner: 705 -275 0
+outline_polyline: 7 -105 0
+next_corner: -105 -275 0
+outline_polyline: 7 -105 275
+next_corner: 705 275 0
+outline_polyline: 7 -105 -275
+next_corner: 705 -275 0
+outline_polyline: 7 -70 5
+next_corner: -70 -275 0
+outline_polyline: 7 -70 5
+next_corner: -70 275 0
+n_pins: 4
+pin: "1" 90 0 0 0
+top_pad: 1 130 65 65
+bottom_pad: 1 130 65 65
+inner_pad: 1 130 65 65
+pin: "2" 90 200 0 0
+top_pad: 1 130 65 65
+bottom_pad: 1 130 65 65
+inner_pad: 1 130 65 65
+pin: "3" 90 400 0 0
+top_pad: 1 130 65 65
+bottom_pad: 1 130 65 65
+inner_pad: 1 130 65 65
+pin: "4" 90 600 0 0
+top_pad: 1 130 65 65
+bottom_pad: 1 130 65 65
+inner_pad: 1 130 65 65
+
+name: "4X5KEYPAD"
+package: ""
+author: "Ivex"
+units: MIL
+sel_rect: -108 -2908 2308 108
+ref_text: 50 282 -200 0 7
+outline_polyline: 7 -100 -900
+next_corner: -100 -1900 0
+outline_polyline: 7 -100 100
+next_corner: -100 -900 0
+outline_polyline: 7 -100 -1900
+next_corner: -100 -2900 0
+outline_polyline: 7 2300 -900
+next_corner: 2300 -1900 0
+outline_polyline: 7 2300 100
+next_corner: 2300 -900 0
+outline_polyline: 7 2300 -1900
+next_corner: 2300 -2900 0
+outline_polyline: 7 -100 100
+next_corner: 2300 100 0
+outline_polyline: 7 -100 -2900
+next_corner: 2300 -2900 0
+n_pins: 9
+pin: "1" 45 0 0 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "2" 45 250 0 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "3" 45 500 0 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "4" 45 750 0 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "5" 45 1000 0 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "6" 45 1250 0 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "7" 45 1500 0 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "8" 45 1750 0 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "9" 45 2125 0 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+
+name: "5TERMBIG"
+package: ""
+author: "Ivex"
+units: MIL
+sel_rect: -108 -278 908 278
+ref_text: 50 447 175 0 7
+outline_polyline: 7 900 270
+next_corner: 900 -270 0
+outline_polyline: 7 -100 270
+next_corner: -100 -270 0
+outline_polyline: 7 900 270
+next_corner: -100 270 0
+outline_polyline: 7 900 -270
+next_corner: -100 -270 0
+outline_polyline: 7 -70 270
+next_corner: -70 -270 0
+n_pins: 5
+pin: "1" 79 0 0 0
+top_pad: 1 130 65 65
+bottom_pad: 1 130 65 65
+inner_pad: 1 130 65 65
+pin: "2" 79 200 0 0
+top_pad: 1 130 65 65
+bottom_pad: 1 130 65 65
+inner_pad: 1 130 65 65
+pin: "3" 79 400 0 0
+top_pad: 1 130 65 65
+bottom_pad: 1 130 65 65
+inner_pad: 1 130 65 65
+pin: "4" 79 600 0 0
+top_pad: 1 130 65 65
+bottom_pad: 1 130 65 65
+inner_pad: 1 130 65 65
+pin: "5" 79 800 0 0
+top_pad: 1 130 65 65
+bottom_pad: 1 130 65 65
+inner_pad: 1 130 65 65
+
+name: "5TERMCON"
+package: ""
+author: "Ivex"
+units: MIL
+sel_rect: -158 -158 958 158
+ref_text: 50 132 200 0 7
+outline_polyline: 7 -150 150
+next_corner: -150 -150 0
+outline_polyline: 7 -150 -150
+next_corner: 950 -150 0
+outline_polyline: 7 950 -150
+next_corner: 950 150 0
+outline_polyline: 7 950 150
+next_corner: -150 150 0
+outline_polyline: 7 -100 150
+next_corner: -100 -150 0
+n_pins: 5
+pin: "1" 79 0 0 0
+top_pad: 1 115 57 57
+bottom_pad: 1 115 57 57
+inner_pad: 1 115 57 57
+pin: "2" 79 200 0 0
+top_pad: 1 115 57 57
+bottom_pad: 1 115 57 57
+inner_pad: 1 115 57 57
+pin: "3" 79 400 0 0
+top_pad: 1 115 57 57
+bottom_pad: 1 115 57 57
+inner_pad: 1 115 57 57
+pin: "4" 79 600 0 0
+top_pad: 1 115 57 57
+bottom_pad: 1 115 57 57
+inner_pad: 1 115 57 57
+pin: "5" 79 800 0 0
+top_pad: 1 115 57 57
+bottom_pad: 1 115 57 57
+inner_pad: 1 115 57 57
+
+name: "6TERMCON"
+package: ""
+author: "Ivex"
+units: MIL
+sel_rect: -658 -158 658 158
+ref_text: 50 -317 200 0 7
+outline_polyline: 7 -650 150
+next_corner: -650 -150 0
+outline_polyline: 7 -650 -150
+next_corner: 650 -150 0
+outline_polyline: 7 650 -150
+next_corner: 650 150 0
+outline_polyline: 7 650 150
+next_corner: -650 150 0
+outline_polyline: 7 -600 150
+next_corner: -600 -150 0
+n_pins: 6
+pin: "1" 79 -500 0 0
+top_pad: 1 115 57 57
+bottom_pad: 1 115 57 57
+inner_pad: 1 115 57 57
+pin: "2" 79 -300 0 0
+top_pad: 1 115 57 57
+bottom_pad: 1 115 57 57
+inner_pad: 1 115 57 57
+pin: "3" 79 -100 0 0
+top_pad: 1 115 57 57
+bottom_pad: 1 115 57 57
+inner_pad: 1 115 57 57
+pin: "4" 79 100 0 0
+top_pad: 1 115 57 57
+bottom_pad: 1 115 57 57
+inner_pad: 1 115 57 57
+pin: "5" 79 300 0 0
+top_pad: 1 115 57 57
+bottom_pad: 1 115 57 57
+inner_pad: 1 115 57 57
+pin: "6" 79 500 0 0
+top_pad: 1 115 57 57
+bottom_pad: 1 115 57 57
+inner_pad: 1 115 57 57
+
+name: "8TERMBIG"
+package: ""
+author: "Ivex"
+units: MIL
+sel_rect: -108 -283 1508 283
+ref_text: 50 732 225 0 7
+outline_polyline: 7 -100 275
+next_corner: -100 -275 0
+outline_polyline: 7 -100 -275
+next_corner: 1500 -275 0
+outline_polyline: 7 1500 -275
+next_corner: 1500 275 0
+outline_polyline: 7 1500 275
+next_corner: -100 275 0
+outline_polyline: 7 -75 275
+next_corner: -75 -275 0
+n_pins: 8
+pin: "1" 79 0 0 0
+top_pad: 1 130 65 65
+bottom_pad: 1 130 65 65
+inner_pad: 1 130 65 65
+pin: "2" 79 200 0 0
+top_pad: 1 130 65 65
+bottom_pad: 1 130 65 65
+inner_pad: 1 130 65 65
+pin: "3" 79 400 0 0
+top_pad: 1 130 65 65
+bottom_pad: 1 130 65 65
+inner_pad: 1 130 65 65
+pin: "4" 79 600 0 0
+top_pad: 1 130 65 65
+bottom_pad: 1 130 65 65
+inner_pad: 1 130 65 65
+pin: "5" 79 800 0 0
+top_pad: 1 130 65 65
+bottom_pad: 1 130 65 65
+inner_pad: 1 130 65 65
+pin: "6" 79 1000 0 0
+top_pad: 1 130 65 65
+bottom_pad: 1 130 65 65
+inner_pad: 1 130 65 65
+pin: "7" 79 1200 0 0
+top_pad: 1 130 65 65
+bottom_pad: 1 130 65 65
+inner_pad: 1 130 65 65
+pin: "8" 79 1400 0 0
+top_pad: 1 130 65 65
+bottom_pad: 1 130 65 65
+inner_pad: 1 130 65 65
+
+name: "8TERMCON"
+package: ""
+author: "Ivex"
+units: MIL
+sel_rect: -158 -208 1558 208
+ref_text: 50 232 -150 0 7
+outline_polyline: 7 -150 200
+next_corner: -150 -200 0
+outline_polyline: 7 -150 -200
+next_corner: 1550 -200 0
+outline_polyline: 7 1550 -200
+next_corner: 1550 200 0
+outline_polyline: 7 1550 200
+next_corner: -150 200 0
+outline_polyline: 7 -100 200
+next_corner: -100 -200 0
+n_pins: 8
+pin: "1" 79 0 0 0
+top_pad: 1 115 57 57
+bottom_pad: 1 115 57 57
+inner_pad: 1 115 57 57
+pin: "2" 79 200 0 0
+top_pad: 1 115 57 57
+bottom_pad: 1 115 57 57
+inner_pad: 1 115 57 57
+pin: "3" 79 400 0 0
+top_pad: 1 115 57 57
+bottom_pad: 1 115 57 57
+inner_pad: 1 115 57 57
+pin: "4" 79 600 0 0
+top_pad: 1 115 57 57
+bottom_pad: 1 115 57 57
+inner_pad: 1 115 57 57
+pin: "5" 79 800 0 0
+top_pad: 1 115 57 57
+bottom_pad: 1 115 57 57
+inner_pad: 1 115 57 57
+pin: "6" 79 1200 0 0
+top_pad: 1 115 57 57
+bottom_pad: 1 115 57 57
+inner_pad: 1 115 57 57
+pin: "7" 79 1000 0 0
+top_pad: 1 115 57 57
+bottom_pad: 1 115 57 57
+inner_pad: 1 115 57 57
+pin: "8" 79 1400 0 0
+top_pad: 1 115 57 57
+bottom_pad: 1 115 57 57
+inner_pad: 1 115 57 57
+
+name: "9PINCON"
+package: ""
+author: "Ivex"
+units: MIL
+sel_rect: -158 -158 958 158
+ref_text: 50 580 150 0 7
+outline_polyline: 7 -100 100
+next_corner: -100 -100 0
+outline_polyline: 7 -100 -100
+next_corner: 900 -100 0
+outline_polyline: 7 900 -100
+next_corner: 900 100 0
+outline_polyline: 7 900 100
+next_corner: -100 100 0
+outline_polyline: 7 -150 150
+next_corner: -150 -150 0
+outline_polyline: 7 -150 -150
+next_corner: 950 -150 0
+outline_polyline: 7 950 -150
+next_corner: 950 150 0
+outline_polyline: 7 950 150
+next_corner: -150 150 0
+n_pins: 9
+pin: "1" 45 0 0 0
+top_pad: 1 94 47 47
+bottom_pad: 1 94 47 47
+inner_pad: 1 94 47 47
+pin: "2" 45 100 0 0
+top_pad: 1 94 47 47
+bottom_pad: 1 94 47 47
+inner_pad: 1 94 47 47
+pin: "3" 45 200 0 0
+top_pad: 1 94 47 47
+bottom_pad: 1 94 47 47
+inner_pad: 1 94 47 47
+pin: "4" 45 300 0 0
+top_pad: 1 94 47 47
+bottom_pad: 1 94 47 47
+inner_pad: 1 94 47 47
+pin: "5" 45 400 0 0
+top_pad: 1 94 47 47
+bottom_pad: 1 94 47 47
+inner_pad: 1 94 47 47
+pin: "6" 45 500 0 0
+top_pad: 1 94 47 47
+bottom_pad: 1 94 47 47
+inner_pad: 1 94 47 47
+pin: "7" 45 600 0 0
+top_pad: 1 94 47 47
+bottom_pad: 1 94 47 47
+inner_pad: 1 94 47 47
+pin: "8" 45 700 0 0
+top_pad: 1 94 47 47
+bottom_pad: 1 94 47 47
+inner_pad: 1 94 47 47
+pin: "9" 45 800 0 0
+top_pad: 1 94 47 47
+bottom_pad: 1 94 47 47
+inner_pad: 1 94 47 47
+
+name: "BEEPER2"
+package: ""
+author: "Ivex"
+units: MIL
+sel_rect: -508 -208 508 808
+ref_text: 50 82 400 0 7
+outline_polyline: 7 500 300
+next_corner: 0 800 2
+outline_polyline: 7 0 -200
+next_corner: 500 300 2
+outline_polyline: 7 -500 300
+next_corner: 0 -200 2
+outline_polyline: 7 0 -200
+next_corner: 500 300 2
+n_pins: 2
+pin: "1" 45 0 0 0
+top_pad: 1 94 47 47
+bottom_pad: 1 94 47 47
+inner_pad: 1 94 47 47
+pin: "2" 45 0 600 0
+top_pad: 1 94 47 47
+bottom_pad: 1 94 47 47
+inner_pad: 1 94 47 47
+
+name: "BUTTON1"
+package: ""
+author: "Ivex"
+units: MIL
+sel_rect: -118 -418 413 113
+ref_text: 50 192 160 0 7
+outline_polyline: 7 405 105
+next_corner: 405 -410 0
+outline_polyline: 7 405 -410
+next_corner: -110 -410 0
+outline_polyline: 7 -110 -410
+next_corner: -110 105 0
+outline_polyline: 7 -110 105
+next_corner: 405 105 0
+n_pins: 2
+pin: "1" 79 0 0 0
+top_pad: 1 115 57 57
+bottom_pad: 1 115 57 57
+inner_pad: 1 115 57 57
+pin: "2" 79 195 -200 0
+top_pad: 1 115 57 57
+bottom_pad: 1 115 57 57
+inner_pad: 1 115 57 57
+
+name: "CCOSCILLATO"
+package: ""
+author: "Ivex"
+units: MIL
+sel_rect: -108 -108 708 408
+ref_text: 50 207 450 0 7
+outline_polyline: 7 -100 400
+next_corner: -100 -100 0
+outline_polyline: 7 -100 -100
+next_corner: 700 -100 0
+outline_polyline: 7 700 -100
+next_corner: 700 400 0
+outline_polyline: 7 700 400
+next_corner: -100 400 0
+outline_polyline: 7 -100 100
+next_corner: 100 100 0
+outline_polyline: 7 100 100
+next_corner: 100 -100 0
+n_pins: 4
+pin: "1" 45 0 0 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "2" 45 600 0 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "3" 45 600 300 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "4" 45 0 300 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+
+name: "CON16U"
+package: ""
+author: "Ivex"
+units: MIL
+sel_rect: -108 -108 808 208
+ref_text: 50 382 250 0 7
+outline_polyline: 7 -50 150
+next_corner: -50 -50 0
+outline_polyline: 7 -50 -50
+next_corner: 750 -50 0
+outline_polyline: 7 750 -50
+next_corner: 750 150 0
+outline_polyline: 7 750 150
+next_corner: -50 150 0
+outline_polyline: 7 -100 200
+next_corner: 800 200 0
+outline_polyline: 7 800 200
+next_corner: 800 -100 0
+outline_polyline: 7 800 -100
+next_corner: -50 -100 0
+outline_polyline: 7 -50 -100
+next_corner: -100 -50 0
+outline_polyline: 7 -100 -50
+next_corner: -100 200 0
+n_pins: 16
+pin: "1" 45 0 0 0
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+pin: "2" 45 100 0 0
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+pin: "3" 45 200 0 0
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+pin: "4" 45 300 0 0
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+pin: "5" 45 400 0 0
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+pin: "6" 45 500 0 0
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+pin: "7" 45 600 0 0
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+pin: "8" 45 700 0 0
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+pin: "9" 45 700 100 0
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+pin: "10" 45 600 100 0
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+pin: "11" 45 500 100 0
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+pin: "12" 45 400 100 0
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+pin: "13" 45 300 100 0
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+pin: "14" 45 200 100 0
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+pin: "15" 45 100 100 0
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+pin: "16" 45 0 100 0
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+
+name: "DIP04"
+package: ""
+author: "Ivex"
+units: MIL
+sel_rect: -58 -48 158 348
+ref_text: 50 77 -100 0 7
+outline_polyline: 7 -50 50
+next_corner: 150 50 0
+outline_polyline: 7 150 50
+next_corner: 150 250 0
+outline_polyline: 7 150 250
+next_corner: -50 250 0
+outline_polyline: 7 -50 250
+next_corner: -50 50 0
+outline_polyline: 7 -50 100
+next_corner: 0 100 0
+outline_polyline: 7 0 100
+next_corner: 0 200 0
+outline_polyline: 7 0 200
+next_corner: -50 200 0
+outline_polyline: 7 -50 200
+next_corner: -50 100 0
+n_pins: 4
+pin: "1" 45 0 0 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "2" 45 100 0 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "3" 45 100 300 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "4" 45 0 300 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+
+name: "DIP16"
+package: ""
+author: "Ivex"
+units: MIL
+sel_rect: -58 -50 758 350
+ref_text: 50 357 -278 -90 7
+outline_polyline: 7 -50 50
+next_corner: 750 50 0
+outline_polyline: 7 750 50
+next_corner: 750 250 0
+outline_polyline: 7 750 250
+next_corner: -50 250 0
+outline_polyline: 7 -50 250
+next_corner: -50 50 0
+outline_polyline: 7 -50 100
+next_corner: 0 100 0
+outline_polyline: 7 0 100
+next_corner: 0 200 0
+outline_polyline: 7 0 200
+next_corner: -50 200 0
+outline_polyline: 7 -50 200
+next_corner: -50 100 0
+n_pins: 16
+pin: "1" 45 0 0 0
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+pin: "2" 45 100 0 0
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+pin: "3" 45 200 0 0
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+pin: "4" 45 300 0 0
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+pin: "5" 45 400 0 0
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+pin: "6" 45 500 0 0
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+pin: "7" 45 600 0 0
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+pin: "8" 45 700 0 0
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+pin: "9" 45 700 300 0
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+pin: "10" 45 600 300 0
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+pin: "11" 45 500 300 0
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+pin: "12" 45 400 300 0
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+pin: "13" 45 300 300 0
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+pin: "14" 45 200 300 0
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+pin: "15" 45 100 300 0
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+pin: "16" 45 0 300 0
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+
+name: "DPDT16DIP"
+package: ""
+author: "Ivex"
+units: MIL
+sel_rect: -108 -108 808 408
+ref_text: 50 382 450 0 7
+outline_polyline: 7 -100 400
+next_corner: -100 -100 0
+outline_polyline: 7 -100 -100
+next_corner: 800 -100 0
+outline_polyline: 7 800 -100
+next_corner: 800 400 0
+outline_polyline: 7 800 400
+next_corner: -100 400 0
+outline_polyline: 7 -100 0
+next_corner: 0 -100 0
+n_pins: 8
+pin: "1" 45 0 0 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "4" 45 300 0 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "6" 45 500 0 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "8" 45 700 0 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "9" 45 700 300 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "11" 45 500 300 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "13" 45 300 300 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "16" 45 0 300 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+
+name: "DPDTRELAY"
+package: ""
+author: "Ivex"
+units: MIL
+sel_rect: -58 -58 758 358
+ref_text: 50 257 400 0 7
+outline_polyline: 7 -50 350
+next_corner: -50 -50 0
+outline_polyline: 7 -50 -50
+next_corner: 750 -50 0
+outline_polyline: 7 750 -50
+next_corner: 750 350 0
+outline_polyline: 7 750 350
+next_corner: -50 350 0
+outline_polyline: 7 -50 50
+next_corner: 50 50 0
+outline_polyline: 7 50 50
+next_corner: 50 -50 0
+n_pins: 8
+pin: "1" 45 0 0 0
+top_pad: 1 94 47 47
+bottom_pad: 1 94 47 47
+inner_pad: 1 94 47 47
+pin: "2" 45 300 0 0
+top_pad: 1 94 47 47
+bottom_pad: 1 94 47 47
+inner_pad: 1 94 47 47
+pin: "3" 45 500 0 0
+top_pad: 1 94 47 47
+bottom_pad: 1 94 47 47
+inner_pad: 1 94 47 47
+pin: "4" 45 700 0 0
+top_pad: 1 94 47 47
+bottom_pad: 1 94 47 47
+inner_pad: 1 94 47 47
+pin: "5" 45 700 300 0
+top_pad: 1 94 47 47
+bottom_pad: 1 94 47 47
+inner_pad: 1 94 47 47
+pin: "6" 45 500 300 0
+top_pad: 1 94 47 47
+bottom_pad: 1 94 47 47
+inner_pad: 1 94 47 47
+pin: "7" 45 300 300 0
+top_pad: 1 94 47 47
+bottom_pad: 1 94 47 47
+inner_pad: 1 94 47 47
+pin: "8" 45 0 300 0
+top_pad: 1 94 47 47
+bottom_pad: 1 94 47 47
+inner_pad: 1 94 47 47
+
+name: "DUALBUTTON"
+package: ""
+author: "Ivex"
+units: MIL
+sel_rect: -908 -408 108 108
+ref_text: 50 -592 -475 0 7
+outline_polyline: 7 -900 100
+next_corner: 100 100 0
+outline_polyline: 7 100 100
+next_corner: 100 -400 0
+outline_polyline: 7 100 -400
+next_corner: -900 -400 0
+outline_polyline: 7 -900 -400
+next_corner: -900 100 0
+outline_polyline: 7 -400 100
+next_corner: -400 -400 0
+outline_polyline: 7 -800 0
+next_corner: -500 0 0
+outline_polyline: 7 -500 0
+next_corner: -500 -300 0
+outline_polyline: 7 -500 -300
+next_corner: -800 -300 0
+outline_polyline: 7 -800 0
+next_corner: -800 -300 0
+outline_polyline: 7 -300 0
+next_corner: -300 -300 0
+outline_polyline: 7 -300 -300
+next_corner: 0 -300 0
+outline_polyline: 7 0 -300
+next_corner: 0 0 0
+outline_polyline: 7 0 0
+next_corner: -300 0 0
+n_pins: 3
+pin: "3" 45 -800 0 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "2" 45 -300 0 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "1" 45 0 0 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+
+name: "ICSP10PIN"
+package: ""
+author: "Ivex"
+units: MIL
+sel_rect: -58 -83 458 183
+ref_text: 50 227 160 0 7
+outline_polyline: 7 -50 125
+next_corner: -50 -25 0
+outline_polyline: 7 -50 -25
+next_corner: 0 -75 0
+outline_polyline: 7 0 -75
+next_corner: 450 -75 0
+outline_polyline: 7 450 -75
+next_corner: 450 175 0
+outline_polyline: 7 450 175
+next_corner: -50 175 0
+outline_polyline: 7 -50 175
+next_corner: -50 125 0
+n_pins: 10
+pin: "1" 45 0 0 0
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+pin: "3" 45 100 0 0
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+pin: "5" 45 200 0 0
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+pin: "7" 45 300 0 0
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+pin: "9" 45 400 0 0
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+pin: "2" 45 0 100 0
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+pin: "4" 45 100 100 0
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+pin: "6" 45 200 100 0
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+pin: "8" 45 300 100 0
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+pin: "10" 45 400 100 0
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+
+name: "L298-2"
+package: ""
+author: "Ivex"
+units: MIL
+sel_rect: -458 -358 458 308
+ref_text: 50 1432 449 90 7
+outline_polyline: 7 -450 -350
+next_corner: 450 -350 0
+outline_polyline: 7 450 -350
+next_corner: 450 300 0
+outline_polyline: 7 450 300
+next_corner: -450 300 0
+outline_polyline: 7 -450 300
+next_corner: -450 -350 0
+n_pins: 15
+pin: "1" 35 -350 -250 0
+top_pad: 1 75 37 37
+bottom_pad: 1 75 37 37
+inner_pad: 1 75 37 37
+pin: "3" 35 -250 -100 0
+top_pad: 1 75 37 37
+bottom_pad: 1 75 37 37
+inner_pad: 1 75 37 37
+pin: "5" 35 -150 -250 0
+top_pad: 1 75 37 37
+bottom_pad: 1 75 37 37
+inner_pad: 1 75 37 37
+pin: "7" 35 -50 -100 0
+top_pad: 1 75 37 37
+bottom_pad: 1 75 37 37
+inner_pad: 1 75 37 37
+pin: "9" 35 50 -250 0
+top_pad: 1 75 37 37
+bottom_pad: 1 75 37 37
+inner_pad: 1 75 37 37
+pin: "11" 35 150 -100 0
+top_pad: 1 75 37 37
+bottom_pad: 1 75 37 37
+inner_pad: 1 75 37 37
+pin: "13" 35 250 -250 0
+top_pad: 1 75 37 37
+bottom_pad: 1 75 37 37
+inner_pad: 1 75 37 37
+pin: "15" 35 350 -100 0
+top_pad: 1 75 37 37
+bottom_pad: 1 75 37 37
+inner_pad: 1 75 37 37
+pin: "14" 35 300 200 180
+top_pad: 1 75 37 37
+bottom_pad: 1 75 37 37
+inner_pad: 1 75 37 37
+pin: "12" 35 200 50 180
+top_pad: 1 75 37 37
+bottom_pad: 1 75 37 37
+inner_pad: 1 75 37 37
+pin: "10" 35 100 200 180
+top_pad: 1 75 37 37
+bottom_pad: 1 75 37 37
+inner_pad: 1 75 37 37
+pin: "8" 35 0 50 180
+top_pad: 1 75 37 37
+bottom_pad: 1 75 37 37
+inner_pad: 1 75 37 37
+pin: "6" 35 -100 200 180
+top_pad: 1 75 37 37
+bottom_pad: 1 75 37 37
+inner_pad: 1 75 37 37
+pin: "4" 35 -200 50 180
+top_pad: 1 75 37 37
+bottom_pad: 1 75 37 37
+inner_pad: 1 75 37 37
+pin: "2" 35 -300 200 180
+top_pad: 1 75 37 37
+bottom_pad: 1 75 37 37
+inner_pad: 1 75 37 37
+
+name: "LCDS"
+package: ""
+author: "Ivex"
+units: MIL
+sel_rect: -293 -1318 2873 113
+ref_text: 50 1932 0 0 7
+outline_polyline: 7 -285 -1310
+next_corner: -285 105 0
+outline_polyline: 7 -285 105
+next_corner: 2865 105 0
+outline_polyline: 7 2865 105
+next_corner: 2865 -1310 0
+outline_polyline: 7 2865 -1310
+next_corner: -285 -1310 0
+outline_polyline: 7 -100 -100
+next_corner: 2675 -100 0
+outline_polyline: 7 2675 -100
+next_corner: 2675 -1150 0
+outline_polyline: 7 2675 -1150
+next_corner: -100 -1150 0
+outline_polyline: 7 -100 -1150
+next_corner: -100 -100 0
+n_pins: 16
+pin: "16" 45 1500 0 -180
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "15" 45 1400 0 -180
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "14" 45 1300 0 -180
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "13" 45 1200 0 -180
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "12" 45 1100 0 -180
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "11" 45 1000 0 -180
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "10" 45 900 0 -180
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "9" 45 800 0 -180
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "8" 45 700 0 -180
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "7" 45 600 0 -180
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "6" 45 500 0 -180
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "5" 45 400 0 -180
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "4" 45 300 0 -180
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "3" 45 200 0 -180
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "2" 45 100 0 -180
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "1" 45 0 0 -180
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+
+name: "MODXTRANS"
+package: ""
+author: "Ivex"
+units: MIL
+sel_rect: -178 -168 618 728
+ref_text: 50 132 780 0 7
+outline_polyline: 7 -90 640
+next_corner: 530 640 0
+outline_polyline: 7 530 640
+next_corner: 530 -80 0
+outline_polyline: 7 530 -80
+next_corner: -90 -80 0
+outline_polyline: 7 -90 -80
+next_corner: -90 640 0
+outline_polyline: 7 -170 720
+next_corner: 610 720 0
+outline_polyline: 7 610 720
+next_corner: 610 -160 0
+outline_polyline: 7 610 -160
+next_corner: -170 -160 0
+outline_polyline: 7 -170 -160
+next_corner: -170 720 0
+n_pins: 4
+pin: "1" 52 0 0 0
+top_pad: 1 100 50 50
+bottom_pad: 1 100 50 50
+inner_pad: 1 100 50 50
+pin: "2" 52 450 550 0
+top_pad: 1 100 50 50
+bottom_pad: 1 100 50 50
+inner_pad: 1 100 50 50
+pin: "3" 52 450 0 0
+top_pad: 1 100 50 50
+bottom_pad: 1 100 50 50
+inner_pad: 1 100 50 50
+pin: "4" 52 0 550 180
+top_pad: 1 100 50 50
+bottom_pad: 1 100 50 50
+inner_pad: 1 100 50 50
+
+name: "OSCILLATOR"
+package: ""
+author: "Ivex"
+units: MIL
+sel_rect: -83 -83 83 283
+ref_text: 50 407 225 0 7
+outline_polyline: 7 -75 275
+next_corner: 75 275 0
+outline_polyline: 7 75 275
+next_corner: 75 -75 0
+outline_polyline: 7 75 -75
+next_corner: -75 -75 0
+outline_polyline: 7 -75 -75
+next_corner: -75 275 0
+n_pins: 2
+pin: "1" 45 0 0 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "2" 45 0 200 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+
+name: "PIC16F76"
+package: ""
+author: "Ivex"
+units: MIL
+sel_rect: -58 -58 1358 358
+ref_text: 50 382 150 0 7
+outline_polyline: 7 -50 350
+next_corner: -50 -50 0
+outline_polyline: 7 -50 -50
+next_corner: 1350 -50 0
+outline_polyline: 7 1350 -50
+next_corner: 1350 350 0
+outline_polyline: 7 1350 350
+next_corner: -50 350 0
+outline_polyline: 7 -50 200
+next_corner: 50 200 0
+outline_polyline: 7 50 200
+next_corner: 50 100 0
+outline_polyline: 7 50 100
+next_corner: -50 100 0
+n_pins: 28
+pin: "1" 45 0 0 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "2" 45 100 0 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "3" 45 200 0 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "4" 45 300 0 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "5" 45 400 0 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "6" 45 500 0 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "7" 45 600 0 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "8" 45 700 0 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "9" 45 800 0 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "10" 45 900 0 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "11" 45 1000 0 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "12" 45 1100 0 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "13" 45 1200 0 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "14" 45 1300 0 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "15" 45 1300 300 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "16" 45 1200 300 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "17" 45 1100 300 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "18" 45 1000 300 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "19" 45 900 300 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "20" 45 800 300 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "21" 45 700 300 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "22" 45 600 300 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "23" 45 500 300 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "24" 45 400 300 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "25" 45 300 300 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "26" 45 200 300 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "27" 45 100 300 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "28" 45 0 300 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+
+name: "PROTOFIELD"
+package: ""
+author: "Ivex"
+units: MIL
+sel_rect: -55 -55 955 555
+ref_text: 50 282 600 0 7
+n_pins: 60
+pin: "1" 45 0 0 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "2" 45 100 0 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "3" 45 200 0 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "4" 45 300 0 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "5" 45 400 0 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "6" 45 500 0 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "7" 45 600 0 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "8" 45 700 0 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "9" 45 800 0 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "10" 45 900 0 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "21" 45 0 200 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "22" 45 100 200 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "23" 45 200 200 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "24" 45 300 200 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "25" 45 400 200 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "26" 45 500 200 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "27" 45 600 200 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "28" 45 700 200 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "29" 45 800 200 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "30" 45 900 200 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "41" 45 0 400 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "42" 45 100 400 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "43" 45 200 400 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "44" 45 300 400 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "45" 45 400 400 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "46" 45 500 400 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "47" 45 600 400 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "48" 45 700 400 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "49" 45 800 400 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "50" 45 900 400 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "51" 45 900 500 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "52" 45 800 500 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "53" 45 700 500 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "54" 45 600 500 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "55" 45 500 500 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "56" 45 400 500 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "57" 45 300 500 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "58" 45 200 500 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "59" 45 100 500 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "60" 45 0 500 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "31" 45 900 300 180
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "32" 45 800 300 180
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "33" 45 700 300 180
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "34" 45 600 300 180
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "35" 45 500 300 180
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "36" 45 400 300 180
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "37" 45 300 300 180
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "38" 45 200 300 180
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "39" 45 100 300 180
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "40" 45 0 300 180
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "11" 45 900 100 180
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "12" 45 800 100 180
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "13" 45 700 100 180
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "14" 45 600 100 180
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "15" 45 500 100 180
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "16" 45 400 100 180
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "17" 45 300 100 180
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "18" 45 200 100 180
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "19" 45 100 100 180
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "20" 45 0 100 180
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+
+name: "PWRCON"
+package: ""
+author: "Ivex"
+units: MIL
+sel_rect: -178 -408 258 208
+ref_text: 50 312 -619 -90 7
+outline_polyline: 7 -170 140
+next_corner: 160 140 0
+outline_polyline: 7 160 140
+next_corner: 160 -400 0
+outline_polyline: 7 160 -400
+next_corner: -170 -400 0
+outline_polyline: 7 -170 -400
+next_corner: -170 140 0
+outline_polyline: 7 -170 140
+next_corner: -160 140 0
+n_pins: 3
+pin: "1" 120 0 -120 0
+top_pad: 1 160 80 80
+bottom_pad: 1 160 80 80
+inner_pad: 1 160 80 80
+pin: "2" 120 170 0 180
+top_pad: 1 160 80 80
+bottom_pad: 1 160 80 80
+inner_pad: 1 160 80 80
+pin: "3" 120 0 120 180
+top_pad: 1 160 80 80
+bottom_pad: 1 160 80 80
+inner_pad: 1 160 80 80
+
+name: "RELAYBIG"
+package: ""
+author: "Ivex"
+units: MIL
+sel_rect: -108 -108 1108 408
+ref_text: 50 207 450 0 7
+outline_polyline: 7 -100 400
+next_corner: -100 -100 0
+outline_polyline: 7 -100 -100
+next_corner: 1100 -100 0
+outline_polyline: 7 1100 -100
+next_corner: 1100 400 0
+outline_polyline: 7 1100 400
+next_corner: -100 400 0
+outline_polyline: 7 -100 0
+next_corner: 0 -100 0
+n_pins: 8
+pin: "1" 52 0 0 0
+top_pad: 1 100 50 50
+bottom_pad: 1 100 50 50
+inner_pad: 1 100 50 50
+pin: "2" 52 600 0 0
+top_pad: 1 100 50 50
+bottom_pad: 1 100 50 50
+inner_pad: 1 100 50 50
+pin: "3" 52 800 0 0
+top_pad: 1 100 50 50
+bottom_pad: 1 100 50 50
+inner_pad: 1 100 50 50
+pin: "4" 52 1000 0 0
+top_pad: 1 100 50 50
+bottom_pad: 1 100 50 50
+inner_pad: 1 100 50 50
+pin: "5" 52 1000 300 0
+top_pad: 1 100 50 50
+bottom_pad: 1 100 50 50
+inner_pad: 1 100 50 50
+pin: "6" 52 800 300 0
+top_pad: 1 100 50 50
+bottom_pad: 1 100 50 50
+inner_pad: 1 100 50 50
+pin: "7" 52 600 300 0
+top_pad: 1 100 50 50
+bottom_pad: 1 100 50 50
+inner_pad: 1 100 50 50
+pin: "8" 52 0 300 0
+top_pad: 1 100 50 50
+bottom_pad: 1 100 50 50
+inner_pad: 1 100 50 50
+
+name: "RJ-11"
+package: ""
+author: "Ivex"
+units: MIL
+sel_rect: -208 -420 358 458
+ref_text: 50 102 500 0 7
+outline_polyline: 7 -200 -50
+next_corner: 350 -50 0
+outline_polyline: 7 350 -50
+next_corner: 350 450 0
+outline_polyline: 7 350 450
+next_corner: -200 450 0
+outline_polyline: 7 -200 450
+next_corner: -200 -50 0
+n_pins: 6
+pin: "1" 35 0 0 0
+top_pad: 1 90 45 45
+bottom_pad: 1 90 45 45
+inner_pad: 1 90 45 45
+pin: "3" 35 100 0 0
+top_pad: 1 90 45 45
+bottom_pad: 1 90 45 45
+inner_pad: 1 90 45 45
+pin: "2" 35 50 100 0
+top_pad: 1 90 45 45
+bottom_pad: 1 90 45 45
+inner_pad: 1 90 45 45
+pin: "4" 35 150 100 0
+top_pad: 1 90 45 45
+bottom_pad: 1 90 45 45
+inner_pad: 1 90 45 45
+pin: "MH1" 125 -125 -350 0
+top_pad: 0 125 0 0
+bottom_pad: 0 125 0 0
+inner_pad: 0 0 0 0
+pin: "MH2" 125 275 -350 0
+top_pad: 0 125 0 0
+bottom_pad: 0 125 0 0
+inner_pad: 0 0 0 0
+
+name: "SCPARFMODUL"
+package: ""
+author: "Ivex"
+units: MIL
+sel_rect: -108 -108 1008 1408
+ref_text: 50 232 -200 0 7
+outline_polyline: 7 -100 1400
+next_corner: 1000 1400 0
+outline_polyline: 7 1000 1400
+next_corner: 1000 -100 0
+outline_polyline: 7 1000 -100
+next_corner: 0 -100 0
+outline_polyline: 7 0 -100
+next_corner: -100 0 0
+outline_polyline: 7 -100 0
+next_corner: -100 1400 0
+n_pins: 20
+pin: "1" 28 0 0 0
+top_pad: 1 90 35 35
+bottom_pad: 1 90 35 35
+inner_pad: 1 90 35 35
+pin: "2" 28 100 0 0
+top_pad: 1 90 35 35
+bottom_pad: 1 90 35 35
+inner_pad: 1 90 35 35
+pin: "3" 28 200 0 0
+top_pad: 1 90 35 35
+bottom_pad: 1 90 35 35
+inner_pad: 1 90 35 35
+pin: "4" 28 300 0 0
+top_pad: 1 90 35 35
+bottom_pad: 1 90 35 35
+inner_pad: 1 90 35 35
+pin: "5" 28 400 0 0
+top_pad: 1 90 35 35
+bottom_pad: 1 90 35 35
+inner_pad: 1 90 35 35
+pin: "6" 28 500 0 0
+top_pad: 1 90 35 35
+bottom_pad: 1 90 35 35
+inner_pad: 1 90 35 35
+pin: "7" 28 600 0 0
+top_pad: 1 90 35 35
+bottom_pad: 1 90 35 35
+inner_pad: 1 90 35 35
+pin: "8" 28 700 0 0
+top_pad: 1 90 35 35
+bottom_pad: 1 90 35 35
+inner_pad: 1 90 35 35
+pin: "9" 28 800 0 0
+top_pad: 1 90 35 35
+bottom_pad: 1 90 35 35
+inner_pad: 1 90 35 35
+pin: "10" 28 900 0 0
+top_pad: 1 90 35 35
+bottom_pad: 1 90 35 35
+inner_pad: 1 90 35 35
+pin: "11" 28 900 1300 0
+top_pad: 1 90 35 35
+bottom_pad: 1 90 35 35
+inner_pad: 1 90 35 35
+pin: "12" 28 800 1300 0
+top_pad: 1 90 35 35
+bottom_pad: 1 90 35 35
+inner_pad: 1 90 35 35
+pin: "13" 28 700 1300 0
+top_pad: 1 90 35 35
+bottom_pad: 1 90 35 35
+inner_pad: 1 90 35 35
+pin: "14" 28 600 1300 0
+top_pad: 1 90 35 35
+bottom_pad: 1 90 35 35
+inner_pad: 1 90 35 35
+pin: "15" 28 500 1300 0
+top_pad: 1 90 35 35
+bottom_pad: 1 90 35 35
+inner_pad: 1 90 35 35
+pin: "16" 28 400 1300 0
+top_pad: 1 90 35 35
+bottom_pad: 1 90 35 35
+inner_pad: 1 90 35 35
+pin: "17" 28 300 1300 0
+top_pad: 1 90 35 35
+bottom_pad: 1 90 35 35
+inner_pad: 1 90 35 35
+pin: "18" 28 200 1300 0
+top_pad: 1 90 35 35
+bottom_pad: 1 90 35 35
+inner_pad: 1 90 35 35
+pin: "19" 28 100 1300 0
+top_pad: 1 90 35 35
+bottom_pad: 1 90 35 35
+inner_pad: 1 90 35 35
+pin: "20" 28 0 1300 0
+top_pad: 1 90 35 35
+bottom_pad: 1 90 35 35
+inner_pad: 1 90 35 35
+
+name: "SIPPOT"
+package: ""
+author: "Ivex"
+units: MIL
+sel_rect: -108 -58 308 208
+ref_text: 50 282 -100 0 7
+outline_polyline: 7 -100 -50
+next_corner: 300 -50 0
+outline_polyline: 7 300 -50
+next_corner: 300 200 0
+outline_polyline: 7 300 200
+next_corner: -100 200 0
+outline_polyline: 7 -100 200
+next_corner: -100 -50 0
+n_pins: 3
+pin: "1" 45 0 0 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "2" 45 100 0 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+pin: "3" 45 200 0 0
+top_pad: 1 80 40 40
+bottom_pad: 1 80 40 40
+inner_pad: 1 80 40 40
+
+name: "SMALLBEEP"
+package: ""
+author: "Ivex"
+units: MIL
+sel_rect: -232 -96 234 370
+ref_text: 50 68 -102 0 7
+outline_polyline: 7 226 137
+next_corner: 1 362 2
+outline_polyline: 7 -3 -83
+next_corner: 217 137 2
+outline_polyline: 7 1 -88
+next_corner: 226 137 2
+outline_polyline: 7 -223 137
+next_corner: -3 -83 2
+n_pins: 2
+pin: "1" 45 0 0 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "2" 45 0 280 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+
+name: "SMALLSWT"
+package: ""
+author: "Ivex"
+units: MIL
+sel_rect: -508 -158 108 158
+ref_text: 50 -167 200 0 7
+outline_polyline: 7 -500 100
+next_corner: -500 -150 0
+outline_polyline: 7 -500 -150
+next_corner: 100 -150 0
+outline_polyline: 7 100 -150
+next_corner: 100 150 0
+outline_polyline: 7 100 150
+next_corner: -500 150 0
+outline_polyline: 7 -500 150
+next_corner: -500 100 0
+n_pins: 3
+pin: "2" 79 0 0 0
+top_pad: 1 115 57 57
+bottom_pad: 1 115 57 57
+inner_pad: 1 115 57 57
+pin: "1" 79 -200 0 0
+top_pad: 1 115 57 57
+bottom_pad: 1 115 57 57
+inner_pad: 1 115 57 57
+pin: "3" 79 -400 0 0
+top_pad: 1 115 57 57
+bottom_pad: 1 115 57 57
+inner_pad: 1 115 57 57
+
+name: "SMTDIODE"
+package: ""
+author: "Ivex"
+units: MIL
+sel_rect: -65 -67 273 67
+ref_text: 50 131 99 0 7
+outline_polyline: 7 -57 59
+next_corner: 265 59 0
+outline_polyline: 7 265 59
+next_corner: 265 -59 0
+outline_polyline: 7 265 -59
+next_corner: -57 -59 0
+outline_polyline: 7 -57 -59
+next_corner: -57 59 0
+outline_polyline: 7 50 50
+next_corner: 50 -50 0
+outline_polyline: 7 -50 50
+next_corner: -50 -50 0
+outline_polyline: 7 60 50
+next_corner: 60 -50 0
+outline_polyline: 7 60 50
+next_corner: 60 55 0
+outline_polyline: 7 50 50
+next_corner: 50 55 0
+outline_polyline: 7 50 -50
+next_corner: 50 -55 0
+outline_polyline: 7 60 -50
+next_corner: 60 -55 0
+outline_polyline: 7 -50 50
+next_corner: -50 55 0
+outline_polyline: 7 -50 -50
+next_corner: -50 -55 0
+n_pins: 2
+pin: "1" 0 0 0 0
+top_pad: 3 110 39 39
+pin: "2" 0 208 0 0
+top_pad: 3 110 39 39
+
+name: "SMTOSC3"
+package: ""
+author: "Ivex"
+units: MIL
+sel_rect: -97 -108 297 108
+ref_text: 50 142 160 0 7
+outline_polyline: 7 -40 100
+next_corner: 280 100 0
+outline_polyline: 7 280 100
+next_corner: 280 -100 0
+outline_polyline: 7 280 -100
+next_corner: -80 -100 0
+outline_polyline: 7 -80 -100
+next_corner: -80 100 0
+outline_polyline: 7 -80 100
+next_corner: -40 100 0
+n_pins: 3
+pin: "1" 0 0 0 0
+top_pad: 3 178 27 27
+pin: "2" 0 100 0 0
+top_pad: 3 178 27 27
+pin: "3" 0 200 0 0
+top_pad: 3 178 27 27
+
+name: "SPDTSW"
+package: ""
+author: "Ivex"
+units: MIL
+sel_rect: -149 -387 142 387
+ref_text: 50 373 -445 -90 7
+outline_polyline: 7 134 -353
+next_corner: -141 -353 0
+outline_polyline: 7 -141 -353
+next_corner: -141 355 0
+outline_polyline: 7 -141 355
+next_corner: 134 355 0
+outline_polyline: 7 134 355
+next_corner: 134 -353 0
+outline_polyline: 7 -141 -314
+next_corner: 134 -314 0
+n_pins: 5
+pin: "4" 90 -1 -314 0
+top_pad: 1 130 65 65
+bottom_pad: 1 130 65 65
+inner_pad: 1 130 65 65
+pin: "2" 90 -1 -157 0
+top_pad: 1 130 65 65
+bottom_pad: 1 130 65 65
+inner_pad: 1 130 65 65
+pin: "1" 90 -1 0 0
+top_pad: 1 130 65 65
+bottom_pad: 1 130 65 65
+inner_pad: 1 130 65 65
+pin: "3" 90 -1 157 0
+top_pad: 1 130 65 65
+bottom_pad: 1 130 65 65
+inner_pad: 1 130 65 65
+pin: "5" 90 -1 314 0
+top_pad: 1 130 65 65
+bottom_pad: 1 130 65 65
+inner_pad: 1 130 65 65
+
+name: "TACTBUTT"
+package: ""
+author: "Ivex"
+units: MIL
+sel_rect: -83 -383 283 83
+ref_text: 50 232 -425 0 7
+outline_polyline: 7 -50 75
+next_corner: 275 75 0
+outline_polyline: 7 275 75
+next_corner: 275 -375 0
+outline_polyline: 7 275 -375
+next_corner: -75 -375 0
+outline_polyline: 7 -75 -375
+next_corner: -75 75 0
+outline_polyline: 7 -75 75
+next_corner: -50 75 0
+outline_polyline: 7 -75 -225
+next_corner: 75 -225 0
+outline_polyline: 7 75 -225
+next_corner: 75 -375 0
+n_pins: 4
+pin: "1" 45 0 -300 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "4" 45 200 -300 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "3" 45 200 0 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "2" 45 0 0 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+
+name: "TO220R"
+package: ""
+author: "Ivex"
+units: MIL
+sel_rect: -78 -78 278 98
+ref_text: 50 127 140 0 7
+outline_polyline: 7 -70 -70
+next_corner: 270 -70 0
+outline_polyline: 7 270 -70
+next_corner: 270 90 0
+outline_polyline: 7 270 90
+next_corner: -70 90 0
+outline_polyline: 7 -70 90
+next_corner: -70 -70 0
+outline_polyline: 7 -70 70
+next_corner: 270 70 0
+n_pins: 3
+pin: "1" 45 0 0 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "2" 45 100 0 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+pin: "3" 45 200 0 0
+top_pad: 1 95 47 47
+bottom_pad: 1 95 47 47
+inner_pad: 1 95 47 47
+
+name: "TO92R"
+package: ""
+author: "Ivex"
+units: MIL
+sel_rect: -113 -113 113 113
+ref_text: 50 27 160 0 7
+outline_polyline: 7 -60 86
+next_corner: -60 -86 0
+outline_polyline: 7 -60 86
+next_corner: 0 105 0
+outline_polyline: 7 105 0
+next_corner: 0 105 2
+outline_polyline: 7 0 -105
+next_corner: 105 0 2
+outline_polyline: 7 0 -105
+next_corner: -60 -86 0
+n_pins: 3
+pin: "2" 35 50 0 0
+top_pad: 1 75 37 37
+bottom_pad: 1 75 37 37
+inner_pad: 1 75 37 37
+pin: "1" 35 0 55 0
+top_pad: 1 75 37 37
+bottom_pad: 1 75 37 37
+inner_pad: 1 75 37 37
+pin: "3" 35 0 -55 0
+top_pad: 1 75 37 37
+bottom_pad: 1 75 37 37
+inner_pad: 1 75 37 37
+
+name: "TRANSISTOR"
+package: ""
+author: "Ivex"
+units: MIL
+sel_rect: -58 -158 208 108
+ref_text: 50 132 150 0 7
+outline_polyline: 7 -50 -75
+next_corner: 200 -75 0
+outline_polyline: 7 -50 -75
+next_corner: -50 -25 0
+outline_polyline: 7 75 -150
+next_corner: 200 -25 2
+outline_polyline: 7 200 -75
+next_corner: 200 -25 0
+outline_polyline: 7 75 -150
+next_corner: 200 -25 2
+n_pins: 3
+pin: "1" 45 0 0 0
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+pin: "2" 45 75 -100 180
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+pin: "3" 45 150 0 180
+top_pad: 1 85 42 42
+bottom_pad: 1 85 42 42
+inner_pad: 1 85 42 42
+

@@ -1,0 +1,32 @@
+name: "CHIP_B"
+package: ""
+units: NM
+sel_rect: -977000 -1742000 3377000 1742000
+ref_text: 1270000 600000 0 0 127000
+outline_polyline: 177800 -1180200 -1945200
+next_corner: 3580200 -1945200 0
+next_corner: 3580200 1945200 0
+next_corner: -1180200 1945200 0
+close_polyline: 0
+n_pins: 2
+pin: 1 0 0 0 0
+top_pad: 3 3230000 850000 850000
+pin: 2 0 2400000 0 180
+top_pad: 3 3230000 850000 850000
+
+name: "CHIP_D"
+package: ""
+units: NM
+sel_rect: -1237000 -1842000 6937000 1842000
+ref_text: 1270000 1425000 0 0 127000
+outline_polyline: 177800 -1440200 -2045200
+next_corner: 7140200 -2045200 0
+next_corner: 7140200 2045200 0
+next_corner: -1440200 2045200 0
+close_polyline: 0
+n_pins: 2
+pin: 1 0 0 0 0
+top_pad: 3 3430000 1110000 1110000
+pin: 2 0 5700000 0 180
+top_pad: 3 3430000 1110000 1110000
+

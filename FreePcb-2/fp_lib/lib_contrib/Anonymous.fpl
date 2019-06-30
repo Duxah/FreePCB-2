@@ -1,0 +1,297 @@
+name: "2342rly"
+package: ""
+author: "Anonymous"
+source: "Coto 2300 series"
+description: "reed relay"
+units: MIL
+sel_rect: -63 -63 763 163
+ref_text: 50 350 160 0 7
+outline_polyline: 7 -50 -50
+next_corner: 750 -50 0
+next_corner: 750 150 0
+next_corner: -50 150 0
+close_polyline: 0
+n_pins: 8
+pin: 1 28 0 0 0
+top_pad: 2 50 25 25
+bottom_pad: 2 50 25 25
+inner_pad: 1 50 25 25
+pin: 2 28 100 0 0
+top_pad: 1 50 25 25
+bottom_pad: 1 50 25 25
+inner_pad: 1 50 25 25
+pin: 3 28 600 0 0
+top_pad: 1 50 25 25
+bottom_pad: 1 50 25 25
+inner_pad: 1 50 25 25
+pin: 4 28 700 0 0
+top_pad: 1 50 25 25
+bottom_pad: 1 50 25 25
+inner_pad: 1 50 25 25
+pin: 5 28 700 100 0
+top_pad: 1 50 25 25
+bottom_pad: 1 50 25 25
+inner_pad: 1 50 25 25
+pin: 6 28 600 100 0
+top_pad: 1 50 25 25
+bottom_pad: 1 50 25 25
+inner_pad: 1 50 25 25
+pin: 7 28 100 100 0
+top_pad: 1 50 25 25
+bottom_pad: 1 50 25 25
+inner_pad: 1 50 25 25
+pin: 8 28 0 100 0
+top_pad: 1 50 25 25
+bottom_pad: 1 50 25 25
+inner_pad: 1 50 25 25
+
+name: "DS2E-S-DC12"
+package: ""
+author: "Anonymous"
+source: "NAIS"
+description: "DIP-size relay"
+units: MIL
+sel_rect: -60 -60 760 360
+ref_text: 50 -100 150 270 7
+outline_polyline: 7 -44 -45
+next_corner: 744 -45 0
+next_corner: 744 345 0
+next_corner: -45 345 0
+close_polyline: 0
+n_pins: 16
+pin: 1 28 0 0 0
+top_pad: 2 100 27 27
+bottom_pad: 2 100 27 27
+inner_pad: 1 100 27 27
+pin: 2 0 0 0 0
+top_pad: 0 0 0 0
+pin: 3 0 0 0 0
+top_pad: 0 0 0 0
+pin: 4 28 300 0 0
+top_pad: 1 100 27 27
+bottom_pad: 1 100 27 27
+inner_pad: 1 100 27 27
+pin: 5 0 0 0 0
+top_pad: 0 0 0 0
+pin: 6 28 500 0 0
+top_pad: 1 100 27 27
+bottom_pad: 1 100 27 27
+inner_pad: 1 100 27 27
+pin: 7 0 0 0 0
+top_pad: 0 0 0 0
+pin: 8 28 700 0 0
+top_pad: 1 100 27 27
+bottom_pad: 1 100 27 27
+inner_pad: 1 100 27 27
+pin: 9 28 700 300 0
+top_pad: 1 100 27 27
+bottom_pad: 1 100 27 27
+inner_pad: 1 100 27 27
+pin: 10 0 0 0 0
+top_pad: 0 0 0 0
+pin: 11 28 500 300 0
+top_pad: 1 100 27 27
+bottom_pad: 1 100 27 27
+inner_pad: 1 100 27 27
+pin: 12 0 0 0 0
+top_pad: 0 0 0 0
+pin: 13 28 300 300 0
+top_pad: 1 100 27 27
+bottom_pad: 1 100 27 27
+inner_pad: 1 55 27 27
+pin: 14 0 0 0 0
+top_pad: 0 0 0 0
+pin: 15 0 0 0 0
+top_pad: 0 0 0 0
+pin: 16 28 0 300 0
+top_pad: 1 100 27 27
+bottom_pad: 1 100 27 27
+inner_pad: 1 100 27 27
+
+name: "PJ102A"
+package: ""
+author: "Anonymous"
+source: "CUI"
+description: "DC power jack"
+units: MIL
+sel_rect: -510 -295 110 187
+ref_text: 50 -100 250 0 7
+outline_polyline: 0 -500 -177
+next_corner: 32 -177 0
+next_corner: 32 177 0
+next_corner: -500 177 0
+close_polyline: 0
+n_pins: 3
+pin: 1 28 0 0 0
+top_pad: 1 200 40 40
+bottom_pad: 1 200 40 40
+inner_pad: 1 200 40 40
+pin: 2 28 -236 0 0
+top_pad: 1 200 40 40
+bottom_pad: 1 200 40 40
+inner_pad: 1 200 40 40
+pin: 3 28 -118 -185 0
+top_pad: 1 200 40 40
+bottom_pad: 1 200 40 40
+inner_pad: 1 200 40 40
+
+name: "pot3329"
+package: ""
+author: "Anonymous"
+source: "Bourns 3329H"
+description: "1/4' round trimpot"
+units: MIL
+sel_rect: -68 -105 208 171
+ref_text: 50 98 200 0 7
+outline_polyline: 7 -55 -92
+next_corner: 195 -92 0
+next_corner: 195 158 0
+next_corner: -55 158 0
+close_polyline: 0
+n_pins: 3
+pin: 1 28 0 0 0
+top_pad: 1 85 40 40
+bottom_pad: 1 85 40 40
+inner_pad: 1 85 40 40
+pin: 2 28 141 0 0
+top_pad: 1 85 40 40
+bottom_pad: 1 85 40 40
+inner_pad: 1 85 40 40
+pin: 3 28 71 71 0
+top_pad: 1 85 40 40
+bottom_pad: 1 85 40 40
+inner_pad: 1 85 40 40
+
+name: "RJ458n4"
+package: ""
+author: "Anonymous"
+source: "Corcom"
+description: "shielded RJ45"
+units: MIL
+sel_rect: -193 -480 543 286
+ref_text: 50 150 500 0 7
+outline_polyline: 7 -145 -467
+next_corner: 490 -467 0
+next_corner: 490 273 0
+next_corner: -145 273 0
+close_polyline: 0
+n_pins: 12
+pin: 1 35 0 0 0
+top_pad: 1 60 30 30
+bottom_pad: 1 60 30 30
+inner_pad: 1 60 30 30
+pin: 2 35 50 100 0
+top_pad: 1 60 30 30
+bottom_pad: 1 60 30 30
+inner_pad: 1 60 30 30
+pin: 3 35 100 0 0
+top_pad: 1 60 30 30
+bottom_pad: 1 60 30 30
+inner_pad: 1 60 30 30
+pin: 4 35 150 100 0
+top_pad: 1 60 30 30
+bottom_pad: 1 60 30 30
+inner_pad: 1 60 30 30
+pin: 5 35 200 0 0
+top_pad: 1 60 30 30
+bottom_pad: 1 60 30 30
+inner_pad: 1 60 30 30
+pin: 6 35 250 100 0
+top_pad: 1 60 30 30
+bottom_pad: 1 60 30 30
+inner_pad: 1 60 30 30
+pin: 7 35 300 0 0
+top_pad: 1 60 30 30
+bottom_pad: 1 60 30 30
+inner_pad: 1 60 30 30
+pin: 8 35 350 100 0
+top_pad: 1 60 30 30
+bottom_pad: 1 60 30 30
+inner_pad: 1 60 30 30
+pin: 9 128 -50 -250 0
+top_pad: 1 128 40 40
+bottom_pad: 1 128 40 40
+inner_pad: 1 128 40 40
+pin: 10 128 400 -250 0
+top_pad: 1 128 40 40
+bottom_pad: 1 128 40 40
+inner_pad: 1 128 40 40
+pin: 11 76 -145 -370 0
+top_pad: 1 76 40 40
+bottom_pad: 1 76 40 40
+inner_pad: 1 76 40 40
+pin: 12 76 495 -370 0
+top_pad: 1 76 40 40
+bottom_pad: 1 76 40 40
+inner_pad: 1 76 40 40
+
+name: "t3220A"
+package: ""
+author: "Anonymous"
+source: "ttc-168"
+description: "600-600 transformer"
+units: MIL
+sel_rect: -313 -113 713 913
+ref_text: 50 200 200 0 5
+outline_polyline: 7 -300 -100
+next_corner: 700 -100 0
+next_corner: 700 900 0
+next_corner: -300 900 0
+close_polyline: 0
+n_pins: 6
+pin: 1 42 0 0 270
+top_pad: 1 110 0 0
+bottom_pad: 1 110 0 0
+inner_pad: 1 110 0 0
+pin: 2 42 200 0 270
+top_pad: 1 110 0 0
+bottom_pad: 1 110 0 0
+inner_pad: 1 110 0 0
+pin: 3 42 400 0 270
+top_pad: 1 110 0 0
+bottom_pad: 1 110 0 0
+inner_pad: 1 110 0 0
+pin: 4 42 400 800 90
+top_pad: 1 110 0 0
+bottom_pad: 1 110 0 0
+inner_pad: 1 110 0 0
+pin: 5 42 200 800 90
+top_pad: 1 110 0 0
+bottom_pad: 1 110 0 0
+inner_pad: 1 110 0 0
+pin: 6 42 0 800 90
+top_pad: 1 110 0 0
+bottom_pad: 1 110 0 0
+inner_pad: 1 110 0 0
+
+name: "ty-307P"
+package: ""
+author: "Anonymous"
+source: "Magnetek"
+description: "600-600 transformer"
+units: MIL
+sel_rect: -110 -210 591 691
+ref_text: 50 100 100 0 5
+outline_polyline: 0 -100 -200
+next_corner: 581 -200 0
+next_corner: 581 681 0
+next_corner: -100 681 0
+close_polyline: 0
+n_pins: 4
+pin: 1 42 0 0 270
+top_pad: 1 150 0 0
+bottom_pad: 0 0 0 0
+inner_pad: 0 0 0 0
+pin: 2 42 469 0 270
+top_pad: 1 150 0 0
+bottom_pad: 0 0 0 0
+inner_pad: 0 0 0 0
+pin: 3 42 469 469 90
+top_pad: 1 150 0 0
+bottom_pad: 0 0 0 0
+inner_pad: 0 0 0 0
+pin: 4 42 0 469 90
+top_pad: 1 150 0 0
+bottom_pad: 0 0 0 0
+inner_pad: 0 0 0 0
+
