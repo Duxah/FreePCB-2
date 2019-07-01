@@ -1,3 +1,3 @@
-# How to set clwarance for solder mask?
+# How to set clearance for solder mask?
 
 # [Return](How_to.md)
