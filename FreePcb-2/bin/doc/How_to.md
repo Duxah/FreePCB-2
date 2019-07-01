@@ -1,9 +1,9 @@
-# ![](/How_to/pictures/pin_selected.png) freepcb-2
+# ![](/doc/How_to/pictures/upload.png) freepcb-2
 
 ***
 `Beginner's «How To ...» Guide  © 2019 freepcb.dev`
 
-[How to adjust the position of the infobox window?](/How_to/IB_win_pos.md)
+[How to adjust the position of the infobox window?](/doc/How_to/IB_win_pos.md)
 
 [How to change layer color?]()
 [How to delete unconnected pins?]()
