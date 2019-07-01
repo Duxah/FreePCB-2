@@ -53,10 +53,9 @@ Contacts.
 ***
 `useful links`
 1. [License](/FreePcb-2/bin/doc/License.md)
-2. [FreePcb user guide 1-359](/FreePcb-2/bin/doc/freepcb_user_guide.pdf)
+2. [FreePcb user guide 1-359](/FreePcb-2/bin/doc/freepcb_user_guide.pdf.zip)
 3. [FreePcb-2 "How to.." guide](/FreePcb-2/bin/doc/How_to.md)
-4. [File format 2-028 with comments](/FreePcb-2/bin/doc/File_Format_2_028.md)
-5. [About this development branch](/About_development.md)
+4. [About this development branch](/About_development.md)
 
 ***
 ## Get started with FreePcb-2
