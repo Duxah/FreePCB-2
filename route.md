@@ -12,7 +12,7 @@ Click on the box to the left, or enter net name manually.
 
 Select segment, then click F4_Route. For routing сompletion click F4_Complete button again.
 
-![](pictures/rout_conn.png)
+![](pictures/route_conn.png)
 
 The last vertex will be highlighted. Press F3 to align the segments under 45 degrees. You can reduce angle for alignment by changing edit box “Angle”.
 
