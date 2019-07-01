@@ -5,6 +5,8 @@
 
 [How to adjust the position of the infobox window?](IB_win_pos.md)
 
+[How to route trace? (branch)]()
+
 [How to change layer color?]()
 [How to delete unconnected pins?]()
 [How to work with selection mask?]()
@@ -38,6 +40,5 @@
 [How to to find the differences in parts list from version to version of project file?]()
 [How to to find the differences in pins list from version to version of project file?]()
 [How to rotate?]()
-[How to route trace? (branch)]()
 [How to import netlist?]()
 [How to export netlist?]()
