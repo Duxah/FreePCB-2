@@ -3,9 +3,9 @@ FreePCB has a Design Rule Checker that checks your project for compliance with a
 
  ![](pictures/DRC.png)
 
-trace width           	| The minimum trace width allowed
+| trace width           	| The minimum trace width allowed
 
-pad to pad            	| The minimum distance from the edge of one pad to another on a different net (a warning is displayed if the distance is less on same net)
+| pad to pad            	| The minimum distance from the edge of one pad to another on a different net (a warning is displayed if the distance is less on same net)
 
 pad to trace          	| The minimum distance from the edge of a pad to a trace on a different net
 
