@@ -13,7 +13,7 @@ When netlist is protected, it is impossible:
 * connect pin to netlist
 * remove pin from netlist
 
-You should know that:
+Your should know that:
 
 * Parts with just one pin can be added to the netlist by dragging, and can also be removed from the PCB, if desired.
 * Footprint can be changed if the number of pins does not become less.
