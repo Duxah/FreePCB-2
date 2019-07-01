@@ -47,3 +47,4 @@ Beginner's «How To ...» Guide  © 2019 freepcb.dev
 
 [How to import netlist?]()
 [How to export netlist?]()
+[How to edit parts group?]()
