@@ -54,7 +54,7 @@ Contacts.
 `useful links`
 1. [License](LICENSE)
 2. [FreePcb user guide 1-359](/FreePcb-2/bin/doc/freepcb_user_guide.pdf.zip)
-3. [FreePcb-2 "How to.." guide](/How_to.md)
+3. [FreePcb-2 "How to.." guide](/How_to.md)(is underway)
 4. [About this development branch](/About_development.md)
 
 ***
