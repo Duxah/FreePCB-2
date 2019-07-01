@@ -45,6 +45,10 @@ Beginner's «How To ...» Guide  © 2019 freepcb.dev
 
 * [How to rotate a part or group?](rotate.md)
 
+[How to create PCB project](new_project.md)
+
+[How to set default clearance of solder mask](sm_clearance.md)
+
 [How to import netlist?]()
 [How to export netlist?]()
 [How to edit parts group?]()
