@@ -14,3 +14,4 @@ Click on the pins list with the right mouse button, and choose “Edit pins(comp
  
 Enter the parameters of the cells as shown in the figure and click OK. All unconnected pins will be removed from the PCB. We filtered out unconnected pins as an example. Similarly, you can make an infobox filter for some other parameters and then change the size of the pads or holes.
 
+# [return](How_to.md)
