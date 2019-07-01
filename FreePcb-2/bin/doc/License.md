@@ -1,5 +1,5 @@
 GNU General Public License
- [](/pictures/License.png) 
+ [](/pictures/License.jpg) 
 
 Version 2, June 1991
 
