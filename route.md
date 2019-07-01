@@ -3,6 +3,7 @@
 Hit a pin, and click F2 Connect_To_Pin, that to start dragging connection. 
    
 ![](pictures/pin_selected.png)
+
 ![](pictures/drag_con.png)
 
 Click on the box to the left, or enter net name manually.
@@ -11,7 +12,7 @@ Click on the box to the left, or enter net name manually.
 
 Select segment, then click F4_Route. For routing сompletion click F4_Complete button again.
 
-![](pictures/routing.png)
+![](pictures/rout_conn.png)
 
 The last vertex will be highlighted. Press F3 to align the segments under 45 degrees. You can reduce angle for alignment by changing edit box “Angle”.
 
