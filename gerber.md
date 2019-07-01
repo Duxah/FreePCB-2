@@ -26,3 +26,5 @@ FreePcb is configured to work with ViewMate. Check out the Gerber files by click
  ![](pictures/exp_gerb4.png)
  
 Or if you have another Gerber file viewer installed, then open the files manually in it. 
+
+# [return](How_to.md)
