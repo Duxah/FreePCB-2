@@ -5,7 +5,7 @@
 
 [How to adjust the position of the infobox window?](IB_win_pos.md)
 
-[How to route trace? (branch)]()
+[How to route trace? (branch)](routing_branch.md)
 
 [How to change layer color?]()
 [How to delete unconnected pins?]()
