@@ -1,4 +1,5 @@
-How to add a new part?
+# How to add a new part?
+
 Click F1 Add_part
  
 ![](/pictures/add_part.png)
@@ -9,4 +10,4 @@ In the part properties dialog box, it is necessary to enter the name of the part
 
 [How to select part](select_part.md)
 
-[How to work with selection mask](mask.md)
+[How to work with selection mask](sel_mask.md)
