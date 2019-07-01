@@ -16,3 +16,5 @@ annular ring (vias)   	     | The minimum width of copper surrounding a hole for
 board edge to any copper   	| The minimum clearance between any copper feature and the edge of the board
 board edge to hole         	| The minimum clearance between the edge of a hole and the edge of the board
 copper area to copper area 	| The minimum clearance between copper areas, and also between a copper pour (full hatch pattern) and another object on a different net
+
+# [return](How_to.md)
