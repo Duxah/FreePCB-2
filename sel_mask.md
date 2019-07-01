@@ -6,4 +6,4 @@ Items in the layout are selected for editing by clicking on them or drawing a re
 
 # [return](How_to.md)
 
-![How to select part](select_part.md)
+[How to select part](select_part.md)
