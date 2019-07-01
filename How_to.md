@@ -36,7 +36,7 @@ Beginner's «How To ...» Guide  © 2019 freepcb.dev
 [How to remove arc-elements of traces or copper areas?]()
 [How to use RoundingRect.exe?]()
 [How to use DXF export?]()
-[How to use BMP import?]()
+[How to import bmp picture?]()
 [How to competently make PCB panelization?]()
 [How to make an analysis of FreePcb projects for machines?]()
 [How to use Infobox filter?]()
