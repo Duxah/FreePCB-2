@@ -1,4 +1,4 @@
-# ![](/How_to/pictures/upload.png) freepcb-2
+# ![](/How_to/pictures/pin_selected.png) freepcb-2
 
 ***
 `Beginner's «How To ...» Guide  © 2019 freepcb.dev`
