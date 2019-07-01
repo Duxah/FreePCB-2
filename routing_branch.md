@@ -16,4 +16,4 @@ This is three routing mode. When F5_Disable_Branch mode is selected, it is not p
 
 # [return](How_to.md)
 
-[routing connection](route.md)  
+[How to route connection](route.md)  
