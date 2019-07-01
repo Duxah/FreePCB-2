@@ -12,5 +12,8 @@ The following softkeys become available.
  
 This is three routing mode. When F5_Disable_Branch mode is selected, it is not possible to create a branch to another trace, but trace to another pin can be created. F6 button allows connection to a segment of another trace. F7 button allows connection to a vertex or a via of another trace.
 
-![](pictures/routing.png)          
+![](pictures/routing.png)  
 
+# [return](How_to.md)
+
+[routing connection](route.md)  
