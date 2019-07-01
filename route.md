@@ -15,6 +15,6 @@ Select segment, then click F4_Route. For routing сompletion click F4_Complete b
 
 The last vertex will be highlighted. Press F3 to align the segments under 45 degrees. You can reduce angle for alignment by changing edit box “Angle”.
 
-![](pictures/pin_selected.png)
+![](pictures/angle_box.png)
 
 The minimum value 7,5 degrees will be set, if you select OFF.
