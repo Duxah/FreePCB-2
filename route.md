@@ -1,4 +1,4 @@
-### How to draw a copper track between two pins?
+## How to draw a copper track from pin to pin?
 
 Hit a pin, and click F2 Connect_To_Pin, that to start dragging connection. 
    
