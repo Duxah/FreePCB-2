@@ -13,7 +13,7 @@
 * Autosave
 
 View
-![PCB](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/img2.png)
+![PCB](/pictures/img2.png)
 
 ***
 # About
@@ -52,9 +52,9 @@ Contacts.
 
 ***
 `useful links`
-1. [License](/FreePcb-2/bin/doc/License.md)
+1. [License](LICENSE)
 2. [FreePcb user guide 1-359](/FreePcb-2/bin/doc/freepcb_user_guide.pdf.zip)
-3. [FreePcb-2 "How to.." guide](/FreePcb-2/bin/doc/How_to.md)
+3. [FreePcb-2 "How to.." guide](/How_to.md)
 4. [About this development branch](/About_development.md)
 
 ***
