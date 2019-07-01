@@ -26,7 +26,7 @@ Beginner's «How To ...» Guide  © 2019 freepcb.dev
 [How to make a layer invisible?]()
 [How to change ref or value size?]()
 [How to adjust footprints library?]()
-[How to sort the footprint libraries alphabetically?]()
+[How to sort footprint libraries? (for example alphabetically)]()
 [How to add text?]()
 [How to create PCB project?]()
 
