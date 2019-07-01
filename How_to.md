@@ -12,7 +12,7 @@ Beginner's «How To ...» Guide  © 2019 freepcb.dev
 * [How to select part?](select_part.md)
 * [How to move part?](move_part.md)
 * [How to change side?(flip, mirror)](side.md)
-* [How to draw a copper track(trace) between two pins?](route.md)
+* [How to draw a copper track from pin to pin?](route.md)
 
 [How to add copper area?]()
 [How to pour copper area?]()
