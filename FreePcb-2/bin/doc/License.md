@@ -1,4 +1,6 @@
-GNU General Public License
+# GNU General Public License
+
+***
  ![](License.jpg) 
 
 Version 2, June 1991
