@@ -1,3 +1,5 @@
+### Start dragging part
+
 With part selected, press F4 to begin moving it.
  
 ![](pictures/drag_part.png)
@@ -13,3 +15,5 @@ With part selected, press F4 to begin moving it.
 * F7- lock all pin connections of this part,
 * F8- unlock all the pin connections for this part,
 * F9- remove all pin connections of this part in order to reroute
+
+# [return](How_to.md)
