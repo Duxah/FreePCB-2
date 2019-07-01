@@ -44,6 +44,6 @@ Beginner's «How To ...» Guide  © 2019 freepcb.dev
 [How to to find the differences in pins list from version to version of project file?]()
 
 * [How to rotate?](rotate.md)
-* [How to import netlist?]()
 
+[How to import netlist?]()
 [How to export netlist?]()
