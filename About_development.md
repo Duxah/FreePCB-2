@@ -1,6 +1,6 @@
 # Major improvements and new features
 
-![](https://raw.githubusercontent.com/Duxah/FreePCB-2/master/pictures/Developer.png)
+![](/pictures/Developer.png)
 
 * Improved graphical display of selected objects
 * Improved detailing frame
