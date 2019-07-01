@@ -2,7 +2,7 @@ With part selected, press F4 to begin moving it.
  
 ![](pictures/drag_part.png)
  
-`In move mode, you can:`
+`In drag mode, you can:`
 
 * F1- change side parts,
 * F2- rotate -90 degrees,
