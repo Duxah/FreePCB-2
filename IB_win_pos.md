@@ -6,4 +6,6 @@ Move the infobox window to the desired position on the screen and click on the p
  
 Select "Settings", a window will open, close it. Done!
 
-[return](How_to.md)
+# [return](How_to.md)
+
+[How to run Infobox](IB_run.md)
