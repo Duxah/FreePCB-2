@@ -6,11 +6,8 @@ FreePCB has a Design Rule Checker that checks your project for compliance with a
 parameter              | description
 -----------------------|------------------------------------
 trace width           	| The minimum trace width allowed
-
 pad to pad            	| The minimum distance from the edge of one pad to another on a different net (a warning is displayed if the distance is less on same net)
-
 pad to trace          	| The minimum distance from the edge of a pad to a trace on a different net
-
 trace to trace        	| The minimum distance from the edge of a trace to a trace on a different net (this is the initial clearance value of the SET_CLEARANCE function)
 
 hole to pad or trace  	| The minimum distance from the edge of a hole to a pad or trace on a different net (a warning is displayed if the distance is less on same net)
