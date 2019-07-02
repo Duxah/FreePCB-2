@@ -1,13 +1,13 @@
 # How to add copper area
 
-![](picture/add_area.png)
+![](pictures/add_area.png)
 
 Press the F2 button, and then in the dialog that opens, select:
 1) Copper area layer
 2) Network
 3) Fill style
 
-![](picture/dlg_area.png)
+![](pictures/dlg_area.png)
 
 Click OK to start dragging. To complete, right-click. You should know that the clearance for objects of different networks will be created automatically when the generation of the Gerber file of the layer occurs, provided that it is selected:
 
