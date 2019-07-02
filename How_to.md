@@ -14,14 +14,14 @@ Beginner's «How To ...» Guide  © 2019 freepcb.dev
 * [How to change side?(flip, mirror)](side.md)
 * [How to draw a copper track from pin to pin?](route.md)
 * [How to add copper area?](add_area.md)
+* [How to pour copper area?](pour_area.md)
 
-[How to pour copper area?]()
 [How to add board outline?]()
 
 * [How to make DRC?](DRC.md)
 * [How to export gerber?(for PCB factories)](gerber.md)
 
-[How to make all the holes the same size?]()
+[How to make all via holes the same size?]()
 [How to add via?]()
 [How to make a layer invisible?]()
 [How to change ref or value size?]()
