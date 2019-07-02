@@ -24,7 +24,7 @@ Here you can use the following fill options:
 5) Clearance for copper areas on different net
 6) Clearance for solder mask of pads on different net (You can use when you need to free up space around the pad, for example when using a label for a PCB machine:
 
-![](picture/Ref1.png)
+![](pictures/Ref1.png)
 
 7) Ground clearance for thermal pad. (Usually, a thermo-pada needs less clearance than on different networks).
 8) You can re-fill the rectangle area. (In this case, you need to delete the outdated area after the fill.
