@@ -13,7 +13,7 @@ Beginner's «How To ...» Guide  © 2019 freepcb.dev
 * [How to select part?](select_part.md)
 * [How to move part?](move_part.md)
 * [How to draw a copper track from pin to pin?](route.md)
-* [How to route trace? (branch)](routing_branch.md)
+* [How to route branch?](routing_branch.md)
 [How to add via?]()
 [How to add board outline?]()
 [How to add text?]()
@@ -38,7 +38,7 @@ Beginner's «How To ...» Guide  © 2019 freepcb.dev
 * [How to adjust the position of the infobox window?](IB_win_pos.md)
 [How to use Infobox filter?]()
 [How to save partlist
-[How to print partlist from infobox application]()
+[How to get partlist from infobox application]()
 [How to filter parts whose pads have paste mask]()
 [How to sort footprint libraries? (for example alphabetically)]()
 [How to use RoundingRect.exe?]()
