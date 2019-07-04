@@ -37,7 +37,7 @@ Beginner's «How To ...» Guide  © 2019 freepcb.dev
 * [How to run Infobox?](IB_run.md)
 * [How to adjust the position of the infobox window?](IB_win_pos.md)
 [How to use Infobox filter?]()
-[How to save partlist
+[How to save partlist?]()
 [How to get partlist from infobox application]()
 [How to filter parts whose pads have paste mask]()
 [How to sort footprint libraries? (for example alphabetically)]()
