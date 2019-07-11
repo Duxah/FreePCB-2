@@ -44,6 +44,8 @@ but at the same time includes almost all the tools needed for professional use (
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/По%20рукам.png) If you like version 2-028, place a `freepcb.dev` link on your site. Have fun using FreePcb-2
 
+_You can participate in the improvement of the application. Feel free to write a message regarding working with FREEPCB so that we can release the official version 2-028 as soon as possible. Working together is always more efficient._
+
 ***
 Contacts.
 * [User forum](https://groups.yahoo.com/neo/groups/FreePCB/info) on Yahoo Group. 
