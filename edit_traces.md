@@ -77,7 +77,7 @@ Press the `F4_Set_Clearance` button
 
 ![](pictures/set_cl3.png)
 
-You can then change the clearance by pressing the `F2` `F3` buttons. The modified clearance value will be stored in memory until you press the save button at the top left.
+The clearance value is shown in the status bar at the bottom of the program window. You can then change the clearance by pressing the `F2` `F3` buttons. The modified clearance value will be stored in memory until you press the save button at the top left.
 
 ## 11) You can align vertex...
 
