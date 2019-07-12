@@ -26,6 +26,16 @@ When a segment is highlighted, press F2_Change_Layer.
 
 ...of contiguous segments that are in the same layer with the selected segment in order to then change their width, for example. When the segment is highlighted, press `F7_Select_in_Layer`.
 
+## You can select...
+
+...all the segments of the trace that are between the two selected segments. Highlight the two segments by holding down the CONTROL button, and then press F6_Select_Between.
+
+![](pictures/sel_between1.png)
+
+But if two parallel segments were selected, then the function will search for parallel segments located between the selected ones.
+
+![](pictures/sel_between2.png)
+
 ## 7) You can smooth the corner by adding another segment.
 
 When the vertex is selected, press `F5_Insert_Vertex` to start dragging the new segment. 
