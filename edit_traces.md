@@ -68,14 +68,15 @@ After that, the next nearby vertex will be automatically selected to speed up ed
 The initial gap value will be taken from the DRC dialog box (trace to trace).
 Select two parallel segments, between which there are other segments of other tracks:
 
-
+![](pictures/set_cl1.png)
 
 Press the F6_Select_between button
 
-
+![](pictures/set_cl2.png)
 
 Press the F4_Set_Clearance button
 
+![](pictures/set_cl3.png)
 
 You can then change the clearance by pressing the F2 F3 buttons.
 
