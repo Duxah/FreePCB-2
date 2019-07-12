@@ -19,8 +19,8 @@ Beginner's «How To ...» Guide  © 2019 freepcb.dev
 * [How to draw a copper track from pin to pin?](route.md)
 * [How to route branch?](routing_branch.md)
 * [How to edit traces?](edit_traces.md)
+* [How to add via?](add_via.md)
 
-[How to add via?]()
 [How to add board outline?]()
 [How to add text?]()
 * [How to add copper area?](add_area.md)
