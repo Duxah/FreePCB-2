@@ -16,7 +16,7 @@ When the vertex is highlighted, press `F4_Move_Vertex`, or use the keyboard arro
 
 ## 4) You can change the width...
 
-...of a segment and / or the size of the via. When the segment is highlighted, click `F1_Set_Width` button.
+...of a segment and / or the size of the via. When the segment is highlighted, click `F1_Set_Width` button. You can apply new values to a segment, to a trace, or to a net. This function also works for a group of selected segments.
 
 ## 5) You can change the segment layer.
 
@@ -64,21 +64,20 @@ After that, the next nearby vertex will be automatically selected to speed up ed
 
 ![](pictures/edit_tr8_4.png)
 
-## 10) You can set the gap between parallel segments. 
-The initial gap value will be taken from the DRC dialog box (trace to trace).
-Select two parallel segments, between which there are other segments of other tracks:
+## 10) You can set the clearance between parallel segments. 
+The initial clearance value will be taken from the DRC dialog box (trace to trace). Select two parallel segments, between which there are other segments of other trace (_Note: If you want the bottom segment to remain in place, then select the top one and then the bottom_):
 
 ![](pictures/set_cl1.png)
 
-Press the F6_Select_between button
+Press the `F6_Select_between` button
 
 ![](pictures/set_cl2.png)
 
-Press the F4_Set_Clearance button
+Press the `F4_Set_Clearance` button
 
 ![](pictures/set_cl3.png)
 
-You can then change the clearance by pressing the F2 F3 buttons.
+You can then change the clearance by pressing the `F2` `F3` buttons.
 
 ## 11) You can align vertex...
 
