@@ -18,6 +18,7 @@ Beginner's «How To ...» Guide  © 2019 freepcb.dev
 * [How to move part?](move_part.md)
 * [How to draw a copper track from pin to pin?](route.md)
 * [How to route branch?](routing_branch.md)
+* [How to edit traces?](edit_traces.md)
 
 [How to add via?]()
 [How to add board outline?]()
