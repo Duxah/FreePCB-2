@@ -35,3 +35,17 @@ When the vertex is selected, press F5_Insert_Vertex to start dragging the new se
 ...of the trace segment along X or Y coordinates. 
 
 Click on another vertex or pad whose coordinates you want to memorize, and then click on the vertex you want to align with these coordinates. Press the F7 or F8 button depending on the alignment axis (X or Y).
+
+## 10) You can convert a segment to an arc and back. 
+
+When a segment is selected, right-click and, in the context menu, click Arc approximation. To convert back press F7_Delete_Group. To delete the entire bridge, press F9_Delete_Bridge
+
+## 11) You can change the radius of the arc. 
+
+When a group of segments is highlighted, press F2 to decrease or F3 to increase the radius.
+
+## 12) You can create a branch to pin. 
+
+When the vertex is highlighted, click F2_Connect_Pin to start dragging. Aim at the desired pin, and complete the action by clicking the left mouse button.
+
+# [Return](How_to.md)
