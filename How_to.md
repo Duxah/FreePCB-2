@@ -25,6 +25,7 @@ Beginner's «How To ...» Guide  © 2019 freepcb.dev
 * [How to change segment layer?](seg_layer.md)
 * [How to select a group of segments?](sel_seg_gr.md)
 * [How to insert segment to the corner portion of trace?](insert_seg.md)
+* [How to insert two segments to the corner portion of trace?](insert_seg2.md)
 * [How to add via?](add_via.md)
 
 [How to add board outline or other line?]()
