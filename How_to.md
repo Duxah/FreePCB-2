@@ -22,6 +22,7 @@ Beginner's «How To ...» Guide  © 2019 freepcb.dev
 * [How to add vertex to the trace segment?](add_vertex.md)
 * [How to move vertex or segment of trace?](move_seg.md)
 * [How to add via?](add_via.md)
+* [How to change segment width or via size?](seg_width.md)
 
 [How to add board outline or other line?]()
 [How to add text?]()
