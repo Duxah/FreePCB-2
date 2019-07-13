@@ -29,6 +29,7 @@ Beginner's «How To ...» Guide  © 2019 freepcb.dev
 * [How to set clearance for parallel segments?](set_seg_clearance.md)
 * [How to align vertices of trace?](align_vertex.md)
 * [How to convert a segment to arc?](seg_2_arc.md)
+* [How to change radius of arc?](seg_change_rad.md)
 * [How to add via?](add_via.md)
 
 [How to add board outline or other line?]()
