@@ -1,9 +1,3 @@
-## You can align vertex...
-
-...of the trace segment along X or Y coordinates. 
-
-Click on another vertex or pad whose coordinates you want to memorize, and then click on the vertex you want to align with these coordinates. Press the `F7` or `F8` button depending on the alignment axis (X or Y).
-
 ## You can convert a segment to an arc and back. 
 
 When a segment is selected, right-click and, in the context menu, click Arc approximation. 
