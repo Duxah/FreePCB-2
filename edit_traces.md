@@ -1,9 +1,3 @@
-## 1) You can add a vertex to the copper route segment. 
-
-When the segment is highlighted, click `F3_Add_Vertex`, and an extra vertex will be added. Left click in the place where you want to place it.
-
-![](pictures/edit_tr1.png)
-
 ## 2) You can move the track segment. 
 
 When the segment is highlighted, press `F4_Move_Segment`, or use the keyboard arrows. This function works provided that the vertices of the segment are not the nodes of the connection of three or more segments of the tracks.
