@@ -1,7 +1,3 @@
-## 5) You can change the segment layer.
-
-When a segment is highlighted, press F2_Change_Layer.
-
 ## 6) You can select a group...
 
 ...of contiguous segments that are in the same layer with the selected segment in order to then change their width, for example. When the segment is highlighted, press `F7_Select_in_Layer`.
