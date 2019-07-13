@@ -8,7 +8,7 @@ Beginner's «How To ...» Guide  © 2019 freepcb.dev
 
 [How to make a layer invisible?]()
 [How to attach the folder with footprint libraries?]()
-[How to edit the libraries?]()
+[How to edit libraries?]()
 * [How to unprotect netlist?](unprotect_nl.md)
 * [How to work with selection mask?](sel_mask.md)
 * [How to add a new part?](add_part.md)
