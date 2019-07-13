@@ -20,6 +20,7 @@ Beginner's «How To ...» Guide  © 2019 freepcb.dev
 * [How to route branch?](routing_branch.md)
 * [How to edit traces?](edit_traces.md)
 * [How to add vertex to the trace segment?](add_vertex.md)
+* [How to move vertex or segment of trace?](move_seg.md)
 * [How to add via?](add_via.md)
 
 [How to add board outline or other line?]()
