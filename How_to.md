@@ -42,6 +42,7 @@ Beginner's «How To ...» Guide  © 2019 freepcb.dev
 [How to edit parts group with partlist menu?]()
 * [How to make DRC?](DRC.md)
 * [How to export gerber?(for PCB factories)](gerber.md)
+* [How to generate pick & place file?](pnp.md)
 
 [How to set default clearance of solder mask?](sm_clearance.md)
 [How to import netlist?]()
