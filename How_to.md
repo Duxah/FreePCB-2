@@ -6,8 +6,7 @@ Beginner's «How To ...» Guide  © 2019 freepcb.dev
 * [How to create PCB project](new_project.md)
 * [How to change layer color?](colors.md)
 * [How to make a layer invisible?](layer_vis.md)
-
-_[How to attach the folder with footprint libraries?]()_
+* [How to change folder of libraries?](lib_folder.md)
 * [How to edit libraries?](fp_edit.md)
 * [How to unprotect netlist?](unprotect_nl.md)
 * [How to work with selection mask?](sel_mask.md)
