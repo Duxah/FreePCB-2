@@ -5,16 +5,16 @@ Beginner's «How To ...» Guide  © 2019 freepcb.dev
 
 * [How to create PCB project](new_project.md)
 * [How to change layer color?](colors.md)
+* [How to make a layer invisible?](layer_vis.md)
 
-[How to make a layer invisible?]()
-[How to attach the folder with footprint libraries?]()
-[How to edit libraries?]()
+_[How to attach the folder with footprint libraries?]()
+[How to edit libraries?]()_
 * [How to unprotect netlist?](unprotect_nl.md)
 * [How to work with selection mask?](sel_mask.md)
 * [How to add a new part?](add_part.md)
 * [How to select part?](select_part.md)
 
-[How to edit footprint?]()
+_[How to edit footprint?]()_
 * [How to move part?](move_part.md)
 * [How to draw a copper track from pin to pin?](route.md)
 * [How to route branch?](routing_branch.md)
@@ -32,19 +32,19 @@ Beginner's «How To ...» Guide  © 2019 freepcb.dev
 * [How to change radius of arc?](seg_change_rad.md)
 * [How to add via?](add_via.md)
 
-[How to add board outline or other line?]()
-[How to add text?]()
+_[How to add board outline or other line?]()
+[How to add text?]()_
 * [How to add copper area?](add_area.md)
 * [How to pour copper area?](pour_area.md)
 * [How to rotate a part or group?](rotate.md)
 * [How to change side?(flip, mirror)](side.md)
 
-[How to edit parts group with partlist menu?]()
+_[How to edit parts group with partlist menu?]()_
 * [How to make DRC?](DRC.md)
 * [How to export gerber?(for PCB factories)](gerber.md)
 * [How to generate pick & place file?](pnp.md)
 
-[How to set default clearance of solder mask?](sm_clearance.md)
+_[How to set default clearance of solder mask?](sm_clearance.md)
 [How to import netlist?]()
 [How to export netlist?]()
 [How to make dxf export?]()
@@ -54,11 +54,11 @@ Beginner's «How To ...» Guide  © 2019 freepcb.dev
 [How to print pcb view?]()
 [how to highlight parts when printing?]()
 [How to make all via holes the same size?]()
-[How to change ref or value size?]()
+[How to change ref or value size?]()_
 * [How to run Infobox?](IB_run.md)
 * [How to adjust the position of the infobox window?](IB_win_pos.md)
 
-[How to use Infobox filter?]()
+_[How to use Infobox filter?]()
 [How to save Infobox partlist?]()
 [How to export Infobox partlist?]()
 [How to filter parts whose pads have paste mask?]()
@@ -68,7 +68,7 @@ Beginner's «How To ...» Guide  © 2019 freepcb.dev
 [How to competently make PCB panelization?]()
 [How to make an analysis of FreePcb projects for machines?]()
 [How to to find the differences in part list from version to version of your PCB project?(by using Infobox)]()
-[How to to find the differences in pin list from version to version of your PCB project?(by using Infobox)]()
+[How to to find the differences in pin list from version to version of your PCB project?(by using Infobox)]()_
 * [How to delete unconnected pins?](del_u_pins.md)
 
 
