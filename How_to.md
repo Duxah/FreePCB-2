@@ -12,8 +12,8 @@ Beginner's «How To ...» Guide  © 2019 freepcb.dev
 * [How to work with selection mask?](sel_mask.md)
 * [How to add a new part?](add_part.md)
 * [How to select part?](select_part.md)
-
-_[How to edit footprint?]()_
+* [How to edit footprint?](edit_fp.md)
+* [How to create a new footprint?](new_fp.md)
 * [How to move part?](move_part.md)
 * [How to draw a copper track from pin to pin?](route.md)
 * [How to route branch?](routing_branch.md)
