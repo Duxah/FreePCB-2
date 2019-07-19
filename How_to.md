@@ -55,7 +55,7 @@ _[How to set default clearance of solder mask?](sm_clearance.md)
 [How to make all via holes the same size?]()
 [How to change ref or value size?]()_
 * [How to run Infobox?](IB_run.md)
-* [How to adjust the position of the infobox window?](IB_win_pos.md)
+* [How to adjust initial window position of infobox?](IB_win_pos.md)
 
 _[How to use Infobox filter?]()
 [How to save Infobox partlist?]()
