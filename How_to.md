@@ -1,7 +1,7 @@
 ![](/pictures/upload.png) 
 # [freepcb-2](https://freepcb.dev)
 
-Beginner's «How To ...» Guide  © 2019 freepcb.dev
+Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 
 * [How to create PCB project](new_project.md)
 * [How to change layer color?](colors.md)
