@@ -24,4 +24,4 @@ In this dialog box, you must first select the path to the project folder and to 
 
 ![](pictures/new_proj3.png)
 
-# [return](How_to.md)
+# [Return](How_to.md)
