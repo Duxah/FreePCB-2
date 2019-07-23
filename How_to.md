@@ -31,14 +31,15 @@ Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 * [How to change radius of arc?](seg_change_rad.md)
 * [How to add via?](add_via.md)
 * [How to add board outline or other line?](add_polyline.md)
-
-_[How to add text?]()_
 * [How to add copper area?](add_area.md)
 * [How to pour copper area?](pour_area.md)
+
+_[How to add text?]()
+[How to add merge?]()
+[How to edit parts group with partlist menu?]()
+[How to align objects?]()_
 * [How to rotate a part or group?](rotate.md)
 * [How to change side?(flip, mirror)](side.md)
-
-_[How to edit parts group with partlist menu?]()_
 * [How to make DRC?](DRC.md)
 * [How to export gerber?(for PCB factories)](gerber.md)
 * [How to generate pick & place file?](pnp.md)
