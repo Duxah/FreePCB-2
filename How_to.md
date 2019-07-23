@@ -40,11 +40,14 @@ _[How to add text?]()
 [How to align objects?]()_
 * [How to rotate a part or group?](rotate.md)
 * [How to change side?(flip, mirror)](side.md)
+* [How to run Infobox?](IB_run.md)
+* [How to adjust initial window position of infobox?](IB_win_pos.md)
 * [How to make DRC?](DRC.md)
 * [How to export gerber?(for PCB factories)](gerber.md)
 * [How to generate pick & place file?](pnp.md)
 
-_[How to set default clearance of solder mask?](sm_clearance.md)
+_[How to generate BOM file?](bom.md)
+[How to set default clearance of solder mask?](sm_clearance.md)
 [How to import netlist?]()
 [How to export netlist?]()
 [How to make dxf export?]()
@@ -54,11 +57,8 @@ _[How to set default clearance of solder mask?](sm_clearance.md)
 [How to print pcb view?]()
 [how to highlight parts when printing?]()
 [How to make all via holes the same size?]()
-[How to change ref or value size?]()_
-* [How to run Infobox?](IB_run.md)
-* [How to adjust initial window position of infobox?](IB_win_pos.md)
-
-_[How to use Infobox filter?]()
+[How to change ref or value size?]()
+[How to use Infobox filter?]()
 [How to save Infobox partlist?]()
 [How to export Infobox partlist?]()
 [How to filter parts whose pads have paste mask?]()
@@ -69,6 +69,7 @@ _[How to use Infobox filter?]()
 [How to make an analysis of FreePcb projects for machines?]()
 [How to to find the differences in part list from version to version of your PCB project?(by using Infobox)]()
 [How to to find the differences in pin list from version to version of your PCB project?(by using Infobox)]()_
+
 * [How to delete unconnected pins?](del_u_pins.md)
 
 
