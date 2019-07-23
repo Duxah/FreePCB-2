@@ -30,9 +30,9 @@ Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 * [How to convert a segment to arc?](seg_2_arc.md)
 * [How to change radius of arc?](seg_change_rad.md)
 * [How to add via?](add_via.md)
+* [How to add board outline or other line?](add_polyline.md)
 
-_[How to add board outline or other line?]()
-[How to add text?]()_
+_[How to add text?]()_
 * [How to add copper area?](add_area.md)
 * [How to pour copper area?](pour_area.md)
 * [How to rotate a part or group?](rotate.md)
