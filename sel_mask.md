@@ -10,6 +10,6 @@ You can select several objects by clicking on them in turn with the `CONTROL` ke
 
 If you already have more than one object selected, you can add new selected objects to the existing objects with the selection frame without pressing the `CONTROL` button.
 
-# [return](How_to.md)
+# [Return](How_to.md)
 
 [How to select part](select_part.md)
