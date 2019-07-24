@@ -8,6 +8,8 @@ If the part is connected to other parts through the "merge" property, the merge 
 
 ![](pictures/mask_merge.png)
 
+If a part has only one pin, then in order to select it, you need to click while holding the CONTROL button.
+
 # [return](How_to.md)
 
 [How to work with selection mask](sel_mask.md)
