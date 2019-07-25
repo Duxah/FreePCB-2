@@ -1,6 +1,6 @@
 ### Start dragging part
 
-With part selected, press F4 to begin moving it.
+With part or pin selected, press `F4_MOVE_PART` to begin moving it. When a part is merged with other parts, it is better to move it by selecting a pin.
  
 ![](pictures/drag_part.png)
  
@@ -16,4 +16,4 @@ With part selected, press F4 to begin moving it.
 * F8- unlock all the pin connections for this part,
 * F9- remove all pin connections of this part in order to reroute
 
-# [return](How_to.md)
+# [Return](How_to.md)
