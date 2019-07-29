@@ -6,4 +6,8 @@ When some parts selected, right click and push LineUp context menu item. If Y di
 
 ![](pictures/line_up2.png)
 
+If the menu item is not active then try to select parts by disabling the ratlines in selection mask.
+
+![](pictures/line_up3.png)
+
 # [Return](How_to.md)
