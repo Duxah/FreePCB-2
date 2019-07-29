@@ -51,7 +51,7 @@ How to use Infobox filter?]()
 How to save Infobox partlist?]()
 How to export Infobox partlist?]()
 How to filter parts whose pads have paste mask?]()_
-* [How to make DRC?](DRC.md)
+* [How to make a design check?](DRC.md)
 * [How to export gerber?(for PCB factories)](gerber.md)
 * [How to generate pick & place file?](pnp.md)
 * [How to generate BOM file?](bom.md)
