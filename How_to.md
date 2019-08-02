@@ -34,9 +34,9 @@ Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 * [How to add board outline or other line?](add_polyline.md)
 * [How to add copper area?](add_area.md)
 * [How to pour copper area?](pour_area.md)
+* [How to add text?](add_text.md)
 
-_How to add text?]()
-How to add merge?]()
+_How to add merge?]()
 How to edit parts group with partlist menu?]()
 How to edit nets group with netlist menu?]()
 How to align objects?]()_
