@@ -58,7 +58,8 @@ How to create a gerber file for making a stencil?_
 * [How to generate pick & place file?](pnp.md)
 * [How to generate BOM file?](bom.md)
 
-_How to set default clearance of solder mask?](sm_clearance.md)
+_How to add solder mask cutout?
+How to set default clearance of solder mask?](sm_clearance.md)
 How to import netlist?]()
 How to export netlist?]()
 How to make dxf export?]()
