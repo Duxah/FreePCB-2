@@ -3,7 +3,8 @@ In FREEPCB-2, you can combine several parts into a merge. Connections as well as
 - polyline
 - text
 - a copper area not connected to this group,
-- cutout in a mask.
+- cutout in a mask
+- board outline.
 
 To create a MERGE object, select the parts and those objects that you want to include in this group and press F2_Create_Merge.
 
