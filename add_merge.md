@@ -11,6 +11,11 @@ In the dialog box, you need to enter a name and set the clearance for polygons w
 
 In the following example, a merge is created where inverse polygons with NONE hatching and a side width of 0.2 mm are used, and therefore an individual clearance is also set to 0.2 mm.
 
-![](pictures/add_merge.png)
+![](pictures/merge1.png)
+
+![](pictures/merge2.png)
+
+To select a merge, left-click on the part that belongs to this merge. 
+To disable the merge selection, left-click on the MERGE flag in the selection mask (left).
 
 # [Return](How_to.md)
