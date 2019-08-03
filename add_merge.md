@@ -1,7 +1,7 @@
 In FREEPCB-2, you can combine several parts into a merge. Connections as well as copper areas will be automatically selected and added if they are inside this group. Any other objects except connections can be added to the MERGE group:
  
-- polyline
-- text
+- polyline,
+- text,
 - a copper area not connected to this group,
 - cutout in a mask,
 - board outline.
