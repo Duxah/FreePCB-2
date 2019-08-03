@@ -37,6 +37,8 @@ Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 * [How to add text?](add_text.md)
 * [How to add merge?](add_merge.md)
 
+_preparing a description for:_
+
 _How to edit parts group with partlist menu?]()
 How to edit nets group with netlist menu?]()
 How to align objects?]()_
@@ -44,6 +46,8 @@ How to align objects?]()_
 * [How to change side?(flip, mirror)](side.md)
 * [How to run Infobox?](IB_run.md)
 * [How to adjust initial window position of infobox?](IB_win_pos.md)
+
+_preparing a description for:_
 
 _How to highlight parts from Infobox partlist?
 How to highlight pins or nets from Infobox pinlist?
@@ -58,6 +62,8 @@ How to create a gerber file for making a stencil?_
 * [How to generate pick & place file?](pnp.md)
 * [How to generate BOM file?](bom.md)
 * [How to add solder mask cutout?](add_polyline.md)
+
+_preparing a description for:_
 
 _How to set default clearance of solder mask?](sm_clearance.md)
 How to import netlist?]()
