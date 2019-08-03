@@ -18,4 +18,6 @@ In the following example, a merge is created where inverse polygons with NONE ha
 To select a merge, left-click on the part that belongs to this merge. 
 To disable the merge selection, left-click on the MERGE flag in the selection mask (left).
 
+![](pictures/mask_merge.png)
+
 # [Return](How_to.md)
