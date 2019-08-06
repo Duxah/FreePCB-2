@@ -41,6 +41,8 @@ _preparing a description for:_
 _How to edit grid size?]()
 How to edit parts group with partlist menu?]()
 How to edit nets group with netlist menu?]()
+How to split net?]()
+How to combine nets?]()
 How to align objects?]()_
 * [How to rotate a part or group?](rotate.md)
 * [How to change side?(flip, mirror)](side.md)
