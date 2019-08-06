@@ -38,7 +38,8 @@ Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 * [How to add merge?](add_merge.md)
 
 _preparing a description for:_
-_How to edit parts group with partlist menu?]()
+_How to edit grid size?]()
+How to edit parts group with partlist menu?]()
 How to edit nets group with netlist menu?]()
 How to align objects?]()_
 * [How to rotate a part or group?](rotate.md)
