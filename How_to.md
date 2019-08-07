@@ -3,7 +3,7 @@
 
 Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 
-# start
+*start*
 
 * [How to create PCB project?](new_project.md)
 * [How to change folder of libraries?](lib_folder.md)
