@@ -33,6 +33,9 @@ Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 * [How to add via?](add_via.md)
 * [How to add board outline or other line?](add_polyline.md)
 * [How to add copper area?](add_area.md)
+
+_[How to add copper area similar to any area?]
+[How to add area cutout?]_
 * [How to pour copper area?](pour_area.md)
 * [How to add text?](add_text.md)
 * [How to add merge?](add_merge.md)
