@@ -63,6 +63,8 @@ How to autoposition part references?_
 * [How to add area cutout?](area_cutout.md)
 * [How to pour copper area?](pour_area.md)
 
+_How to edit copper fill?_
+
 # graphics
 
 * [How to add board outline or other line?](add_polyline.md)
