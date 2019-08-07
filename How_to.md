@@ -55,40 +55,54 @@ _How to edit parts group with partlist menu?]()_
 * [How to add area cutout?](area_cutout.md)
 * [How to pour copper area?](pour_area.md)
 * [How to add text?](add_text.md)
-* [How to add merge?](add_merge.md)
-
-_preparing a description for:_
-
-
 
 # nets
 
-How to edit nets group with netlist menu?]()
+_How to edit nets group with netlist menu?]()
 How to split net?]()
-How to combine nets?]()
-How to align objects?]()_
+How to combine nets?]()_
+
+# groups
+
 * [How to rotate a part or group?](rotate.md)
 * [How to change side?(flip, mirror)](side.md)
+* [How to add merge?](add_merge.md)
+
+_How to align group objects?]()_
+
+# infobox
+
 * [How to run Infobox?](IB_run.md)
 * [How to adjust initial window position of infobox?](IB_win_pos.md)
 
-_preparing a description for:_
 _How to highlight parts from Infobox partlist?
 How to highlight pins or nets from Infobox pinlist?
 How to print a list of unconnected pins?
 How to use Infobox filter?]()
 How to save Infobox partlist?]()
 How to export Infobox partlist?]()
-How to filter parts whose pads have paste mask?]()
-How to create a gerber file for making a stencil?_
+How to filter parts whose pads have paste mask?]()_
+
+# design rule checking
+
 * [How to make a design check?](DRC.md)
+
+_How to create drc report?](DRC.md)
+
+# production files
+
 * [How to export gerber?(for PCB factories)](gerber.md)
 * [How to generate pick & place file?](pnp.md)
 * [How to generate BOM file?](bom.md)
-* [How to add solder mask cutout?](add_polyline.md)
 
-_preparing a description for:_
-_How to set default clearance of solder mask?](sm_clearance.md)
+_How to create a gerber file for making a stencil?_
+
+
+
+
+# more 
+
+_How to set default pad clearance for solder mask?](sm_clearance.md)
 How to import netlist?]()
 How to export netlist?]()
 How to make dxf export?]()
@@ -107,6 +121,7 @@ How to make an analysis of FreePcb projects for machines?]()
 How to to find the differences in part list from version to version of your PCB project?(by using Infobox)]()
 How to to find the differences in pin list from version to version of your PCB project?(by using Infobox)]()_
 
+* [How to add solder mask cutout?](add_polyline.md)
 * [How to delete unconnected pins?](del_u_pins.md)
 
 
