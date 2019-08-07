@@ -15,13 +15,23 @@ Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 
 _How to edit grid size?]()_
 
+# footprints
+
+* [How to create a new footprint?](new_fp.md)
+
+_How to add pin?
+How to add text?
+How to add polyline?
+How to edit polyline?
+How to edit group objects?
+How to create multipin?
+
 # parts
 
 * [How to add a new part?](add_part.md)
 * [How to select part?](select_part.md)
 * [How to align selected parts in a line?](line_up.md)
 * [How to edit footprint?](edit_fp.md)
-* [How to create a new footprint?](new_fp.md)
 * [How to move part?](move_part.md)
 
 _How to edit parts group with partlist menu?]()_
@@ -44,17 +54,19 @@ _How to edit parts group with partlist menu?]()_
 * [How to change radius of arc?](seg_change_rad.md)
 * [How to add via?](add_via.md)
 
-# graphics
-
-* [How to add board outline or other line?](add_polyline.md)
-
 # copper areas
 
 * [How to add copper area?](add_area.md)
 * [How to add copper area similar to any area?](similar_area.md)
 * [How to add area cutout?](area_cutout.md)
 * [How to pour copper area?](pour_area.md)
-* [How to add text?](add_text.md)
+
+# graphics
+
+* [How to add board outline or other line?](add_polyline.md)
+
+_How to edit polyline?
+How to align polyline vertices?_
 
 # nets
 
@@ -121,6 +133,7 @@ How to make an analysis of FreePcb projects for machines?]()
 How to to find the differences in part list from version to version of your PCB project?(by using Infobox)]()
 How to to find the differences in pin list from version to version of your PCB project?(by using Infobox)]()_
 
+* [How to add text?](add_text.md)
 * [How to add solder mask cutout?](add_polyline.md)
 * [How to delete unconnected pins?](del_u_pins.md)
 
