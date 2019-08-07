@@ -114,7 +114,8 @@ _How to create gerber file for making a stencil?_
 
 # more 
 
-_How to set default pad clearance for solder mask?](sm_clearance.md)
+_How to use a measurement tool?
+How to set default pad clearance for solder mask?
 How to import netlist?]()
 How to export netlist?]()
 How to make dxf export?]()
