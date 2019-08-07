@@ -3,6 +3,8 @@
 
 Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 
+# start
+
 * [How to create PCB project?](new_project.md)
 * [How to change layer color?](colors.md)
 * [How to make a layer invisible?](layer_vis.md)
@@ -10,12 +12,22 @@ Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 * [How to edit libraries?](fp_edit.md)
 * [How to protect/unprotect netlist?](unprotect_nl.md)
 * [How to work with selection mask?](sel_mask.md)
+
+_How to edit grid size?]()_
+
+# parts
+
 * [How to add a new part?](add_part.md)
 * [How to select part?](select_part.md)
 * [How to align selected parts in a line?](line_up.md)
 * [How to edit footprint?](edit_fp.md)
 * [How to create a new footprint?](new_fp.md)
 * [How to move part?](move_part.md)
+
+_How to edit parts group with partlist menu?]()_
+
+# traces
+
 * [How to draw a copper track from pin to pin?](route.md)
 * [How to route branch?](routing_branch.md)
 * [How to create branch to pin?](edit_traces.md)
@@ -31,18 +43,26 @@ Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 * [How to convert a segment to arc?](seg_2_arc.md)
 * [How to change radius of arc?](seg_change_rad.md)
 * [How to add via?](add_via.md)
-* [How to add board outline or other line?](add_polyline.md)
-* [How to add copper area?](add_area.md)
 
-_[How to add copper area similar to any area?]
-[How to add area cutout?]_
+# graphics
+
+* [How to add board outline or other line?](add_polyline.md)
+
+# copper areas
+
+* [How to add copper area?](add_area.md)
+* [How to add copper area similar to any area?](similar_area.md)
+* [How to add area cutout?](area_cutout.md)
 * [How to pour copper area?](pour_area.md)
 * [How to add text?](add_text.md)
 * [How to add merge?](add_merge.md)
 
 _preparing a description for:_
-_How to edit grid size?]()
-How to edit parts group with partlist menu?]()
+
+
+
+# nets
+
 How to edit nets group with netlist menu?]()
 How to split net?]()
 How to combine nets?]()
