@@ -10,19 +10,17 @@ Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 * [How to change layer color?](colors.md)
 * [How to make a layer invisible?](layer_vis.md)
 * [How to work with selection mask?](sel_mask.md)
-
-_How to edit grid size?]()_
+* How to edit grid size?
 
 # footprints
 
 * [How to create a new footprint?](new_fp.md)
-
-_How to add pin?
-How to add text?
-How to add polyline?
-How to edit polyline?
-How to edit group objects?
-How to create multipin?
+* How to add pin?
+* How to add text?
+* How to add polyline?
+* How to edit polyline?
+* How to edit group objects?
+* How to create multipin?
 
 # parts
 
@@ -31,10 +29,9 @@ How to create multipin?
 * [How to align selected parts in a line?](line_up.md)
 * [How to edit part footprint?](edit_fp.md)
 * [How to move part?](move_part.md)
-
-_How to edit parts group with partlist menu?]()
-How to autoposition pcb parts?
-How to autoposition part references?_
+* How to edit parts group with partlist menu?
+* How to autoposition pcb parts?
+* How to autoposition part references?
 
 # traces
 
@@ -60,82 +57,74 @@ How to autoposition part references?_
 * [How to add copper area similar to any area?](similar_area.md)
 * [How to add area cutout?](area_cutout.md)
 * [How to pour copper area?](pour_area.md)
-
-_How to edit copper fill?_
+* How to edit copper fill?
 
 # graphics
 
 * [How to add board outline or other line?](add_polyline.md)
-
-_How to edit polyline?
-How to align polyline vertices?_
+* How to edit polyline?
+* How to align polyline vertices?
 
 # nets
 
 * [How to protect/unprotect netlist?](unprotect_nl.md)
-
-_How to edit nets group with netlist menu?]()
-How to split net?]()
-How to combine nets?]()_
+* How to edit nets group with netlist menu?
+* How to split net?
+* How to combine nets?
 
 # groups
 
 * [How to rotate a part or group?](rotate.md)
 * [How to change side?(flip, mirror)](side.md)
 * [How to add merge?](add_merge.md)
-
-_How to align group objects?]()_
+* How to align group objects?
 
 # infobox
 
 * [How to run Infobox?](IB_run.md)
 * [How to adjust initial window position of infobox?](IB_win_pos.md)
-
-_How to highlight parts from Infobox partlist?
-How to highlight pins or nets from Infobox pinlist?
-How to print a list of unconnected pins?
-How to use Infobox filter?]()
-How to save Infobox partlist?]()
-How to export Infobox partlist?]()
-How to filter parts whose pads have paste mask?]()_
+* How to highlight parts from Infobox partlist?
+* How to highlight pins or nets from Infobox pinlist?
+* How to print a list of unconnected pins?
+* How to use Infobox filter?
+* How to save Infobox partlist?
+* How to export Infobox partlist?
+* How to filter parts whose pads have paste mask?
+* How to to find the differences in part list from version to version of your PCB project?
+* How to to find the differences in pin list from version to version of your PCB project?
 
 # design rule checking
 
 * [How to make a design check?](DRC.md)
-
-_How to create drc report?](DRC.md)
+* How to create drc report?
 
 # production files
 
 * [How to export gerber?(for PCB factories)](gerber.md)
 * [How to generate pick & place file?](pnp.md)
 * [How to generate BOM file?](bom.md)
-
-_How to create a gerber file for making a stencil?_
-_How to create gerber file for making a stencil?_
+* How to create a gerber file for making a stencil?
+* How to create gerber file for making a stencil?
 
 # more 
 
-_How to use a measurement tool?
-How to set default pad clearance for solder mask?
-How to import netlist?]()
-How to export netlist?]()
-How to make dxf export?]()
-How to import bmp picture?]()
-How to import Pcad-ascii files?]()
-How to export Pcad-ascii files?]()
-How to print pcb view?]()
-how to highlight parts when printing?]()
-How to make all via holes the same size?]()
-How to change ref or value size?]()
-How to sort footprint libraries? (for example alphabetically)]()
-How to add arc-elements of traces or copper areas?]()
-How to remove arc-elements of traces or copper areas?]()
-How to competently make PCB panelization?]()
-How to make an analysis of FreePcb projects for machines?]()
-How to to find the differences in part list from version to version of your PCB project?(by using Infobox)]()
-How to to find the differences in pin list from version to version of your PCB project?(by using Infobox)]()_
-
+* How to use a measurement tool?
+* How to set default pad clearance for solder mask?
+* How to import netlist?
+* How to export netlist?
+* How to make dxf export?
+* How to import bmp picture?
+* How to import Pcad-ascii files?
+* How to export Pcad-ascii files?
+* How to print pcb view?
+* How to highlight parts when printing?
+* How to make all via holes the same size?
+* How to change ref or value size?
+* How to sort footprint libraries? (for example alphabetically)
+* How to add arc-elements of traces or copper areas?
+* How to remove arc-elements of traces or copper areas?
+* How to competently make PCB panelization?]()
+* How to make an analysis of FreePcb projects for machines?
 * [How to edit libraries?](fp_edit.md)
 * [How to add text?](add_text.md)
 * [How to add solder mask cutout?](add_polyline.md)
