@@ -31,10 +31,12 @@ How to create multipin?
 * [How to add a new part?](add_part.md)
 * [How to select part?](select_part.md)
 * [How to align selected parts in a line?](line_up.md)
-* [How to edit footprint?](edit_fp.md)
+* [How to edit part footprint?](edit_fp.md)
 * [How to move part?](move_part.md)
 
-_How to edit parts group with partlist menu?]()_
+_How to edit parts group with partlist menu?]()
+How to autoposition pcb parts?
+How to autoposition part references?_
 
 # traces
 
@@ -108,9 +110,7 @@ _How to create drc report?](DRC.md)
 * [How to generate BOM file?](bom.md)
 
 _How to create a gerber file for making a stencil?_
-
-
-
+_How to create gerber file for making a stencil?_
 
 # more 
 
