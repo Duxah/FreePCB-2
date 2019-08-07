@@ -3,7 +3,7 @@
 
 Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 
-**start**
+**Start**
 
 * [How to create PCB project?](new_project.md)
 * [How to change folder of libraries?](lib_folder.md)
@@ -12,7 +12,7 @@ Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 * [How to work with selection mask?](sel_mask.md)
 * How to edit grid size?
 
-# footprints
+**Footprints**
 
 * [How to create a new footprint?](new_fp.md)
 * How to add pin?
@@ -22,7 +22,7 @@ Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 * How to edit group objects?
 * How to create multipin?
 
-# parts
+**Parts**
 
 * [How to add a new part?](add_part.md)
 * [How to select part?](select_part.md)
@@ -33,7 +33,7 @@ Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 * How to autoposition pcb parts?
 * How to autoposition part references?
 
-# traces
+**Traces**
 
 * [How to draw a copper track from pin to pin?](route.md)
 * [How to route branch?](routing_branch.md)
@@ -51,7 +51,7 @@ Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 * [How to change radius of arc?](seg_change_rad.md)
 * [How to add via?](add_via.md)
 
-# copper areas
+**Copper areas**
 
 * [How to add copper area?](add_area.md)
 * [How to add copper area similar to any area?](similar_area.md)
@@ -59,27 +59,27 @@ Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 * [How to pour copper area?](pour_area.md)
 * How to edit copper fill?
 
-# graphics
+**Graphics**
 
 * [How to add board outline or other line?](add_polyline.md)
 * How to edit polyline?
 * How to align polyline vertices?
 
-# nets
+**Nets**
 
 * [How to protect/unprotect netlist?](unprotect_nl.md)
 * How to edit nets group with netlist menu?
 * How to split net?
 * How to combine nets?
 
-# groups
+**Groups**
 
 * [How to rotate a part or group?](rotate.md)
 * [How to change side?(flip, mirror)](side.md)
 * [How to add merge?](add_merge.md)
 * How to align group objects?
 
-# infobox
+**Infobox**
 
 * [How to run Infobox?](IB_run.md)
 * [How to adjust initial window position of infobox?](IB_win_pos.md)
@@ -93,12 +93,12 @@ Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 * How to to find the differences in part list from version to version of your PCB project?
 * How to to find the differences in pin list from version to version of your PCB project?
 
-# design rule checking
+**Design rule checking**
 
 * [How to make a design check?](DRC.md)
 * How to create drc report?
 
-# production files
+**Production files**
 
 * [How to export gerber?(for PCB factories)](gerber.md)
 * [How to generate pick & place file?](pnp.md)
@@ -106,7 +106,7 @@ Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 * How to create a gerber file for making a stencil?
 * How to create gerber file for making a stencil?
 
-# more 
+**More**
 
 * How to use a measurement tool?
 * How to set default pad clearance for solder mask?
