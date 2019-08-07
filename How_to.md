@@ -6,11 +6,9 @@ Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 # start
 
 * [How to create PCB project?](new_project.md)
+* [How to change folder of libraries?](lib_folder.md)
 * [How to change layer color?](colors.md)
 * [How to make a layer invisible?](layer_vis.md)
-* [How to change folder of libraries?](lib_folder.md)
-* [How to edit libraries?](fp_edit.md)
-* [How to protect/unprotect netlist?](unprotect_nl.md)
 * [How to work with selection mask?](sel_mask.md)
 
 _How to edit grid size?]()_
@@ -74,6 +72,8 @@ How to align polyline vertices?_
 
 # nets
 
+* [How to protect/unprotect netlist?](unprotect_nl.md)
+
 _How to edit nets group with netlist menu?]()
 How to split net?]()
 How to combine nets?]()_
@@ -136,6 +136,7 @@ How to make an analysis of FreePcb projects for machines?]()
 How to to find the differences in part list from version to version of your PCB project?(by using Infobox)]()
 How to to find the differences in pin list from version to version of your PCB project?(by using Infobox)]()_
 
+* [How to edit libraries?](fp_edit.md)
 * [How to add text?](add_text.md)
 * [How to add solder mask cutout?](add_polyline.md)
 * [How to delete unconnected pins?](del_u_pins.md)
