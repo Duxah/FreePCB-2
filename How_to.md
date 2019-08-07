@@ -50,11 +50,13 @@ Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 * [How to convert a segment to arc?](seg_2_arc.md)
 * [How to change radius of arc?](seg_change_rad.md)
 * [How to add via?](add_via.md)
+* How to combine colinear segments?
 
 **Copper areas**
 
 * [How to add copper area?](add_area.md)
 * [How to add copper area similar to any area?](similar_area.md)
+* How to combine similar areas?
 * [How to add area cutout?](area_cutout.md)
 * [How to pour copper area?](pour_area.md)
 * How to edit copper fill?
