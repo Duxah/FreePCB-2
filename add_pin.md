@@ -1,0 +1,1 @@
+Select the Add > Pin menu item. This pops up the Add/Edit Pin dialog. The controls in this dialog are pretty much self-explanatory. Some of them will be enabled or disabled depending on the pin being added. Since we are adding the first pin, the Padstack > Same as pin # check box is disabled because there are no other pins present. 
