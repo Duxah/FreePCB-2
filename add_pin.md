@@ -11,6 +11,6 @@ We describe the main fields:
 4) The choice of the shape of the pad. If you create a smd pad in the top layer, then in the bottom you must select the NONE form.
 5) Type of connection to the copper area. You can set individually for any pin.
 
-![](add_pin.png)
+![](pictures/add_pin.png)
 
 # [return](How_to.md)
