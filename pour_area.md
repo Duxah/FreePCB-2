@@ -35,10 +35,14 @@ To see connection area type for through pin and/or change it, you need to open t
 
 ![](pictures/areas_th2.png)
 
+The width of the thermal barrier line is set in the CAM dialog. Press Ctrl + G to bring up this settings window.
+
 8) You can re-fill the rectangle area. (In this case, you need to delete the outdated area after the fill.
 9) Cut style. When LOW is selected, the round pad is drawn as octagon, and when HIGH is selected, then as a polygon with 20 vertices
 
 For example, with these settings, here's what happened:
+
+![](pictures/areas_exmp.png)
 
 ![](pictures/areas_exmp1.png)
 
