@@ -10,7 +10,7 @@ Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 * [How to change layer color?](colors.md)
 * [How to make a layer invisible?](layer_vis.md)
 * [How to work with selection mask?](sel_mask.md)
-* How to edit grid size?
+* [How to edit grid size?](grid.md)
 
 **Footprints**
 
