@@ -34,6 +34,8 @@ The exclamation mark at the beginning of the line means "exclude". For example, 
 
 ![](pictures/ib_f8.png)
 
+You can also selectively remove a part from the list by pressing the DELETE button, but keep in mind that the next time the filter function is called up or when the filter is reset, the part will reappear.
+
 to be continued...
 
 # [return](How_to.md)
