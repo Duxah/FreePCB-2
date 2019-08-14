@@ -60,10 +60,12 @@ Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 * How to add area cutout?
 * [How to pour copper area?](pour_area.md)
 * How to edit copper fill?
+* How to repour copper fill? 
 
 **Graphics**
 
 * [How to add board outline or other line?](add_polyline.md)
+* How to combine board outline?
 * How to edit polyline?
 * How to align polyline vertices?
 
