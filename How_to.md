@@ -83,17 +83,20 @@ Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 
 **Infobox**
 
+* [How to Infobox works?](IB_works.md)
 * [How to run Infobox?](IB_run.md)
 * [How to adjust initial window position of infobox?](IB_win_pos.md)
+* How to use Infobox filter?
 * How to highlight parts from Infobox partlist?
 * How to highlight pins or nets from Infobox pinlist?
-* How to print a list of unconnected pins?
-* How to use Infobox filter?
+* How to find unconnected pins?
 * How to save Infobox partlist?
 * How to export Infobox partlist?
 * How to filter parts whose pads have paste mask?
-* How to to find the differences in part list from version to version of your PCB project?
-* How to to find the differences in pin list from version to version of your PCB project?
+* How to load extern netlist? 
+* How to load extern partlist?
+* How to find the differences in part list from version to version of your PCB project?
+* How to find the differences in pin list from version to version of your PCB project?
 
 **Design rule checking**
 
