@@ -22,5 +22,12 @@ If you want only R1 to remain in the list, add a space at the end.
 
 You can also enter a few notations with a space.
 
+If you type %1 you will get in the list all references that end with line 1
+
+![](pictures/ib_f6.png)
+
+If you type %1%, you will get in the list all the symbols that contain the character 1
+
+![](pictures/ib_f7.png)
 
 # [return](How_to.md)
