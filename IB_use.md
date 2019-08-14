@@ -30,8 +30,10 @@ If you type `%1%`, you will get in the list all the symbols that contain the cha
 
 ![](pictures/ib_f7.png)
 
-The exclamation mark at the beginning of the line means "exclude". For example, if you write `!R`, then all symbols starting with `R`. disappear from the list. To filter even more, you can add letters to this line and put a space between them
+The exclamation mark at the beginning of the line means "exclude". For example, if you write `!R`, then all symbols starting with `R` disappear from the list. To filter even more, you can add letters to this line and put a space between them (at the end you also need to add a space).
 
 ![](pictures/ib_f8.png)
+
+to be continued...
 
 # [return](How_to.md)
