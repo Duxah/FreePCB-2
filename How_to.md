@@ -85,7 +85,7 @@ Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 
 **Infobox**
 
-* [How to Infobox works?](IB_works.md)
+* [How the Infobox works?](IB_works.md)
 * [How to run Infobox?](IB_run.md)
 * [How to adjust initial window position of infobox?](IB_win_pos.md)
 * How to use Infobox filter?
