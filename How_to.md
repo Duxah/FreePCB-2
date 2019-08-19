@@ -115,7 +115,7 @@ Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 
 **More**
 
-* How to use a measurement tool?
+* [How to use a measurement tool?](measurement_tool.md)
 * How to set default pad clearance for solder mask?
 * How to import netlist?
 * How to export netlist?
