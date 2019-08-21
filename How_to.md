@@ -20,7 +20,7 @@ Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 * How to add polyline?
 * How to edit polyline?
 * [How to edit group objects?](fp_group.md)
-* How to create multipin?
+* [How to create multipin?](multipin.md)
 
 **Parts**
 
