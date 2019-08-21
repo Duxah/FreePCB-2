@@ -14,6 +14,8 @@ In the following example, a merge is created where inverse polygons with NONE ha
 
 ![](pictures/merge1.png)
 
+Now we will generate the top_copper gerber file and look through the ViewMate viewer:
+
 ![](pictures/merge2.png)
 
 To select a merge, left-click on the part that belongs to this merge. 
