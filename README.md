@@ -75,5 +75,4 @@ In this example, 3 independent circuit boards. (printed circuit board panel). In
 
 [Start learning FreePcb-2](/How_to.md)
 
-`(Translated from Russian by Google inc.)`
-`this repository is under development` ©2019
+`(Translated from Russian by Google inc.)` ©2019
