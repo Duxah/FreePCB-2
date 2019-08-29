@@ -30,15 +30,9 @@ but at the same time includes almost all the tools needed for professional use (
 ***
 # Latest improvements and new features
 ![]()
-`Version 2-028 (2019-06-12):`
+`Version 2-029 (2019-08-30):`
 
-* In the footprint editor, you can edit a group of objects: duplication, rotation, mirroring.
-* Added warning in DRC check if PCB name is missing
-* When you press the buttons 3 or 4 again, the silk screen layer goes to the background
-* Now you can move the side of the polyline with the keyboard arrows
-* A button to quickly [export gerber files to ViewMate](https://youtu.be/ZzjedfBTwvc) has been added to the File menu. (for viewing and printing)
-* Overwrite protection when saving a file that was created in FreePcb version 1.359
-* Specifying a folder with FreePcb-2 projects in the INFOBOX SETTINGS menu is no longer required (21.06.2019)
+
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) The [download](https://github.com/Duxah/FreePCB-2/archive/master.zip) (Updated 07.2019!) includes a folder with the program, manual 1.359, footprint libraries, examples of printed circuit boards, a description of the 2.028 file format for developers.
 
