@@ -30,9 +30,21 @@ but at the same time includes almost all the tools needed for professional use (
 ***
 # Latest improvements and new features
 ![]()
-`Version 2-029 (2019-08-30):`
+`Version 2-030 (2019-08-30):`
 
+* Editable grid. You can change the step of the visible grid or placement grid directly from the main program window.
 
+![](pictures/editable_grid.png)
+
+* Meshless tracing mode. (more convenient mode, because additional vertices are not created when starting the trace from the pad when the pad is not on the grid nodes).
+
+![](pictures/meshless.png)
+
+* In the footprint editor, a polyline can be transferred to a copper layer. Thus it is easier to draw for example PCB antennas and other complex footprints.
+
+![](pictures/multi_part.png)
+
+* ...
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) The [download](https://github.com/Duxah/FreePCB-2/archive/master.zip) (Updated 07.2019!) includes a folder with the program, manual 1.359, footprint libraries, examples of printed circuit boards, a description of the 2.028 file format for developers.
 
