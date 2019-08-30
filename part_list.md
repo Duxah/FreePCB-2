@@ -4,4 +4,8 @@ Sometimes it becomes necessary to select the same value of a parameter (for exam
 If the new footprint is already used in other details on this printed circuit board, then it is stored in the local cache, in which case it will be enough to simply enter the name in the footprint editor
  Enter a new value and click OK.
  
+ ![](pictures/partlist.png)
+ 
+ ![](pictures/partlist2.png)
+ 
 # [return](How_to.md)
