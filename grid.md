@@ -11,9 +11,9 @@ You can change the step of the visible grid or placement grid directly from the 
 
 ![](pictures/editable_grid.png)
 
-# Meshless tracing mode. 
+# Meshless routing mode. 
 
-More convenient mode, because additional vertices are not created when starting the trace from the pad when the pad is not on the grid nodes. To switch to meshless tracing mode, select a grid step value of 0
+More convenient mode, because additional vertices are not created when starting the trace from the pad when the pad is not on the grid nodes. To switch to meshless routing mode, select a grid step value of 0
 
 ![](pictures/meshless.png)
 
