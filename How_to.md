@@ -29,7 +29,7 @@ Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 * [How to align selected parts in a line?](line_up.md)
 * [How to edit part footprint?](edit_fp.md)
 * [How to move part?](move_part.md)
-* How to edit parts group with partlist menu?
+* [How to edit parts group with partlist menu?](part_list.md)
 * How to autoposition pcb parts?
 * How to autoposition part references?
 
