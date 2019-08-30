@@ -17,7 +17,7 @@ In the window that opens, select the layers:
  
  ![](pictures/exp_gerb2.png)
  
-If there are inner layers, select them. If you don't know which layers, please check all layers, JLCPCB will help you to use the right layers. Then click the DEFAULT button, and then click the CREATE FILES button.
+If there are inner layers, select them. If you don't know which layers, please check all layers, JLCPCB will help you to use the right layers. Then click the DEFAULT button(press the button several times to select one of the five standard folder names, or enter your name), and then click the CREATE FILES button.
  
  ![](pictures/exp_gerb3.png)
  
