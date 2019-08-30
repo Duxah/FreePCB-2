@@ -6,4 +6,15 @@ There are three grids in `FREEPCB`:
 
 _All default settings are stored in the file DEFAULT.CFG which is located in the root directory of FREEPCB. You can open this file in a text editor and carefully modify it, observing the format._
 
+
+You can change the step of the visible grid or placement grid directly from the main program window.
+
+![](pictures/editable_grid.png)
+
+# Meshless tracing mode. 
+
+More convenient mode, because additional vertices are not created when starting the trace from the pad when the pad is not on the grid nodes. To switch to meshless tracing mode, select a grid step value of 0
+
+![](pictures/meshless.png)
+
 # [return](How_to.md)
