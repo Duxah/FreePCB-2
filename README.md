@@ -55,6 +55,8 @@ _You can participate in the improvement of the application. Feel free to write a
 ***
 ![](pictures/ip.png)
 ![](pictures/jlcpcb.png)
+![](pictures/pselectro.png)
+![](pictures/bittele.png)
 ***
 Contacts.
 
