@@ -53,6 +53,9 @@ but at the same time includes almost all the tools needed for professional use (
 _You can participate in the improvement of the application. Feel free to write a message regarding working with FREEPCB so that we can release the official version 2-030 as soon as possible. Working together is always more efficient._
 
 ***
+![](pictures/ip.png)
+![](pictures/jlcpcb.png)
+***
 Contacts.
 
 * [User forum](https://groups.yahoo.com/neo/groups/FreePCB/info) on Yahoo Group. 
