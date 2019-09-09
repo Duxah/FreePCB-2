@@ -54,9 +54,9 @@ _You can participate in the improvement of the application. Feel free to write a
 
 ***
 [![](pictures/ip.png)](https://interpribor.ru)
-![](pictures/jlcpcb.png)
-![](pictures/pselectro.png)
-![](pictures/bittele.png)
+[![](pictures/jlcpcb.png)](https://jlcpcb.com)
+[![](pictures/pselectro.png)](http://www.pselectro.ru)
+[![](pictures/bittele.png)](https://www.7pcb.com)
 ***
 Contacts.
 
