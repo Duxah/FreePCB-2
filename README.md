@@ -21,8 +21,8 @@ The FreePcb-2.000 or later program presented on this site is a development branc
 
 ***
 # The program is focused on:
-1. accessibility (it does not have a limit on the number of pins, footprint libraries or any other parameters, it has only limitations on 10,000 parts contained in the project file, but I think that this is more than enough),
-2. ease of learning (creating a manual for version 2-028),
+1. accessibility (it does not have a limit on the number of pins, footprint libraries or any other parameters, it has only limitations on 10,000 parts contained in the project file, but this is more than enough for most developments),
+2. ease of learning (creating a manual for version 2-030),
 3. reduction of time for the development of printed circuit boards (A distinctive feature of FreePcb and FreePcb-2 from other PCB-editors is an interface using function keys, which speeds up the process of editing a printed circuit board for an experienced user),
 4. saving computer memory (takes ~ 50MB hard drive),
 but at the same time includes almost all the tools needed for professional use (suitable for small businesses). 
