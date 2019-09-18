@@ -57,6 +57,8 @@ _You can participate in the improvement of the application. Feel free to write a
 [![](pictures/jlcpcb.png)](https://jlcpcb.com)
 [![](pictures/pselectro.png)](http://www.pselectro.ru)
 [![](pictures/bittele.png)](https://www.7pcb.com)
+[![](pictures/arius.png)](https://www.arius.com)
+
 ***
 Contacts.
 
