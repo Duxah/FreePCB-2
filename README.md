@@ -53,32 +53,31 @@ but at the same time includes almost all the tools needed for professional use (
 _You can participate in the improvement of the application. Feel free to write a message regarding working with FREEPCB so that we can release the official version 2-030 as soon as possible. Working together is always more efficient._
 
 ***
-# Companies that use FreePCB-2:
+### Companies that use FreePCB-2:
 [![](pictures/ip.png)](https://interpribor.ru)
 
-***
-# Partners:
+### Partners:
 [![](pictures/jlcpcb.png)](https://jlcpcb.com)
 [![](pictures/pselectro.png)](http://www.pselectro.ru)
 [![](pictures/bittele.png)](https://www.7pcb.com)
 [![](pictures/arius.png)](https://www.arius.com)
 
 ***
-Contacts.
+### Contacts.
 
 * [User forum](https://groups.yahoo.com/neo/groups/FreePCB/info) on Yahoo Group. 
 * If you have any suggestions related to FreePcb-2 or you do not want to submit your question for public review, send to [email](https://freepcb.online/Discuss/).
 * If you want to improve the translation of this document, please send your file by email from the site [freepcb.online](https://freepcb.online/Discuss/)
 
 ***
-`useful links`
+### `useful links`
 1. [License](LICENSE)
 2. [FreePcb user guide 1-359](https://github.com/Duxah/FreePCB-2/raw/master/FreePcb-2/bin/doc/freepcb_user_guide.pdf)
 3. [FreePcb-2 "How to.." guide](/How_to.md)(is underway)
 4. [About this development branch](/About_development.md)
 
 ***
-## Get started with FreePcb-2
+# Get started with FreePcb-2
 Download the folder with the application and run the file FreePcb.exe
 
 ### Training on the example of the smart_kitchen.fpc file in the EXAMPLES folder
