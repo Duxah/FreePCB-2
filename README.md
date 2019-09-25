@@ -53,13 +53,11 @@ but at the same time includes almost all the tools needed for professional use (
 _You can participate in the improvement of the application. Feel free to write a message regarding working with FREEPCB so that we can release the official version 2-030 as soon as possible. Working together is always more efficient._
 
 ***
-Companies that use FreePCB-2:
-
+# Companies that use FreePCB-2:
 [![](pictures/ip.png)](https://interpribor.ru)
 
 ***
-Partners
-
+# Partners:
 [![](pictures/jlcpcb.png)](https://jlcpcb.com)
 [![](pictures/pselectro.png)](http://www.pselectro.ru)
 [![](pictures/bittele.png)](https://www.7pcb.com)
