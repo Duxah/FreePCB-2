@@ -48,7 +48,7 @@ but at the same time includes almost all the tools needed for professional use (
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) The [download](https://github.com/Duxah/FreePCB-2/archive/master.zip) (portable version from 08/30/2019) includes a folder with the program, manual 1.359, footprint libraries, examples of printed circuit boards, a description of the 2.028 file format for developers.
 
-![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/По%20рукам.png) If you like version 2-030, place a `freepcb.dev` link on your site. Have fun using FreePcb-2
+![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/По%20рукам.png) If you like version 2-030, place a `freepcb.dev` [logo](pictures/logo.png) with link on your site. Have fun using FreePcb-2
 
 _You can participate in the improvement of the application. Feel free to write a message regarding working with FREEPCB so that we can release the official version 2-030 as soon as possible. Working together is always more efficient._
 
