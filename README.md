@@ -54,7 +54,7 @@ _You can participate in the improvement of the application. Feel free to write a
 
 ***
 ### `Companies that use FreePCB-2:`
-[![](pictures/ip.png)](https://interpribor.ru)
+[![](pictures/LLC_IP.png)](https://interpribor.com)
 
 ### `Partners:`
 [![](pictures/jlcpcb.png)](https://jlcpcb.com)
