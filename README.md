@@ -22,35 +22,29 @@ The FreePcb-2.000 or later program presented on this site is a development branc
 ***
 # `The program is focused on:`
 1. accessibility (it does not have a limit on the number of pins, footprint libraries or any other parameters, it has only limitations on 10,000 parts contained in the project file, but this is more than enough for most developments),
-2. ease of learning (creating a manual for version 2-030),
+2. ease of learning (creating a manual for version 2-031),
 3. reduction of time for the development of printed circuit boards (A distinctive feature of FreePcb and FreePcb-2 from other PCB-editors is an interface using function keys, which speeds up the process of editing a printed circuit board for an experienced user),
 4. saving computer memory (takes ~ 50MB hard drive),
 but at the same time includes almost all the tools needed for professional use (suitable for small businesses). 
 
 ***
 # `Latest improvements and new features`
-![]()
-`Version 2-030 (2019-08-30):`
 
-* Editable grid. You can change the step of the visible grid or placement grid directly from the main program window.
+`Version 2-031 (2019-10-18):`
 
-![](pictures/editable_grid.png)
+* Now, when you hover over a pin, the pin name and network name appear next to it. This is especially useful when manually editing netlist (creating pin pinlines) 
 
-* Meshless tracing mode. (more convenient mode, because additional vertices are not created when starting the trace from the pad when the pad is not on the grid nodes).
-
-![](pictures/meshless.png)
-
-* In the footprint editor, a polyline can be transferred to a copper layer. Thus it is easier to draw for example PCB antennas and other complex footprints.
-
-![](pictures/multi_part.png)
+![](pictures/show_pin_state.png)
 
 * ...
 
-![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) The [download](https://github.com/Duxah/FreePCB-2/archive/master.zip) (portable version from 08/30/2019) includes a folder with the program, manual 1.359, footprint libraries, examples of printed circuit boards, a description of the 2.028 file format for developers.
+`will be uploaded to the site on October 18`
 
-![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/По%20рукам.png) If you like version 2-030, post a [logo](pictures/logo.png) with a link to the site `freepcb.dev` on your site. Have fun using FreePcb-2
+![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) The download(https://github.com/Duxah/FreePCB-2/archive/master.zip) (portable version from 10/18/2019) includes a folder with the program, manual 1.359, footprint libraries, examples of printed circuit boards, a description of the 2.028 file format for developers.
 
-_You can participate in the improvement of the application. Feel free to write a message regarding working with FREEPCB so that we can release the official version 2-030 as soon as possible. Working together is always more efficient._
+![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/По%20рукам.png) If you like version 2-031, post a [logo](pictures/logo.png) with a link to the site `freepcb.dev` on your site. Have fun using FreePcb-2
+
+_You can participate in the improvement of the application. Feel free to write a message regarding working with FREEPCB so that we can release the official version 2-031 as soon as possible. Working together is always more efficient._
 
 ***
  `Companies that use FreePCB-2`
