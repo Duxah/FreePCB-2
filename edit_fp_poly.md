@@ -17,6 +17,10 @@ When the polyline node is selected, a menu appears where you can:
 * `F3 (ADD_CORNER)` - если линия является прямой то эта кнопка становится активной. Нажмите чтобы вставить дополнительную вершину в этот сегмент полилинии.
 * `F4 (HATCH)` - если линия является замкнутой(см. F1) то эта кнопка становится активной. Нажмите чтобы залить или очистить область внутри контура полилинии.
 * `F5 (HIDE)` - вы можете скрыть линию. В этом случае она не будет отображаться в PCB-редакторе печатной платы, и ее не будет в гербер-файлах.
-* `F6 F7 F8` - перенести линию в другой слой. Вы можете перенести линию в слой меди чтобы например нарисовать антенну, или в слой notes.
+* `F6 F7 F8` - transfer the polyline to the copper layer for example to draw an antenna
+
+![](pictures/multi_part.png)
+
+and also you can move the polyline to the notes layer.
 
 # ![return](How_to.md)
