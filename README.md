@@ -13,7 +13,7 @@
 * Autosave
 
 View
-![PCB](/pictures/img2.png)
+[![PCB](/pictures/img2.png)](https://freepcb.dev)
 
 ***
 # `About`
