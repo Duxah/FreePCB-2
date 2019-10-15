@@ -30,7 +30,7 @@ but at the same time includes almost all the tools needed for professional use (
 ***
 # `Latest improvements and new features`
 
-`Version 2-031 (2019-10-18):`
+`Version 2-031 (2019-10-15):`
 
 * Now, when you hover over a pin, the pin name and network name appear next to it. This is especially useful when manually editing netlist (creating pin pinlines) 
 
@@ -38,9 +38,9 @@ but at the same time includes almost all the tools needed for professional use (
 
 * ...
 
-`will be uploaded to the site on October 18`
 
-![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) The download(https://github.com/Duxah/FreePCB-2/archive/master.zip) (portable version from 08/30/2019) includes a folder with the program, manual 1.359, footprint libraries, examples of printed circuit boards, a description of the 2.028 file format for developers.
+
+![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) The download (https://github.com/Duxah/FreePCB-2/archive/master.zip) (portable version from 10/15/2019) includes a folder with the program, manual 1.359, footprint libraries, examples of printed circuit boards, a description of the 2.028 file format for developers.
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/По%20рукам.png) If you like version 2-031, post a [logo](pictures/logo.png) with a link to the site `freepcb.dev` on your site. Have fun using FreePcb-2
 
