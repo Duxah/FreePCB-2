@@ -120,7 +120,8 @@ Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 * How to import netlist?
 * How to export netlist?
 * How to make dxf export?
-* How to import bmp picture?
+* [How to import dxf?](dxf_imp.md)
+* [How to import bmp picture?](bmp_imp.md)
 * How to import Pcad-ascii files?
 * How to export Pcad-ascii files?
 * How to print pcb view?
