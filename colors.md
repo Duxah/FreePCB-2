@@ -4,12 +4,12 @@ The color for each layer can be modified by selecting Layers from the View menu,
 
 If you updated the version from the site and you don’t like the default color scheme of the layers, then most likely there is a checkmark "Use system colors". In order to change the color scheme it is not necessary to manually change the configuration file after you have updated the version from the site. Simply:
 
- * run FreePcb-2;
- * open any project file;
- * Enter the menu VIEW-> LAYERS;
- * Uncheck "Use system colors";
- * Click OK;
- * Close the program window without saving the file!
+* run FreePcb-2;
+* open any project file;
+* Enter the menu VIEW-> LAYERS;
+* Uncheck "Use system colors";
+* Click OK;
+* Close the program window without saving the file!
  
 Now reading the color set will be from the file. Open the file that was used before updating the version of Freepcb
 
