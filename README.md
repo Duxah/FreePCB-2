@@ -47,16 +47,14 @@ but at the same time includes almost all the tools needed for professional use.
 You can participate in the improvement of the application. Feel free to write a message regarding working with FREEPCB so that we can release the official version 2-031 as soon as possible. Working together is always more efficient.
 
 ***
- Large enterprises found among FreePcb-2 users: 
- [![](pictures/LLC_IP.png)](https://interpribor.com) 
- [![](pictures/LOCARUS_LOGO.png)](https://locarus.ru)
-
-***
 Partners:
+[![](pictures/LLC_IP.png)](https://interpribor.com) 
+[![](pictures/LOCARUS_LOGO.png)](https://locarus.ru)
+
 [![](pictures/jlcpcb.png)](https://jlcpcb.com)
 [![](pictures/pselectro.png)](http://www.pselectro.ru)
-[![](pictures/bittele.png)](https://www.7pcb.com)
 [![](pictures/arius.png)](https://www.arius.com)
+[![](pictures/bittele.png)](https://www.7pcb.com)
 
 ***
 ### `Contacts:`
