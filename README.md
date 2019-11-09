@@ -73,10 +73,6 @@ You can participate in the improvement of the application. Feel free to write a 
 
 ***
 # `Get started with FreePcb-2`
-Download the folder with the application and run the file FreePcb.exe
-
-### `Training on the example of the smart_kitchen.fpc file in the EXAMPLES folder`
-In this example, 3 independent circuit boards. (printed circuit board panel). In the context menu of the right mouse button, click the full view to see them entirely. From the Tools main menu, launch the Infobox application, which will help you find the pcb part in the project. 
 
 [Start learning FreePcb-2](/How_to.md)
 
