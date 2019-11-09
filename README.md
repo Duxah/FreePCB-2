@@ -30,15 +30,27 @@ but at the same time includes almost all the tools needed for professional use.
 ***
 # `Latest improvements and new features`
 
-`Version 2-031 (2019-10-15):`
+`Version 2-032 (2019-11-11):`
 
-* Now, when you hover over a pin, the pin name and network name appear next to it. This is especially useful when manually editing netlist (creating pin pinlines) 
+* When using the measurement tool, the angle is displayed
 
-![](pictures/show_pin_state.png)
+![](/pictures/m_tool4.png)
 
-* ...
+* Added testing of copper vector areas for breaking
 
+![](/pictures/torn.png)
 
+* InfoBox shows the net in the mode of dragging a connection to a pin, for convenience when manually connecting pins
+
+![](/pictures/IB_drag_con.png)
+
+* InfoBox shows the number of parts in the filter
+
+![](/pictures/IB_num_parts.png)
+
+* R button performs filter reset function
+
+![](/pictures/IB_res_f.png)
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) The [download](https://github.com/Duxah/FreePCB-2/archive/master.zip) (portable version from 10/15/2019) includes a folder with the program, manual 1.359, footprint libraries, examples of printed circuit boards, a description of the 2.028 file format for developers.
 
