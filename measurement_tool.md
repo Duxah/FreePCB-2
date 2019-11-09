@@ -10,4 +10,8 @@ To cancel highlighting, right-click `CANCEL_HIGHLIGHT` in the mode when nothing 
 
 ![](pictures/m_tool3.png)
 
+Starting from version 2.032, the angle between two lines is also displayed during measurement:
+
+![](pictures/m_tool4.png)
+
 # [return](How_to.md)
