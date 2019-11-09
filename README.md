@@ -50,9 +50,9 @@ but at the same time includes almost all the tools needed for professional use.
 
 * R button performs filter reset function
 
-![](/pictures/IB_res_f.png)
+(this version will be provided on November 11, 2019.)
 
-![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) The [download](https://github.com/Duxah/FreePCB-2/archive/master.zip) (portable version from 10/15/2019) includes a folder with the program, manual 1.359, footprint libraries, examples of printed circuit boards, a description of the 2.028 file format for developers.
+![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) The [download v2-031](https://github.com/Duxah/FreePCB-2/archive/master.zip) (portable version from 10/15/2019) includes a folder with the program, manual 1.359, footprint libraries, examples of printed circuit boards, a description of the 2.031 file format for developers.
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/По%20рукам.png) If you like version 2-031, post [this](pictures/logo.png) link on your website. Have fun using FreePcb-2.
 
