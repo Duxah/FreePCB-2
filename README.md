@@ -1,6 +1,6 @@
 
 ***
-### `Introduction:`
+### `Introduction`
 * 1 to 16 copper layers
 * Board size up to 60 inches by 60 inches
 * Uses English or metric units (i.e. mils or mm) for most functions.
@@ -20,7 +20,7 @@ View
 The FreePcb-2.000 or later program presented on this site is a development branch of version [1.359](http://freepcb.com), published in 2010. FreePcb-2 contains new features not available in version 1.359 and provides more freedom for circuit board developers. Start working with FreePcb-2 right now to feel the difference. If you don’t want to waste your time mastering complex CAD applications, download FreePcb-2, which can do almost everything the same, but is easy to learn and takes up little disk space on your computer. FreePcb-2 does not have a huge number of buttons (as in other CAD systems), the purpose of which is not immediately clear. There are only 9 buttons (F1, F2 ... F9), the Functions of which change depending on the type of the selected element, so FreePcb-2 can be studied even without instructions. There is also a right-click context menu with additional features. In FreePcb, you can create a netlist manually by adding parts and then connecting their pins. But you can also import a netlist in the PADS-PCB format from any external circuit editor, for example [TinyCad](https://www.tinycad.net).
 
 ***
-### `Advantages:`
+### `Advantages`
 1. accessibility (it does not have a limit on the number of pins, footprint libraries or any other parameters),
 2. ease of learning (creating a manual for version 2-031),
 3. reduction of time for the development of printed circuit boards (A distinctive feature of FreePcb and FreePcb-2 from other PCB-editors is an interface using function keys, which speeds up the process of editing a printed circuit board for an experienced user),
