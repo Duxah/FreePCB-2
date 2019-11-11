@@ -36,7 +36,7 @@ but at the same time includes almost all the tools needed for professional use.
 
 ![](/pictures/m_tool4.png)
 
-* Added testing of copper vector areas for breaking
+* Added testing of copper vector areas for breaking (Main menu DRC -> Check copper areas)
 
 ![](/pictures/torn.png)
 
