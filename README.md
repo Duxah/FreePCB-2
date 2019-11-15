@@ -50,6 +50,8 @@ but at the same time includes almost all the tools needed for professional use.
 
 * R button performs filter reset function
 
+* Pin status display is now much better
+
 (this version will be available from November 11, 2019)
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) The [download v2-032](https://github.com/Duxah/FreePCB-2/archive/master.zip) (portable version from 11/11/2019) includes a folder with the program, manual 1.359, footprint libraries, examples of printed circuit boards, a description of the 2.032 file format for developers.
