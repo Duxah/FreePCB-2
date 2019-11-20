@@ -8,4 +8,4 @@ Connect these nodes to the pins. Now delete the extra segment by pressing the F9
 
 Now you can divide the network into 2 different.
 
-# [Return](How_To.md)
+# [Return](How_to.md)
