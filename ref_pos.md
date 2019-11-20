@@ -12,4 +12,4 @@ Now press the F7 button (Ref_Auto_Pos). If the angle of the Ref string is not a 
 
 ![](pictures/ref_pos2.png)
 
-[Return](How_To.md)
+[Return](How_to.md)
