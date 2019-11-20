@@ -52,6 +52,7 @@ Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 * [How to add via?](add_via.md)
 * [How to combine colinear segments?](check_tr.md)
 * How to convert a route to a branch, and a branch to a route
+* Something else...
 
 **Copper areas**
 
