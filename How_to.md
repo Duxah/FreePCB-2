@@ -31,7 +31,7 @@ Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 * [How to move part?](move_part.md)
 * [How to edit parts group with partlist menu?](part_list.md)
 * [How to autoposition pcb parts?](part_pos.md)
-* How to autoposition part references?
+* [How to autoposition part references?](ref_pos.md)
 
 **Traces**
 
