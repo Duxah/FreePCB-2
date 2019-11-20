@@ -6,11 +6,15 @@ We put the part in the place where there will be a gap, then add two [additional
 
 ![](pictures/edit_tr9_1.png)
 
+[Connect](edit_traces.md) these nodes to the pins. 
+
 ![](pictures/edit_tr9_2.png)
 
-[Connect](edit_traces.md) these nodes to the pins. Now delete the extra segment by pressing the F9 button.
+Now route these segments (when the rat line segment is highlighted, press `F4(Route)` to start dragging the trace)
 
 ![](pictures/edit_tr9_3.png)
+
+Now delete the extra segment by pressing the `F9(Delete Segment)` button.
 
 ![](pictures/edit_tr9_4.png)
 
