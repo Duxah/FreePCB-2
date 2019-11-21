@@ -1,4 +1,4 @@
-It may be necessary to insert a two-pin part in the route branch, so that, for example, then divide the network into 2 different ones.
+It may be necessary to insert a two-pin part in the route branch, so that, for example, then divide the net into 2 different ones.
 
 I will show you with a simple example how to do this. 
 
