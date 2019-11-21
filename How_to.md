@@ -11,6 +11,7 @@ Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 * [How to make a layer invisible?](layer_vis.md)
 * [How to work with selection mask?](sel_mask.md)
 * [How to edit grid size?](grid.md)
+* [How to see the list of hot keys?](hotkeys.md)
 
 **Footprints**
 
@@ -51,7 +52,7 @@ Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 * [How to change radius of arc?](seg_change_rad.md)
 * [How to add via?](add_via.md)
 * [How to combine colinear segments?](check_tr.md)
-* How to convert a route to a branch, and a branch to a route
+* [How to convert a route to a branch, and a branch to a route](trace2branch.md)
 * [Something else...](edit_traces2.md)
 
 **Copper areas**
