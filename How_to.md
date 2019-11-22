@@ -128,7 +128,7 @@ Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 * [How to import bmp picture?](bmp_imp.md)
 * How to import Pcad-ascii files?
 * How to export Pcad-ascii files?
-* How to print pcb view?
+* [How to print pcb view?](pcb_view.md)
 * How to highlight parts when printing?
 * How to make all via holes the same size?
 * How to change ref or value size?
