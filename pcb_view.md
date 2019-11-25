@@ -22,6 +22,6 @@ Now you need to create gerber files for the layers you want to print. Press CTRL
 
 Now the folder has appeared in the menu.
 
-If the folder does not appear, put a shortcut on the Gerber file viewer in the ShortCut directory, which is located in the root directory with FreePcb. The Gerber File Viewer must support the drag & drop function for folders, such as ViewMate or GerberLogix.
+If the folder does not appear, put a shortcut on the Gerber file viewer in the ShortCut directory, which is located in the root directory with FreePcb. The Gerber File Viewer must support the drag & drop function for folders, for example ViewMate or GerberLogix.
 
 # [Return](How_to.md)
