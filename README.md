@@ -33,7 +33,7 @@ If at least one of the following programs is installed on your computer:
 
 [![](pictures/gerbv_250x60.png)](http://gerbv.geda-project.org/)
 
-You will be able to upload gerber files into it for viewing, using the menu command directly from the FreePcb-2 window. (available from November 30, 2019)
+You will be able to upload gerber files into it for viewing, using the menu command directly from the FreePcb-2 window. (available from November 26, 2019)
 
 ![](pictures/gerbv.png)
 
