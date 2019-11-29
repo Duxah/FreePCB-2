@@ -135,7 +135,8 @@ Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 * How to sort footprint libraries? (for example alphabetically)
 * How to add arc-elements of traces or copper areas?
 * How to remove arc-elements of traces or copper areas?
-* How to competently make PCB panelization?]()
+* How to competently make PCB panelization?
+* [How to compare parts kits for different PCB?](diff_pcb.md)
 * How to make an analysis of FreePcb projects for machines?
 * [How to edit libraries?](fp_edit.md)
 * [How to add text?](add_text.md)
