@@ -95,6 +95,7 @@ You can participate in the improvement of the application. Feel free to write a 
 * [User forum](https://groups.yahoo.com/neo/groups/FreePCB/info) on Yahoo Group. 
 * If you have any suggestions related to FreePcb-2 or you do not want to submit your question for public review, send to [email](https://freepcb.online/Discuss/).
 * If you want to improve the translation of this document, please send your file by email from the site [freepcb.online](https://freepcb.online/Discuss/)
+* If you have your own libraries of footprints that you are ready to share with everyone, then you can [send them to me](https://freepcb.online/Discuss/), and I'll post them on the site.
 
 ***
 ### `useful links`
