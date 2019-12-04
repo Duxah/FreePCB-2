@@ -20,7 +20,7 @@
 * combining several footprints into one directly in PCB editing mode using the external program Libraries.exe
 * the ability to organize libraries alphabetically, by the number of pins or by the number of holes (Libraries.exe)
 * external program [infobox.exe](https://youtu.be/I0mb6RNXuqo) knows how to [find parts](https://youtu.be/8IQnL1ws65g) on a printed circuit board
-* in freepcb, you can not fill copper polygons. gaps are drawn automatically when creating the Gerber files, but sometimes you need to fill it. External program [AREA_SPLITTER.EXE](https://youtu.be/2jqGSPgFSpU) fills polygons
+* in freepcb 2, you can use copper area without fill - clearances are drawn automatically when creating the Gerber files, but sometimes still it’s more convenient for us to fill it. External program [AREA_SPLITTER.EXE](https://youtu.be/2jqGSPgFSpU) fills polygons
 * [export to mechanical format dxf](https://youtu.be/5NpD_ZXCbkI)
 * import from dxf
 * [import pictures from bmp](https://youtu.be/WMQjF043Kko)
