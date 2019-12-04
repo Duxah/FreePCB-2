@@ -9,7 +9,7 @@ In mode nont selected press the F2 button, and then in the dialog that opens, se
 
 ![](pictures/dlg_area.png)
 
-Click OK to start dragging. To complete, right-click. You should know that the clearance for objects of different networks will be created automatically when the generation of the Gerber file of the layer occurs, provided that it is selected:
+Click OK to start dragging. To complete, right-click. You should know that the clearance for objects of different nets will be created automatically when the generation of the Gerber file of the layer occurs, provided that it is selected:
 
 * EDGE hatch pattern
 
