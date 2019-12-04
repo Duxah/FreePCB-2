@@ -93,6 +93,7 @@ Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 * [How the Infobox works?](ib_works.md)
 * [How to adjust initial window position of infobox?](IB_win_pos.md)
 * [How to use Infobox filter?](IB_use.md)
+* [How to save Ref List?](IB_ref_list.md)
 * How to highlight parts from Infobox partlist?
 * How to highlight pins or nets from Infobox pinlist?
 * How to find unconnected pins?
