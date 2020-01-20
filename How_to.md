@@ -98,6 +98,7 @@ Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 * [How to highlight pins or nets from Infobox pinlist?](ib_highlight_pins.md)
 * [How to fix filtered parts?](ib_fix.md)
 * [How to add part values&package to storage?](ib_add_values.md)
+* [How to see a set of hole diameters?](hole_diam.md)
 * How to find unconnected pins?
 * How to save Infobox partlist?
 * How to export Infobox partlist?
