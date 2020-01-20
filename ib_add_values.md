@@ -1,4 +1,4 @@
-### Creating a repository of values and packages
+### Creating a repository of values and packages (ver 2-033)
 
 When the PCB project is put into production at your enterprise, it makes sense to store in a special library the nomenclature of parts identified by the combination of VALUE & PACKAGE parameters. You can at any time through Infobox find out in which project this or that part was used.
 
@@ -14,6 +14,11 @@ These files are created in the directory with the infobox application in the VPL
 Now, to force Infobox to search for details from the Value & Package repository that we created, you just need to clear the list of infobox parts.
 
 1) Type some kind of confusion in the REF filter box as shown in the figure. Now the list is empty.
+
+![](pictures/ib_vp2.png)
+
 2) Enter the desired attribute in the VALUE or PACKAGE box.
+
+![](pictures/ib_vp3.png)
 
 When the infobox parts list is empty, the infobox searches for elements among the VPL libraries. The background color turns gray - this means that the elements are found in the VPL library and not in the current PCB project. By clicking on any list element in the header of the info box, we see the name of the VPL file.
