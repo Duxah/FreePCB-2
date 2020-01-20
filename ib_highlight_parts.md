@@ -20,5 +20,5 @@ It is useful to know that when the list is already highlighted, pressing 'Highli
 
 ![](pictures/sel_p6.png)
 
-![](pictures/sel_p7.png)
+![](pictures/sel_p8.png)
 
