@@ -110,7 +110,7 @@ Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 **Design rule checking**
 
 * [How to make a design check?](DRC.md)
-* How to create drc report?
+* [How to create report file?](drc_report.md)
 
 **Production files**
 
