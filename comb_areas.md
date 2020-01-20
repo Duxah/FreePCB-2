@@ -6,4 +6,4 @@ You can combine intersecting similar copper areas. Unlike FreePcb-1.359, which c
 
 Select the DRC->Check Copper Areas main menu item and such areas will be merged.
 
-![](pictures/comb_areas1.png)
+![](pictures/comb_areas2.png)
