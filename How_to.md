@@ -85,7 +85,7 @@ Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 * [How to rotate a part or group?](rotate.md)
 * [How to change side?(flip, mirror)](side.md)
 * [How to add merge?](add_merge.md)
-* How to align group objects?
+* [How to align group objects?](align_gr.md)
 
 **Infobox**
 
