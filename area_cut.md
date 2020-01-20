@@ -14,6 +14,10 @@ And then merge the fill by clicking on the main menu DRC-> Check Copper Areas
 
 ![](pictures/repour3.png)
 
+And these ugly corners will be deleted using the function `F9 Delete Bridge`
+
 ![](pictures/repour4.png)
+
+It turned out a piece of copper area with a different clearance
 
 ![](pictures/repour5.png)
