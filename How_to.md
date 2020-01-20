@@ -96,7 +96,7 @@ Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 * [How to save Ref List?](IB_ref_list.md)
 * [How to highlight parts from Infobox partlist?](ib_highlight_parts.md)
 * [How to highlight pins or nets from Infobox pinlist?](ib_highlight_pins.md)
-* How to fix filtered parts?
+* [How to fix filtered parts?](ib_fix.md)
 * How to add part values&package to storage?
 * How to find unconnected pins?
 * How to save Infobox partlist?
