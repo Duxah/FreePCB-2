@@ -17,7 +17,7 @@ Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 
 * [How to create a new footprint?](new_fp.md)
 * [How to add pin?](add_pin.md)
-* How to add text?
+* [How to add text?](edit_fp_text.md)
 * [How to add polyline?](add_fp_poly.md)
 * [How to edit polyline?](edit_fp_poly.md)
 * [How to edit group objects?](fp_group.md)
