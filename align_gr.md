@@ -1,0 +1,1 @@
+When a group of objects belongs to a merge, then aligning this group along one of the vertices of the lines or along the pad will not be difficult. In this example, the printed circuit board on top is merged completely into a merge and we can align it to the right edge of the lower board.
