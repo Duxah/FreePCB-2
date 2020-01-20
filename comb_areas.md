@@ -1,6 +1,6 @@
 ### Combine areas
 
-You can combine intersecting similar copper areas. Unlike FreePcb-1.359, which combined any intersecting areas, in FreePcb-2 areas must have the same hatch pattern and same side width. 
+You can combine intersecting similar copper areas. Unlike FreePcb-1.359, which combined any intersecting areas, in FreePcb-2 areas must have the same hatch pattern and same side width, and of course one net.
 
 ![](pictures/comb_areas1.png)
 
