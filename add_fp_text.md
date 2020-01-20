@@ -6,5 +6,5 @@ You can place text on the `COPPER` layer, `SILK` layer, or `NOTES` layer. To cre
 
 ![](pictures/edit_fp_text.png)
 
-If you want to place it on the opposite side, select it not with a click, but with a selection frame. (with the selection frame with the mouse) and reflect the [group](fp_group_edit.md) with the F6 key.
+If you want to place it on the opposite side, select it not with a click, but with a selection frame. (with the selection frame with the mouse) and reflect the [group](fp_group.md) with the F6 key.
 
