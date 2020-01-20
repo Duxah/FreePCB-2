@@ -20,7 +20,7 @@ Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 * [How to add text?](add_fp_text.md)
 * [How to add polyline?](add_fp_poly.md)
 * [How to edit polyline?](edit_fp_poly.md)
-* [How to edit group objects?](fp_group.md)
+* [How to edit group objects?](edit_fp_group.md)
 * [How to create multipin?](multipin.md)
 
 **Parts**
