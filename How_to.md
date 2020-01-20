@@ -62,8 +62,8 @@ Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 * [How to combine similar areas?](comb_areas.md)
 * [How to add area cutout?](area_cut.md)
 * [How to pour copper area?](pour_area.md)
-* How to edit copper fill?
-* How to repour copper fill? 
+* [How to make contact test?](contact_test.md)
+* [How to select contour?](select_cont.md)
 
 **Graphics**
 
