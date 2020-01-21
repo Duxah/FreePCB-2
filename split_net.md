@@ -1,6 +1,6 @@
 ### SPLIT NET
 
-Here both pin paths of this part have one common net. 
+Here both pins of this part have one common net. 
 
 ![](pictures/edit_tr9_4.png)
 
