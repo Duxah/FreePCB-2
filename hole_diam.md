@@ -6,4 +6,4 @@ In the Infobox settings, check the box next to Hole Diameters and be sure to che
 
 ![](pictures/hole_diam2.png)
 
-Here you see two search boxes instead of one. In the left you need to select the minimum value of the range, and in the right the maximum. Anything that does not fall into this range will be discarded by the Infobox filter.
+How to the Infobox filter works? Here you see two search boxes instead of one. In the left you need to select the minimum value of the range, and in the right the maximum. Anything that does not fall into this range will be discarded by the Infobox filter.
