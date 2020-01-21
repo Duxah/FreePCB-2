@@ -69,7 +69,7 @@ Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 
 * [How to add board outline or other line?](add_polyline.md)
 * [How to combine board outline?](comb_bo.md)
-* How to edit polyline?
+* [How to edit polyline?](edit_bo.md)
 * How to align polyline vertices?
 
 **Nets**
