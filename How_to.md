@@ -75,7 +75,7 @@ Beginner's «How To ...» Guide  © 2019 [freepcb.dev](https://freepcb.dev)
 **Nets**
 
 * [How to protect/unprotect netlist?](unprotect_nl.md)
-* How to edit nets group with netlist menu?
+* [How to edit nets group with netlist menu?](edit_net_gr.md)
 * [How to split net?](split_net.md)
 * How to combine nets?
 * How to insert net names into the project as text?
