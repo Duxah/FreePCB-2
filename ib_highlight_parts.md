@@ -22,3 +22,6 @@ It is useful to know that when the list is already highlighted, pressing 'Highli
 
 ![](pictures/sel_p8.png)
 
+### Good to know!
+
+To fix the backlight, you can use the function from the right-click menu `Static Highlight Mode`
