@@ -79,8 +79,8 @@ _Warning! This document has been translated into English from another language. 
 * [How to protect/unprotect netlist?](unprotect_nl.md)
 * [How to edit nets group with netlist menu?](edit_net_gr.md)
 * [How to split net?](split_net.md)
-* How to combine nets?
-* How to insert net names into the project as text?
+* [How to combine nets?](comb_nets.md)
+* [How to insert net names into the project as text?](insert_nets.md)
 
 **Groups**
 
