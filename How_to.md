@@ -101,8 +101,8 @@ _Warning! This document has been translated into English from another language. 
 * [How to fix filtered parts?](ib_fix.md)
 * [How to add part values&package to storage?](ib_add_values.md)
 * [How to see a set of hole diameters?](hole_diam.md)
-* How to find unconnected pins?
-* How to save Infobox partlist?
+* [How to find unconnected pins?](unconnected.md)
+* [How to save Infobox partlist?](ib_txt_list.md)
 * How to export Infobox partlist?
 * How to filter parts whose pads have paste mask?
 * How to load extern netlist? 
