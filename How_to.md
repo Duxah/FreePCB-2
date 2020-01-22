@@ -103,7 +103,7 @@ _Warning! This document has been translated into English from another language. 
 * [How to see a set of hole diameters?](hole_diam.md)
 * [How to find unconnected pins?](unconnected.md)
 * [How to save Infobox partlist?](ib_txt_list.md)
-* How to export Infobox partlist?
+* [How to watch a list of net pins while dragging a connection?](ib_drag_con.md)
 * How to filter parts whose pads have paste mask?
 * How to load extern netlist? 
 * How to load extern partlist?
