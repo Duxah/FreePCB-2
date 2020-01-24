@@ -88,6 +88,7 @@ _Warning! This document has been translated into English from another language. 
 * [How to change side?(flip, mirror)](side.md)
 * [How to add merge?](add_merge.md)
 * [How to align group objects?](align_gr.md)
+* [How to select all objects?](select_all.md)
 
 **Infobox**
 
