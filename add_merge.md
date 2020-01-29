@@ -23,4 +23,6 @@ To disable the merge selection, left-click on the MERGE flag in the selection ma
 
 ![](pictures/mask_merge.png)
 
-# [Return](How_to.md)
+Starting with version 2-033, FreePcb-2 supports one Merge attachment. That is, a merger can be inside another merge. For example, to align a group of parts, you can create a merge, then align this merge, then destroy this merge. See the next paragraph.
+
+[return](How_to.md)
