@@ -6,7 +6,7 @@ With buttons `1` and `2` you can switch the view of the board `TOP view` and `BO
 
 With buttons `3` and `4` you can change the priority display layer of the `TOP COPPER` layer and `BOTTOM COPPER` layer, respectively. If you press the button again, the corresponding layer of silk-screen printing will go to the background. Sometimes useful. If you make the `TOP VIEW` and `BOT VIEW` layers invisible, you can use buttons 1 and 2 to switch the `TOP COPPER` layer and` BOTTOM COPPER` layer.
 
-When you click on a PCB element, then the elements of the active layer have priority. So for example, if you need to select a track in the INNER1 layer, first make it an active layer by pressing button `5`
+When you click on a PCB element, then the elements of the active layer have priority. So for example, if you need to select a track in the INNER1 layer, first make INNER1 layer an active layer by pressing button `5`
 
 ![](pictures/active_layer.png)
 
