@@ -19,5 +19,5 @@ This is three routing mode. When `F5_Disable_Branch` mode is selected, it is not
 In the drag mode, if you right-click, dragging will be stopped and the last vertex of the copper trace will be highlighted.
 You can move it on vertex of another copper trace (on same net) to create a branch. To do this, press `F4_Move_Vertex` to start dragging.
 
-# [return](How_to.md)
+[return](How_to.md)
 
