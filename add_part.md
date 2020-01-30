@@ -8,8 +8,4 @@ In the part properties dialog box, it is necessary to enter the name of the part
 
 `Useful information:` if the vertical slash character `|` is found in the REF line, then the letters and numbers following this character will not be displayed on the silk screen. In this way, you can make a copy of the printed circuit board while [maintaining the designation](pcb_view.md) of the parts in the layer of silk-screen printing.
 
-# [return](How_to.md)
-
-[How to select part](select_part.md)
-
-[How to work with selection mask](sel_mask.md)
+[return](How_to.md)
