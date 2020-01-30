@@ -10,6 +10,6 @@ To position a group of 3 to 15 parts whose pins have common nets, first select t
 
 You can also turn off the visibility of a net (for example GND) through the Project -> Nets main menu, and then try again. In this case, this net will not be taken into account, and the parts will most likely also take a different position.
 
-# [return](How_to.md)
+[return](How_to.md)
 
 
