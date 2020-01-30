@@ -4,4 +4,4 @@ When the vertex is highlighted, click `F2_Connect_Pin` to start dragging. Aim at
 
 ![](pictures/vtx_pin.png)
 
-# [Return](How_to.md)
+[Return](How_to.md)
