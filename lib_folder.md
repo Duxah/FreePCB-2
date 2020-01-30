@@ -1,4 +1,4 @@
-## There are two ways to change the library:
+### There are two ways to change the library:
 
 1) From the `PROJECT` main menu, select `OPTIONS`.
 
@@ -8,4 +8,4 @@
 
 ![](pictures/lib_folder2.png)
 
-# [Return](How_to.md)
+[return](How_to.md)
