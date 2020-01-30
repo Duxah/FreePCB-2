@@ -13,4 +13,4 @@ We describe the main fields:
 
 ![](pictures/add_pin.png)
 
-# [return](How_to.md)
+[return](How_to.md)
