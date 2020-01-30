@@ -4,4 +4,8 @@
 
 Good to know for quick editing: When several segments of different widths have been selected, the width of the segment that was last clicked will be shown in the dialog box.
 
+![](pictures/diff_w1.png)
+
+![](pictures/diff_w2.png)
+
 [return](How_to.md)
