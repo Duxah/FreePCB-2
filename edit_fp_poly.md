@@ -23,7 +23,7 @@ When the polyline node is selected, a menu appears where you can:
 
 ![](pictures/antenna2.png)
 
-You can create a part consisting of several. To do this, select the Import Footprint menu item and import other footprints into the current footprint.
+You can create a footprint consisting of several. To do this, select the `Import Footprint` menu item and import other footprints into the current footprint.
 
 ![](pictures/multi_part.png)
 
