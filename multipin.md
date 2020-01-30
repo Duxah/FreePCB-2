@@ -2,4 +2,4 @@ Some parts, for example, a mini-USB connector, have several PCB mounting pins co
 
 ![](pictures/miniusb.jpg)
 
-# [return](How_to.md)
+[return](How_to.md)
