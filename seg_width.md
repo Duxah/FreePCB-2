@@ -8,4 +8,6 @@ Good to know for quick editing: When several segments of different widths have b
 
 ![](pictures/diff_w2.png)
 
+Thus, you can immediately press the OK button to make the width of both segments the same. This reduces editing time.
+
 [return](How_to.md)
