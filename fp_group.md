@@ -8,4 +8,4 @@ When several objects are selected at once, you can:
 - `F6` - flip or flip to the other side of the circuit board.
 - `F7` - Duplicate Group
 
-# [return](How_to.md)
+[return](How_to.md)
