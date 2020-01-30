@@ -6,10 +6,8 @@ Items in the layout are selected for editing by clicking on them or drawing a re
 
 ### Selection objects.
 
-You can select several objects by clicking on them in turn with the `CONTROL` key held down. With the selection frame can also be select objects. Move the mouse from the top left edge of the screen to the bottom right edge. If you want to cancel the selection, drag the mouse in the opposite direction.
+You can select several objects by clicking on them in turn with the `CONTROL` key held down. With the selection frame can also be select objects. Move the mouse from the top left edge of the screen to the bottom right edge. If you want to deselect several objects, drag mouse on them in the opposite direction.
 
 If you already have more than one object selected, you can add new selected objects to the existing objects with the selection frame without pressing the `CONTROL` button.
 
-# [Return](How_to.md)
-
-[How to select part](select_part.md)
+[return](How_to.md)
