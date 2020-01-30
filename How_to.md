@@ -32,7 +32,7 @@ _Warning! This document has been translated into English from another language. 
 * [How to align selected parts in a line?](line_up.md)
 * [How to edit part footprint?](edit_fp.md)
 * [How to move part?](move_part.md)
-* [How to edit parts group with partlist menu?](part_list.md)
+* [How to edit part group with partlist menu?](part_list.md)
 * [How to autoposition pcb parts?](part_pos.md)
 * [How to autoposition part references?](ref_pos.md)
 
