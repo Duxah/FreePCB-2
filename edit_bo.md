@@ -13,3 +13,5 @@ When the line is already drawn, you can edit its thickness, the hatching pattern
 * F7 - Add a cutout to the polyline. Used when the polyline is an area with a full hatch pattern.
 * F8 - delete polyline
 * F9 - selection of all elements located inside the polyline contour. It is useful when you have for example a panel of printed circuit boards, and you need to select a printed circuit board among many printed circuit boards that have a complex shape of the contour line.
+
+[return](How_to.md)
