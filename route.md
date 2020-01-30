@@ -20,10 +20,4 @@ The last vertex will be highlighted. Press `F3` to align the segments under 45 d
 
 The minimum value 7,5 degrees will be set, if you select OFF.
 
-# [return](How_to.md)
-
-[How to route trace](routing_branch.md)
-
-[How to create PCB project](new_project.md)
-
-[How to set default clearance of solder mask](sm_clearance.md)
+[return](How_to.md)
