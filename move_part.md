@@ -16,4 +16,4 @@ With part or pin selected, press `F4_MOVE_PART` to begin moving it. When a part 
 * F8- unlock all the pin connections for this part,
 * F9- remove all pin connections of this part in order to reroute
 
-# [Return](How_to.md)
+[Return](How_to.md)
