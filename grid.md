@@ -6,6 +6,8 @@ There are three grids in `FREEPCB`:
 - grid for parts.
 - grid for tracing.
 
+Using the F7 button (in no selection mode), the Visible grid view can be selected either as a dot or a strip.
+
 _All default settings are stored in the file DEFAULT.CFG which is located in the root directory of FREEPCB. You can open this file in a text editor and carefully modify it, observing the format._
 
 
