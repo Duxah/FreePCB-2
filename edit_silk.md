@@ -9,6 +9,10 @@ Now, with the mouse selection frame, you can select all the details of the print
 ![](pictures/edit_part_silk.png)
 
 * `F1` - sets the width of the silk-screen lines to the default value in the CAM dialog box of gerber file settings (minimum silkscreen line width).
-* `F2 F3` - makes silk lines visible or invisible onthe board and in gerbers.
+* `F2 F3` - makes silk lines visible or invisible on the board and in gerbers.
+* `F5` - opens the reference properties dialog
+* `F6` - opens the value properties dialog
+* `F7 F8` - makes part values visible or invisible.
+* `F9 or ESC` - return to the previous menu
 
 [return](How_to.md)
