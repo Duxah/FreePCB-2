@@ -13,4 +13,4 @@ Press the `F4_Set_Clearance` button
 
 The clearance value is shown in the status bar at the bottom of the program window. You can then change the clearance by pressing the `F2` `F3` buttons. The modified clearance value will be stored in FreePcb-2 memory until you press the file save button at the top left.
 
-# [Return](How_to.md)
+[return](How_to.md)
