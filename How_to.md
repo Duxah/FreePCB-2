@@ -138,7 +138,7 @@ _Warning! This document has been translated into English from another language. 
 * [How to print pcb view?](pcb_view.md)
 * How to highlight parts when printing?
 * How to make all via holes the same size?
-* How to change ref or value size?
+* [How to change ref or value size for part group?](edit_silk.md)
 * How to sort footprint libraries? (for example alphabetically)
 * How to add arc-elements of traces or copper areas?
 * How to remove arc-elements of traces or copper areas?
