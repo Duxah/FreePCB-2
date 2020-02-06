@@ -5,3 +5,5 @@ You can insert net names as text in a column in a circuit board design. When you
 ![](pictures/insert_nets.png)
 
 This is actually the place where we want to insert this text. When you click on the text, the net will be half-highlighted. To highlight at full brightness, press N.
+
+[return](How_to.md)
