@@ -13,6 +13,7 @@ Click on the vertex on which you want to align so that the program remembers its
 Then click on the vertex you want to shift, and press the function button F7 Align by prev X
 
 `screenshot 3`
+
 ![](pictures/align_gr3.png) 
 
 `screenshot 4`
