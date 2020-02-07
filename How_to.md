@@ -66,7 +66,7 @@ _Warning! This document has been translated into English from another language. 
 * [How to pour copper area?](pour_area.md)
 * [How to make contact test?](contact_test.md)
 * [How to select contour?](select_cont.md)
-* [How to set clearance between parallel area sides?(set_side_clearance.md)
+* [How to set clearance between parallel sides of areas?](set_side_clearance.md)
 
 **Graphics**
 
