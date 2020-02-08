@@ -93,6 +93,8 @@ You can participate in the improvement of the application. Feel free to write a 
 [![](pictures/arius.png)](https://www.arius.com) 
 [![](pictures/bittele.png)](https://www.7pcb.com)
 
+_[to learn more...](partners.md)_
+
 ***
 ### `Contacts`
 
