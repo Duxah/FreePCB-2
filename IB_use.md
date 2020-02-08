@@ -40,4 +40,4 @@ You can also enter part designations with a space to filter the parts you need.
 
 You can also selectively remove a part from the list by pressing the DELETE button, but keep in mind that is temporary (when the filter is reset, the part will reappear). To completely reset the filter, click the R button in the upper right corner of the infobox window.
 
-# [return](How_to.md)
+[return](How_to.md)
