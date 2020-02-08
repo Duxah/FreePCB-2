@@ -17,4 +17,6 @@ board edge to any copper   	| The minimum clearance between any copper feature a
 board edge to hole         	| The minimum clearance between the edge of a hole and the edge of the board
 copper area to copper area 	| The minimum clearance between copper areas, and also between a copper pour (full hatch pattern) and another object on a different net
 
-# [return](How_to.md)
+When you set all the clearance in the dialog box, click the Check button, a log window will appear with a list of errors if any. Also, circles will appear on the circuit board in the places of errors. To make the circles more visible and you find them on the circuit board, press and hold the "D" button. If you want to quickly test again, press CTRL + D.
+
+[return](How_to.md)
