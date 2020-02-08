@@ -19,4 +19,11 @@ copper area to copper area 	| The minimum clearance between copper areas, and al
 
 When you set all the clearance in the dialog box, click the Check button, a log window will appear with a list of errors if any. Also, circles will appear on the circuit board in the places of errors. To make the circles more visible and you find them on the circuit board, press and hold the "D" button. If you want to quickly test again, press CTRL + D.
 
+It is also recommended to do a check of copper areas, which includes:
+1) Removing the vertices of colinear segments
+2) The union of similar intersecting copper areas (if the thickness of the side is the same, and the hatching pattern for both contours)
+3) Tearing Test
+
+![](pictures/area_torn.png)
+
 [return](How_to.md)
