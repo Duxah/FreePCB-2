@@ -110,6 +110,7 @@ _[to learn more...](partners.md)_
 2. [FreePcb user guide 1-359](https://github.com/Duxah/FreePCB-2/raw/master/FreePcb-2/bin/doc/freepcb_user_guide.pdf)
 3. [FreePcb-2 "How to.." guide](/How_to.md)(is underway)
 4. [About this development branch](/About_development.md)
+5. [For software developers](developers.md)
 
 ***
 ### `Get started with FreePcb-2`
