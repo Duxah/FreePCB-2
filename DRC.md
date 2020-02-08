@@ -23,7 +23,7 @@ It is also recommended to do a check of copper areas, which includes:
 
 1) Removing the vertices of colinear segments
 2) The union of similar intersecting copper areas (if the thickness of the side is the same, and the hatching pattern for both contours)
-3) Tearing Test for copper areas without filling (in this case, clearance on different nets appears automatically when creating gerbera files)
+3) Tearing Test for copper areas without filling (for such copper areas clearance on different nets appears automatically when creating gerbera files)
 
 ![](pictures/torn.png)
 
