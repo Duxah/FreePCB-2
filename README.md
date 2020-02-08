@@ -117,4 +117,4 @@ _[to learn more...](partners.md)_
 
 [Start learning FreePcb-2](/How_to.md)
 
-The text of this site is a translation from Russian using Google inc. ©2019
+The text of this site is a translation from Russian using Google inc. ©2019-2020
