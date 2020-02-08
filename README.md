@@ -1,6 +1,7 @@
 
 ***
-### `Introduction`
+**`Introduction`**
+
 * 1 to 16 copper layers
 * Board size up to 60 inches by 60 inches
 * Uses English or metric units (i.e. mils or mm) for most functions.
@@ -12,8 +13,11 @@
 * Design rule checker
 * Autosave
 
-View
-[![PCB](/pictures/img2.png)](https://freepcb.dev)
+**`View`**
+
+FreePcb-2 is suitable for medium circuit board design. Here, as an example of the view of the program window, a project of two printed circuit boards is shown, which contains more than 2000 pins (design for INTERPRIBOR LLC)
+
+[![PCB](/pictures/img2.png)](https://interpribor.com)
 
 ***
 ### `About`
@@ -96,6 +100,7 @@ You can participate in the improvement of the application. Feel free to write a 
 * If you have any suggestions related to FreePcb-2 or you do not want to submit your question for public review, send to [email](https://freepcb.online/Discuss/).
 * If you want to improve the translation of this document, please send your file by email from the site [freepcb.online](https://freepcb.online/Discuss/)
 * If you have your own libraries of footprints that you are ready to share with everyone, then you can [send them to me](https://freepcb.online/Discuss/), and I'll post them on the site.
+* FreePcb-2 is professionally used by the author in a large commercial company, and is thoroughly tested to prevent bugs. But if you find a bug, please send a report with a description and screenshots to me by [e-mail](https://freepcb.online/Discuss/), so that I can fix it right away
 
 ***
 ### `useful links`
