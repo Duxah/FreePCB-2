@@ -15,9 +15,9 @@
 
 ### `View`
 
-FreePcb-2 is suitable for medium circuit board design. Here, as an example of the view of the program window, a project of two printed circuit boards is shown, which contains more than 2000 pins (design for INTERPRIBOR LLC)
+FreePcb-2 is suitable for medium circuit board design. Here, as an example of the view of the program window, a project of two printed circuit boards is shown, which contains more than 2000 pins (design for non-destructive testing devices)
 
-[![PCB](/pictures/img2.png)](https://interpribor.com)
+[![PCB](/pictures/img2.png)](https://)
 
 ***
 ### `About`
@@ -108,7 +108,7 @@ _[to learn more...](partners.md)_
 1. [License](LICENSE)
 2. [FreePcb user guide 1-359](https://github.com/Duxah/FreePCB-2/raw/master/FreePcb-2/bin/doc/freepcb_user_guide.pdf)
 3. [FreePcb-2 "How to.." guide](/How_to.md)(is underway)
-4. [About this development branch](/About_development.md)
+4. [About this development fork](/About_development.md)
 5. [For software developers](developers.md)
 
 ***
@@ -116,4 +116,4 @@ _[to learn more...](partners.md)_
 
 [Start learning FreePcb-2](/How_to.md)
 
-The text of this site is a translation from Russian using Google inc. ©2019-2020
+The text of this site is a translation from another language using Google inc. ©2019-2020
