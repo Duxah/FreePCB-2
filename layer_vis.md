@@ -10,6 +10,6 @@ When you click on a PCB element, then the elements of the active layer have prio
 
 ![](pictures/active_layer.png)
 
-If you don’t like the fact that when pressing buttons `1` or `2` some opposite layers become invisible and you do not need it, but you want to use these buttons when editing printed circuit boards, then make both layers (`Top View` & `Bottom View`) invisible, and these the buttons will work similar to the first classic version of FreePcb. 
+If you don’t like the fact that when pressing buttons `1` or `2` some opposite layers become invisible and you do not need it, but you want to use these buttons when editing printed circuit boards, then make both layers (`Top View` & `Bottom View`) invisible, and these the buttons will work similar to the first classic version of FreePcb. The buttons `1` and `2` to switch the `TOP COPPER` layer and `BOTTOM COPPER` layer. 
 
 [return](How_to.md)
