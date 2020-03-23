@@ -9,3 +9,5 @@ Ifobox has a column that shows the state of the paste mask for each pin of parts
 4) Off (All)
 
 If you probably understand everything with the first two points, then the word 'All' in the third and fourth points means that all pins related to this part have the same status. For example, if the pin status of part R1.1 has the value 'On (All)', this means that both R1.2 and R1.3 ... and R1.X - also have the status 'On'.
+
+In the filter cell, just enter the line 'Off (' to filter the parts that do not contain paste. Then you can go to the DETAILS tab and highlight these details using the right-click menu. (Highlight all)
