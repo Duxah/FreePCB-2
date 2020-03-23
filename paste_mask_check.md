@@ -1,5 +1,6 @@
 ### View paste mask status of pins.
 
+There is a case when you need to see certain PCB parts, all pins of which do not have a paste mask. For example, if your parts installer puts only smd parts on a printed circuit board, then you will need to prepare the file by removing parts with through pins from it. 
 Ifobox has a column that shows the state of the paste mask for each pin of parts. Go to the PIN tab, then right-click on the pin list field and enter the settings menu. Here, in the settings window, select the 'Pin Paste mask check' option. Close the settings window, and now the 'Paste' column is displayed in our main infobox. In the cells of this column you can find the following words:
 
 1) On
