@@ -107,8 +107,8 @@ _Warning! This document has been translated into English from another language. 
 * [How to save Infobox partlist?](ib_txt_list.md)
 * [How to watch a list of net pins while dragging a connection?](ib_drag_con.md)
 * [How to filter parts whose pads have paste mask](paste_mask_check.md)
-* How to load extern netlist? 
-* How to load extern partlist?
+* [How to load extern netlist?](IB_imp_nlist.md)
+* [How to load extern partlist?](IB_imp_plist.md)
 * How to find the differences in part list from version to version of your PCB project?
 * How to find the differences in pin list from version to version of your PCB project?
 
