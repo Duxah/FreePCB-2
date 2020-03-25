@@ -122,8 +122,7 @@ _Warning! This document has been translated into English from another language. 
 * [How to export gerber?(for PCB factories)](gerber.md)
 * [How to generate pick & place file?](pnp.md)
 * [How to generate BOM file?](bom.md)
-* How to create a gerber file for making a stencil?
-* How to create gerber file for making a stencil?
+* [How to create a gerber file for making a stencil?](stencil.md)
 
 **More**
 
