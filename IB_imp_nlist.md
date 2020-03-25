@@ -1,6 +1,10 @@
 ### `Loading extern netlist`
 
-In Infobox, you can download a netlist from another project or a previous version of the current project in PADS-PCB format. This will make it possible to compare the list of parts on the printed circuit board with the list of parts in the netlist by three attributes: RefDes, Value, Footprint. It will also provide an opportunity to compare pin networks and see discrepancies between netlists. In the InfoBox settings, select the visibility of the CNetlist column and then there select Load Netlist in the drop-down list as shown in the screenshot. When you upload a netlist, the comparison result will be displayed in the CNetlist column for each part. The result can take the following values:
+In Infobox, you can upload a netlist from another project or a previous version of the current project in PADS-PCB format. This will make it possible to compare the list of parts on the printed circuit board with the list of parts in the netlist by three attributes: RefDes, Value, Footprint. It will also provide an opportunity to compare pin networks and see discrepancies between netlists. In the InfoBox settings, select the visibility of the `Compare Netlist` column and then there select Load Netlist in the drop-down list as shown in the screenshot. 
+
+![](pictures/inl1.png)
+
+When you upload a netlist, the comparison result will be displayed in the CNetlist column for each part. The result can take the following values:
 
 1) `only on the board`
 2) `only in netlist`
