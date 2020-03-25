@@ -109,8 +109,8 @@ _Warning! This document has been translated into English from another language. 
 * [How to filter parts whose pads have paste mask](paste_mask_check.md)
 * [How to load extern partlist?](IB_imp_plist.md)
 * [How to load extern netlist?](IB_imp_nlist.md)
-* How to find the differences in part list from version to version of your PCB project?
-* How to find the differences in pin list from version to version of your PCB project?
+* [How to find the differences in part list from version to version of your PCB project?](c_plist.md)
+* [How to find the differences in pin list from version to version of your PCB project?](c_nlist.md)
 
 **Design rule checking**
 
