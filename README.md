@@ -15,7 +15,7 @@
 
 ### `View`
 
-FreePcb-2 is suitable for medium circuit board design. Here, as an example of the view of the program window, a project of two printed circuit boards is shown, which contains more than 2000 pins (design for non-destructive testing devices)
+FreePcb-2 is suitable for medium circuit board design. Here, as an example of the view of the program window, a project of two printed circuit boards is shown, which contains more than 2000 pins.
 
 [![PCB](/pictures/img2.png)](https://)
 
@@ -101,7 +101,7 @@ _[to learn more...](partners.md)_
 * If you have any suggestions related to FreePcb-2 or you do not want to submit your question for public review, send to [email](https://freepcb.online/Discuss/).
 * If you want to improve the translation of this document, please send your file by email from the site [freepcb.online](https://freepcb.online/Discuss/)
 * If you have your own libraries of footprints that you are ready to share with everyone, then you can [send them to me](https://freepcb.online/Discuss/), and I'll post them on the site.
-* FreePcb-2 is professionally used by the author in a large commercial company, and is thoroughly tested to prevent bugs. But if you find a bug, please send a report with a description and screenshots to me by [e-mail](https://freepcb.online/Discuss/), so that I can fix it right away
+* FreePcb-2 is involved in the development of industrial appliances and has been thoroughly tested to prevent errors. But if you find an error, please send me a report by e-mail with a description and screenshots so that I can fix it as soon as possible.
 
 ***
 ### `useful links`
