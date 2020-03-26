@@ -18,11 +18,13 @@ Then click OK and it is very important not to remove the selection to immediatel
 
 ![](pictures/pcb_view4.png)
 
-Now you need to create gerber files for the layers you want to print. Press CTRL G and in the dialog box select the layers, as well as the folder for printing. Press the DEFAULT button several times to select a name. I usually lean toward the name PRINT ...
+Now you need to create gerber files for the layers you want to print. Press CTRL+G and in the dialog box select the layers, as well as the folder for printing. Press the DEFAULT button several times to select a name. I usually lean toward the name PRINT ...
 
 Now the folder has appeared in the main menu FILE.
 
-If the folder does not appear, put a shortcut on the Gerber file viewer in the ShortCut directory, which is located in the root directory with FreePcb. The Gerber File Viewer must support the drag & drop function for folders, for example as ViewMate, Geda's gerbv or GerberLogix. If you use any other viewer program and want it to work in tandem with FreePcb-2, then write your offer on the Freepcb-2 support mail, and we will try to configure it.
+### `If the folder does not appear...`
+
+In the Shortcut folder (in the directory with FreePcb-2), place a shortcut that refers to the gerber file viewer.. The Gerber File Viewer must support the drag & drop function for folders, for example as ViewMate, Geda's gerbv or GerberLogix. If you use any other viewer program and want it to work in tandem with FreePcb-2, then write your offer on the Freepcb-2 support mail, and we will try to configure it.
 
 
-# [Return](How_to.md)
+### [Return](How_to.md)
