@@ -21,7 +21,7 @@ If there are inner layers, select them. If you don't know which layers, please c
  
  ![](pictures/exp_gerb3.png)
  
-FreePcb is configured to work with ViewMate. Check out the Gerber files by clicking on the Pentalogix's Gerber file Viewer button. 
+FreePcb-2 is configured to work with ViewMate, Geda's or GreberLogix. Check out the Gerber files by clicking on the Pentalogix's Gerber file Viewer button. How to configure this is described [here](Print.md).
  
  ![](pictures/exp_gerb4.png)
  
