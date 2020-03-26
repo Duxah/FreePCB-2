@@ -4,7 +4,7 @@ Usually a solder mask for the pads is chosen a little more than the pads themsel
 
   To open the pad properties you need to do the following:
 
-1) Select the part of interest
+1) Select the part of interest on the board (left click)
 2) Press F2-Edit Footprint
 3) Then select the pad in the footprint editor
 4) Press F1-Edit Pad, a dialog box will open
