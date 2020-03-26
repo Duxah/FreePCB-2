@@ -127,7 +127,7 @@ _Warning! This document has been translated into English from another language. 
 **More**
 
 * [How to use a measurement tool?](measurement_tool.md)
-* How to set default pad clearance for solder mask?
+* [How to set default pad clearance for solder mask?](sm_def.md)
 * How to import netlist?
 * How to export netlist?
 * How to make dxf export?
