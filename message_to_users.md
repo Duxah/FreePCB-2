@@ -1,2 +1,2 @@
 data::20200306
-msg::FreePCВ-2 / Free PCB development software. The creator of the classic version of FreePCB is Allan Wright. In 2010, he released version 1.359, which was taken by Duxah as a basis for improving and further developing FreePCB.
+msg::
