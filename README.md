@@ -86,11 +86,11 @@ You can participate in the improvement of the application. Feel free to write a 
 ### `Partners`
 
 [![](pictures/LLC_IP.png)](https://interpribor.com) 
-[![](pictures/LOCARUS_LOGO.png)](https://locarus.ru) 
+[]([![](pictures/LOCARUS_LOGO.png)](https://locarus.ru) )
 [![](pictures/jlcpcb.png)](https://jlcpcb.com)
-[![](pictures/pselectro.png)](http://www.pselectro.ru) 
+[]([![](pictures/pselectro.png)](http://www.pselectro.ru) )
 [![](pictures/arius.png)](https://www.arius.com) 
-[![](pictures/bittele.png)](https://www.7pcb.com)
+[]([![](pictures/bittele.png)](https://www.7pcb.com) )
 
 _[to learn more...](partners.md)_
 
