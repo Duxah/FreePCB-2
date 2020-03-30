@@ -6,9 +6,9 @@
 * Board size up to 60 inches by 60 inches
 * Uses English or metric units (i.e. mils or mm) for most functions.
 * Footprint Wizard and Footprint Editor for creating or modifying footprints
-* Import and automatic export of PADS-PCB lists
+* Import and automatic export of PADS-PCB lists when saving file
 * Import and export to mechanical format DXF
-* Import and export Pcad ASCII files
+* Import and export Pcad ASCII files (is maintained by Altium)
 * Exports extended Gerber files (RS274X) and Excellon drill files
 * Design rule checker
 * Autosave
