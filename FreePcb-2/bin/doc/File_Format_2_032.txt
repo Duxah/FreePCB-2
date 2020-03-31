@@ -1,10 +1,10 @@
 [options]				
 
-version: 2.028
-file_version: 2.028
+version: 2.032
+file_version: 2.032
 project_name: "VIMS"
-library_folder: "c:\рабочая папка\freepcb_libraries"
-full_library_folder: "c:\рабочая папка\freepcb_libraries\lib_footprints"
+library_folder: "c:\freepcb_libraries"
+full_library_folder: "c:\freepcb_libraries\lib_footprints"
 parent_folder: "C:\FreePCB_Dev\Debug\FPC_EXE\generate_fresh_issue\freepcb_online\"
 CAM_folder: "C:\FreePCB_Dev\Debug\FPC_EXE\generate_fresh_issue\freepcb_online\doc\CAM(file.format)"
 ses_file_path: ""
