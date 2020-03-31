@@ -1,3 +1,5 @@
+ONLY ADDITIONS TO THE FREEPCB-1-359 FORMAT ARE DESCRIBED IN THIS FILE
+
 [options]				
 
 version: 2.032
@@ -10,7 +12,7 @@ CAM_folder: "C:\FreePCB_Dev\Debug\FPC_EXE\generate_fresh_issue\freepcb_online\do
 ses_file_path: ""
 netlist_completed: "0"			(if 1 then netlist becomes protected)
 netlist_file_path: ""
-SMT_connect_copper: "1"
+SMT_connect_copper: "1"			(if 1 then smt pads connects on vector copper area)
 default_glue_width: "635000"
 dsn_flags: "3"
 dsn_bounds_poly: "0"
@@ -213,15 +215,15 @@ drc_hole_hole: 400000
 drc_copper_copper: 300000
 
 default_trace_width:0.25mm			(mm or mil must be registered)
-default_via_pad_width:0.8mm
-default_via_hole_width:0.4mm
+default_via_pad_width:0.8mm			(mm or mil must be registered)
+default_via_hole_width:0.4mm			(mm or mil must be registered)
 n_width_menu: 3
-  width_menu_item: 1 0.25mm 0.8mm 0.4mm
-  width_menu_item: 2 0.4mm 0.8mm 0.4mm
-  width_menu_item: 3 0.8mm 1mm 0.6mm
+  width_menu_item: 1 0.25mm 0.8mm 0.4mm		(mm or mil must be registered)
+  width_menu_item: 2 0.4mm 0.8mm 0.4mm		(mm or mil must be registered)
+  width_menu_item: 3 0.8mm 1mm 0.6mm		(mm or mil must be registered)
 
 n_copper_layers: 2
-  layer_info: "selection" 0 255 255 255 1
+  layer_info: "selection" 0 255 255 255 1	(: "layer" R G B visibility)
   layer_info: "background" 1 153 153 153 1
   layer_info: "visible grid" 2 136 136 136 1
   layer_info: "highlight" 3 255 255 0 1
@@ -242,7 +244,7 @@ n_copper_layers: 2
 [footprints]
 
 name: "RC0805_1"
-package: "RC0805"					
+package: "RC0805"					(The package now belongs to the footprint. Different footprints may have the same package.)					
   units: NM
   sel_rect: -2107000 -2109470 1656080 650000
   ref_text: 300000 0 500000 0 50000
@@ -253,7 +255,7 @@ package: "RC0805"
     next_corner: -1980000 -1060000 0
     next_corner: -1100000 -1060000 0
   n_pins: 2
-    pin: "1" 0 -1000000 0 0 ""				(: "name" hole X Y angle "description")
+    pin: "1" 0 -1000000 0 0 ""				(: "pin_name" hole X Y angle "pin_description")
       top_pad: 3 1300000 500000 500000 0
     pin: "2" 0 1000000 0 0 ""
       top_pad: 3 1300000 500000 500000 0
@@ -277,7 +279,7 @@ outline: 3 6 540000 0 -1
 [solder_mask_cutouts]
 
 sm_cutout: 3 1 13 540000 0				(: number_of_corners hatch layer width merge)
-  corner: 1 1800000 -300000 0
+  corner: 1 1800000 -300000 0				(: corner_number X Y side_style)
   corner: 2 1800000 -1400000 0
   corner: 3 2900000 -1400001 0
 
@@ -290,7 +292,7 @@ sm_cutout: 3 1 13 540000 -1
 [graphics]
 
 line: 2 0 7 540000 -1					(: number_of_corners hatch layer width merge)
-  corner: 1 -3300000 0 0
+  corner: 1 -3300000 0 0				(: corner_number X Y side_style)
   corner: 2 -5400000 0 0
 
 line: 2 0 7 540000 -1
@@ -336,7 +338,7 @@ net: "N00002" 0 0 0 0 0 0 1
 net: "GND" 2 2 1 0 0 0 1
   pin: 1 R6.2
   pin: 2 R6.1
-  connect: 1 0 -1 2 0 0				(: connect_number start_pin end_pin num_segs locked merge)
+  connect: 1 0 -1 2 0 0				(: connect_number start_pin end_pin num_segs locked merge_number)
     vtx: 1 0 0 15 0 0 0 0
     seg: 1 15 250000 0 0
     vtx: 2 -1820000 1820000 0 0 800000 400000 6069
@@ -348,7 +350,7 @@ net: "GND" 2 2 1 0 0 0 1
     vtx: 2 -1820000 -180000 0 0 800000 400000 0
     seg: 2 16 250000 0 0
     vtx: 3 -1820000 1820000 0 0 0 0 6069
-  area: 1 4 15 2 0 0 0				(: area_number number_of_corners layer hatch width merge selected)
+  area: 1 4 15 2 0 0 0				(: area_number number_of_corners layer hatch width merge_number selected)
     corner: 1 -7860000 3220000 0 0
     corner: 2 -7860000 -4120000 0 0
     corner: 3 6880000 -4120000 0 0
@@ -391,7 +393,7 @@ selection: 4612640 849630 4612640 1903730 1649730 1903730 1649730 849630	(: X1 Y
 
 [merges]
 
-  merge: "Merge-1" 300000				(: "merge_name" individual_copper_fill_clearance)
+  merge: "Merge-1" 300000				(: "merge_name" individual_copper_fill_clearance for vector copper area)
   merge: "Merge-2" 600000
 
 [end]
