@@ -25,13 +25,14 @@ ONLY ADDITIONS TO THE [FREEPCB-1-359 FORMAT](https://freepcb.dev/FreePcb-2/bin/d
     auto_ratline_disable: "0"
     auto_ratline_disable_min_pins: "100"
     netlist_import_flags: 904
-    m_client_rect_left: 0	`(left coordinate of screen)`
+  **m_client_rect_left: 0	`(left coordinate of screen)`
     m_client_rect_right: 1420	`(right coordinate of screen)`
     m_client_rect_bottom: 666	`(bottom coordinate of screen)`
     m_client_rect_top: 0	`(top coordinate of screen)`
     m_org_x: -60844		`(origin position)`
     m_org_y: -28540		`(origin position)`
-    m_scale_factor: 121120	`(screen scale)`
+    m_scale_factor: 121120	`(screen scale)`**
+    
     units: MM
     m_sel_mask: -1
     m_visible_layers: -84225	`(visible mask, see order in View->Layers menu)`
