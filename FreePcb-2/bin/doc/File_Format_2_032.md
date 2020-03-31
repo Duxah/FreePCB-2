@@ -442,12 +442,9 @@ net: "GND" 2 2 1 0 0 0 1
   
   connect: 1 0 -1 2 0 0	`(: connect_number start_pin end_pin num_segs locked merge_number)`
   
-    vtx: 1 0 0 15 0 0 0 0
-    
+    vtx: 1 0 0 15 0 0 0 0 
     seg: 1 15 250000 0 0
-    
     vtx: 2 -1820000 1820000 0 0 800000 400000 6069
-    
     seg: 2 15 250000 0 0
     
     vtx: 3 -3940000 1820000 0 0 0 0 0
