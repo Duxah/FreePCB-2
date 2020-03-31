@@ -240,7 +240,7 @@ ONLY ADDITIONS TO THE [FREEPCB-1-359 FORMAT](https://freepcb.dev/FreePcb-2/bin/d
     part: R6
     ref_text: 900000 150000 90 1929476 791172 1
     shape: "RC0805_1"
-  **merge: 0 `(: merge's number)`**
+  **merge: 0 `(: merge_number)`**
   
     value: "3k" 500000 50000 0 -400679 -249470 1
     pos: 0 -1000000 0 270 0
