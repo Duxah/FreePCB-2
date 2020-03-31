@@ -202,7 +202,7 @@ ONLY ADDITIONS TO THE [FREEPCB-1-359 FORMAT](https://freepcb.dev/FreePcb-2/bin/d
     
 # [board] 
     
-  **outline: 3 1 540000 0 -1				`(: number_of_corners line_sequence_number width hatch merge)`**
+  **outline: 3 1 540000 0 -1				`(: number_of_corners line_sequence_number width hatch merge_number)`**
 
   **corner: 1 -1900000 -1200000 0 0			`(: number_of_corner X Y side_style number_of_contour)`**
   
@@ -213,7 +213,7 @@ ONLY ADDITIONS TO THE [FREEPCB-1-359 FORMAT](https://freepcb.dev/FreePcb-2/bin/d
     corner: 2 2050000 3450001 0 0
     corner: 3 1000000 4500000 0 0 
     [solder_mask_cutouts]
-  **sm_cutout: 3 1 13 540000 0	`(: number_of_corners hatch layer width merge)`**
+  **sm_cutout: 3 1 13 540000 0	`(: number_of_corners hatch layer width merge_number)`**
 
   **corner: 1 1800000 -300000 0	`(: corner_number X Y side_style)`**
   
@@ -226,7 +226,7 @@ ONLY ADDITIONS TO THE [FREEPCB-1-359 FORMAT](https://freepcb.dev/FreePcb-2/bin/d
     
 # [graphics] (new)
     
-  **line: 2 0 7 540000 -1	`(: number_of_corners hatch layer width merge_number)`**
+  **line(_or polyline_): 2 0 7 540000 -1	`(: number_of_corners hatch layer width merge_number)`**
 
   **corner: 1 -3300000 0 0	`(: corner_number X Y side_style)`**
   
