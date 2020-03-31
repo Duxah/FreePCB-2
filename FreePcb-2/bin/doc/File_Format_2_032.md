@@ -12,10 +12,10 @@ ONLY ADDITIONS TO THE [FREEPCB-1-359 FORMAT](https://freepcb.dev/FreePcb-2/bin/d
     parent_folder: "C:\FreePCB_Dev\"
     CAM_folder: "C:\FreePCB_Dev\CAM(file.format)"
     ses_file_path: ""
-**netlist_completed: "0"	`(if 1 then netlist becomes protected)`**
+  **netlist_completed: "0"	`(if 1 then netlist becomes protected)`**
 
     netlist_file_path: ""
-**SMT_connect_copper: "1"	`(if 1 then smt pads connects on vector copper area)`**
+  **SMT_connect_copper: "1"	`(if 1 then smt pads connects on vector copper area)`**
 
     default_glue_width: "635000"
     dsn_flags: "3"
@@ -25,19 +25,27 @@ ONLY ADDITIONS TO THE [FREEPCB-1-359 FORMAT](https://freepcb.dev/FreePcb-2/bin/d
     auto_ratline_disable: "0"
     auto_ratline_disable_min_pins: "100"
     netlist_import_flags: 904
-  **m_client_rect_left: 0	`(left coordinate of screen)`
-    m_client_rect_right: 1420	`(right coordinate of screen)`
-    m_client_rect_bottom: 666	`(bottom coordinate of screen)`
-    m_client_rect_top: 0	`(top coordinate of screen)`
-    m_org_x: -60844		`(origin position)`
-    m_org_y: -28540		`(origin position)`
-    m_scale_factor: 121120	`(screen scale)`**
+  **m_client_rect_left: 0	`(left coordinate of screen)`**
+  
+  **m_client_rect_right: 1420	`(right coordinate of screen)`**
+    
+  **m_client_rect_bottom: 666	`(bottom coordinate of screen)`**
+    
+  **m_client_rect_top: 0	`(top coordinate of screen)`**
+  
+  **m_org_x: -60844		`(origin position)`**
+  
+  **m_org_y: -28540		`(origin position)`**
+  
+  **m_scale_factor: 121120	`(screen scale)`**
     
     units: MM
     m_sel_mask: -1
-    m_visible_layers: -84225	`(visible mask, see order in View->Layers menu)`
-    m_top_layer: 13		`(screen active layer)`
-    m_grid_style: 0		`(0-point 1-line)`
+  **m_visible_layers: -84225	`(visible mask, see order in View->Layers menu)`**
+  
+  **m_top_layer: 13		`(screen active layer)`**
+  
+  **m_grid_style: 0		`(0-point 1-line)`**
 
 visible_grid_spacing: 10000000.000000
 
@@ -113,14 +121,16 @@ fp_placement_grid_spacing: 20000.000000
 
 fp_snap_angle: 45
 
-    m_seg_clearance: 205080	`(SET_CLEARANCE function clearance)`
+  **m_seg_clearance: 205080	`(SET_CLEARANCE function clearance)`**
+  
     fill_clearance: 300000
     mask_clearance: 50000
     thermal_width: 400000
-    thermal_clearance: 200000	`(thermal barrier clearance)`
+  **thermal_clearance: 200000	`(thermal barrier clearance)`**
+  
     min_silkscreen_width: 100000
 
-    highlight_width: 127000	`(for selected elements, the minimum thickness of the lines of the HIGHLIGHT layer, when the GERBER file is created)`
+  **highlight_width: 127000	`(for selected elements, the minimum thickness of the lines of the HIGHLIGHT layer, when the GERBER file is created)`**
 
     hole_clearance: 500000
     pilot_diameter: 200000
@@ -148,19 +158,24 @@ fp_snap_angle: 45
     drc_board_edge_hole: 0
     drc_hole_hole: 400000
     drc_copper_copper: 300000
-    default_trace_width:0.25mm	`(mm or mil must be registered)`
-    default_via_pad_width:0.8mm	`(mm or mil must be registered)`
-    default_via_hole_width:0.4mm `(mm or mil must be registered)`
+  **default_trace_width:0.25mm	`(mm or mil must be registered)`**
+  
+  **default_via_pad_width:0.8mm	`(mm or mil must be registered)`**
+  
+  **default_via_hole_width:0.4mm `(mm or mil must be registered)`**
 
 n_width_menu: 3
 
-    width_menu_item: 1 0.25mm 0.8mm 0.4mm		`(mm or mil must be registered)`
-    width_menu_item: 2 0.4mm 0.8mm 0.4mm		`(mm or mil must be registered)`
-    width_menu_item: 3 0.8mm 1mm 0.6mm		`(mm or mil must be registered)`
+  **width_menu_item: 1 0.25mm 0.8mm 0.4mm		`(mm or mil must be registered)`**
+  
+  **width_menu_item: 2 0.4mm 0.8mm 0.4mm		`(mm or mil must be registered)`**
+  
+  **width_menu_item: 3 0.8mm 1mm 0.6mm		`(mm or mil must be registered)`**
 
 n_copper_layers: 2
 
-    layer_info: "selection" 0 255 255 255 1	`(: "layer" R G B visibility)`
+  **layer_info: "selection" 0 255 255 255 1	`(: "layer" R G B visibility)`**
+    
     layer_info: "background" 1 153 153 153 1
     layer_info: "visible grid" 2 136 136 136 1
     layer_info: "highlight" 3 255 255 0 1
