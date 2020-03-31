@@ -14,17 +14,17 @@ library_folder: "c:\freepcb_libraries"
 
 full_library_folder: "c:\freepcb_libraries\lib_footprints"
 
-parent_folder: "C:\FreePCB_Dev\Debug\FPC_EXE\generate_fresh_issue\freepcb_online\"
+parent_folder: "C:\FreePCB_Dev\"
 
-CAM_folder: "C:\FreePCB_Dev\Debug\FPC_EXE\generate_fresh_issue\freepcb_online\doc\CAM(file.format)"
+CAM_folder: "C:\FreePCB_Dev\CAM(file.format)"
 
 ses_file_path: ""
 
-netlist_completed: "0"			`(if 1 then netlist becomes protected)`
+netlist_completed: "0"	`(if 1 then netlist becomes protected)`
 
 netlist_file_path: ""
 
-SMT_connect_copper: "1"			`(if 1 then smt pads connects on vector copper area)`
+SMT_connect_copper: "1"	`(if 1 then smt pads connects on vector copper area)`
 
 default_glue_width: "635000"
 
@@ -42,29 +42,29 @@ auto_ratline_disable_min_pins: "100"
 
 netlist_import_flags: 904
 
-m_client_rect_left: 0			`(left coordinate of screen)`
+m_client_rect_left: 0		`(left coordinate of screen)`
 
-m_client_rect_right: 1420		`(right coordinate of screen)`
+m_client_rect_right: 1420	`(right coordinate of screen)`
 
-m_client_rect_bottom: 666		`(bottom coordinate of screen)`
+m_client_rect_bottom: 666	`(bottom coordinate of screen)`
 
-m_client_rect_top: 0			`(top coordinate of screen)`
+m_client_rect_top: 0		`(top coordinate of screen)`
 
-m_org_x: -60844				`(origin position)`
+m_org_x: -60844			`(origin position)`
 
-m_org_y: -28540				`(origin position)`
+m_org_y: -28540			`(origin position)`
 
-m_scale_factor: 121120			`(screen scale)`
+m_scale_factor: 121120		`(screen scale)`
 
 units: MM
 
 m_sel_mask: -1
 
-m_visible_layers: -84225		`(visible mask, see order in View->Layers menu)`
+m_visible_layers: -84225	`(visible mask, see order in View->Layers menu)`
 
-m_top_layer: 13				`(screen active layer)`
+m_top_layer: 13			`(screen active layer)`
 
-m_grid_style: 0				`(0-point 1-line)`
+m_grid_style: 0			`(0-point 1-line)`
 
 visible_grid_spacing: 10000000.000000
 
@@ -192,7 +192,7 @@ fp_placement_grid_spacing: 20000.000000
 
 fp_snap_angle: 45
 
-m_seg_clearance: 205080			`(SET_CLEARANCE function clearance)`
+m_seg_clearance: 205080		`(SET_CLEARANCE function clearance)`
 
 fill_clearance: 300000
 
@@ -200,11 +200,11 @@ mask_clearance: 50000
 
 thermal_width: 400000
 
-thermal_clearance: 200000		`(thermal barrier clearance)`
+thermal_clearance: 200000	`(thermal barrier clearance)`
 
 min_silkscreen_width: 100000
 
-highlight_width: 127000			`(for selected elements, the minimum thickness of the lines of the HIGHLIGHT layer, when the GERBER file is created)`
+highlight_width: 127000		`(for selected elements, the minimum thickness of the lines of the HIGHLIGHT layer, when the GERBER file is created)`
 
 hole_clearance: 500000
 
@@ -258,12 +258,14 @@ drc_hole_hole: 400000
 
 drc_copper_copper: 300000
 
-default_trace_width:0.25mm			`(mm or mil must be registered)`
+default_trace_width:0.25mm	`(mm or mil must be registered)`
 
-default_via_pad_width:0.8mm			`(mm or mil must be registered)`
+default_via_pad_width:0.8mm	`(mm or mil must be registered)`
 
-default_via_hole_width:0.4mm			`(mm or mil must be registered)`
+default_via_hole_width:0.4mm	`(mm or mil must be registered)`
+
 n_width_menu: 3
+
   width_menu_item: 1 0.25mm 0.8mm 0.4mm		`(mm or mil must be registered)`
   
   width_menu_item: 2 0.4mm 0.8mm 0.4mm		`(mm or mil must be registered)`
@@ -310,7 +312,7 @@ n_copper_layers: 2
 
 name: "RC0805_1"
 
-package: "RC0805"					`(The package now belongs to the footprint. Different footprints may have the same package.)`		
+package: "RC0805" `(The package now belongs to the footprint. Different footprints may have the same package.)`		
 
   units: NM
   
@@ -349,11 +351,7 @@ outline: 3 1 540000 0 -1				`(: number_of_corners line_sequence_number width hat
   corner: 2 -2950000 -2249999 0 0
   
   corner: 3 -4000000 -1200000 0 0
-							`"line_sequence_number" This is an artifact,
-							it does not affect anything, I left it only in order 
-							to support the opening of files in 1.359 format. 
-							board, sm_cutouts and graphics inside the program 
-							are written in a single array called PolyLines`
+							
 outline: 3 6 540000 0 -1
 
   corner: 1 3100000 4500000 0 0
@@ -364,9 +362,9 @@ outline: 3 6 540000 0 -1
 
 `[solder_mask_cutouts]`
 
-sm_cutout: 3 1 13 540000 0				`(: number_of_corners hatch layer width merge)`
+sm_cutout: 3 1 13 540000 0	`(: number_of_corners hatch layer width merge)`
 
-  corner: 1 1800000 -300000 0				`(: corner_number X Y side_style)`
+  corner: 1 1800000 -300000 0	`(: corner_number X Y side_style)`
   
   corner: 2 1800000 -1400000 0
   
@@ -383,9 +381,9 @@ sm_cutout: 3 1 13 540000 -1
 
 `[graphics]`
 
-line: 2 0 7 540000 -1					`(: number_of_corners hatch layer width merge_number)`
+line: 2 0 7 540000 -1		`(: number_of_corners hatch layer width merge_number)`
 
-  corner: 1 -3300000 0 0				`(: corner_number X Y side_style)`
+  corner: 1 -3300000 0 0	`(: corner_number X Y side_style)`
   
   corner: 2 -5400000 0 0
 
@@ -404,7 +402,7 @@ part: R6
   
   shape: "RC0805_1"
   
-  merge: 0						`(: merge's number)`
+  merge: 0 `(: merge's number)`
   
   value: "3k" 500000 50000 0 -400679 -249470 1
   
@@ -442,7 +440,7 @@ net: "GND" 2 2 1 0 0 0 1
   
   pin: 2 R6.1
   
-  connect: 1 0 -1 2 0 0				`(: connect_number start_pin end_pin num_segs locked merge_number)`
+  connect: 1 0 -1 2 0 0	`(: connect_number start_pin end_pin num_segs locked merge_number)`
   
     vtx: 1 0 0 15 0 0 0 0
     
@@ -466,7 +464,7 @@ net: "GND" 2 2 1 0 0 0 1
     
     vtx: 3 -1820000 1820000 0 0 0 0 6069
     
-  area: 1 4 15 2 0 0 0				`(: area_number number_of_corners layer hatch width merge_number selected)`
+  area: 1 4 15 2 0 0 0	`(: area_number number_of_corners layer hatch width merge_number selected)`
   
     corner: 1 -7860000 3220000 0 0
     
@@ -482,13 +480,13 @@ net: "N00001" 0 0 0 0 0 0 1
 
 text: "text" 1700000 900000 10 0 0 1000000 100000 0 0
 
-text_line: 4200000 1536363 4518181 1536363		`(: X1 Y1 X2 Y2) (This link is optional, it is needed for the external program AreaClipper)`
+text_line: 4200000 1536363 4518181 1536363	`(: X1 Y1 X2 Y2) (This link is optional, it is needed for the external program AreaClipper)`
 
-text_line: 4472727 900000 4563636 900000				`(This link is optional, it is needed for the external program AreaClipper)`
+text_line: 4472727 900000 4563636 900000	
 
-text_line: 4381818 945454 4472727 900000				`(This link is optional, it is needed for the external program AreaClipper)`
+text_line: 4381818 945454 4472727 900000	
 
-text_line: 4336363 1081818 4381818 945454				`(...`
+text_line: 4336363 1081818 4381818 945454
 
 text_line: 4336363 1854545 4336363 1081818
 
@@ -542,7 +540,7 @@ selection: 4612640 849630 4612640 1903730 1649730 1903730 1649730 849630	`(: X1 
 
 `[merges]`
 
-  merge: "Merge-1" 300000				`(: "merge_name" individual_copper_fill_clearance for vector copper area)`
+  merge: "Merge-1" 300000 `(: "merge_name" individual_copper_fill_clearance for vector copper area)`
   
   merge: "Merge-2" 600000
 
