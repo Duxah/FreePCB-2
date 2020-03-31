@@ -76,11 +76,11 @@ but at the same time includes almost all the tools needed for professional use.
 
 (this version will be available from November 11, 2019)
 
-![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) The [download v2-032(Temporarily unavailable)](https://github.com/Duxah/FreePCB-2/archive/master.7z) (portable version from 11/11/2019) includes a folder with the program, manual 1.359, footprint libraries, examples of printed circuit boards, a [description of the 2.032 file format for developers](developers.md).
+![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) The [download v2-032(The latest updates 03/31/2020)](https://github.com/Duxah/FreePCB-2/archive/master.zip) (portable version) includes a folder with the program, manual 1.359, footprint libraries, examples of printed circuit boards, a [description of the 2.032 file format for developers](developers.md).
 
-![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/По%20рукам.png) If you like version 2-032, post [this](pictures/logo.png) link on your website. Have fun using FreePcb-2.
+![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/По%20рукам.png) If you like version 2-032, post [this](pictures/logo.png) picture on your website. Have fun using FreePcb-2.
 
-You can participate in the improvement of the application. Feel free to write a message regarding working with FREEPCB so that we can release the official version 2-032 as soon as possible. Working together is always more efficient.
+You can participate in the improvement of the application. Feel free to write a message regarding working with FREEPCB2 so that we can release the official version 2-032 as soon as possible. Working together is always more efficient.
 
 ***
 ### `Partners`
