@@ -12,9 +12,9 @@ ONLY ADDITIONS TO THE [FREEPCB-1-359 FORMAT](https://freepcb.dev/FreePcb-2/bin/d
     parent_folder: "C:\FreePCB_Dev\"
     CAM_folder: "C:\FreePCB_Dev\CAM(file.format)"
     ses_file_path: ""
-    ### netlist_completed: "0"	_if 1 then netlist becomes protected_
+### netlist_completed: "0"	`(if 1 then netlist becomes protected)`
     netlist_file_path: ""
-    SMT_connect_copper: "1"	`(if 1 then smt pads connects on vector copper area)`
+### SMT_connect_copper: "1"	`(if 1 then smt pads connects on vector copper area)`
     default_glue_width: "635000"
     dsn_flags: "3"
     dsn_bounds_poly: "0"
