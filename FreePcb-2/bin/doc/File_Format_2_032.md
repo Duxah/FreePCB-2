@@ -56,7 +56,6 @@ ONLY ADDITIONS TO THE [FREEPCB-1-359 FORMAT](https://freepcb.dev/FreePcb-2/bin/d
     visible_grid_item: 0.95mm
     visible_grid_item: 1mm
     visible_grid_item: 1.27mm
-
     placement_grid_spacing: 100000.000000
     placement_grid_item: 5mil
     placement_grid_item: 10mil
@@ -64,7 +63,6 @@ ONLY ADDITIONS TO THE [FREEPCB-1-359 FORMAT](https://freepcb.dev/FreePcb-2/bin/d
     placement_grid_item: 0.001mm
     placement_grid_item: 0.01mm
     placement_grid_item: 0.1mm
-
     routing_grid_spacing: 20000.000000
     routing_grid_item: 0.1mil
     routing_grid_item: 0.5mil
@@ -78,9 +76,7 @@ ONLY ADDITIONS TO THE [FREEPCB-1-359 FORMAT](https://freepcb.dev/FreePcb-2/bin/d
     routing_grid_item: 0.05mm
     routing_grid_item: 0.1mm
     routing_grid_item: 0.2mm
-
     snap_angle: 45
-
     fp_visible_grid_spacing: 1000000.000000
     fp_visible_grid_item: 100mil
     fp_visible_grid_item: 125mil
@@ -95,7 +91,6 @@ ONLY ADDITIONS TO THE [FREEPCB-1-359 FORMAT](https://freepcb.dev/FreePcb-2/bin/d
     fp_visible_grid_item: 1.27mm
     fp_visible_grid_item: 2mm
     fp_visible_grid_item: 2.5mm
-
     fp_placement_grid_spacing: 20000.000000
     fp_placement_grid_item: 0.1mil
     fp_placement_grid_item: 1mil
@@ -111,9 +106,7 @@ ONLY ADDITIONS TO THE [FREEPCB-1-359 FORMAT](https://freepcb.dev/FreePcb-2/bin/d
     fp_placement_grid_item: 0.2mm
     fp_placement_grid_item: 0.5mm
     fp_placement_grid_item: 0.65mm
-
     fp_snap_angle: 45
-
   **m_seg_clearance: 205080	`(SET_CLEARANCE function clearance)`**
   
     fill_clearance: 300000
@@ -122,7 +115,6 @@ ONLY ADDITIONS TO THE [FREEPCB-1-359 FORMAT](https://freepcb.dev/FreePcb-2/bin/d
   **thermal_clearance: 200000	`(thermal barrier clearance)`**
   
     min_silkscreen_width: 100000
-
   **highlight_width: 127000	`(for selected elements, the minimum thickness of the lines of the HIGHLIGHT layer, when the GERBER file is created)`**
 
     hole_clearance: 500000
@@ -183,7 +175,6 @@ ONLY ADDITIONS TO THE [FREEPCB-1-359 FORMAT](https://freepcb.dev/FreePcb-2/bin/d
     layer_info: "bot view" 14 45 45 45 0
     layer_info: "top copper" 15 93 93 93 1
     layer_info: "bot copper" 16 98 98 98 0
-
     [footprints]
     name: "RC0805_1"
   **package: "RC0805" `(The package now belongs to the footprint. Different footprints may have the same package.)`**		
@@ -193,7 +184,7 @@ ONLY ADDITIONS TO THE [FREEPCB-1-359 FORMAT](https://freepcb.dev/FreePcb-2/bin/d
     ref_text: 300000 0 500000 0 50000
     value_text: 300000 0 0 0 50000
     centroid: 0 0 0 0
-  **text: "123" 1000000 -620000 -2060000 0 100000 0 4	`(: "text" font_size X Y angle stroke_width mirror layer)`
+  **text: "123" 1000000 -620000 -2060000 0 100000 0 4	`(: "text" font_size X Y angle stroke_width mirror layer)`**
   
   **outline_polyline: 254000 -1980000 -260000 1 1 4	`(: width X0 Y0 visible hatch layer)`**
   
@@ -205,7 +196,6 @@ ONLY ADDITIONS TO THE [FREEPCB-1-359 FORMAT](https://freepcb.dev/FreePcb-2/bin/d
     top_pad: 3 1300000 500000 500000 0  
     pin: "2" 0 1000000 0 0 ""
     top_pad: 3 1300000 500000 500000 0
-
     [board]
   **outline: 3 1 540000 0 -1				`(: number_of_corners line_sequence_number width hatch merge)`**
 
@@ -216,10 +206,8 @@ ONLY ADDITIONS TO THE [FREEPCB-1-359 FORMAT](https://freepcb.dev/FreePcb-2/bin/d
     outline: 3 6 540000 0 -1
     corner: 1 3100000 4500000 0 0
     corner: 2 2050000 3450001 0 0
-    corner: 3 1000000 4500000 0 0
-    
+    corner: 3 1000000 4500000 0 0 
     [solder_mask_cutouts]
-
   **sm_cutout: 3 1 13 540000 0	`(: number_of_corners hatch layer width merge)`**
 
   **corner: 1 1800000 -300000 0	`(: corner_number X Y side_style)`**
@@ -230,7 +218,6 @@ ONLY ADDITIONS TO THE [FREEPCB-1-359 FORMAT](https://freepcb.dev/FreePcb-2/bin/d
     corner: 1 6800000 5400000 0
     corner: 2 6800000 4300000 0
     corner: 3 7900000 4299999 0
-
     [graphics]
   **line: 2 0 7 540000 -1	`(: number_of_corners hatch layer width merge_number)`**
 
@@ -240,7 +227,6 @@ ONLY ADDITIONS TO THE [FREEPCB-1-359 FORMAT](https://freepcb.dev/FreePcb-2/bin/d
     line: 2 0 7 540000 -1
     corner: 1 1700000 5700000 0
     corner: 2 -400000 5700000 0
-
     [parts]
     part: R6
     ref_text: 900000 150000 90 1929476 791172 1
@@ -249,7 +235,6 @@ ONLY ADDITIONS TO THE [FREEPCB-1-359 FORMAT](https://freepcb.dev/FreePcb-2/bin/d
   
     value: "3k" 500000 50000 0 -400679 -249470 1
     pos: 0 -1000000 0 270 0
-
     [nets]
     net: "NET00010" 0 0 0 0 0 0 1
     net: "N00029" 0 0 0 0 0 0 1
@@ -278,10 +263,8 @@ ONLY ADDITIONS TO THE [FREEPCB-1-359 FORMAT](https://freepcb.dev/FreePcb-2/bin/d
     corner: 2 -7860000 -4120000 0 0
     corner: 3 6880000 -4120000 0 0
     corner: 4 6880000 3220000 0 1
-
     [texts]
     text: "text" 1700000 900000 10 0 0 1000000 100000 0 0
-
   **text_line: 4200000 1536363 4518181 1536363	`(: X1 Y1 X2 Y2) (This link is optional, it is needed for the external program AreaClipper)`**
 
     text_line: 4472727 900000 4563636 900000	
@@ -311,10 +294,11 @@ ONLY ADDITIONS TO THE [FREEPCB-1-359 FORMAT](https://freepcb.dev/FreePcb-2/bin/d
     text_line: 1881818 945454 1972727 900000
     text_line: 1836363 1081818 1881818 945454
     text_line: 1836363 1854545 1836363 1081818
-  **selection: 4612640 849630 4612640 1903730 1649730 1903730 1649730 849630	`(: X1 Y1 X2 Y2 X3 Y3 X4 Y4)`**
+  **selection: 4612640 849630 4612640 1903730 1649730 1903730 1649730 849630	`(: X1 Y1 X2 Y2 X3 Y3 X4 Y4)`(This link is optional)**
 
-    [merges]`
-  **merge: "Merge-1" 300000 `(: "merge_name" individual_copper_fill_clearance for vector copper area)`**
+  **[merges] `(new section)`**
+  
+  **merge: "Merge-1" 300000 `(: "merge_name" individual_copper_fill_clearance_for_vector_copper_area)`**
   
     merge: "Merge-2" 600000
 
