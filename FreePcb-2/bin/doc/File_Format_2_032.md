@@ -4,309 +4,176 @@ ONLY ADDITIONS TO THE [FREEPCB-1-359 FORMAT](https://freepcb.dev/FreePcb-2/bin/d
 
 `[options]`				
 
-version: 2.032
-
-file_version: 2.032
-
-project_name: "VIMS"
-
-library_folder: "c:\freepcb_libraries"
-
-full_library_folder: "c:\freepcb_libraries\lib_footprints"
-
-parent_folder: "C:\FreePCB_Dev\"
-
-CAM_folder: "C:\FreePCB_Dev\CAM(file.format)"
-
-ses_file_path: ""
-
-netlist_completed: "0"	`(if 1 then netlist becomes protected)`
-
-netlist_file_path: ""
-
-SMT_connect_copper: "1"	`(if 1 then smt pads connects on vector copper area)`
-
-default_glue_width: "635000"
-
-dsn_flags: "3"
-
-dsn_bounds_poly: "0"
-
-dsn_signals_poly: "0"
-
-autosave_interval: 0
-
-auto_ratline_disable: "0"
-
-auto_ratline_disable_min_pins: "100"
-
-netlist_import_flags: 904
-
-m_client_rect_left: 0		`(left coordinate of screen)`
-
-m_client_rect_right: 1420	`(right coordinate of screen)`
-
-m_client_rect_bottom: 666	`(bottom coordinate of screen)`
-
-m_client_rect_top: 0		`(top coordinate of screen)`
-
-m_org_x: -60844			`(origin position)`
-
-m_org_y: -28540			`(origin position)`
-
-m_scale_factor: 121120		`(screen scale)`
-
-units: MM
-
-m_sel_mask: -1
-
-m_visible_layers: -84225	`(visible mask, see order in View->Layers menu)`
-
-m_top_layer: 13			`(screen active layer)`
-
-m_grid_style: 0			`(0-point 1-line)`
+    version: 2.032
+    file_version: 2.032
+    project_name: "VIMS"
+    library_folder: "c:\freepcb_libraries"
+    full_library_folder: "c:\freepcb_libraries\lib_footprints"
+    parent_folder: "C:\FreePCB_Dev\"
+    CAM_folder: "C:\FreePCB_Dev\CAM(file.format)"
+    ses_file_path: ""
+    netlist_completed: "0"	`(if 1 then netlist becomes protected)`
+    netlist_file_path: ""
+    SMT_connect_copper: "1"	`(if 1 then smt pads connects on vector copper area)`
+    default_glue_width: "635000"
+    dsn_flags: "3"
+    dsn_bounds_poly: "0"
+    dsn_signals_poly: "0"
+    autosave_interval: 0
+    auto_ratline_disable: "0"
+    auto_ratline_disable_min_pins: "100"
+    netlist_import_flags: 904
+    m_client_rect_left: 0	`(left coordinate of screen)`
+    m_client_rect_right: 1420	`(right coordinate of screen)`
+    m_client_rect_bottom: 666	`(bottom coordinate of screen)`
+    m_client_rect_top: 0	`(top coordinate of screen)`
+    m_org_x: -60844		`(origin position)`
+    m_org_y: -28540		`(origin position)`
+    m_scale_factor: 121120	`(screen scale)`
+    units: MM
+    m_sel_mask: -1
+    m_visible_layers: -84225	`(visible mask, see order in View->Layers menu)`
+    m_top_layer: 13		`(screen active layer)`
+    m_grid_style: 0		`(0-point 1-line)`
 
 visible_grid_spacing: 10000000.000000
 
-  visible_grid_item: 20mil
-  
-  visible_grid_item: 50mil
-  
-  visible_grid_item: 100mil
-  
-  visible_grid_item: 125mil
-  
-  visible_grid_item: 200mil
-  
-  visible_grid_item: 0.5mm
-  
-  visible_grid_item: 0.65mm
-  
-  visible_grid_item: 0.95mm
-  
-  visible_grid_item: 1mm
-  
-  visible_grid_item: 1.27mm
+    visible_grid_item: 20mil
+    visible_grid_item: 50mil
+    visible_grid_item: 100mil
+    visible_grid_item: 125mil
+    visible_grid_item: 200mil
+    visible_grid_item: 0.5mm
+    visible_grid_item: 0.65mm
+    visible_grid_item: 0.95mm
+    visible_grid_item: 1mm
+    visible_grid_item: 1.27mm
 
 placement_grid_spacing: 100000.000000
 
-  placement_grid_item: 5mil
-  
-  placement_grid_item: 10mil
-  
-  placement_grid_item: 20mil
-
-  placement_grid_item: 0.001mm
-  
-  placement_grid_item: 0.01mm
-  
-  placement_grid_item: 0.1mm
+    placement_grid_item: 5mil
+    placement_grid_item: 10mil
+    placement_grid_item: 20mil
+    placement_grid_item: 0.001mm
+    placement_grid_item: 0.01mm
+    placement_grid_item: 0.1mm
 
 routing_grid_spacing: 20000.000000
 
-  routing_grid_item: 0.1mil
-  
-  routing_grid_item: 0.5mil
-  
-  routing_grid_item: 1mil
-  
-  routing_grid_item: 2mil
-  
-  routing_grid_item: 2.5mil
-  
-  routing_grid_item: 3.33330709mil
-  
-  routing_grid_item: 0.001mm
-  
-  routing_grid_item: 0.01mm
-  
-  routing_grid_item: 0.02mm
-  
-  routing_grid_item: 0.04mm
-  
-  routing_grid_item: 0.05mm
-  
-  routing_grid_item: 0.1mm
-  
-  routing_grid_item: 0.2mm
+    routing_grid_item: 0.1mil
+    routing_grid_item: 0.5mil
+    routing_grid_item: 1mil
+    routing_grid_item: 2mil
+    routing_grid_item: 2.5mil
+    routing_grid_item: 3.33330709mil
+    routing_grid_item: 0.001mm
+    routing_grid_item: 0.01mm
+    routing_grid_item: 0.02mm
+    routing_grid_item: 0.05mm
+    routing_grid_item: 0.1mm
+    routing_grid_item: 0.2mm
 
 snap_angle: 45
 
 fp_visible_grid_spacing: 1000000.000000
 
-  fp_visible_grid_item: 100mil
-  
-  fp_visible_grid_item: 125mil
-  
-  fp_visible_grid_item: 200mil
-  
-  fp_visible_grid_item: 250mil
-  
-  fp_visible_grid_item: 400mil
-  
-  fp_visible_grid_item: 500mil
-  
-  fp_visible_grid_item: 1000mil
-  
-  fp_visible_grid_item: 0.5mm
-  
-  fp_visible_grid_item: 0.95mm
-  
-  fp_visible_grid_item: 1mm
-  
-  fp_visible_grid_item: 1.27mm
-  
-  fp_visible_grid_item: 2mm
-  
-  fp_visible_grid_item: 2.5mm
+    fp_visible_grid_item: 100mil
+    fp_visible_grid_item: 125mil
+    fp_visible_grid_item: 200mil
+    fp_visible_grid_item: 250mil
+    fp_visible_grid_item: 400mil
+    fp_visible_grid_item: 500mil
+    fp_visible_grid_item: 1000mil
+    fp_visible_grid_item: 0.5mm
+    fp_visible_grid_item: 0.95mm
+    fp_visible_grid_item: 1mm
+    fp_visible_grid_item: 1.27mm
+    fp_visible_grid_item: 2mm
+    fp_visible_grid_item: 2.5mm
 
 fp_placement_grid_spacing: 20000.000000
 
-  fp_placement_grid_item: 0.1mil
-  
-  fp_placement_grid_item: 1mil
-  
-  fp_placement_grid_item: 5mil
-  
-  fp_placement_grid_item: 10mil
-  
-  fp_placement_grid_item: 20mil
-  
-  fp_placement_grid_item: 25mil
-
-  fp_placement_grid_item: 0.001mm
-  
-  fp_placement_grid_item: 0.01mm
-  
-  fp_placement_grid_item: 0.02mm
-  
-  fp_placement_grid_item: 0.05mm
-  
-  fp_placement_grid_item: 0.1mm
-  
-  fp_placement_grid_item: 0.2mm
-  
-  fp_placement_grid_item: 0.5mm
-  
-  fp_placement_grid_item: 0.65mm
+    fp_placement_grid_item: 0.1mil
+    fp_placement_grid_item: 1mil
+    fp_placement_grid_item: 5mil
+    fp_placement_grid_item: 10mil
+    fp_placement_grid_item: 20mil
+    fp_placement_grid_item: 25mil
+    fp_placement_grid_item: 0.001mm
+    fp_placement_grid_item: 0.01mm
+    fp_placement_grid_item: 0.02mm
+    fp_placement_grid_item: 0.05mm
+    fp_placement_grid_item: 0.1mm
+    fp_placement_grid_item: 0.2mm
+    fp_placement_grid_item: 0.5mm
+    fp_placement_grid_item: 0.65mm
 
 fp_snap_angle: 45
 
-m_seg_clearance: 205080		`(SET_CLEARANCE function clearance)`
+    m_seg_clearance: 205080	`(SET_CLEARANCE function clearance)`
+    fill_clearance: 300000
+    mask_clearance: 50000
+    thermal_width: 400000
+    thermal_clearance: 200000	`(thermal barrier clearance)`
+    min_silkscreen_width: 100000
 
-fill_clearance: 300000
+    highlight_width: 127000	`(for selected elements, the minimum thickness of the lines of the HIGHLIGHT layer, when the GERBER file is created)`
 
-mask_clearance: 50000
-
-thermal_width: 400000
-
-thermal_clearance: 200000	`(thermal barrier clearance)`
-
-min_silkscreen_width: 100000
-
-highlight_width: 127000		`(for selected elements, the minimum thickness of the lines of the HIGHLIGHT layer, when the GERBER file is created)`
-
-hole_clearance: 500000
-
-pilot_diameter: 200000
-
-annular_ring_for_pins: 200000
-
-annular_ring_for_vias: 200000
-
-shrink_paste_mask: 0
-
-cam_flags: 2288
-
-cam_layers: 1048639
-
-cam_drill_file: 1
-
-cam_units: 1
-
-cam_n_x: 1
-
-cam_n_y: 1
-
-cam_space_x: 0
-
-cam_space_y: 0
-
-report_options: 4123
-
-drc_check_unrouted: 1
-
-drc_trace_width: 240000
-
-drc_pad_pad: 200000
-
-drc_pad_trace: 200000
-
-drc_trace_trace: 200000
-
-drc_hole_copper: 200000
-
-drc_annular_ring_pins: 200000
-
-drc_annular_ring_vias: 200000
-
-drc_board_edge_copper: 0
-
-drc_board_edge_hole: 0
-
-drc_hole_hole: 400000
-
-drc_copper_copper: 300000
-
-default_trace_width:0.25mm	`(mm or mil must be registered)`
-
-default_via_pad_width:0.8mm	`(mm or mil must be registered)`
-
-default_via_hole_width:0.4mm	`(mm or mil must be registered)`
+    hole_clearance: 500000
+    pilot_diameter: 200000
+    annular_ring_for_pins: 200000
+    annular_ring_for_vias: 200000
+    shrink_paste_mask: 0
+    cam_flags: 2288
+    cam_layers: 1048639
+    cam_drill_file: 1
+    cam_units: 1
+    cam_n_x: 1
+    cam_n_y: 1
+    cam_space_x: 0
+    cam_space_y: 0
+    report_options: 4123
+    drc_check_unrouted: 1
+    drc_trace_width: 240000
+    drc_pad_pad: 200000
+    drc_pad_trace: 200000
+    drc_trace_trace: 200000
+    drc_hole_copper: 200000
+    drc_annular_ring_pins: 200000
+    drc_annular_ring_vias: 200000
+    drc_board_edge_copper: 0
+    drc_board_edge_hole: 0
+    drc_hole_hole: 400000
+    drc_copper_copper: 300000
+    default_trace_width:0.25mm	`(mm or mil must be registered)`
+    default_via_pad_width:0.8mm	`(mm or mil must be registered)`
+    default_via_hole_width:0.4mm `(mm or mil must be registered)`
 
 n_width_menu: 3
 
-  width_menu_item: 1 0.25mm 0.8mm 0.4mm		`(mm or mil must be registered)`
-  
-  width_menu_item: 2 0.4mm 0.8mm 0.4mm		`(mm or mil must be registered)`
-  
-  width_menu_item: 3 0.8mm 1mm 0.6mm		`(mm or mil must be registered)`
+    width_menu_item: 1 0.25mm 0.8mm 0.4mm		`(mm or mil must be registered)`
+    width_menu_item: 2 0.4mm 0.8mm 0.4mm		`(mm or mil must be registered)`
+    width_menu_item: 3 0.8mm 1mm 0.6mm		`(mm or mil must be registered)`
 
 n_copper_layers: 2
 
-  layer_info: "selection" 0 255 255 255 1	`(: "layer" R G B visibility)`
-  
-  layer_info: "background" 1 153 153 153 1
-  
-  layer_info: "visible grid" 2 136 136 136 1
-  
-  layer_info: "highlight" 3 255 255 0 1
-  
-  layer_info: "DRC error" 4 255 0 0 1
-  
-  layer_info: "board outline" 5 255 255 255 1
-  
-  layer_info: "scribing" 6 128 128 64 1
-  
-  layer_info: "top notes" 7 255 128 255 1
-  
-  layer_info: "bot notes" 8 255 0 255 0
-  
-  layer_info: "rat line" 9 0 0 255 1
-  
-  layer_info: "top silk" 10 232 232 232 1
-  
-  layer_info: "bottom silk" 11 232 232 232 0
-  
-  layer_info: "thru pad" 12 63 63 63 1
-  
-  layer_info: "top view" 13 45 45 45 1
-  
-  layer_info: "bot view" 14 45 45 45 0
-  
-  layer_info: "top copper" 15 93 93 93 1
-  
-  layer_info: "bot copper" 16 98 98 98 0
+    layer_info: "selection" 0 255 255 255 1	`(: "layer" R G B visibility)`
+    layer_info: "background" 1 153 153 153 1
+    layer_info: "visible grid" 2 136 136 136 1
+    layer_info: "highlight" 3 255 255 0 1
+    layer_info: "DRC error" 4 255 0 0 1
+    layer_info: "board outline" 5 255 255 255 1
+    layer_info: "scribing" 6 128 128 64 1
+    layer_info: "top notes" 7 255 128 255 1
+    layer_info: "bot notes" 8 255 0 255 0
+    layer_info: "rat line" 9 0 0 255 1
+    layer_info: "top silk" 10 232 232 232 1
+    layer_info: "bottom silk" 11 232 232 232 0
+    layer_info: "thru pad" 12 63 63 63 1
+    layer_info: "top view" 13 45 45 45 1
+    layer_info: "bot view" 14 45 45 45 0
+    layer_info: "top copper" 15 93 93 93 1
+    layer_info: "bot copper" 16 98 98 98 0
 
 `[footprints]`
 
