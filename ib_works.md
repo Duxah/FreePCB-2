@@ -3,7 +3,7 @@
 Infobox is the main application of the entire FreePcb-2 tools.
 Using Infobox you can: 
 
-1) Run other gadgets:
+1) Launch other gadgets using the right-click menu on the Infobox info field:
 
 ![](pictures/ib_apps.png)
 
