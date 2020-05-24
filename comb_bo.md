@@ -6,7 +6,7 @@ A PCB outline line or other polyline can be combined with a similar intersecting
 
 You can use this option when creating a panel of several printed circuit boards. The boards need to be placed at some distance from each other, and then add closed polylines in the board_outline layer, in those places where you want to connect them.
 
-Then click the Combine_Board_Outlines button in the Tools menu and get something like this:
+Then click the Combine_Board_Outlines button and get something like this:
 
 ![](pictures/bo_1.png)
 
