@@ -19,6 +19,5 @@ and etc.
 
 To open the menu, right-click on the infobox window (on the list)
 
-_During operation, the infobox sends requests to the main FreePCB window and receives data from it in the form of text strings hanging in RAM. As a result of which, while working with antivirus programs, problems can sometimes arise. If your antivirus software thinks that Infobox is a virus, then you will have to add it to the exclusion list._
+_During operation, the infobox sends requests to the main FreePCB window and receives data from it in the form of commands hanging in RAM. As a result of which, while working with antivirus programs, problems can sometimes arise. If your antivirus software thinks that Infobox is a virus, then you will have to add it to the exclusion list._
 
-# [return](How_to.md)
