@@ -1,6 +1,6 @@
 ### Export to DXF
 
-The Infobox menu contains an application that converts the `* .fpc` file to the `* .dxf` mechanical format. Select `Export->DXF` from the Infobox right-click menu. In `FreePcb-2-032`, the program window looks like this:
+The Infobox menu contains an application that converts the `* .fpc` file to the `* .dxf` mechanical format. Open the circuit board project dxf_export.fpc which is located in the "examples" folder. Select `Export->DXF` from the Infobox right-click menu. In `FreePcb-2-032`, the program window looks like this:
 
 ![](pictures/dxf_exp_1.png)
 
