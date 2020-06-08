@@ -32,6 +32,10 @@ In the second column, you specify the shape of the figure. It can be:
 
 ### How to add a new shape to the table.
 
-Click on the first column of the TO220 package or any other package, it doesn’t matter. From the right-click menu, select Insert empty string, as shown in the figure. A new line will appear in which only the first cell will be filled in which the same package name will already be indicated. This means that the new figure will belong to the same package (TO220T). (In principle, you can change the name of the package, and then the new figure will belong to another package.) Next, in the second column, specify the name of the figure, for example, RECT. Click on 3, 4, 5 cells and use the mouse wheel to set the desired size of the X, Y, Z shape. The result should be something like this:
+Click on the first column of the TO220 package or any other package, it doesn’t matter. From the right-click menu, select Insert empty string, as shown in the figure. 
 
 ![](pictures/dxf_exp_3.png)
+
+A new line will appear in which only the first cell will be filled in which the same package name will already be indicated. This means that the new figure will belong to the same package (TO220T). (In principle, you can change the name of the package, and then the new figure will belong to another package.) Next, in the second column, specify the name of the figure, for example, RECT. Click on 3, 4, 5 cells and use the mouse wheel to set the desired size of the X, Y, Z shape. The result should be something like this:
+
+![](pictures/dxf_exp_4.png)
