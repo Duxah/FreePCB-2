@@ -10,19 +10,9 @@ To browse \ edit the library of 3d cases, click the Edit DXF library button. A n
 
 ![](pictures/dxf_exp_2.png)
 
-1) Switch to the editor with the button in the lower left corner of the window
+Switch to the editor with the button in the lower left corner of the window. In editor mode, on the left side of the window is a table in which the parameters of the primitive are recorded
 
-2) Click the draw button to review parts that have the Package attribute. Those parts that do not have the Package attribute will not be displayed.
-
-3) Now click on the part you want to edit. this item will be shown in full screen. and its 3D primitives can be edited
-
-![](pictures/dxf_exp_3.png)
-
-In editor mode, on the left side of the window is a table in which the parameters of the primitive are recorded
-
-To make an overview of all the details in the project, click the Draw button, which is located at the bottom of the program window. By default, this button draws on the screen all the enclosures that are present in the project. To start editing a specific part, simply click on its drawing with the left mouse button. Then go to the editor by clicking on the Editor tab. Here on the left is a table, in each line of which the parameters of the figure that you want to display in the DXF file are set, as well as the binding of this figure to the part on the circuit board. The leftmost column is this binding to the figure, that is, the text in the first column is nothing more than the Package attribute of the part, which you can view / change in the FreePcb-2 part properties dialog box.
-
-![](pictures/dxf_exp_2.png)
+To make an overview of all the details in the project, click the Draw button, which is located at the bottom of the program window. By default, this button draws on the screen all the enclosures that are present in the project. To start editing a specific part, simply click on its drawing with the left mouse button. Then go to the editor by clicking on the Editor tab. Here on the left is a table, in each line of which the parameters of the figure that you want to display in the DXF file are set, as well as the binding of this figure to the part on the circuit board. The leftmost column is this binding to the figure, that is, the text in the first column is nothing more than the Package attribute of the part, which you can view / change in the FreePcb-2 part properties dialog box. It is important to remember that those parts that do not have the Package attribute will not be displayed here.
 
 In the second column, you specify the shape of the figure. It can be:
 
@@ -39,3 +29,9 @@ In the second column, you specify the shape of the figure. It can be:
 6-8 columns specify the angle of rotation of the figure in the planes XY, XZ, YZ, respectively. It is also convenient to use the mouse wheel to change this parameter.
 
 9-11 specify the displacement of the figure along the axes X, Y, Z, respectively. The initial position of the figure 0, 0, 0 relative to the coordinates of the footprint. You can specify the offset in these cells by entering numerical values, and the figure moves to the specified number along the corresponding axis. The second way to move the figure is to click on the edge of the figure to select it, and then use the arrows on the keyboard to move it.
+
+### How to add a new shape to the table.
+
+Click on the first column of the TO220 package or any other package, it doesn’t matter. From the right-click menu, select Insert empty string, as shown in the figure. A new line will appear in which only the first cell will be filled in which the same package name will already be indicated. This means that the new figure will belong to the same package (TO220T). (In principle, you can change the name of the package, and then the new figure will belong to another package.) Next, in the second column, specify the name of the figure, for example, RECT. Click on 3, 4, 5 cells and use the mouse wheel to set the desired size of the X, Y, Z shape. The result should be something like this:
+
+![](pictures/dxf_exp_3.png)
