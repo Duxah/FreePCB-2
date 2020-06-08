@@ -130,7 +130,7 @@ _Warning! This document has been translated into English from another language. 
 * [How to set default pad clearance for solder mask?](sm_def.md)
 * How to import netlist?
 * How to export netlist?
-* How to make dxf export?
+* [How to make dxf export?](dxf_exp.md)
 * [How to import dxf?](dxf_imp.md)
 * [How to import bmp picture?](bmp_imp.md)
 * How to import Pcad-ascii files?
