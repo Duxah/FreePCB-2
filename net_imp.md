@@ -8,4 +8,4 @@ In the menu, the import button may not be active if the netlist is protected. Yo
 
 `Export PADS-PCB netlist`
 
-Netlist is exported automatically to the project folder \ cookies \ `filename` .net when the file is saved.
+Netlist is exported automatically to the `project folder \ cookies \ filename.net` when the file is saved.
