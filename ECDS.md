@@ -1,4 +1,4 @@
-### Welcome to `Freeasy` - Electronic Cirquit Design Software
+### Welcome to `Freeasy` page - Electronic Cirquit Design Software
 
 Program features:
 
