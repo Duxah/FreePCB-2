@@ -98,9 +98,9 @@ _[to learn more...](partners.md)_
 ### `Contacts`
 
 * [User forum](https://groups.io/g/freepcb) You can use the forum of the first official version of FreePcb, which has now been ported to groups.io, and ask your question there. 
-* If you have any suggestions related to FreePcb-2 or you do not want to submit your question for public review, send to [email](https://freepcb.online/Discuss/).
-* If you want to improve the translation of this document, please send your file by email from the site [freepcb.online](https://freepcb.online/Discuss/)
-* If you have your own libraries of footprints that you are ready to share with everyone, then you can [send them to me](https://freepcb.online/Discuss/), and I'll post them on the site.
+* If you have any suggestions related to FreePcb-2 or you do not want to submit your question for public review, send to [email](duxah@yahoo.com).
+* If you want to improve the translation of this document, please send your file by email
+* If you have your own libraries of footprints that you are ready to share with everyone, then you can send them to me, and I'll post them on the site.
 * FreePcb-2 is involved in the development of industrial appliances and has been thoroughly tested to prevent errors. But if you find an error, please send me a report by e-mail with a description and screenshots so that I can fix it as soon as possible.
 
 ***
