@@ -1,4 +1,4 @@
-You can pretend the back of the circuit board next to the main board to print.
+You can make a bottom view of the printed circuit board next to the main printed circuit board.
 
 Using the TOOLS -> MOVE ORIGIN main menu function, position the origin to the right of the border line at a distance of about 1 mm.
 
