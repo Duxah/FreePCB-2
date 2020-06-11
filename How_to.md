@@ -86,7 +86,7 @@ _Warning! This document has been translated into English from another language. 
 **Groups**
 
 * [How to rotate a part or group?](rotate.md)
-* [How to change side?(flip, mirror)](side.md)
+* [How to change side?](side.md)
 * [How to add merge?](add_merge.md)
 * [How to align group objects?](align_gr.md)
 * [How to select all objects?](select_all.md)
@@ -119,7 +119,7 @@ _Warning! This document has been translated into English from another language. 
 
 **Production files**
 
-* [How to export gerber?(for PCB factories)](gerber.md)
+* [How to export gerber?](gerber.md)
 * [How to generate pick & place file?](pnp.md)
 * [How to generate BOM file?](bom.md)
 * [How to create a gerber file for making a stencil?](stencil.md)
