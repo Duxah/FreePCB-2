@@ -11,10 +11,28 @@ Here is a complete list of sorting styles:
 Launch the application from the Infobox right-click menu.
 The main program window will open
 
+![](pictures/lib1.png)
+
 Feature Summary
 
-1) You can combine two or more footprints into one. It is convenient to use when you need to make a universal footprint for different types of cases. For example, for SOT-23-5 and SC-70-5.
+1) You can combine two or more footprints into one. It is convenient to use when you need to make a universal footprint for different types of cases. For example, for `SOT-23-5` and `SC-70-5`.
 
-Place these parts on a printed circuit board one on top of the other or next to each other, save the project, and only after saving, run the Edit_Libraries application. Now click the Combine footprints button, a new window will open in which you must specify the main footprint (left) and child footprints (right). Next, select the pin name style and then click OK.
+![](pictures/lib2.png)
 
-2) When you assemble a panel from several projects, it is recommended to use this option in order to avoid footprint library errors. This error may occur if your projects have edited footprints. In order for paneling to complete successfully, you need to add a suffix to the names of the footprints, for example, this: `__brd1`. In another project, you add for example `__brd2`, etc. In the last project, you can add nothing. After that, you can safely insert one project into another and there will be no library conflict. (To import another project to current, select the menu `Edit` -> `Paste Group from file`)
+Place these parts on a printed circuit board one on top of the other or next to each other, save the project, and only after saving, run the Edit_Libraries application. Now click the `Combine footprints` button, a new window will open in which you must specify the main footprint (left) and child footprints (right). Next, select the pin name style and then click OK.
+
+![](pictures/lib3.png)
+
+Now two parts have turned into one and it will be more convenient to drag it.
+
+2) When you assemble a panel from several projects, it is recommended to use this option in order to avoid footprint library errors. This error may occur if your projects have edited footprints. In order for paneling to complete successfully, you need to add a suffix to the names of the footprints, for example, this: `__brd1`. In another project, you add for example `__brd2`, etc. In the last project, you can add nothing. 
+
+Press the button:
+
+![](pictures/lib4.png)
+
+A new window will open in which you must enter a suffix or prefix.
+
+![](pictures/lib5.png)
+
+After that, you can safely insert one project into another and there will be no library conflict. To import another project to current, select the menu `Edit` -> `Paste Group from file`
