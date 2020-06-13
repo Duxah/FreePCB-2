@@ -138,8 +138,9 @@ _Warning! This document has been translated into English from another language. 
 * [How to highlight parts when printing?](print_h.md)
 * [How to change ref or value sizes for part group?](edit_silk.md)
 * [How to replace one size with another in the whole project?](replace.md)
-* How to sort footprint libraries? (for example alphabetically)
-* How to competently make PCB panelization?
+* [How to sort footprint libraries?]
+* [How to competently make PCB panelization?]
+* [How to combine footprints?](edit_lib.md)
 * How to add arc-elements of traces or copper areas?
 * How to remove arc-elements of traces or copper areas?
 * [How to compare parts kits for different PCB?](diff_pcb.md)
