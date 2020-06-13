@@ -4,11 +4,11 @@ Here both pins of this part have one common net.
 
 ![](pictures/edit_tr9_4.png)
 
-Sometimes you need to divide the net into two different ones, while preserving all the routes and polygons. What conditions must be met for successful separation?
+Sometimes you need to divide the net into two different ones, while preserving all the routes and polygons. The network can only be divided by Ratline.
+To successfully divide the network into two parts, you must:
 
-* the net is split only on rat lines
-* the rat-line should not be artificially created (manually), but should be created by the rat-line recalculation program (in the mode when nothing is selected, press the F9 (Recalculate Ratlines) button), if the rat-line does not disappear or vice versa appears, then this it is the same rat line along which you can cut the net.
-Highlight this segment and press F7 (Split Net). 
+1) Select the Ratline by which you want to cut the network
+2) Check this Ratline for the ability to split the network: try removing it. If the Ratline has disappeared, then it will not work to divide the net, otherwise the verification is successful and you can split the net here. Highlight this segment and press F7 (Split Net).
 
 ![](pictures/split_net1.png)
 
