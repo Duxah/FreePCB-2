@@ -8,9 +8,9 @@ _Warning! This document has been translated into English from another language. 
 **Start**
 
 * [How to create PCB project?](new_project.md)
-* [How to change folder of libraries?](lib_folder.md)
+* [How to change current folder of footprint libraries?](lib_folder.md)
 * [How to change layer color?](colors.md)
-* [How to make a layer invisible?](layer_vis.md)
+* [How to make a layer visible/invisible?](layer_vis.md)
 * [How to work with selection mask?](sel_mask.md)
 * [How to edit grid size?](grid.md)
 * [How to see the list of hot keys?](hotkeys.md)
