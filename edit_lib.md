@@ -13,6 +13,8 @@ The main program window will open
 
 ![](pictures/lib1.png)
 
+To start sorting select a style, click the Rewrite all lib button.
+
 Feature Summary
 
 1) You can combine two or more footprints into one. It is convenient to use when you need to make a universal footprint for different types of cases. For example, for `SOT-23-5` and `SC-70-5`.
@@ -36,3 +38,9 @@ A new window will open in which you must enter a suffix or prefix.
 ![](pictures/lib5.png)
 
 After that, you can safely insert one project into another and there will be no library conflict. To import another project to current, select the menu `Edit` -> `Paste Group from file`
+
+3) Update the entire local footprint library. Footprint elements will be downloaded from the main library and saved to a file. The program will search for footprints by name and replace if the number of pins in the footprints matches.
+
+Press the button:
+
+![](pictures/lib6.png)
