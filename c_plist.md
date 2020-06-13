@@ -2,6 +2,8 @@
 
 If you are professionally engaged in the development of printed circuit boards, then you probably have many projects of printed circuit boards and many versions of the same project, just slightly modified from version to version. The Infobox function is very useful for you, which can show differences in the value and footprint attributes of the same part in different versions of the project. To compare them, you need to load the Netlist of the previous version of the circuit board into Infobox. It’s useful to know that in FreePcb-2 Netlist is automatically saved in the cookie folder when you simply click on the “Save Project” button. This Netlist is saved in the regular PADS-PCB format and is therefore suitable for loading into Infobox as an external netlist. So, let's begin. First, we need to make visible the Infobox columns that we will need to compare - these are value and value-NL, as well as footprint and footprint-NL. Enter the InfoBox settings via the right-click menu, and check the checkbox on value, value-NL, footprint, footprint-NL, Compare Netlist, and then close the settings window.
 
+![](pictures/IB_menu.png)
+
 ![](pictures/cmp_parts1.png)
 
 Now download the netlist file from the previous version of this project. From the Discrepancy-NL column drop-down list, select LOAD NETLIST and select a file with the * .net extension.
