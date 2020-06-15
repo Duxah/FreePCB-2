@@ -27,7 +27,7 @@ Place these parts on a printed circuit board one on top of the other or next to 
 
 Now two parts have turned into one and it will be more convenient to drag it.
 
-2) When you assemble a panel from several projects, it is recommended to use this option in order to avoid footprint library errors. This error may occur if your projects have edited footprints. In order for paneling to complete successfully, you need to add a suffix to the names of the footprints, for example, this: `__brd1`. In another project, you add for example `__brd2`, etc. In the last project, you can add nothing. 
+2) When you assemble a panel from several projects, it is recommended to use this option in order to avoid footprint library errors. This error may occur if your projects have edited footprints. In order for paneling to complete successfully, you need to add a suffix to the names of the footprints, for example, this: `__brd1`. In another project, you add for example `__brd2`, etc. In the last project, you may not add. 
 
 Press the button:
 
