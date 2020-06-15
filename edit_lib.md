@@ -32,11 +32,11 @@ Now two parts have turned into one and it will be more convenient to drag it.
 
 Press the button:
 
-![](pictures/lib4.png)
+`Add string to footprint name`
 
 A new window will open in which you must enter a suffix or prefix.
 
-![](pictures/lib5.png)
+![](pictures/lib4.png)
 
 After that, you can safely insert one project into another and there will be no library conflict. To import another project to current, select the menu `Edit` -> `Paste Group from file`
 
@@ -44,4 +44,4 @@ After that, you can safely insert one project into another and there will be no 
 
 Press the button:
 
-![](pictures/lib6.png)
+`Replace all footprints`
