@@ -33,9 +33,7 @@ Now two parts have turned into one and it will be more convenient to drag it.
 
 2) When you assemble a panel from several projects, it is recommended to use this option in order to avoid footprint library errors. This error may occur if you edited the footprints in the project and the local libraries are now different from each other. In order for paneling to complete successfully, you need to add a suffix to the names of the footprints, for example, this: `__brd1`. In another project, you add for example `__brd2`, etc. In the last project, you may not add. 
 
-Press the button:
-
-`Add string to footprint name`
+Press the button: `Add string to footprint name`
 
 A new window will open in which you must enter a suffix or prefix.
 
@@ -45,6 +43,6 @@ After that, you can safely insert one project into another and there will be no 
 
 3) Update the entire local footprint library. Footprint elements will be downloaded from the main library and saved to a file. The program will search for footprints by name and replace if the number of pins in the footprints matches.
 
-Press the button:
+Press the button: `Replace all footprints`
 
-`Replace all footprints`
+If you have any suggestions for improving this application, write to e-mail
