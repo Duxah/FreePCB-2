@@ -17,6 +17,8 @@ The main program window will open
 To start sorting select a style, click the Rewrite all lib button.
 Before sorting, the program backs up the library to the Library.arch file. But it should be borne in mind that your custom sorting will no longer be possible to restore, so you must make a copy of the library manually before sorting.
 
+Libraries after sorting:
+
 ![](pictures/lib5.png)
 
 ## `Application Features`
