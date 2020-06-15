@@ -1,4 +1,5 @@
-Sort footprints in libraries
+## `Sort footprints in libraries`
+
 Using the Edit_Libraries application, you can sort footprints and move between libraries. For example, you can sort in alphabetical order. This means that all footprints whose name begins with the letter A will be moved to the A.fpl library. This will be done for all letters of the alphabet.
 Here is a complete list of sorting styles:
 
@@ -15,7 +16,7 @@ The main program window will open
 
 To start sorting select a style, click the Rewrite all lib button.
 
-Feature Summary
+## `Application Features`
 
 1) You can combine two or more footprints into one. It is convenient to use when you need to make a universal footprint for different types of cases. For example, for `SOT-23-5` and `SC-70-5`.
 
