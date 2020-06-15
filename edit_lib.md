@@ -21,7 +21,7 @@ Libraries after sorting:
 
 ![](pictures/lib5.png)
 
-## `Application Features`
+## `Other application features `
 
 1) You can combine two or more footprints into one. It is convenient to use when you need to make a universal footprint for different types of cases. For example, for `SOT-23-5` and `SC-70-5`.
 
