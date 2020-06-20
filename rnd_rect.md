@@ -4,7 +4,7 @@ Infobox has an application for rounding sharp corners, which can round the corne
 
 ## `Copper traces rounding..`
 
-First check the "Rounding vertex of traces" box on the left. Then go to the RndTraces tab and set the fillet options. For sample, you can set as in the screenshot.
+First check the "Rounding vertex of traces" box on the left. Then go to the RndTraces tab and set the rnd options. For sample, you can set as in the screenshot.
 Then click the "ToTry" button. A modified file opens with the options applied. Now you should do a design rule check in this file. If there are gaps errors, then you can either set a smaller initial rounding radius, or adjust the original project. In any case, close the window of the modified project so that it does not interfere. After making the changes, click the "ToTry" button again, and do the same until the design check is completed with errors. When the design check is completed without errors, you can already select the "Replace original file" checkbox, and generate it by clicking "ToTry" again.
 
 ## `Oval vias..`
