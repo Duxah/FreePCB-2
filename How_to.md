@@ -141,8 +141,8 @@ _Warning! This document has been translated into English from another language. 
 * [How to sort footprint libraries?\
   How to competently make PCB panelization?\
   How to combine footprints?](edit_lib.md)
-* How to add arc-elements of traces or copper areas?
-* How to remove arc-elements of traces or copper areas?
+* [How to add arc-elements of traces or copper areas?](rnd_rect.md)
+* [How to remove arc-elements of traces or copper areas?](rnd_cancel.md)
 * [How to compare parts kits for different PCB?](diff_pcb.md)
 * How to make an analysis of FreePcb projects for machines?
 * [How to edit libraries?](fp_edit.md)
