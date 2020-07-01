@@ -1,4 +1,4 @@
-### `FreeasyCapture - Electronic Cirquit Editor`
+### `FreeasyCapture - circuit design software`
 
 Program features:
 
