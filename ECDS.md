@@ -59,10 +59,11 @@ _`First Schematic Editor` распространяется под лицензи
 
 ### `Various name variations`
 
+* Schematic cap
+* Schematic Capture
+* Easy Capture
 * Freeasy Capture
-* Pcb Root
-* Easy Cap
-* Schematic Capitan
-* Schematic Capital
-* First schematic editor (применено на данный момент)
+* First Schematic Editor (применено на данный момент)
+* Schematical
+* Pcb Root 
 
