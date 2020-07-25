@@ -57,13 +57,13 @@ Program features:
 
 ### `Various name variations`
 
-* Netlist Builder
+* Netlist Builder (применено на данный момент)
 * Schematic cap
 * Schematic Capture
-* Easy Capture
-* Freeasy Capture
-* First Schematic Editor (применено на данный момент)
-* Schematical
+* Easy Schematic
+* Freeasy Schematic
+* First Schematic Editor 
+* First Schematical
 * Pcb Root 
 * Pcb Framework
 * Schematic Canvas
