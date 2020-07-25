@@ -1,4 +1,4 @@
-### `Netlist Builder (circuit design software)`
+### `Netlist Builder v1.0 (circuit design software)`
 
 Program features:
 
