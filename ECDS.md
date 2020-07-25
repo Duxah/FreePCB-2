@@ -68,4 +68,6 @@ _`First Schematic Editor` распространяется под лицензи
 * First Schematic Editor (применено на данный момент)
 * Schematical
 * Pcb Root 
+* Pcb Framework
+* Schematic Canvas
 
