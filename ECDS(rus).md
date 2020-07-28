@@ -1,26 +1,26 @@
 ### `Schematic Constructor v1.0 (circuit design software)`
 
-Program features:
+Особенности программы :
 
-* Support for multi-page circuit design
+* Поддержка многостраничного проектирования схем
 
-* Support for multi-graphic symbols of parts
+* Поддержка мультиграфических символов деталей
 
-* Export to popular netlist formats
+* Экспорт списка соединений в PADS-PCB (OrCad KiCad DipTrace Altium Eagle EasyEda и др. поддерживают это)
 
-* No component libraries required for operation
+* Для работы не требуются библиотеки компонентов
 
-* Ability to move part pins directly in the main window of the circuit editor.
+* Возможность перемещения выводов деталей непосредственно в главном окне редактора схем.
 
-* Import bitmap as background image.
+* Импорт растрового изображения.
 
-* Pass-through numbering of parts
+* Сквозная нумерация деталей
 
-* Search for any part attributes for all projects in the parent folder
+* Поиск детали по атрибуту и импорт из смежных проектов 
 
-* Interpage attribute synchronization
+* Синхронизация атрибутов между страницами
 
-* DRC check
+* Проверка DRC
 
 ![](pictures/ECDS.gif)
 
@@ -49,26 +49,10 @@ Program features:
 
 ### `Лицензия`
 
-`Schematic Constructor` распространяется под лицензией FreeWare и находится в открытом доступе. (бесплатно для частных лиц и организаций)
+`Schematic Constructor` распространяется под лицензией FreeWare. (бесплатно для частных лиц и организаций)
 
 ### [`Пожертвовать на развитие`](https://paypal.me/freepcb2)
 
-Вы можете сделать пожертвования в фонд ресурса freepcb.dev. Вы можете внести любую сумму денежных средств оценив вашу прибыль и долю участия `Schematic Constructor` или `freepcb-2` в вашем бизнесе. Или можете пожертвовать не деньгами а другими благами, например разместить ссылку на вашем сайте, или снять видеоинструкцию к программам. Это все считается пожертвованием. 
+Вы можете сделать пожертвования в фонд ресурса freepcb.dev. Вы можете внести любую сумму денежных средств оценив вашу прибыль и долю участия `Schematic Constructor` или `freepcb-2` в вашем бизнесе. Или вы можете сделать что-нибудь полезное, например разместить ссылку на вашем сайте, или снять видеоинструкцию к программам. Это все считается пожертвованием, но следует помнить что домен не является бесплатным. Все ваши пожертвования нужны для поддержки freepcb.dev.
 
-Домен не является бесплатным. Ваши пожертвования идут для поддержки freepcb.dev.
-
-### `Various name variations`
-
-* Netlist Builder 
-* Schematic cap
-* Schematic Capture
-* Easy Schematic
-* Freeasy Schematic
-* First Schematic Editor 
-* First Schematical
-* Pcb Root 
-* Pcb Framework
-* Schematic Canvas
-* Schematic Constructor (применено на данный момент)
-
-`Презентация намечена на 25.08.2020`
+`Первый выпуск намечен на 25.08.2020`
