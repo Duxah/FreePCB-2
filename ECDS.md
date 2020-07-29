@@ -40,7 +40,7 @@ Special attention should be paid to the topic of hidden text in the schematic de
 
 `Schematic Constructor` is ideal for small projects. At the moment, the editor supports 8 pages, which can be linked (related numbering of parts) or stand-alone (when duplication of RefDes between pages is allowed). You can then export these pages to a PDF file. The orientation of the pages in the PDF file is automatically selected according to the layout orientation (Typically, the layout along the Y axis is less than the X axis - this is landscape orientation). The number of pages may be expanded in the future.
 
-The program is equipped with an automatic check of design rules before creating a netlist. Checking the design for errors is divided into 2 stages. First, the networks are checked for contact and other errors during the generation of networks, and then the names of parts and pins are checked using the DRC dialog box, in which there is also control of the clearance of texts on the polyline. The output is a netlist, BOM file and parts list.
+The program is equipped with an automatic check of design rules before creating a netlist. Checking the design for errors is divided into 2 stages. First, the nets are checked for contact and other errors during the generation of nets, and then the names of parts and pins are checked using the DRC dialog box, in which there is also control of the clearance of texts on the polyline. The output is a netlist, BOM file and parts list.
 
 Support department:
 
@@ -48,11 +48,11 @@ If you have a question or suggestion related to `Schematic Constructor`, do not 
 
 ## `License`
 
-Schematic Constructor is distributed under the FreeWare license. (free for individuals and organizations)
+`Schematic Constructor` is distributed under the `FreeWare license`. (free for individuals and organizations)
 
 ## [`Donate to development`](https://paypal.me/freepcb2)
 
-You can donate to the freepcb.dev resource fund. The domain is not free. You can deposit any amount of money by assessing your profit and the share of participation of `Schematic Constructor` or freepcb-2 in your business. If you are using FreePcb-2 not in commercial interests, then you can do something useful, for example, place a link on your site, or make a video instruction for the programs. This is all considered a donation. All your donations are needed to support freepcb.dev.
+You can donate to the `freepcb.dev` resource fund. The domain is not free. You can deposit any amount of money by assessing your profit and the share of participation of `Schematic Constructor` or freepcb-2 in your business. If you are using FreePcb-2 not in commercial interests, then you can do something useful, for example, place a link on your site, or make a video instruction for the programs. This is all considered a donation. All your donations are needed to support `freepcb.dev`.
 
 The first release is scheduled for 2020
 
