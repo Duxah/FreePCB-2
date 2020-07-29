@@ -46,15 +46,13 @@ Support department:
 
 If you have a question or suggestion related to Schematic Constructor, do not forget to write to duxah@yahoo.com
 
-### `Лицензия`
+### `License`
 
-`Schematic Constructor` распространяется под лицензией FreeWare и находится в открытом доступе. (бесплатно для частных лиц и организаций)
+Schematic Constructor is distributed under the FreeWare license. (free for individuals and organizations)
 
-### [`Пожертвовать на развитие`](https://paypal.me/freepcb2)
+### [`Donate to development`](https://paypal.me/freepcb2)
 
-Вы можете сделать пожертвования в фонд ресурса freepcb.dev. Вы можете внести любую сумму денежных средств оценив вашу прибыль и долю участия `Schematic Constructor` или `freepcb-2` в вашем бизнесе. Или можете пожертвовать не деньгами а другими благами, например разместить ссылку на вашем сайте, или снять видеоинструкцию к программам. Это все считается пожертвованием. 
+You can donate to the freepcb.dev resource fund. The domain is not free. You can deposit any amount of money by assessing your profit and the share of participation of Schematic Constructor or freepcb-2 in your business. If you are using FreePcb-2 not in commercial interests, then you can do something useful, for example, place a link on your site, or make a video instruction for the programs. This is all considered a donation. All your donations are needed to support freepcb.dev.
 
-Домен не является бесплатным. Ваши пожертвования идут для поддержки freepcb.dev.
-
-`Презентация намечена на 25.08.2020`
+The first release is scheduled for 2020
 
