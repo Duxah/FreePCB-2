@@ -36,16 +36,15 @@ Special attention should be paid to the topic of hidden text in the schematic de
 
 Schematic Constructor and Freepcb-2 are self-contained software, they can be used separately from each other. By drawn a diagram in Schematic Constructor, you can design a PCB in another environment that supports PADS-PCB netlist import (eg KiCad). But if you choose FreePcb-2, then you have the advantage of being reminded when you make changes to the circuit, so you don't forget to import those changes to the PCB. Communication between the schematic editor and the PCB editor is done by exporting a netlist from the Schematic Constructor, and importing a netlist into Freepcb-2. The electrical diagram is the original source, so if after importing the netlist you want to modify the project (add / remove parts on the PCB), then you must start from the schematic diagram. This may seem like a kind of limitation, but this method of editing is classic and helps to avoid mistakes, unlike the option when you first make changes to the printed circuit board, and then to the circuit.
 
-### `Для кого`
+### `For whom`
 
-`Schematic Constructor` идеален для небольших проектов. На данный момент редактор поддерживает 8 страниц, которые могут быть связанными (сквозная нумерация деталей) или автономными (когда допускается дублирование RefDes между страницами). Затем вы можете экспортировать эти страницы в ПДФ-файл. Ориентация страниц в ПДФ-файле выбирается автоматически в соответствии с ориентацией схемы (Обычно схема по оси Y меньше чем по оси X - это альбомная ориентация). Количество страниц может быть расширено в будущем. 
+Schematic Constructor is ideal for small projects. At the moment, the editor supports 8 pages, which can be linked (related numbering of parts) or stand-alone (when duplication of RefDes between pages is allowed). You can then export these pages to a PDF file. The orientation of the pages in the PDF file is automatically selected according to the layout orientation (Typically, the layout along the Y axis is less than the X axis - this is landscape orientation). The number of pages may be expanded in the future.
 
-Программа оснащена автоматической проверкой правил дизайна перед созданием нетлиста. Проверка дизайна на наличие ошибок делится на 2 этапа. Сначала проверяются сети на наличие контакта и другие ошибки во время генерации сетей, а затем проверяются имена деталей и пинов с помощью диалогового окна DRC в котором также существует контроль клиренсов текстов на полилинии.
-На выходе вы получаете нетлист, BOM-файл и список деталей. 
+The program is equipped with an automatic check of design rules before creating a netlist. Checking the design for errors is divided into 2 stages. First, the networks are checked for contact and other errors during the generation of networks, and then the names of parts and pins are checked using the DRC dialog box, in which there is also control of the clearance of texts on the polyline. The output is a netlist, BOM file and parts list.
 
-Отдел поддержки:
+Support department:
 
-Если у вас есть вопрос или предложение связанное с `Schematic Constructor` , то не забудьте написать на почту duxah@yahoo.com
+If you have a question or suggestion related to Schematic Constructor, do not forget to write to duxah@yahoo.com
 
 ### `Лицензия`
 
