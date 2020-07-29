@@ -2,35 +2,35 @@
 
 Program features:
 
-*Support for multi-page schematic design
+* Support for multi-page schematic design
 
-*Support for multi-graphic part symbols
+* Support for multi-graphic part symbols
 
-*Export of netlist to PADS-PCB (supported by OrCad KiCad DipTrace Altium Eagle EasyEda, etc.)
+* Export of netlist to PADS-PCB (supported by OrCad KiCad DipTrace Altium Eagle EasyEda, etc.)
 
-*No component libraries required
+* No component libraries required
 
-*Ability to move part pins directly in the main schematic editor window.
+* Ability to move part pins directly in the main schematic editor window.
 
-*Importing a bitmap.
+* Importing a bitmap.
 
-*Continuous numbering of parts
+* Continuous numbering of parts
 
-*Search for a part by attribute and import from adjacent projects
+* Search for a part by attribute and import from adjacent projects
 
-*Synchronizing attributes between pages
+* Synchronizing attributes between pages
 
-*DRC check
+* DRC check
 
 ![](pictures/ECDS.gif)
 
-### `Философия`
+### `Philosophy`
 
-Мультистраничный редактор разработан для возможности быстрого создания небольших электронных схем не имея никаких библиотек. Используя простой инструмент - с помощью полилиний, вы можете начертить схему и создать нетлист.
+The multi-page editor is designed to be able to quickly create small electronic circuits without any libraries. Using a simple tool - polylines, you can draw a schematic diagram and create a netlist.
 
-С `Schematic Constructor` больше нет необходимости создавать библиотеки графических символов. Программа разработана таким образом что в ней нет редактора графических символов. Это дает некоторые преимущества, например вы можете переименовывать и перемещать пины детали прямо на рабочем поле. Графический символ одной и той же детали может отличаться от проекта к проекту. Если в одном проекте вы используете пины микроконтроллера, в другом их не используете, а используете совершенно другие пины, то сохранять для каждой схемы графический элемент в библиотеку незачем. Создавая проект впервые, вы рисуете детали этого проекта. Затем создавая второй проект вы сможете импортировать в него детали из предыдущих схемных проектов созданных ранее в `Schematic Constructor`. Программа осуществит поиск детали по имени или другому атрибуту, который вы укажете в диалоговом окне, и найдя этот компонент вставит его в ваш текущий проект. Таким образом вовсе не нужно лазить по проектам, чтобы найти деталь, но вы должны хранить папки проектов в одной общей папке.
+With Schematic Constructor, you no longer need to create graphic symbol libraries. The program is designed in such a way that there is no graphic symbol editor. This has some advantages, for example you can rename and move part pins right in the workspace. The graphic symbol for the same part may differ from project to project. If in one project you use microcontroller pins, in another you do not use them, but use completely different pins, then there is no need to save a graphic element to the library for each circuit. When you create a project for the first time, you draw the details of that project. Then, creating a second project, you can import parts from previous schematic projects created earlier in the Schematic Constructor into it. The program will search for a part by name or another attribute that you specify in the dialog box, and after finding this component will insert it into your current project. This way you don't have to go through the projects to find a part, but you should keep the project folders in one shared folder.
 
-Отдельное внимание следует уделить теме  скрытого текста в проекте схемы. Следует избегать скрытых текстов в проекте, т.к. они не отображаются при печати схемы на бумаге, следовательно это может привести к ошибкам. Изначально была задумка сделать невозможным скрывать текстовые атрибуты, такие как например имя футпринта, или имя пина, но при использовании редактора на практике это оказалось серьезным ограничением, и от этой идеи пришлось отказаться. Но зато была добавлена опция поиска скрытых атрибутов футпринт для их контроля. 
+Special attention should be paid to the topic of hidden text in the schematic design. You should avoid hidden texts in the project, because they are not displayed when printing the diagram on paper, therefore it can lead to errors. Initially, the idea was to make it impossible to hide text attributes, such as the name of the footprint, or the name of the pin, but when using the editor in practice, this turned out to be a serious limitation, and this idea had to be abandoned. But on the other hand, an option was added to search for hidden footprint attributes to control them.
 
 ### `Подключение к Freepcb`
 
