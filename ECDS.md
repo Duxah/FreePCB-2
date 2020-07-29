@@ -2,25 +2,25 @@
 
 Program features:
 
-* Support for multi-page circuit design
+*Support for multi-page schematic design
 
-* Support for multi-graphic symbols of parts
+*Support for multi-graphic part symbols
 
-* Export to popular netlist formats
+*Export of netlist to PADS-PCB (supported by OrCad KiCad DipTrace Altium Eagle EasyEda, etc.)
 
-* No component libraries required for operation
+*No component libraries required
 
-* Ability to move part pins directly in the main window of the circuit editor.
+*Ability to move part pins directly in the main schematic editor window.
 
-* Import bitmap as background image.
+*Importing a bitmap.
 
-* Pass-through numbering of parts
+*Continuous numbering of parts
 
-* Search for any part attributes for all projects in the parent folder
+*Search for a part by attribute and import from adjacent projects
 
-* Interpage attribute synchronization
+*Synchronizing attributes between pages
 
-* DRC check
+*DRC check
 
 ![](pictures/ECDS.gif)
 
@@ -56,20 +56,6 @@ Program features:
 Вы можете сделать пожертвования в фонд ресурса freepcb.dev. Вы можете внести любую сумму денежных средств оценив вашу прибыль и долю участия `Schematic Constructor` или `freepcb-2` в вашем бизнесе. Или можете пожертвовать не деньгами а другими благами, например разместить ссылку на вашем сайте, или снять видеоинструкцию к программам. Это все считается пожертвованием. 
 
 Домен не является бесплатным. Ваши пожертвования идут для поддержки freepcb.dev.
-
-### `Various name variations`
-
-* Netlist Builder 
-* Schematic cap
-* Schematic Capture
-* Easy Schematic
-* Freeasy Schematic
-* First Schematic Editor 
-* First Schematical
-* Pcb Root 
-* Pcb Framework
-* Schematic Canvas
-* Schematic Constructor (применено на данный момент)
 
 `Презентация намечена на 25.08.2020`
 
