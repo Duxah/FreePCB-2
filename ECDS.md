@@ -7,7 +7,7 @@ Program features:
 
 * Support for multi-graphic part symbols
 
-* Export of netlist to PADS-PCB (supported by OrCad KiCad DipTrace Altium Eagle EasyEda, etc.)
+* Export PADS-PCB netlist (supported by OrCad KiCad DipTrace Altium Eagle EasyEda, etc.)
 
 * No component libraries required
 
