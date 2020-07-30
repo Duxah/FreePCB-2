@@ -1,4 +1,5 @@
 ## `Schematic Constructor v1.0 (circuit design software)`
+
 ***
 Program features:
 
@@ -23,6 +24,7 @@ Program features:
 * DRC check
 
 ![](pictures/ECDS.gif)
+
 ***
 ## `Philosophy`
 
@@ -31,6 +33,7 @@ The multi-page editor is designed to be able to quickly create small electronic 
 With `Schematic Constructor`, you no longer need to create graphic symbol libraries. The program is designed in such a way that there is no graphic symbol editor. This has some advantages, for example you can rename and move part pins right in the workspace. The graphic symbol for the same part may differ from project to project. If in one project you use microcontroller pins, in another you do not use them, but use completely different pins, then there is no need to save a graphic element to the library for each circuit. When you create a project for the first time, you draw the details of that project. Then, creating a second project, you can import parts from previous schematic projects created earlier in the `Schematic Constructor` into it. The program will search for a part by name or another attribute that you specify in the dialog box, and after finding this component will insert it into your current project. This way you don't have to go through the projects to find a part, but you should keep the project folders in one shared folder.
 
 Special attention should be paid to the topic of hidden text in the schematic design. You should avoid hidden texts in the project, because they are not displayed when printing the diagram on paper, therefore it can lead to errors. Initially, the idea was to make it impossible to hide text attributes, such as the name of the footprint, or the name of the pin, but when using the editor in practice, this turned out to be a serious limitation, and this idea had to be abandoned. But on the other hand, an option was added to search for hidden footprint attributes to control them.
+
 ***
 ## `Connection to Freepcb`
 
@@ -45,10 +48,12 @@ The program is equipped with an automatic check of design rules before creating 
 Support department:
 
 If you have a question or suggestion related to `Schematic Constructor`, do not forget to write to duxah@yahoo.com
+
 ***
 ## `License`
 
 `Schematic Constructor` is distributed under the `FreeWare license`. (free for individuals and organizations)
+
 ***
 ## [`Donate to development`](https://paypal.me/freepcb2)
 
