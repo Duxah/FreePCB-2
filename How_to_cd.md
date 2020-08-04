@@ -2,4 +2,4 @@
 
 ## `copying a simple timer circuit` (video)
 
-![1 - creating a project, specifying the path to footprint library folder](https://youtu.be/zQPvvvbsG-E)
+[1 - creating a project, specifying the path to footprint library folder](https://youtu.be/zQPvvvbsG-E)
