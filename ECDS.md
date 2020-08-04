@@ -62,4 +62,6 @@ You can donate to the `freepcb.dev` resource fund. The domain is not free. You c
 
 The first release is scheduled for 2020
 
+[learn more](How_to_cd.md)
+
 `Software copyright Duxah (c) 2020`
