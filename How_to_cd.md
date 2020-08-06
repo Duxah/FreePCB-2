@@ -1,6 +1,6 @@
 `Today you can try the debug version of the Schematic Constructor v1.0.`
 
-[Freepcb v2.033 + Schematic Constructor v1.0](https://yadi.sk/d/OJXeX6CbrxYEJw)
+[Freepcb v2.033 + Schematic Constructor v1.0](https://yadi.sk/d/Nh0Ed17JoSJpxQ)
 
 ## `copying a simple timer circuit` (video)
 
