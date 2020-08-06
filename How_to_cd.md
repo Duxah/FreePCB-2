@@ -16,22 +16,22 @@
 
 [7 - drawing thyristor](https://youtu.be/qxRxv7srthc)
 
-[8]()
+[8 - drawing diode bridge](https://youtu.be/tKCQssXg1BA)
 
-[9]()
+[9 - drawing a capacitor](https://youtu.be/G9NGE1C3PKo)
 
-[10]()
+[10 - editing a part by closing part mask](https://youtu.be/ct-FjsfY7e8)
 
-[11]()
+[11 - drawing a button](https://youtu.be/cytck9fXcNE)
 
-[12]()
+[12 - drawing a pull-up resistor](https://youtu.be/UsyALApu1q0)
 
-[13]()
+[13 - drawing connector](https://youtu.be/1TEQsyH99Lk)
 
-[14]()
+[14 - drawing connections](https://youtu.be/dU1ByJahj-Q)
 
-[15]()
+[15 - nets generation button](https://youtu.be/72sbJE68BL0)
 
-[16]()
+[16 - setting up a net on a pin](https://youtu.be/YpTM1YmoRAM)
 
-[17]()
+[17 - netlist export](https://youtu.be/7fmy2QasyDU)
