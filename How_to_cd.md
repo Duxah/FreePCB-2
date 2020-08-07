@@ -41,3 +41,5 @@ And also an example project [https://yadi.sk/d/Vj5IGg3eiUmIig](https://yadi.sk/d
 [16 - setting up a net on a pin](https://youtu.be/YpTM1YmoRAM)
 
 [17 - netlist export](https://youtu.be/7fmy2QasyDU)
+
+download all video in one archive [is being prepared, please wait]
