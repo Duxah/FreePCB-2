@@ -43,3 +43,12 @@ And also an example project [https://yadi.sk/d/Vj5IGg3eiUmIig](https://yadi.sk/d
 [17 - netlist export](https://youtu.be/7fmy2QasyDU)
 
 download all video in one archive [is being prepared, please wait]
+
+очередь улучшений для следующей версии:
+
+* поменять местами 2 пина из окна Freepcb-2
+* исключение\включение в нетлист сохраненных списков refDes
+* при импорте деталей из других проектов показывать список ранее использованных деталей, импорт по value@package
+* при проверке футпринтов в DRC проверять наличие пинов в футпринте которые присутствуют в схеме
+
+
