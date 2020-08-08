@@ -42,7 +42,7 @@ And also an example project [https://yadi.sk/d/Vj5IGg3eiUmIig](https://yadi.sk/d
 
 [17 - netlist export](https://youtu.be/7fmy2QasyDU)
 
-download all video in one archive [https://yadi.sk/d/gpLG3yCwHGxxcw]
+[download all video in one archive](https://yadi.sk/d/gpLG3yCwHGxxcw)
 
 # [`home`](https://freepcb.dev)
 
