@@ -6,43 +6,41 @@ You will need a template [https://yadi.sk/d/qdvMUxP3zTs7Ng](https://yadi.sk/d/qd
 
 And also an example project [https://yadi.sk/d/Vj5IGg3eiUmIig](https://yadi.sk/d/Vj5IGg3eiUmIig)
 
-## `copying a simple timer circuit` (video)
+copying a simple timer circuit [video](https://yadi.sk/d/gpLG3yCwHGxxcw)
 
-[1 - creating a project, specifying the path to footprint library folder](https://youtu.be/H1uZzMVUMOc)
+[1 - creating a project, specifying the path to footprint library folder]()
 
-[2 - import a template, import a background image](https://youtu.be/V0ix2GWWRaM)
+[2 - import a template, import a background image]()
 
-[3 - changing the width and layer of the polyline](https://youtu.be/D8pTB5NAjCI)
+[3 - changing the width and layer of the polyline]()
 
 [4 - diode drawing](https://youtu.be/na33cL3IMn0)
 
-[5 - drawing potentiometer](https://youtu.be/v8MPuEJqje8)
+[5 - drawing potentiometer]()
 
-[6 - drawing resistor](https://youtu.be/lYK6PNfw7r4)
+[6 - drawing resistor]()
 
-[7 - drawing thyristor](https://youtu.be/qxRxv7srthc)
+[7 - drawing thyristor]()
 
-[8 - drawing diode bridge](https://youtu.be/tKCQssXg1BA)
+[8 - drawing diode bridge]()
 
-[9 - drawing a capacitor](https://youtu.be/G9NGE1C3PKo)
+[9 - drawing a capacitor]()
 
-[10 - editing a part by closing part mask](https://youtu.be/ct-FjsfY7e8)
+[10 - editing a part by closing part mask]()
 
-[11 - drawing a button](https://youtu.be/cytck9fXcNE)
+[11 - drawing a button]()
 
-[12 - drawing a pull-up resistor](https://youtu.be/UsyALApu1q0)
+[12 - drawing a pull-up resistor]()
 
-[13 - drawing connector](https://youtu.be/1TEQsyH99Lk)
+[13 - drawing connector]()
 
-[14 - drawing connections](https://youtu.be/dU1ByJahj-Q)
+[14 - drawing connections]()
 
-[15 - nets generation button](https://youtu.be/72sbJE68BL0)
+[15 - nets generation button]()
 
-[16 - setting up a net on a pin](https://youtu.be/YpTM1YmoRAM)
+[16 - setting up a net on a pin]()
 
-[17 - netlist export](https://youtu.be/7fmy2QasyDU)
-
-[download all video in one archive](https://yadi.sk/d/gpLG3yCwHGxxcw)
+[17 - netlist export]()
 
 # [`home`](https://freepcb.dev)
 
