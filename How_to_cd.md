@@ -8,9 +8,9 @@ And also an example project [https://yadi.sk/d/Vj5IGg3eiUmIig](https://yadi.sk/d
 
 copying a simple timer circuit (video) [https://yadi.sk/d/gpLG3yCwHGxxcw](https://yadi.sk/d/gpLG3yCwHGxxcw)
 
-[1 - creating a project, specifying the path to footprint library folder]()
+* [1 - creating a project, specifying the path to footprint library folder]()
 
-[2 - import a template, import a background image]()
+* [2 - import a template, import a background image]()
 
 [3 - changing the width and layer of the polyline]()
 
