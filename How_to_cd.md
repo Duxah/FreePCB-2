@@ -1,12 +1,12 @@
 # `Today you can try the debug version of the Schematic Constructor v1.0.`
 
-[Freepcb v2.033 + Schematic Constructor v1.0](https://yadi.sk/d/Nh0Ed17JoSJpxQ)
+Download [Freepcb v2.033 + Schematic Constructor v1.0](https://yadi.sk/d/Nh0Ed17JoSJpxQ)
 
 You will need a template [https://yadi.sk/d/qdvMUxP3zTs7Ng](https://yadi.sk/d/qdvMUxP3zTs7Ng)
 
 And also an example project [https://yadi.sk/d/Vj5IGg3eiUmIig](https://yadi.sk/d/Vj5IGg3eiUmIig)
 
-copying a simple timer circuit (video) [https://yadi.sk/d/gpLG3yCwHGxxcw](https://yadi.sk/d/gpLG3yCwHGxxcw)
+simple timer circuit (video) [https://yadi.sk/d/gpLG3yCwHGxxcw](https://yadi.sk/d/gpLG3yCwHGxxcw)
 
 * [1 - creating a project, specifying the path to footprint library folder](https://thevideowasremovedfromYouTubebecauseYouTubehasdegradedthevideoquality)
 
