@@ -12,35 +12,35 @@ copying a simple timer circuit (video) [https://yadi.sk/d/gpLG3yCwHGxxcw](https:
 
 * [2 - import a template, import a background image](https://thevideowasremovedfromYouTubebecauseYouTubehasdegradedthevideoquality)
 
-[3 - changing the width and layer of the polyline](https://thevideowasremovedfromYouTubebecauseYouTubehasdegradedthevideoquality)
+* [3 - changing the width and layer of the polyline](https://thevideowasremovedfromYouTubebecauseYouTubehasdegradedthevideoquality)
 
-[4 - diode drawing](https://thevideowasremovedfromYouTubebecauseYouTubehasdegradedthevideoquality)
+* [4 - diode drawing](https://thevideowasremovedfromYouTubebecauseYouTubehasdegradedthevideoquality)
 
-[5 - drawing potentiometer](https://thevideowasremovedfromYouTubebecauseYouTubehasdegradedthevideoquality)
+* [5 - drawing potentiometer](https://thevideowasremovedfromYouTubebecauseYouTubehasdegradedthevideoquality)
 
-[6 - drawing resistor](https://thevideowasremovedfromYouTubebecauseYouTubehasdegradedthevideoquality)
+* [6 - drawing resistor](https://thevideowasremovedfromYouTubebecauseYouTubehasdegradedthevideoquality)
 
-[7 - drawing thyristor](https://thevideowasremovedfromYouTubebecauseYouTubehasdegradedthevideoquality)
+* [7 - drawing thyristor](https://thevideowasremovedfromYouTubebecauseYouTubehasdegradedthevideoquality)
 
-[8 - drawing diode bridge](https://thevideowasremovedfromYouTubebecauseYouTubehasdegradedthevideoquality)
+* [8 - drawing diode bridge](https://thevideowasremovedfromYouTubebecauseYouTubehasdegradedthevideoquality)
 
-[9 - drawing a capacitor](https://thevideowasremovedfromYouTubebecauseYouTubehasdegradedthevideoquality)
+* [9 - drawing a capacitor](https://thevideowasremovedfromYouTubebecauseYouTubehasdegradedthevideoquality)
 
-[10 - editing a part by closing part mask](https://thevideowasremovedfromYouTubebecauseYouTubehasdegradedthevideoquality)
+* [10 - editing a part by closing part mask](https://thevideowasremovedfromYouTubebecauseYouTubehasdegradedthevideoquality)
 
-[11 - drawing a button](https://thevideowasremovedfromYouTubebecauseYouTubehasdegradedthevideoquality)
+* [11 - drawing a button](https://thevideowasremovedfromYouTubebecauseYouTubehasdegradedthevideoquality)
 
-[12 - drawing a pull-up resistor](https://thevideowasremovedfromYouTubebecauseYouTubehasdegradedthevideoquality)
+* [12 - drawing a pull-up resistor](https://thevideowasremovedfromYouTubebecauseYouTubehasdegradedthevideoquality)
 
-[13 - drawing connector](https://thevideowasremovedfromYouTubebecauseYouTubehasdegradedthevideoquality)
+* [13 - drawing connector](https://thevideowasremovedfromYouTubebecauseYouTubehasdegradedthevideoquality)
 
-[14 - drawing connections](https://thevideowasremovedfromYouTubebecauseYouTubehasdegradedthevideoquality)
+* [14 - drawing connections](https://thevideowasremovedfromYouTubebecauseYouTubehasdegradedthevideoquality)
 
-[15 - nets generation button](https://thevideowasremovedfromYouTubebecauseYouTubehasdegradedthevideoquality)
+* [15 - nets generation button](https://thevideowasremovedfromYouTubebecauseYouTubehasdegradedthevideoquality)
 
-[16 - setting up a net on a pin](https://thevideowasremovedfromYouTubebecauseYouTubehasdegradedthevideoquality)
+* [16 - setting up a net on a pin](https://thevideowasremovedfromYouTubebecauseYouTubehasdegradedthevideoquality)
 
-[17 - netlist export](https://thevideowasremovedfromYouTubebecauseYouTubehasdegradedthevideoquality)
+* [17 - netlist export](https://thevideowasremovedfromYouTubebecauseYouTubehasdegradedthevideoquality)
 
 # [`home`](https://freepcb.dev)
 
