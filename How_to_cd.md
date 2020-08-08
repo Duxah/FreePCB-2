@@ -6,7 +6,7 @@ You will need a template [https://yadi.sk/d/qdvMUxP3zTs7Ng](https://yadi.sk/d/qd
 
 And also an example project [https://yadi.sk/d/Vj5IGg3eiUmIig](https://yadi.sk/d/Vj5IGg3eiUmIig)
 
-simple timer circuit (video) [https://yadi.sk/d/gpLG3yCwHGxxcw](https://yadi.sk/d/gpLG3yCwHGxxcw)
+Simple timer circuit (video) [https://yadi.sk/d/gpLG3yCwHGxxcw](https://yadi.sk/d/gpLG3yCwHGxxcw)
 
 * [1 - creating a project, specifying the path to footprint library folder](https://thevideowasremovedfromYouTubebecauseYouTubehasdegradedthevideoquality)
 
