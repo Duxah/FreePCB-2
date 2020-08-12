@@ -85,6 +85,8 @@ but at the same time includes almost all the tools needed for professional use.
 
 * Displaying the board outline as a background polygon
 
+* Schematic editor created (v1.0)
+
 
 ***
 
