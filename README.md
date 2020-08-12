@@ -71,6 +71,8 @@ but at the same time includes almost all the tools needed for professional use.
 
 * Added a button to delete the saved reflist (Infobox)
 
+* Saving the search string in the part edit dialog
+
 * Embedding an infobox at the top, bottom, or right of the freepcb window
 
 * When you select a segment of an arc of a trace, the entire arc is selected
