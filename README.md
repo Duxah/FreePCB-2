@@ -87,6 +87,8 @@ but at the same time includes almost all the tools needed for professional use.
 
 * Displaying the board outline as a background polygon
 
+* In group drag mode, the ability to rotate the group by 90 degrees
+
 * Schematic editor created (v1.0)
 
 
