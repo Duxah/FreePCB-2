@@ -53,35 +53,13 @@ but at the same time includes almost all the tools needed for professional use.
 ***
 ### `Latest improvements and new features`
 
-`Version 2-032 (2019-11-11):`
+`Version 2-034 (2020-08):`
 
-* When using the measurement tool, the angle is displayed
+* A checkbox has been added to the project options dialog box to control the display of merge names during editing. You can now turn off silk-screening altogether while routing the board
 
-![](/pictures/m_tool4.png)
+![](pictures/show_merge.png)
 
-* Added testing of copper vector areas for breaking (Main menu DRC -> Check copper areas)
-
-![](/pictures/torn.png)
-
-* InfoBox shows the net in the mode of dragging a connection to a pin, for convenience when manually connecting pins
-
-![](/pictures/IB_drag_con.png)
-
-* InfoBox shows the number of parts in the filter
-
-![](/pictures/IB_num_parts.png)
-
-* R button performs filter reset function
-
-* Pin status display is now much better
-
-(this version will be available from November 11, 2019)
-
-* NEW! (added 07/09/2020)
-
-fpc-library viewer by Infobox now shows the distance between the pins
-
-![](/pictures/lib_show_pins.png)
+***
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) 
 
