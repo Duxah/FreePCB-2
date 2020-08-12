@@ -53,35 +53,40 @@ but at the same time includes almost all the tools needed for professional use.
 ***
 ### `Latest improvements and new features`
 
-`Version 2-032 (2019-11-11):`
+`Version 2-033 (2020-08):`
 
-* When using the measurement tool, the angle is displayed
+* Multiple text edit (EditText button for selected group)
 
-![](/pictures/m_tool4.png)
+* Multiple polylines edit
 
-* Added testing of copper vector areas for breaking (Main menu DRC -> Check copper areas)
+* From the infobox, to highlight all the items in the list, just press enter
 
-![](/pictures/torn.png)
+* Added `Clear search console` menu item (Infobox)
 
-* InfoBox shows the net in the mode of dragging a connection to a pin, for convenience when manually connecting pins
+* Moving text to notes layer (Footprint editor)
 
-![](/pictures/IB_drag_con.png)
+* Improvement of application `Compare pcb assembly kit`
 
-* InfoBox shows the number of parts in the filter
+* In the infobox, when the list is not total as a result of filtering, the background color changes
 
-![](/pictures/IB_num_parts.png)
+* Added a button to delete the saved reflist (Infobox)
 
-* R button performs filter reset function
+* Embedding an infobox at the top, bottom, or right of the freepcb window
 
-* Pin status display is now much better
+* When you select a segment of an arc of a trace, the entire arc is selected
 
-(this version will be available from November 11, 2019)
+* Added the ability to create a sub-merge
 
-* NEW! (added 07/09/2020)
+* Copying a group while maintaining the `merge` property
 
-fpc-library viewer by Infobox now shows the distance between the pins
+* H key - select all
 
-![](/pictures/lib_show_pins.png)
+* O key - set origin on selected item
+
+* Displaying the board outline as a background polygon
+
+
+***
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) The [download v2-032(The latest updates 07/09/2020)](https://github.com/Duxah/FreePCB-2/archive/master.zip) (portable version) includes a folder with the program, manual 1.359, footprint libraries, examples of printed circuit boards, a [description of the 2.032 file format for developers](developers.md).
 
