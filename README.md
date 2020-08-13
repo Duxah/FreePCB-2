@@ -93,14 +93,6 @@ but at the same time includes almost all the tools needed for professional use.
 
 
 ***
-
-![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) The [download v2-033(The latest updates 07/09/2020)](https://github.com/Duxah/FreePCB-2/archive/master.zip) (portable version)
-
-![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/По%20рукам.png) If you like version 2-032, post [this](pictures/logo.png) picture on your website. Have fun using FreePcb-2.
-
-You can participate in the improvement of the application. Feel free to write a message regarding working with FREEPCB2 so that we can release the official version 2-032 as soon as possible. Working together is always more efficient.
-
-***
 ### `Partners`
 
 [![](pictures/LLC_IP.png)](https://interpribor.com) 
