@@ -99,8 +99,9 @@ _[to learn more...](partners.md)_
 1. [License](LICENSE)
 2. [FreePcb user guide 1-359](https://github.com/Duxah/FreePCB-2/raw/master/FreePcb-2/bin/doc/freepcb_user_guide.pdf)
 3. [FreePcb-2 "How to.." guide 2020](/How_to.md)
-4. [About this development fork](/About_development.md)
-5. [For software developers](developers.md)
+4. [How to make a schematic design](/How_to_cd.md)
+5. [About this development fork](/About_development.md)
+6. [For software developers](developers.md)
 
 ***
 ### `Get started with FreePcb-2`
