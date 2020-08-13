@@ -1,19 +1,29 @@
+Index
+RefDes
+Package
+FootPrint
+Value
+Side
+partX
+partY
+Angle
+Merge
+Pins
+Holes
+Glued
+ValueNL
+PackageNL
+CompareNetlist
 Ignore_case_in_the_filter
 Only_Latin_symbols
-Form1_Left: "98"
-Form1_Top: "85"
-Form1_Width: "732"
-Form1_Height: "251"
+Embed_B
+Form1_Left: "0"
+Form1_Top: "862"
+Form1_Width: "1920"
+Form1_Height: "178"
 check_refs
 check_values
-check_values_extern
 check_package
-check_package_extern
-check_foot
-check_comp_nlist
 check_pinname
 check_netpcb
-check_ext_netlist
-check_paste
-check_vias
 end

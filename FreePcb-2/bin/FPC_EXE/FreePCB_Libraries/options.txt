@@ -1,0 +1,2 @@
+Adr C:\Рабочая папка\FreePCB_Libraries\lib_footprints
+Holes

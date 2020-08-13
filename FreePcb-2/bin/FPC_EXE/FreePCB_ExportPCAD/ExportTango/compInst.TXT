@@ -1,157 +1,25 @@
-  (compInst "C6"
-    (compRef "Cap_radial 0.100 centers_0")
-    (originalName "Cap_radial 0.100 centers")
+  (compInst "H1"
+    (compRef "HOLE1.0_0")
+    (originalName "HOLE1.0")
   )
-  (compInst "C7"
-    (compRef "Cap_radial 0.100 centers_0")
-    (originalName "Cap_radial 0.100 centers")
+  (compInst "H1|0"
+    (compRef "HOLE1.0_0")
+    (originalName "HOLE1.0")
   )
-  (compInst "C8"
-    (compRef "Cap_radial 0.100 centers_0")
-    (originalName "Cap_radial 0.100 centers")
+  (compInst "H1|1"
+    (compRef "HOLE1.0_0")
+    (originalName "HOLE1.0")
   )
-  (compInst "C10"
-    (compRef "Cap_radial 0.100 centers_0")
-    (originalName "Cap_radial 0.100 centers")
+  (compInst "H1|2"
+    (compRef "HOLE1.0_0")
+    (originalName "HOLE1.0")
   )
-  (compInst "R5"
-    (compRef "SIP-7P_0")
-    (originalName "SIP-7P")
+  (compInst "H1|3"
+    (compRef "HOLE1.0_0")
+    (originalName "HOLE1.0")
   )
-  (compInst "R4"
-    (compRef "SIP-4P_0")
-    (originalName "SIP-4P")
-  )
-  (compInst "U2"
-    (compRef "40DIP600_0")
-    (originalName "40DIP600")
-  )
-  (compInst "R2"
-    (compRef "axial-1/4W 0.400_0")
-    (originalName "axial-1/4W 0.400")
-  )
-  (compInst "R1"
-    (compRef "axial-1/4W 0.400_0")
-    (originalName "axial-1/4W 0.400")
-  )
-  (compInst "D1"
-    (compRef "Diode_Signal-0.400_0")
-    (originalName "Diode_Signal-0.400")
-  )
-  (compInst "D5"
-    (compRef "Diode_Signal-0.400_0")
-    (originalName "Diode_Signal-0.400")
-  )
-  (compInst "R6"
-    (compRef "SIP-4P_0")
-    (originalName "SIP-4P")
-  )
-  (compInst "R3"
-    (compRef "axial-1/4W 0.400_0")
-    (originalName "axial-1/4W 0.400")
-  )
-  (compInst "C3"
-    (compRef "Cap_radial 0.100, large_0")
-    (originalName "Cap_radial 0.100, large")
-  )
-  (compInst "U1"
-    (compRef "32DIP600_0")
-    (originalName "32DIP600")
-  )
-  (compInst "Q1"
-    (compRef "TO-92,inline_0")
-    (originalName "TO-92,inline")
-  )
-  (compInst "Q2"
-    (compRef "TO-92,inline_0")
-    (originalName "TO-92,inline")
-  )
-  (compInst "JP1"
-    (compRef "HDR2x30-100mil_0")
-    (originalName "HDR2x30-100mil")
-  )
-  (compInst "JP2"
-    (compRef "HDR2x30-100mil_0")
-    (originalName "HDR2x30-100mil")
-  )
-  (compInst "J1"
-    (compRef "HDR1x6-100mil_0")
-    (originalName "HDR1x6-100mil")
-  )
-  (compInst "P1"
-    (compRef "HDR1x6-100mil,keyed_0")
-    (originalName "HDR1x6-100mil,keyed")
-  )
-  (compInst "C1"
-    (compRef "Cap_radial 0.100, large_0")
-    (originalName "Cap_radial 0.100, large")
-  )
-  (compInst "C2"
-    (compRef "axial-tant 0.400_0")
-    (originalName "axial-tant 0.400")
-  )
-  (compInst "C5"
-    (compRef "Cap_radial 0.100 centers_0")
-    (originalName "Cap_radial 0.100 centers")
-  )
-  (compInst "D6"
-    (compRef "LED-RA_1X2-100mil_0")
-    (originalName "LED-RA_1X2-100mil")
-  )
-  (compInst "D7"
-    (compRef "LED-RA_1X2-100mil_0")
-    (originalName "LED-RA_1X2-100mil")
-  )
-  (compInst "D8"
-    (compRef "LED-RA_1X2-100mil_0")
-    (originalName "LED-RA_1X2-100mil")
-  )
-  (compInst "C9"
-    (compRef "Cap_radial 0.100 centers_0")
-    (originalName "Cap_radial 0.100 centers")
-  )
-  (compInst "D4"
-    (compRef "Diode_Signal-0.400_0")
-    (originalName "Diode_Signal-0.400")
-  )
-  (compInst "U3"
-    (compRef "16DIP300_0")
-    (originalName "16DIP300")
-  )
-  (compInst "U4"
-    (compRef "16DIP300_0")
-    (originalName "16DIP300")
-  )
-  (compInst "U5"
-    (compRef "16DIP300_0")
-    (originalName "16DIP300")
-  )
-  (compInst "U6"
-    (compRef "14DIP300_0")
-    (originalName "14DIP300")
-  )
-  (compInst "Y1"
-    (compRef "XTAL1X3-100mil_0")
-    (originalName "XTAL1X3-100mil")
-  )
-  (compInst "U7"
-    (compRef "TO-92,inline_0")
-    (originalName "TO-92,inline")
-  )
-  (compInst "JS2"
-    (compRef "opt_jmpr-3_0")
-    (originalName "opt_jmpr-3")
-  )
-  (compInst "JS1"
-    (compRef "opt_jmpr-2_0")
-    (originalName "opt_jmpr-2")
-  )
-  (compInst "D2"
-    (compRef "Diode_Signal-0.400_0")
-    (originalName "Diode_Signal-0.400")
-  )
-  (compInst "D3"
-    (compRef "Diode_Signal-0.400_0")
-    (originalName "Diode_Signal-0.400")
+  (compInst "H1|4"
+    (compRef "HOLE1.0_0")
+    (originalName "HOLE1.0")
   )
 END
