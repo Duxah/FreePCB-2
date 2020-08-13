@@ -83,11 +83,6 @@ fpc-library viewer by Infobox now shows the distance between the pins
 
 ![](/pictures/lib_show_pins.png)
 
-![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) The [download v2-032(The latest updates 07/09/2020)](https://github.com/Duxah/FreePCB-2/archive/master.zip) (portable version) includes a folder with the program, manual 1.359, footprint libraries, examples of printed circuit boards, a [description of the 2.032 file format for developers](developers.md).
-
-![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/По%20рукам.png) If you like version 2-032, post [this](pictures/logo.png) picture on your website. Have fun using FreePcb-2.
-
-You can participate in the improvement of the application. Feel free to write a message regarding working with FREEPCB2 so that we can release the official version 2-032 as soon as possible. Working together is always more efficient.
 
 ***
 ### `Partners`
