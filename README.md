@@ -57,7 +57,11 @@ but at the same time includes almost all the tools needed for professional use.
 
 * A checkbox has been added to the project options dialog box to control the display of merge names during editing. You can now turn off silk-screening altogether while routing the board
 
-![](pictures/show_merge.png)
+![](pictures/presentation_1.png)
+
+* Now, while dragging a group of parts, you can break off the ratlines (which stretch) connected to the traces so as not to do this for each trace separately
+
+![](pictures/presentation_2.png)
 
 ***
 
