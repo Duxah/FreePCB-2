@@ -59,7 +59,7 @@ but at the same time includes almost all the tools needed for professional use.
 
 ![](pictures/presentation_1.png)
 
-* Now, while dragging a group of parts, you can break off the ratlines (which stretch) connected to the traces so as not to do this for each trace separately
+* Now, while dragging a group of parts, you can break off the ratlines (which stretch) connected to the traces so as not to do this for each trace separately. The netlist, of course, remains unchanged.
 
 ![](pictures/presentation_2.png)
 
