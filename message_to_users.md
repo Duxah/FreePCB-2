@@ -1,2 +1,2 @@
-data::20200306
-msg::A new version of FreePcb-2.033 has appeared on the site. Download it now?
+data::20200813
+msg::Versions 2-033 and 2-034 (debug) have been updated on the site. Go to the downloads page?
