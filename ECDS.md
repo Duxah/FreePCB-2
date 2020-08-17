@@ -58,7 +58,7 @@ If you have a question or suggestion related to `Schematic Constructor`, do not 
 ***
 ## [`Donate to development`](https://paypal.me/freepcb2)
 
-You can donate to the `freepcb.dev` resource fund. The domain is not free. You can deposit any amount of money by assessing your profit and the share of participation of `Schematic Constructor` or freepcb-2 in your business. If you are using FreePcb-2 not in commercial interests, then you can do something useful, for example, place a link on your site, or make a video instruction for the programs. This is all considered a donation. All your donations are needed to support `freepcb.dev`.
+You can donate to the `freepcb.dev` resource fund. If you are using FreePcb-2 not in commercial interests, then you can just do something useful, for example, place a link on your site, or make a video instruction for the programs. This is all considered a donation. Your donations are needed to support `freepcb.dev`.
 
 The first release is scheduled for 2020
 
