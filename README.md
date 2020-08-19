@@ -63,6 +63,8 @@ but at the same time includes almost all the tools needed for professional use.
 
 ![](pictures/presentation_2.png)
 
+* Added a command to auto-update the file modification date. In the "description" attribute of the polyline, you must enter the following text 00.00.00 | DD.MM.YYYY or like this: 00.00.00 | MM/DD/YYYY. For an example see the Template.cds file that comes with FreePcb-2
+
 ***
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) 
