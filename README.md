@@ -63,7 +63,7 @@ but at the same time includes almost all the tools needed for professional use.
 
 ![](pictures/presentation_2.png)
 
-* Added to the schematic editor a command to auto-update the file modification date. In the "description" attribute of the polyline, you must enter the following text _00.00.00|DD.MM.YYYY_ or like this: _00.00.00|MM/DD/YYYY_. For an example see the Template.cds file that comes with FreePcb-2
+* Added to the schematic editor a command to auto-update the file modification date. In the "description" attribute of the polyline, you must enter the following text `00.00.00|DD.MM.YYYY` or like this: `00.00.00|MM/DD/YYYY`. For an example see the Template.cds file that comes with FreePcb-2
 
 ***
 
