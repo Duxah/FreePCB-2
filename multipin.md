@@ -10,6 +10,8 @@ When you connect one pad of multiple-pin to any net, then other pads will also b
 
 When routing copper tracks, it will be enough to route the track to only one of the pads
 
+***
+
 If the program for recalculating the ratlines connects the wrong pad that you want to route, then you must create a connection to the desired pad yourself and immediately block this new connection:
 
 1) Select the pad from which you want to route the copper trace.
