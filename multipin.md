@@ -4,7 +4,7 @@ Some parts, for example, a mini-USB connector, have several PCB mounting pins co
 
 In the footprint 4 large pads are called gnd and belong to the GND net
 
-![](pictures/miniusb.jpg)
+![](pictures/usb.png)
 
 When you connect one pad of multiple-pin to any net, then other pads will also belong to this net.
 
