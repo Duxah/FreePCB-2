@@ -2,6 +2,10 @@ Some parts, for example, a mini-USB connector, have several PCB mounting pins co
 
 ![](pictures/miniusb.jpg)
 
+In the footprint 4 large pads are called gnd and belong to the GND net
+
+![](pictures/miniusb.jpg)
+
 When you connect one pad of multiple-pin to any net, then other pads will also belong to this net.
 
 When routing copper tracks, it will be enough to route the track to only one of the pads
@@ -15,3 +19,7 @@ If the program for recalculating the ratlines connects the wrong pad that you wa
 5) Press F3 (Lock_Connect)
 
 Now this connection is blocked and will not disappear anywhere when recalculating ratlines
+
+
+
+
