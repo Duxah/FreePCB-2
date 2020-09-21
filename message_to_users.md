@@ -1,4 +1,6 @@
-data::20200916
+data::20200921
 msg::
 
-On 09/16/2020 an important update was made to Schematic Constructor 1.0, as well as small improvement to FreePcb-2-033. 
+09/16/2020 an important update was made to Schematic Constructor 1.0, as well as small improvement to FreePcb-2-033. 
+
+09/21/2020 an important update was made to FreePcb-2-032, and 2-033: fixed a bug when working with a grid!
