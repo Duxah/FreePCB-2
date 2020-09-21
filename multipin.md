@@ -2,4 +2,16 @@ Some parts, for example, a mini-USB connector, have several PCB mounting pins co
 
 ![](pictures/miniusb.jpg)
 
-[return](How_to.md)
+When you connect one pad of multiple-pin to any net, then other pads will also belong to this net.
+
+When routing copper tracks, it will be enough to route the track to only one of the pads
+
+If the program for recalculating the ratlines connects the wrong pad that you want to route, then you must create a connection to the desired pad yourself and immediately block this new connection:
+
+1) Select the pad from which you want to route the copper trace.
+2) Click press F2 (Connect_To_Pin button)
+3) Select the pad to which you want to lead the copper trace. If these pads were not connected to the net, then a dialog box for choosing a new net name will appear. Enter a name and press OK.
+4) Highlight this new connection that has appeared
+5) Press F3 (Lock_Connect)
+
+Now this connection is blocked and will not disappear anywhere when recalculating ratlines
