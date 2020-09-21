@@ -65,6 +65,17 @@ but at the same time includes almost all the tools needed for professional use.
 
 * Added to the schematic editor a command to auto-update the file modification date. In the "description" attribute of the polyline, you must enter the following text `00.00.00|DD.MM.YYYY` or like this: `00.00.00|MM/DD/YYYY`. For an example see the Template.cds file that comes with FreePcb-2
 
+* Also added other commands to the polyline attributes window. Complete list of commands:
+date
+Link to part
+Complex part polyline
+Complex part pin
+E-bus pin
+BOM table inside a rectangle
+Project file path
+
+* The PartList dialog now runs in the background and has a part search bar. Added a button to generate a TXT file from the list.
+
 ***
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) 
