@@ -63,9 +63,9 @@ but at the same time includes almost all the tools needed for professional use.
 
 ![](pictures/presentation_2.png)
 
-* Added to the schematic editor a command to auto-update the file modification date. In the "description" attribute of the polyline, you must enter the following text `00.00.00|DD.MM.YYYY` or like this: `00.00.00|MM/DD/YYYY`. For an example see the Template.cds file that comes with FreePcb-2
+* (schematic editor) Added to the schematic editor a command to auto-update the file modification date. In the "description" attribute of the polyline, you must enter the following text `00.00.00|DD.MM.YYYY` or like this: `00.00.00|MM/DD/YYYY`. For an example see the Template.cds file that comes with FreePcb-2
 
-* Also added other commands to the polyline attributes window. Complete list of commands:
+* (schematic editor) Also added other commands to the polyline attributes window. Complete list of commands:
 
   - date
   - Link to part
@@ -75,9 +75,9 @@ but at the same time includes almost all the tools needed for professional use.
   - BOM table inside a rectangle
   - Project file path
 
-* The PartList dialog now runs in the background and has a part search bar. Added a button to generate a TXT file from the list.
+* (schematic editor) The PartList dialog now runs in the background and has a part search bar. Added a button to generate a TXT file from the list.
 
-* Added a button to generate a BOM file
+* (schematic editor) Added a button to generate a BOM file
 
 ***
 
