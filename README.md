@@ -67,13 +67,13 @@ but at the same time includes almost all the tools needed for professional use.
 
 * Also added other commands to the polyline attributes window. Complete list of commands:
 
-- date
-- Link to part
-- Complex part polyline
-- Complex part pin
-- E-bus pin
-- BOM table inside a rectangle
-- Project file path
+  - date
+  - Link to part
+  - Complex part polyline
+  - Complex part pin
+  - E-bus pin
+  - BOM table inside a rectangle
+  - Project file path
 
 * The PartList dialog now runs in the background and has a part search bar. Added a button to generate a TXT file from the list.
 
