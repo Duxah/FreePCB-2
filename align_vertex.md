@@ -6,6 +6,6 @@ Click on another vertex or pad you want to align the unaligned vertex with. The 
 
 ### You can align vertex of the trace segment given the coordinates of the previous and next vertices.
 
-Select unaligned vertex. Click F3 to align the connected trace segments at 180°, 135° or 90° angles.
+Select unaligned vertex. Click F3 to align the connected trace segments at 180°, 135°, 90°, 45° or 0° angles between segments.
 
 
