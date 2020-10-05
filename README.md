@@ -79,6 +79,8 @@ but at the same time includes almost all the tools needed for professional use.
 
 * (schematic editor) Added a button to generate a BOM file
 
+* Batch editing selected vias
+
 ***
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) 
