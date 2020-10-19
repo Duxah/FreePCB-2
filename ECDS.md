@@ -64,6 +64,6 @@ You can donate to the `freepcb.dev` resource fund. If you are using FreePcb-2 no
 
 The first release is scheduled for 2020
 
-[learn more](How_to_cd.md)
+# [Learn from video](How_to_cd.md)
 
 `Software copyright Duxah (c) 2020`
