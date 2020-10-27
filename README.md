@@ -75,15 +75,17 @@ but at the same time includes almost all the tools needed for professional use.
   - BOM table inside a rectangle
   - Project file path
 
-* (schematic editor) The PartList dialog now runs in the background and has a part search bar. Added a button to generate a TXT file from the list.
+* (schematic editor) The PartList dialog now runs in the background and has a part search bar. Added a button to generate a TXT file from the list
 
 * (schematic editor) Added a button to generate a BOM file
 
 * Batch editing selected vias
 
-* You can copy a copper area pattern to mechanical layer. Select the area side and press F9.
+* You can copy a copper area pattern to mechanical layer. Select the area side and press F9
 
-* Added option for PNG rendering settings in CAM dialog. 
+* Added option for PNG rendering settings in CAM dialog
+
+* Added checkbox for highlights layer selection in CAM dialog
 
 * (schematic editor) Schematic Constructor 1.1 lists "Value @ Footprint" parts that have ever been used in other projects. This list is loaded at the first call of the import window (F1 key) and in general significantly improves the function of importing a part from another project
 
