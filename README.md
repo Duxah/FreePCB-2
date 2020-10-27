@@ -63,11 +63,11 @@ but at the same time includes almost all the tools needed for professional use.
 
 ![](pictures/presentation_2.png)
 
-* (schematic editor) Added to the schematic editor a command to auto-update the file modification date. In the "description" attribute of the polyline, you must enter the following text `00.00.00|DD.MM.YYYY` or like this: `00.00.00|MM/DD/YYYY`. For an example see the Template.cds file that comes with FreePcb-2
+* (schematic editor) Added to the schematic editor a command to auto-update the file modification date. In the "description" attribute of the polyline, you must enter the following text `00.00.00|YYYY.MM.DD`(to show the date in international style) or like this: `00.00.00|MM/DD/YYYY`(to show the date in American style). For an example see the Template.cds file that comes with FreePcb-2
 
 * (schematic editor) Also added other commands to the polyline attributes window. Complete list of commands:
 
-  - date
+  - Date
   - Link to part
   - Complex part polyline
   - Complex part pin
@@ -80,6 +80,12 @@ but at the same time includes almost all the tools needed for professional use.
 * (schematic editor) Added a button to generate a BOM file
 
 * Batch editing selected vias
+
+* You can copy a copper area pattern to mechanical layer. Select the area side and press F9.
+
+* Added option for PNG rendering settings in CAM dialog. 
+
+* (schematic editor) Schematic Constructor 1.1 lists "Value @ Footprint" parts that have ever been used in other projects. This list is loaded at the first call of the import window (F1 key) and in general significantly improves the function of importing a part from another project
 
 ***
 
