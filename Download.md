@@ -2,8 +2,8 @@
 
 Download                                                                         | Status | Year of issue | Version ID | See what improvements have been made
 ---------------------------------------------------------------------------------|--------|---------------|------------|------------------------------------------
-[FreePcb v2.0](https://github.com/Duxah/FreePCB-2/archive/2-032.zip)           | stable | 2019 | 032A | [link](https://github.com/Duxah/FreePCB-2/tree/2-032/README.md)
-[FreePcb v2.0 + Schematic Constructor v1.0](https://github.com/Duxah/FreePCB-2/archive/2-033.zip) | new | 2020 | 033A | [link](https://github.com/Duxah/FreePCB-2/tree/2-033/README.md)
+[FreePcb v2.0](https://github.com/Duxah/FreePCB-2/archive/2-032.zip)           | stable | 2019 | 32A | [link](https://github.com/Duxah/FreePCB-2/tree/2-032/README.md)
+[FreePcb v2.0 + Schematic Constructor v1.0](https://github.com/Duxah/FreePCB-2/archive/2-033.zip) | new | 2020 | 33A | [link](https://github.com/Duxah/FreePCB-2/tree/2-033/README.md)
 [Underway FreePcb v2.1 + Schematic Constructor v1.1](https://github.com/Duxah/FreePCB-2/archive/master.zip) | debug (not recommended) | 2021 | 00 | [link](https://freepcb.dev)
 
 ![Yandex.Metrika counter](https://mc.yandex.ru/watch/56412415)
