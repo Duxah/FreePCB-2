@@ -16,9 +16,7 @@ _Warning! This document has been translated into English from another language. 
 
 ### `View`
 
-FreePcb-2 is suitable for medium circuit board design. Here, as an example of the view of the program window, a project of two printed circuit boards is shown, which contains more than 2000 pins.
-
-[![PCB](/pictures/img2.png)](https://)
+[![PCB](/pictures/img2.png)](https://freepcb.dev)
 
 ***
 ### `About`
