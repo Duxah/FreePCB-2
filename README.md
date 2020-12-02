@@ -51,7 +51,7 @@ but at the same time includes almost all the tools needed for professional use.
 ***
 ### `Latest improvements and new features`
 
-`Version 2-1xx:`
+`FreePcb-2.1:`
 
 * A checkbox has been added to the project options dialog box to control the display of merge names during editing. You can now turn off silk-screening altogether while routing the board
 
