@@ -87,6 +87,16 @@ but at the same time includes almost all the tools needed for professional use.
 
 * (schematic editor) Schematic Constructor 1.1 lists "Value @ Footprint" parts that have ever been used in other projects. This list is loaded at the first call of the import window (F1 key) and in general significantly improves the function of importing a part from another project
 
+* Added "pour copper" button so that you can pour copper area without using external program Areas.exe. Select side of ghost area and  press F4 button
+
+* Option "drag the part here by pulling the ratline". When you place parts in a new project, it is very common for related parts to be far apart and off the screen. Highlight the ratline and press F5 to get that part
+
+* Optimized scrolling for large projects
+
+* Moving stub tracks with the part while moving the part. If a track connects the pins of the same part, then it will also move with the part. To bypass this option, select the pin of the part and then move the part with the keyboard arrows
+
+(the last 4 items will be available from 07.12.)
+
 ***
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) 
