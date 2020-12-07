@@ -95,7 +95,7 @@ but at the same time includes almost all the tools needed for professional use.
 
 * Moving stub tracks with the part while moving the part. If a track connects the pins of the same part, then it will also move with the part. To bypass this option, select the pin of the part and then move the part with the keyboard arrows
 
-(the last 4 items will be available from 07.12.)
+(the last 4 items will be available from 09.12.)
 
 ***
 
