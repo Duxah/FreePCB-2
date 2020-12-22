@@ -95,7 +95,7 @@ but at the same time includes almost all the tools needed for professional use.
 
 * Moving stub tracks with the part while moving the part. If a track connects the pins of the same part, then it will also move with the part. To bypass this option, select the pin of the part and then move the part with the keyboard arrows
 
-* Highlighting details on the board from the schematic editor. Select the parts with the mouse frame and click the View -> Switch to PCB menu
+* Highlighting parts on the board from the schematic editor. Select the parts with the mouse frame and click the View -> Switch to PCB menu
 
 * "Swap the pins of a part on a printed circuit board." The long-awaited function has been completed. In FreePcb2.1, you can swap two pins of the same part in the PCB editor (most often this is needed, for example, for microcontrollers), and the program will automatically change this in the circuit file. The schematic file and the PCB file should usually be stored in the same folder and have the same file name, such as Example.fpc and Example.cds. If the schematic file is open while changing pins, the program will restart it after making changes. If the schematic file is modified and not saved, the program will warn you and the process will be interrupted until you save the schematic file.
 
