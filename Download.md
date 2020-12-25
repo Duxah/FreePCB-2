@@ -12,8 +12,8 @@ Perhaps you only want to update the executable file
 
 Download                                                                       | 
 -------------------------------------------------------------------------------|
-[FreePcb2 Latest](https://freepcb.dev/FreePCB-2/bin/FreePcb.exe)                           | 
-[Schematic Constructor Latest](https://freepcb.dev/FreePCB-2/bin/FreeCds.exe)              |
+[FreePcb2 Latest](https://freepcb.dev/FreePcb-2/bin/FreePcb.exe)                           | 
+[Schematic Constructor Latest](https://freepcb.dev/FreePcb-2/bin/FreeCds.exe)              |
 
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript" >
