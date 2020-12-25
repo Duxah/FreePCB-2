@@ -1,12 +1,19 @@
 # Downloads page
 
+32-bit application
+
 Download                                                                         | Status | Year of issue | Version ID | See what improvements have been made
 ---------------------------------------------------------------------------------|--------|---------------|------------|------------------------------------------
 [FreePcb v2.0](https://github.com/Duxah/FreePCB-2/archive/2-032.zip)           | stable | 2019 | 32E | [link](https://github.com/Duxah/FreePCB-2/tree/2-032/README.md)
 [FreePcb v2.0 + Schematic Constructor v1.0](https://github.com/Duxah/FreePCB-2/archive/2-033.zip) | new | 2020 | 33E | [link](https://github.com/Duxah/FreePCB-2/tree/2-033/README.md)
 [Underway FreePcb v2.1 + Schematic Constructor v1.1](https://github.com/Duxah/FreePCB-2/archive/master.zip) | debug (not recommended) | 2021 | 10 | [link](https://freepcb.dev)
 
+Perhaps you only want to update the executable file
 
+Download                                                                       | 
+-------------------------------------------------------------------------------|
+[FreePcb2 Latest](https://FreePcb-2/bin/FreePcb.exe)                           | 
+[Schematic Constructor Latest](https://FreePcb-2/bin/FreeCds.exe)              |
 
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript" >
