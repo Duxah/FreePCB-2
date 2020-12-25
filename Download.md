@@ -4,7 +4,7 @@ Download                                                                        
 ---------------------------------------------------------------------------------|--------|---------------|------------|------------------------------------------
 [FreePcb v2.0](https://github.com/Duxah/FreePCB-2/archive/2-032.zip)           | stable | 2019 | 32E | [link](https://github.com/Duxah/FreePCB-2/tree/2-032/README.md)
 [FreePcb v2.0 + Schematic Constructor v1.0](https://github.com/Duxah/FreePCB-2/archive/2-033.zip) | new | 2020 | 33E | [link](https://github.com/Duxah/FreePCB-2/tree/2-033/README.md)
-[Underway FreePcb v2.1 + Schematic Constructor v1.1](https://github.com/Duxah/FreePCB-2/archive/master.zip) | debug (not recommended) | 2021 | 09 | [link](https://freepcb.dev)
+[Underway FreePcb v2.1 + Schematic Constructor v1.1](https://github.com/Duxah/FreePCB-2/archive/master.zip) | debug (not recommended) | 2021 | 10 | [link](https://freepcb.dev)
 
 
 
