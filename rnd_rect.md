@@ -1,4 +1,4 @@
-## `_Round corners_ menu item`
+## `"Round corners" menu item`
 
 Infobox has an application for rounding sharp corners, which can round the corners of tracks, copper areas, turn rectangular pads into rounded ones, and also make vias of an oval shape. The application reads the project file and creates a new one in the directory with the executable file, or overwrites the existing file if you select the "Replace original file" checkbox. This tool is conveniently used for global adjustment of the project file immediately before the production of the printed circuit board.
 Here is a screenshot of the project window before and after processing
@@ -17,7 +17,7 @@ Then click the "ToTry" button. A modified file opens with the options applied. N
 
 ## `Oval vias..`
 
-First check the "Rounding vertex of traces" box on the left. Then go to the RndTraces tab and set the via-options. For sample, you can set as in the screenshot. 
+First check the "Adding Drop Shape to vias" box on the left. Then go to the RndTraces tab and set the via-options. For sample, you can set as in the screenshot. 
 
 ![](pictures/rnd_rect2.png)
 
