@@ -9,6 +9,7 @@ Download                                                                        
 [Underway FreePcb v2.1 + Schematic Constructor v1.1](https://github.com/Duxah/FreePCB-2/archive/master.zip) | debug (not recommended) | 2021 | 10 | [link](https://freepcb.dev)
 
 Perhaps you only want to update the executable file
+(Attention! these are the file links of the most recent DEBUGGING version)
 
 Download                                                                       | 
 -------------------------------------------------------------------------------|
