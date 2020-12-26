@@ -1,6 +1,6 @@
-# Mechanic Polylines
+# Mechanical Polylines
 
-Click the menu item `MECHANIC LINES` in the main menu `ADD`.
+Click the menu item `MECHANICAL LINES` in the main menu `ADD`.
 
 Using the dialog box that appears, you can add to the PCB project:
 
@@ -23,4 +23,3 @@ Example:
 
 To repeat drawing a line with the same parameters and in the same layer as the previous drawn line, press `F4_REPEAT_LINE` in the None Selection mode.
 
-# [Return](How_to.md)
