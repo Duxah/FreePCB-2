@@ -37,7 +37,7 @@ Special attention should be paid to the topic of hidden text in the schematic de
 ***
 ## Multi-graphic part symbols
 
-Although the `Schematic Constructor` does not have symbol libraries, you can create multi-graphic part symbols. Just draw two graphic symbols, name the first one for example `DA1.1`, and the second one `DA1.2`. The program will treat it as one part DA1, and it will also appear in the BOM list as `DA1`. Either period or dash can be used as separator.
+Although this program does not have symbol libraries, you can create multi-graphic part symbols. Just draw two graphic symbols, name the first one for example `DA1.1`, and the second one `DA1.2`. The program will treat it as one part DA1, and it will also appear in the BOM list as `DA1`. Either period or dash can be used as separator.
 
 ***
 ## Renumbering of parts
