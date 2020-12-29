@@ -64,6 +64,7 @@ The program is equipped with an automatic check of design rules before creating 
 ***
 ## Support department:
 
+![](pictures/pochta.jpg)
 If you have a question or suggestion related to `Schematic Constructor`, do not forget to write to duxah@yahoo.com
 
 ***
