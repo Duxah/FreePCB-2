@@ -85,17 +85,17 @@ but at the same time includes almost all the tools needed for professional use.
 
 * Added checkbox for highlights layer selection in CAM dialog
 
-* (schematic editor) Schematic Constructor 1.1 lists "Value @ Footprint" parts that have ever been used in other projects. This list is loaded at the first call of the import window (F1 key) and in general significantly improves the function of importing a part from another project
+* (schematic editor) `Schematic Constructor 1.1` lists "Value @ Footprint" parts that have ever been used in other projects. This list is loaded at the first call of the import window (F1 key) and in general significantly improves the function of importing a part from another project
 
-* Added "pour copper" button so that you can pour copper area without using external program Areas.exe. Select side of ghost area and  press F4 button
+* Added "pour copper" button so that you can pour copper area without using external program Areas.exe. Select side of ghost area and  press `F4` button
 
-* Option "drag the part here by pulling the ratline". When you place parts in a new project, it is very common for related parts to be far apart and off the screen. Highlight the ratline and press F5 to get that part
+* Option "drag the part here by pulling the ratline". When you place parts in a new project, it is very common for related parts to be far apart and off the screen. Highlight the ratline and press `F5` to get that part
 
 * Optimized scrolling for large projects
 
 * Moving stub tracks with the part while moving the part. If a track connects the pins of the same part, then it will also move with the part. To bypass this option, select the pin of the part and then move the part with the keyboard arrows
 
-* Highlighting parts on the board from the schematic editor. Select the parts with the mouse frame and click the View -> Switch to PCB menu
+* Highlighting parts on the board from the schematic editor. Select the parts with the mouse frame and click the `View -> Switch to PCB` menu or press `F9`
 
 * "Swap the pins of a part on a printed circuit board." The long-awaited function has been completed. In FreePcb2.1, you can swap two pins of the same part in the PCB editor (most often this is needed, for example, for microcontrollers), and the program will automatically change this in the circuit file. The schematic file and the PCB file should usually be stored in the same folder and have the same file name, such as Example.fpc and Example.cds. If the schematic file is open while changing pins, the program will restart it after making changes. If the schematic file is modified and not saved, the program will warn you and the process will be interrupted until you save the schematic file.
 
