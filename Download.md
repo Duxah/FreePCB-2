@@ -10,7 +10,6 @@ Download                                                                        
 
 ***
 If you are already a FreePcb2 user and want to try new features, you may want to update only the executable file.
-
 **(Attention! these are the file links of the most recent DEBUGGING version)**
 
 Download                                                                       | 
