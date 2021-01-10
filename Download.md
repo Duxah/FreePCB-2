@@ -11,6 +11,7 @@ Download                                                                        
 ***
 If you are already a FreePcb2 user and want to try new features, you can only update the executables.
 **(Attention! these are the file links of the most recent DEBUGGING version)**
+Copy these 2 files to the bin folder with file replacement.
 
 Download                                                                       | 
 -------------------------------------------------------------------------------|
