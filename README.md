@@ -99,6 +99,8 @@ but at the same time includes almost all the tools needed for professional use.
 
 * "Swap the pins of a part on a printed circuit board." The long-awaited function has been completed. In FreePcb2.1, you can swap two pins of the same part in the PCB editor (most often this is needed, for example, for microcontrollers), and the program will automatically change this in the circuit file. The schematic file and the PCB file should usually be stored in the same folder and have the same file name, such as Example.fpc and Example.cds. If the schematic file is open while changing pins, the program will restart it after making changes. If the schematic file is modified and not saved, the program will warn you and the process will be interrupted until you save the schematic file.
 
+* You can open the project folder by pressing F5, in the "nothing selected" mode.
+
 ***
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) 
