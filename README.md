@@ -54,7 +54,7 @@ You will be able to upload gerber files into it for viewing, using the menu comm
 ***
 ### `Advantages`
 1. accessibility (it does not have a limit on the number of pins, footprint libraries or any other parameters),
-2. ease of learning (creating a manual for version 2-033),
+2. ease of learning (see useful links),
 3. reduction of time for the development of printed circuit boards (A distinctive feature of FreePcb and FreePcb-2 from other PCB-editors is an interface using function keys, which speeds up the process of editing a printed circuit board for an experienced user),
 4. saving computer memory (takes ~ 50MB hard drive),
 but at the same time includes almost all the tools needed for professional use. 
@@ -78,7 +78,7 @@ but at the same time includes almost all the tools needed for professional use.
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/По%20рукам.png) If you like, post [this](pictures/logo.png) picture on your website. Have fun using FreePcb-2.
 
-You can participate in the improvement of the application. Feel free to write a message regarding working with FREEPCB2 so that we can release the official version FreePcb2.1 & Schematic Constructor 1.1 as soon as possible. Working together is always more efficient.
+You can participate in the improvement of the application. Feel free to write a message regarding working with FREEPCB2 so that we can release the official version FreePcb2.2 & Schematic Constructor 1.2 as soon as possible. Working together is always more efficient.
 
 ***
 ### `Partners`
