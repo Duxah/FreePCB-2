@@ -28,7 +28,7 @@ FreePcb is a unique PCB design program with a function key interface. Version 2.
 
 In FreePcb, you can create a netlist manually by adding parts and then connecting their pins. But you can also import a netlist in the PADS-PCB format from FreePCB2 compatible Schematic Editor. See description on [this page](https://freepcb.dev/ECDS.html)
 
-![]()
+![](pictures/ECDS.gif)
 
 ***
 ### `Uploading Gerber files`
