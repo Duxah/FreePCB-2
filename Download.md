@@ -2,7 +2,7 @@
 
 32-bit application
 
-Download                                                                         | Status | Year of issue | Version ID | See what improvements have been made
+Download                                                                         | Status | Year of issue | Current ID | See what improvements have been made
 ---------------------------------------------------------------------------------|--------|---------------|------------|------------------------------------------
 [FreePcb v2.0](https://github.com/Duxah/FreePCB-2/archive/0-32.zip)           | stable | 2019 | 32F | [link](https://github.com/Duxah/FreePCB-2/tree/0-32/README.md)(to just read)
 [FreePcb v2.0 + Schematic Constructor v1.0](https://github.com/Duxah/FreePCB-2/archive/0-33.zip) | new | 2020 | 33F | [link](https://github.com/Duxah/FreePCB-2/tree/0-33/README.md)(to just read)
