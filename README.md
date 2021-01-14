@@ -57,7 +57,7 @@ but at the same time includes almost all the tools needed for professional use.
 
 `Version 2-032 (2019-11-11):`
 
-* When using the measurement tool, the angle is displayed
+* When using the [measurement tool](https://freepcb.dev/measurement_tool.html), the angle is displayed
 
 ![](/pictures/m_tool4.png)
 
@@ -65,11 +65,11 @@ but at the same time includes almost all the tools needed for professional use.
 
 ![](/pictures/torn.png)
 
-* InfoBox shows the net in the mode of dragging a connection to a pin, for convenience when manually connecting pins
+* [InfoBox](https://freepcb.dev/IB_use.html) shows the net in the mode of dragging a connection to a pin, for convenience when manually connecting pins
 
 ![](/pictures/IB_drag_con.png)
 
-* InfoBox shows the number of parts in the filter
+* [InfoBox](https://freepcb.dev/IB_use.html) shows the number of parts in the filter
 
 ![](/pictures/IB_num_parts.png)
 
@@ -81,7 +81,7 @@ but at the same time includes almost all the tools needed for professional use.
 
 * NEW! (added 07/09/2020)
 
-fpc-library viewer by Infobox now shows the distance between the pins
+[fpc-library viewer](https://freepcb.dev/edit_lib.html) by Infobox now shows the distance between the pins
 
 ![](/pictures/lib_show_pins.png)
 
