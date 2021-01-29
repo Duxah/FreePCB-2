@@ -70,7 +70,7 @@ but at the same time includes almost all the tools needed for professional use.
 
 * You can add a grid of vias to the area of ​​any copper area. This function is in the top menu Addition
 
-![](pictures/pres1.png)
+![](pictures/presentation_1.png)
 
 `Schematic Constructor-1.2:`
 
