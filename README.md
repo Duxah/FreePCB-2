@@ -68,7 +68,7 @@ but at the same time includes almost all the tools needed for professional use.
 
 * As you move a group of objects using the arrows on the keyboard, FreePcb2 automatically aligns the copper trace segments that start from the pins outside the group.
 
-* You can add a grid of vias to the area of ​​any copper area. This function is in the top menu Addition
+* You can add a grid of vias to the area of ​​any copper area. This function is in the top menu `Addition`
 
 ![](pictures/presentation_1.png)
 
