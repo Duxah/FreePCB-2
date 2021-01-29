@@ -64,11 +64,13 @@ but at the same time includes almost all the tools needed for professional use.
 
 `FreePcb-2.2:`
 
-* When you swap the pins in the PCB editor, the same pins are automatically swapped in the schematic file. (How to swap pins is described in PDF-1.359). If both pins have the text attribute "description", then they are also swapped. If one of the pins does not have this attribute, then you can change it in the pop-up dialog box.
+* When you swap the pins in the PCB editor, the same pins are automatically swapped in the schematic file. (How to swap pins is described in [PDF-1.359](https://github.com/Duxah/FreePCB-2/raw/master/FreePcb-2/bin/doc/freepcb_user_guide.pdf)). If both pins have the text attribute "description", then they are also swapped. If one of the pins does not have this attribute, then you can change it in the pop-up dialog box.
 
 * As you move a group of objects using the arrows on the keyboard, FreePcb2 automatically aligns the copper trace segments that start from the pins outside the group.
 
 * You can add a grid of vias to the area of ​​any copper area. This function is in the top menu Addition
+
+![](pictures/pres1.png)
 
 `Schematic Constructor-1.2:`
 
