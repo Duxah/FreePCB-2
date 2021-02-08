@@ -72,9 +72,11 @@ but at the same time includes almost all the tools needed for professional use.
 
 ![](pictures/presentation_1.png)
 
+* You can highlight any net by selecting it in the NETS dialog and then clicking OK.
+
 `Schematic Constructor-1.2:`
 
-* none
+* You can disable JPEG images from being inverted when printed. For example, when you have a background scheme in JPEG format, you can make yourself a dark theme by inverting the colors of the picture (menu File-> Polyline picture-> Invert). In the PDF print dialog box, check the Disable inversion of pictures checkbox, in this case there will be no color inversion in the PDF file
 
 ***
 
