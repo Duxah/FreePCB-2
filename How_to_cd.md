@@ -29,6 +29,14 @@ How to make a schematic design
 
 <iframe src="https://player.vimeo.com/video/510966946" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
+<iframe src="https://player.vimeo.com/video/510967070" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+<iframe src="https://player.vimeo.com/video/510967267" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+<iframe src="https://player.vimeo.com/video/510967395" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+<iframe src="https://player.vimeo.com/video/510967559" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 ![[Simple timer circuit (all videos)](https://yadi.sk/d/gpLG3yCwHGxxcw)]
 
 # [`home`](https://freepcb.dev)
