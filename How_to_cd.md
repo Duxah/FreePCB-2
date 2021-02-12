@@ -5,13 +5,8 @@ How to make a schematic design
 
 1) [Simple timer circuit (video)](https://yadi.sk/d/gpLG3yCwHGxxcw)
 
+<iframe src="https://player.vimeo.com/video/510964622" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 # [`home`](https://freepcb.dev)
 
-очередь улучшений для следующей версии:
-
-* поменять местами 2 пина из окна Freepcb-2
-* исключение\включение в нетлист сохраненных списков refDes
-* при импорте деталей из других проектов показывать список ранее использованных деталей, импорт по value@package
-* при проверке футпринтов в DRC проверять наличие пинов в футпринте которые присутствуют в схеме
-* показ деталей в другом редакторе
 
