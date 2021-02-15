@@ -13,7 +13,7 @@ To prevent the player slider from obstructing the bottom panel with buttons, it 
 
 <iframe src="https://player.vimeo.com/video/510964771" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-3) 
+3) This video shows you how to change the polyline layer and thickness. After you have completely drawn your design, you can select all objects with a frame and give them the same thickness if you want. 
 
 <iframe src="https://player.vimeo.com/video/510965047" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
