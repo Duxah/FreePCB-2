@@ -26,7 +26,20 @@ You can add up to 14 more back layers via the `Project` >> `Options` menu.
 
 <iframe src="https://player.vimeo.com/video/510965047" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-4) 
+4) In the Schematic Constructor, any polyline has 6 text attributes:
+
+ - Ref Des (part name)
+ - Part Value
+ - Footprint
+ - pin name
+ - net name
+- Description
+
+Therefore, if you see any text in the file, then know that it always belongs to the polyline (when the text is selected, the polyline is highlighted). You can set the polyline attributes through the `Set Attr` dialog box, first select the polyline segment and then press` F1`. When you assign a text attribute to the polyline, for example `RefDes`, the polyline is moved to the corresponding reserved layer` Part Outline` / if you enter the attribute `Pin Name`, then to the layer` Pin line` / if you enter the attribute `Net Name`, then in layer `Net Polyline`. So, there are 3 reserved layers where you cannot manually move the polyline.
+
+ - Part outline
+ - Pin line
+ - Net Polyline
 
 <iframe src="https://player.vimeo.com/video/510965271" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
