@@ -51,7 +51,7 @@ Therefore, if you see any text in the file, then know that it always belongs to 
 
 <iframe src="https://player.vimeo.com/video/510965598" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-7) 
+7) Enable drag mode by pressing the F2 button. In this mode, you can continuously drag from place to place any object, such as text. Grab RefDes if you want to move three part attributes at once in one click - RefDes, Value, Footprint. 
 
 <iframe src="https://player.vimeo.com/video/510966010" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
