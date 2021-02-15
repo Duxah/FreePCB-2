@@ -47,7 +47,7 @@ Therefore, if you see any text in the file, then know that it always belongs to 
 
 <iframe src="https://player.vimeo.com/video/510965399" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-6) 
+6) You can make another part from one part by copying and modifying it. Edit text attributes without going into the polyline attributes dialog box, but through the text properties dialog box. Click on the text and press `F1`. If you want to hide the text, then set it to zero size and thickness. 
 
 <iframe src="https://player.vimeo.com/video/510965598" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
