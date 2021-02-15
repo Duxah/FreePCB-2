@@ -97,7 +97,6 @@ When a polyline segment is selected, press the N hotkey to highlight the entire 
 
 <iframe src="https://player.vimeo.com/video/510967559" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-![[Simple timer circuit (all videos)](https://yadi.sk/d/gpLG3yCwHGxxcw)]
 
 # [`home`](https://freepcb.dev)
 
