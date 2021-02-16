@@ -69,7 +69,9 @@ You can combine diodes into a merger. Select 4 diodes and press F2 (Add Merge). 
 
 <iframe src="https://player.vimeo.com/video/510966367" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-10) 
+10) When you click on a part element, the entire part is selected at once. To select a separate segment of the polyline, disable the selection of the part on the selection mask in the left pane of the main window. Now you can go into the properties of each of the polylines.
+
+Important information: in the mode of the disabled part selection mask, it is impossible to copy and paste the part. All objects will be copied as separate entities, not a part. When copying a pin in this mode, there is also no automatic check of the free pin number.
 
 <iframe src="https://player.vimeo.com/video/510966500" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
