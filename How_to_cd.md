@@ -13,7 +13,7 @@ To prevent the player slider from obstructing the bottom panel with buttons, it 
 
 <iframe src="https://player.vimeo.com/video/510964771" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-3) This video shows you how to change the polyline layer and thickness. After you have completely drawn your schematic design, you can select all the lines with a frame and give them the same thickness if you want.
+3) This video shows you how to change the polyline layer and thickness. 
 You can move any polyline on different layer, or add a new line by placing it on one of the following layers:
 
   - ownerless layer
@@ -23,6 +23,8 @@ You can move any polyline on different layer, or add a new line by placing it on
   - second back layer 
   
 You can add up to 14 more back layers via the `Project` >> `Options` menu.
+
+After you have completely drawn your schematic design, you can select all the lines with a frame and give them the same thickness if you want.
 
 <iframe src="https://player.vimeo.com/video/510965047" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
