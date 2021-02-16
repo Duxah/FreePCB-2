@@ -65,7 +65,7 @@ You can combine diodes into a merger. Select 4 diodes and press F2 (Add Merge). 
 
 <iframe src="https://player.vimeo.com/video/510966162" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-9) 
+9) The tantalum capacitor graphic has a + symbol on one of the pins you see in the background picture. Add this text to the Description field in the polyline attributes dialog box. And in the following video, it will be shown how to edit an already finished part, i.e. add this text after you have grouped the objects into a part.
 
 <iframe src="https://player.vimeo.com/video/510966367" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
