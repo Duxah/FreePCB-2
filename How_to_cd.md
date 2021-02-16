@@ -96,7 +96,7 @@ When a polyline segment is selected, press the N hotkey to highlight the entire 
 
 <iframe src="https://player.vimeo.com/video/510967267" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-16) 
+16) You can draw a net mark in the form of an arrow, square, diamond, etc., and assign a net name, for example + E, in the polyline properties, but it is important to know that connecting other polylines to such a mark can only be at the ends of the net mark polyline, and not in the middle ... In any case, there is no reason to worry - the automatic design checker will not let you make a mistake.
 
 <iframe src="https://player.vimeo.com/video/510967395" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
