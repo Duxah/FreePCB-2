@@ -45,7 +45,7 @@ Therefore, if you see any text in the file, then know that it always belongs to 
 
 <iframe src="https://player.vimeo.com/video/510965271" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-5) Draw all the polylines of the part on the ownerless layer, set the pin name attribute on the corresponding polylines. Then select the entire group and set the RefDes, Value and Footprint attributes - and the part is ready. You can then import this part from another project. 
+5) Draw all the polylines of the part on the ownerless layer, set the pin name attribute on the corresponding polylines. Then select the entire group and set the RefDes, Value and Footprint attributes - and the part is ready. You can then import this part from another project, so as not to draw it again every time. The F1 button brings up a dialog box for importing parts from previous projects. 
 
 <iframe src="https://player.vimeo.com/video/510965399" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
