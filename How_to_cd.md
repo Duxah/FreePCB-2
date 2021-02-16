@@ -100,7 +100,7 @@ When a polyline segment is selected, press the N hotkey to highlight the entire 
 
 <iframe src="https://player.vimeo.com/video/510967395" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-17) 
+17) Now in the PCB editor, click the File >> Netlist Import menu item and select this netlist file.
 
 <iframe src="https://player.vimeo.com/video/510967559" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
