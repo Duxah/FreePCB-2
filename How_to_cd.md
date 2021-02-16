@@ -87,7 +87,7 @@ Important information: in the mode of the disabled part selection mask, it is im
 
 <iframe src="https://player.vimeo.com/video/510966946" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-14) 
+14) When you click on any polyline, the program remembers some of its parameters (such as width, style, etc.), so that you can later draw a similar polyline using the F4 hotkey. So to start drawing the connections between the pins of the circuit, click on some line, then deselect and press F4 "repeat line". Press F4 again to activate vertex magnetization. When drawing net polylines, magnetization helps to get to the vertex of the pin. In this video, you can see how the operator presses the F4 button twice in a row to turn on the polyline drawing mode and activate magnetization. 
 
 <iframe src="https://player.vimeo.com/video/510967070" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
