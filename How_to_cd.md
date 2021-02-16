@@ -5,7 +5,9 @@ How to make a schematic design
 
 To prevent the player slider from obstructing the bottom panel with buttons, it is recommended to expand it to full screen when watching a video. Flashing orange buttons on the bottom panel means that the corresponding button has been pressed on the keyboard. But you can also click on it with the mouse if you prefer. Let's go!
 
-1) First specify the project folder and then enter the project name in the main line. The program will create a folder of the same name in which it will place your project. In the course of work, many different files associated with the project will appear in this folder. The Schematic Constructor can import parts from other projects by pressing the F1 button, and for this, all projects must be stored in a shared folder. The new version of `Schematic Constructor (1.1)` has a parameter called "index to project folder". It indicates the storage depth of the project relative to the main folder. By default, it is 1, but if your project is stored inside a folder of another project, then set the value to 2.
+1) First specify the project folder and then enter the project name in the main line. The program will create a folder of the same name in which it will place your project. In the course of work, many different files associated with the project will appear in this folder. The Schematic Constructor can import parts from other projects by pressing the F1 button, and for this, all projects must be stored in a shared folder. 
+
+The new version of `Schematic Constructor (1.1)` has a parameter called "index to project folder". It indicates the storage depth of the project relative to the main folder. By default, it is 1, but if your project is stored inside a folder of another project, then set the value to 2.
 
 <iframe src="https://player.vimeo.com/video/510964622" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
