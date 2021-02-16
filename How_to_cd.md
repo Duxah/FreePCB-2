@@ -55,8 +55,8 @@ Therefore, if you see any text in the file, then know that it always belongs to 
 
 <iframe src="https://player.vimeo.com/video/510966010" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-8) You need to know that when the part is rotated at an angle that is not a multiple of `90` degrees, the part may lose its snapping to the grid, but it rotates without graphic loss. If you want to bind vertices to the grid then select the menu item Project >> Adapt to grid.
-You can combine diodes into a merge. Select 4 diodes and press `F2 (Add Merge)`. Enter a name for the merge, for example `Diode Bridge`. Now, when you click on any of the diodes, the entire group will be selected. 
+8) You need to know that when the part is rotated by an angle not multiple of 90 degrees, the part may lose its snapping to the grid, but it rotates without graphic distortion. If you want to bind the vertices to the grid, then select the menu item Project >> Adapt to grid, but graphics distortion is inevitable.
+You can combine diodes into a merger. Select 4 diodes and press F2 (Add Merge). In the dialog box, enter a name for the merge, for example Diode Bridge. Now, when you click on any of the diodes, the entire group will be selected.
 
 <iframe src="https://player.vimeo.com/video/510966162" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
