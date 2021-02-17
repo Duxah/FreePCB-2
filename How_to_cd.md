@@ -83,7 +83,7 @@ Important information: in the mode of the disabled part selection mask, it is im
 
 <iframe src="https://player.vimeo.com/video/510966777" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-13) 
+13) This video shows how to draw a circle or oval using arcs. 
 
 <iframe src="https://player.vimeo.com/video/510966946" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
