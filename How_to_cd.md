@@ -79,7 +79,7 @@ Important information: in the mode of the disabled part selection mask, it is im
 
 <iframe src="https://player.vimeo.com/video/510966629" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-12) 
+12) To align the vertex of a line using the coordinates of another vertex, it is not at all necessary to enter them manually in the properties dialog box. Watch this video to see how. 
 
 <iframe src="https://player.vimeo.com/video/510966777" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
