@@ -75,7 +75,7 @@ Important information: in the mode of the disabled part selection mask, it is im
 
 <iframe src="https://player.vimeo.com/video/510966500" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-11) 
+11) If you have selected a group of polylines to turn it into a detail, but the button for calling the polyline attributes dialog (F1) is absent, then this means that the selected group contains not only polyline segments but also vertices of the polylines. There is a simple way to ignore the selection of vertices and nodes - in the selection mask (on the left side of the window) you need to disable the selection of line vertices
 
 <iframe src="https://player.vimeo.com/video/510966629" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
