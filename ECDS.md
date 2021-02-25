@@ -83,4 +83,6 @@ The first release is scheduled for 2020
 
 # [Learn from video](How_to_cd.md)
 
+# [I want to try this software right now](Download.md)
+
 `Software copyright Duxah (c) 2020`
