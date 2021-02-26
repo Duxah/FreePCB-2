@@ -74,9 +74,13 @@ but at the same time includes almost all the tools needed for professional use.
 
 * You can highlight any net by selecting it in the NETS dialog and then clicking OK.
 
+* Improved switching of layer view. If you repeatedly press the 1 button on the keyboard, then the bottom copper layer will be enabled / disabled.
+
 `Schematic Constructor-1.2:`
 
 * You can disable JPEG images from being inverted when printed. For example, when you have a background scheme in JPEG format, you can make yourself a dark theme by inverting the colors of the picture (menu File-> Polyline picture-> Invert). In the PDF print dialog box, check the Disable inversion of pictures checkbox, in this case there will be no color inversion in the PDF file
+
+* Multiple PCB files can be attached to a single schematic file. You can even assign an individual PCB file to each page. The settings are in the File-> Netlist Settings menu 
 
 ***
 
