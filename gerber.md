@@ -1,4 +1,4 @@
-### How to export FreePCB v2.028 to gerber files
+### How to export FreePCB-2 to gerber files
 
 `Generate Drill and Gerber Files`
 
