@@ -86,8 +86,8 @@ but at the same time includes almost all the tools needed for professional use.
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) 
 
-# [](Download.md)
-# [Download](unavailable.md)
+# [Download](Download.md)
+# [](unavailable.md)
 
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/По%20рукам.png) If you like, post [this](pictures/logo.png) picture on your website. Have fun using FreePcb-2.
