@@ -11,7 +11,7 @@ Download                                                                        
 
 ***
 
-**Why is the Current ID of long-released versions sometimes updated? Why update the program if everything works anyway? It would seem that the program works stably, and you do not have the slightest desire to waste precious time on this. In order to verify otherwise, it should be understood that updates of working versions are usually released to fix holes, and new features or improvements can only be made to the most recent debug version of FreePcb2. When a developer becomes aware of a critical security breach in a product, he releases updates to previous versions of the product. Timely software updates ensure that you are using the most current version without bugs and vulnerabilities.**
+**Why is the Current ID of long-released versions sometimes updated? Why update the program if everything works anyway? It would seem that the program works stably, and you do not have the slightest desire to waste precious time on this. In order to verify otherwise, it should be understood that updates of working versions are usually released to fix holes, and new features or improvements can only be made to the latest debug version of FreePcb2. When a developer becomes aware of a critical security breach in a product, he releases updates to previous versions of the product. Timely software updates ensure that you are using the most current version without bugs and vulnerabilities.**
 
 ***
 
