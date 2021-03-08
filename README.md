@@ -55,6 +55,8 @@ You will be able to upload gerber files into it for viewing, using the menu comm
 
 ![](pictures/gerbv.png)
 
+Put a shortcut to the viewer in the "Shortcut" folder, which is provided in the root directory of Freepcb2, and then this item will appear in the main File menu.
+
 ***
 ### `Advantages`
 1. accessibility (it does not have a limit on the number of pins, footprint libraries or any other parameters),
