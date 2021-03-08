@@ -1,3 +1,7 @@
+_Warning! by downloading this repository in the usual way, you will get the most recent debug version, which may contain errors. To download the stable version go to the download page_
+
+***
+
 _Warning! This document has been translated into English from another language. The author is not responsible for the inaccuracy of the translation, if any._
 
 ***
