@@ -92,7 +92,7 @@ but at the same time includes almost all the tools needed for professional use.
 
 * Improved switching of active page.
 
-* You can create a part without a footprint. In this case, this part will not be included in the netlist.
+* You can create a part without a footprint attribute. In this case, this part will not be included in the netlist.
 
 ***
 
