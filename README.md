@@ -82,6 +82,8 @@ but at the same time includes almost all the tools needed for professional use.
 
 * Improved switching of layer view. If you repeatedly press the 1 button on the keyboard, then the bottom copper layer will be enabled / disabled.
 
+* When routing copper traces, you can place vias on vertex on the fly by pressing the F button
+
 `Schematic Constructor-1.2:`
 
 * You can disable JPEG images from being inverted when printed. For example, when you have a background scheme in JPEG format, you can make yourself a dark theme by inverting the colors of the picture (menu File-> Polyline picture-> Invert). In the PDF print dialog box, check the Disable inversion of pictures checkbox, in this case there will be no color inversion in the PDF file
