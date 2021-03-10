@@ -90,6 +90,8 @@ but at the same time includes almost all the tools needed for professional use.
 
 * Multiple PCB files can be attached to a single schematic file. You can even assign an individual PCB file to each page. The settings are in the File-> Netlist Settings menu 
 
+* Improved switching of active page.
+
 ***
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) 
