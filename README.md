@@ -94,6 +94,10 @@ but at the same time includes almost all the tools needed for professional use.
 
 * You can create a part without a footprint attribute. In this case, this part will not be included in the netlist.
 
+* In the Edit text dialog, the Right-Top Alignment checkbox has a third state
+
+* In the Print to PDF dialog box, when you uncheck the Print All Pages checkbox, the PDF file name is set by the name of the current print page
+
 ***
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) 
