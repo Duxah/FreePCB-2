@@ -86,7 +86,7 @@ but at the same time includes almost all the tools needed for professional use.
 
 * You can switch the window from the PCB editor to the schematic editor by selecting the pin of the part on the PCB and pressing F9
 
-* Completed the Alignment menu item located at the top of the window in the main menu. Select the first pin, then select the second pin, then select from the Alignment menu what you want to do with the position of the second pin (By previous ... or Per 45 deg ... items). Or like this: Select the first pin, then select the second pin, then select the third pin, then select from the Alignment menu to make with the position of the third pin (To place between ... or Midpoint into ... items)
+* Completed the Alignment menu item located at the top of the window in the main menu. Select the first pin, then select the second pin, then select from the Alignment menu what you want to do with the position of the second pin (`By previous ...` or `Per 45 deg ...` items). Or like this: Select the first pin, then select the second pin, then select the third pin, then select from the Alignment menu to make with the position of the third pin (`To place between ...` or `Midpoint into ...` items)
 
 `Schematic Constructor-1.2:`
 
