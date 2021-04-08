@@ -85,4 +85,4 @@ You can donate to the `freepcb.dev` resource fund. If you are using FreePcb-2 no
 
 ## [I want to try this software right now](Download.md)
 
-`Software copyright Duxah (c) 2020`
+`Software copyright Duxah (c) 2020-2021`
