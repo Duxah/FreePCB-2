@@ -6,7 +6,7 @@ Or Multiple part:
 
 ![](pictures/multi_part_2.png)
 
-## How to create complex part? (since v1.1)
+## How to create a complex part? (since v1.1)
 
 Sometimes in multi-channel diagrams it is convenient to create complex parts to duplicate repeating blocks. A complex part is a small electrical diagram inside the part of the Schematic Constructor. In general terms, this is created like this: On a separate page that is not included in any netlist, draw the part with the leads inward (and not outward, as in a normal part), set the name of the part (this is the RefDes attribute), for example CHANNEL. 
 
