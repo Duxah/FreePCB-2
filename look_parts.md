@@ -26,6 +26,8 @@ Then, next to the contour line of the complex part, draw a pin polyline in conta
 
 ![](pictures/look_part7.png)
 
+Draw the rest of the pins and repeat the procedure (pin 2 and pin 3) 
+
 ![](pictures/look_part5.png)
 
 Now you're done.
