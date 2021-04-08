@@ -1,4 +1,4 @@
-## how the parts might look in Schematic Constructor 1.1
+## how the parts might look in the Schematic Constructor 1.1
 
 ![](pictures/example.png)
 
