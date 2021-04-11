@@ -30,4 +30,8 @@ Draw the rest of the pins and repeat the procedure (pin 2 and pin 3)
 
 ![](pictures/look_part5.png)
 
+All parts of this channel in the netlist will be named as follows: R1A, R2A (Suffix A will be added)
+
+![](pictures/hint_1.png)
+
 Now you're done.
