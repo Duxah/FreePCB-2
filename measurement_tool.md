@@ -14,4 +14,3 @@ Starting from version 2.032, the angle between two lines is also displayed durin
 
 ![](pictures/m_tool4.png)
 
-# [return](How_to.md)
