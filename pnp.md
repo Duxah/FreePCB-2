@@ -8,10 +8,9 @@ then click `GENERATE_REPORT_FILE` in the `FILE` menu.
 
 In the dialog box, tick `PARTLIST`, and select the units of measurement on the right.
 
-![](pictures/pnp.png)
+![Pick & Place](pictures/pnp.png)
 
 The file will be generated in the project folder.
 
-![](pictures/report.png)
+![How to generate pnp file](pictures/report.png)
 
-# [Return](How_to.md)
