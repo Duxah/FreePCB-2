@@ -1,3 +1,5 @@
+## Branch to trace
+
 Sometimes you need to redirect the route to another pin. Now, with a simple example, I will show you how to do it.
 We have a node of three segments. To understand where the trace is and where the branch click on any segment and press T on the keyboard. The trace or branch will be fully highlighted. If the track goes from pin to pin, then this is the trace.
 
