@@ -8,12 +8,12 @@ You can use this option when creating a panel of several printed circuit boards.
 
 Then click the Combine_Board_Outlines button and get something like this:
 
-![Combine Intersecting Polylines](pictures/bo_1.png)
+![Combine board outlines](pictures/bo_1.png)
 
 Then, by adding extra vertices, you can round sharp corners, because at the factory, the cutter (which cuts the board along the contour) will not be able to fulfill the internal corners. Usually it has a diameter of 2-3mm.
 
-![Combine Intersecting Polylines](pictures/bo_2.png)
+![Combine board outlines](pictures/bo_2.png)
 
-![Combine Intersecting Polylines](pictures/bo_3.png)
+![Combine board outlines](pictures/bo_3.png)
 
 If the board at the factory will be cut with a laser, then you can send it to them without rounding.
