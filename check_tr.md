@@ -4,4 +4,3 @@ When you edit traces, colinear segments may appear that remain invisible visuall
 
 P.S. Due to such vertex segments, the Set Clearance function may not work correctly to set the clearance of parallel segments, which does not move colinear segments.
 
-# [return](How_to.md)
