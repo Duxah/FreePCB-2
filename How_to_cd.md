@@ -1,4 +1,4 @@
-# `Schematic Constructor v1.0`
+## `Schematic Constructor v1.0`
 
 ***
 How to make a schematic design
