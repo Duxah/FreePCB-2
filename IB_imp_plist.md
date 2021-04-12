@@ -2,11 +2,11 @@
 
 In Infobox, you can upload the partlist in the form of a text table. 
 
-![](pictures/ipl2.png)
+![Loading part list into freepcb infobox](pictures/ipl2.png)
 
 This will make it possible to compare the list of parts on the printed circuit board with the list of parts in the table by three attributes: RefDes, Value, Footprint. The table should contain three columns with attributes. The order of the columns can be: RefDes Value Footprint, or this: RefDes Footprint Value. This table can be generated from another application or can be created manually. Select the visibility of the CNetlist column in the Infobox settings and then there select the Load Partlist in the drop-down list as shown in the screenshot. 
 
-![](pictures/ipl1.png)
+![Loading part list into freepcb infobox](pictures/ipl1.png)
 
 When you upload a netlist, the comparison result will be displayed in the CNetlist column for each part. The result can take the following values:
 
