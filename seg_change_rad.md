@@ -8,4 +8,3 @@ It can be applied not only to arcs, but also to straight sections of the route. 
 
 ![change the radius](pictures/rad_tr1.png)
 
-[return](How_to.md)
