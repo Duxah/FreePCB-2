@@ -23,7 +23,7 @@ Program features:
 
 * DRC check
 
-![](pictures/ECDS.gif)
+![Free pcb compatible schematic editor](pictures/ECDS.gif)
 
 ***
 ## Philosophy
