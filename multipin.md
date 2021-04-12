@@ -1,10 +1,12 @@
+## Multiple pin
+
 Some parts, for example, a mini-USB connector, have several PCB mounting pins connected inside the part, so in such cases it is necessary for the PCB application to understand that it is enough to connect at least one of the pins to ensure electrical connection. To do this, FreePCB-2 provides the ability to create a single pin with many pads (not in contact with each other). To create a multipin, just give the pins the same name.
 
-![](pictures/miniusb.jpg)
+![Multiple PCB pin](pictures/miniusb.jpg)
 
 In the footprint 4 large pads are called gnd and belong to the GND net
 
-![](pictures/usb.png)
+![Multiple PCB pin](pictures/usb.png)
 
 When you connect one pad of multiple-pin to any net, then other pads will also belong to this net.
 
