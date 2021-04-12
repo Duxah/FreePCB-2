@@ -23,7 +23,7 @@ Now we will generate the top_copper gerber file and look through the ViewMate vi
 To select a merge, left-click on the part that belongs to this merge. 
 To disable the merge selection, left-click on the MERGE flag in the selection mask (left).
 
-![How to merge PCB objects](pictures/mask_merge.png)
+![Selection mask (Freepcb2)](pictures/mask_merge.png)
 
 Starting with version 2-033, FreePcb-2 supports one Merge attachment. That is, a merger can be inside another merge. For example, to align a group of parts, you can create a merge, then align this merge, then destroy this merge. See the next paragraph.
 
