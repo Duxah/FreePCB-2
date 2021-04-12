@@ -38,23 +38,23 @@ Click on the first column of the TO220 package or any other package, it doesn’
 
 A new line will appear in which only the first cell will be filled in which the same package name will already be indicated. This means that the new figure will belong to the same package (TO220T). (In principle, you can change the name of the package, and then the new figure will belong to another package.) Next, in the second column, specify the name of the figure, for example, RECT. Click on 3, 4, 5 cells and use the mouse wheel to set the desired size of the X, Y, Z shape. The result should be something like this:
 
-![ree pcb to DXF](pictures/dxf_exp_4.png)
+![Free pcb to DXF](pictures/dxf_exp_4.png)
 
 ### `How to move a figure along the axis X, Y, Z.`
 
 To move a shape along the X or Y axes, first click the TOP button in the bottom toolbar to make a top view. 
 
-![ree pcb to DXF](pictures/dxf_exp_5.png)
+![Free pcb to DXF](pictures/dxf_exp_5.png)
 
 Now, using the arrows on the keyboard, you can move an element - left or right (X axis), up or down (Y axis)
 
 To move a shape along the Z axis, first press the FRONT or BEHIND button to make a view from the end of the circuit board. Now, using the up or down arrows, you can move the shape. Either press the LEFT or RIGHT button and then use the left or right arrows.
 
-![ree pcb to DXF](pictures/dxf_exp_6.png)
+![Free pcb to DXF](pictures/dxf_exp_6.png)
 
 ### `Group movement.`
 
 If you have created in this way several figures tied to one package and want to move all the elements at the same time, then check the Complex editing checkbox in the right-click menu on the table. Now moving the item will move all the items in the package.
 After editing, close the editor window and click OK in the main window to generate the DXF file
 
-![ree pcb to DXF](pictures/dxf_exp_7.png)
+![Free pcb to DXF](pictures/dxf_exp_7.png)
