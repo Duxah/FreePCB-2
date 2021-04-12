@@ -27,4 +27,3 @@ FreePcb-2 is configured to work with ViewMate, Geda's or GreberLogix. Check out 
  
 Or if you have another Gerber file viewer installed, then open the files manually in it. 
 
-# [return](How_to.md)
