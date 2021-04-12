@@ -1,4 +1,4 @@
-# How to align vertices of trace?
+## How to align vertices of trace?
 
 ### You can align vertex of the trace segment along X or Y coordinates. 
 
