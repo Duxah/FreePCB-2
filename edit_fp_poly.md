@@ -1,4 +1,4 @@
-# How to edit polyline?
+## How to edit polyline?
 
 When the polyline node is selected, a menu appears where you can:
 
@@ -29,4 +29,3 @@ You can create a footprint consisting of several. To do this, select the `Import
 
 * `F8` -  also you can move the polyline to the notes layer.
 
-[return](How_to.md)
