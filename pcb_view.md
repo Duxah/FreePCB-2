@@ -1,3 +1,5 @@
+## Mirror PCB
+
 You can make a bottom view of the printed circuit board next to the main printed circuit board.
 
 Using the TOOLS -> MOVE ORIGIN main menu function, position the origin to the right of the border line at a distance of about 1 mm.
@@ -26,5 +28,3 @@ Now the folder has appeared in the main menu FILE.
 
 In the Shortcut folder (in the directory with FreePcb-2), place a shortcut that refers to the gerber file viewer.. The Gerber File Viewer must support the drag & drop function for folders, for example as ViewMate, Geda's gerbv or GerberLogix. If you use any other viewer program and want it to work in tandem with FreePcb-2, then write your offer on the Freepcb-2 support mail, and we will try to configure it.
 
-
-### [Return](How_to.md)
