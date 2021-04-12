@@ -1,13 +1,13 @@
 ## How to add copper area
 
-![](pictures/add_area.png)
+![How to add copper area](pictures/add_area.png)
 
 In mode nont selected press the F2 button, and then in the dialog that opens, select:
 1) Copper area layer
 2) Net
 3) hatch pattern
 
-![](pictures/dlg_area.png)
+![How to add copper area](pictures/dlg_area.png)
 
 Click OK to start dragging. To complete, right-click. 
 
