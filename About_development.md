@@ -1,6 +1,6 @@
 # Major improvements and new features
 
-![](/pictures/Developer.png)
+![Developer](/pictures/Developer.png)
 
 * Improved graphical display of selected objects
 * Improved detailing frame
