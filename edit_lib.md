@@ -12,24 +12,24 @@ Here is a complete list of sorting styles:
 Launch the application from the Infobox right-click menu.
 The main program window will open
 
-![](pictures/lib1.png)
+![Helper programs for Freepcb-2](pictures/lib1.png)
 
 To start sorting select a style, click the Rewrite all lib button.
 Before sorting, the program backs up the library to the Library.arch file. But it should be borne in mind that your custom sorting will no longer be possible to restore, so you must make a copy of the library manually before sorting.
 
 Libraries after sorting:
 
-![](pictures/lib5.png)
+![Helper programs for Freepcb-2](pictures/lib5.png)
 
 ## `Other application features `
 
 1) You can combine two or more footprints into one. It is convenient to use when you need to make a universal footprint for different types of cases. For example, for `SOT-23-5` and `SC-70-5`.
 
-![](pictures/lib2.png)
+![Helper programs for Freepcb-2](pictures/lib2.png)
 
 Place these parts on a printed circuit board one on top of the other or next to each other, save the project, and only after saving, run the Edit_Libraries application. Now click the `Combine footprints` button, a new window will open in which you must specify the main footprint (left) and child footprints (right). Next, select the pin name style and then click OK.
 
-![](pictures/lib3.png)
+![Sorting Freepcb-2 Libraries](pictures/lib3.png)
 
 Now two parts have turned into one and it will be more convenient to drag it.
 
@@ -39,7 +39,7 @@ Press the button: `Add string to footprint name`
 
 A new window will open in which you must enter a suffix or prefix.
 
-![](pictures/lib4.png)
+![Sorting Freepcb-2 Libraries](pictures/lib4.png)
 
 After that, you can safely insert one project into another and there will be no library conflict. To import another project to current, select the menu `Edit` -> `Paste Group from file`
 
