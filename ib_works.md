@@ -1,4 +1,4 @@
-# What is Infobox for FreePCB-2?
+## What is Infobox for FreePCB-2?
 
 Infobox is the main application of the entire FreePcb-2 tools.
 Using Infobox you can: 
