@@ -1,7 +1,8 @@
-### How to make DRC?
+## How to check pcb design?
+
 FreePCB has a Design Rule Checker that checks your project for compliance with a set of design rules. Selecting Tools > Design Rule Check pops up the following dialog:
 
- ![](pictures/DRC.png)
+ ![How to check pcb design](pictures/DRC.png)
 
 parameter                   | description
 ----------------------------|------------------------------------
@@ -26,6 +27,5 @@ It is also recommended to do a check of copper areas, which includes:
 * 2 The union of similar intersecting copper areas (if the thickness of the side is the same, and the hatching pattern for both contours)
 * 3 Tearing Test for copper areas without filling (for such copper areas clearance on different nets appears automatically when creating gerber files)
 
-![](pictures/torn.png)
+![This copper area was torn](pictures/torn.png)
 
-[return](How_to.md)
