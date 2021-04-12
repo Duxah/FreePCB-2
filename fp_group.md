@@ -1,6 +1,8 @@
+## Functional keys
+
 When several objects are selected at once, you can:
 
-![](pictures/fp_group.png)
+![Functional keys (footprint editor)](pictures/fp_group.png)
 
 - `F1` `F2` `F3` - rotate objects by an integer angle.
 - `F4` - Move Group
@@ -8,4 +10,3 @@ When several objects are selected at once, you can:
 - `F6` - mirror or flip to the other side of the circuit board.
 - `F7` - Duplicate Group
 
-[return](How_to.md)
