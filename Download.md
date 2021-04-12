@@ -1,4 +1,4 @@
-# Downloads page
+## Downloads page
 
 32-bit application
 
