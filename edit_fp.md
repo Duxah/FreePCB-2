@@ -1,3 +1,4 @@
-Select the desired part and press F2_EDIT_FOOTPRINT to enter the footprint editor and start editing.
+## F2 - open footprint editor
 
-[Return](How_to.md)
+Select the part and press F2_EDIT_FOOTPRINT to enter the footprint editor and start editing.
+
