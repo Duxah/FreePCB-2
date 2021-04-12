@@ -16,4 +16,3 @@ Press `F6` again to get the result.
 
 ![](pictures/sel_between3.png)
 
-# [Return](How_to.md)
