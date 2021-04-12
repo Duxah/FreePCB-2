@@ -1,4 +1,4 @@
-# How to add copper area
+## How to add copper area
 
 ![](pictures/add_area.png)
 
@@ -21,4 +21,4 @@ There are 3 types of copper areas in FreePcb-2:
 
 3) Vector copper area. In the gerber file it's given by the vertices of the polygon. On the monitor screen, clearance to different networks is not displayed. The clearance is set in the CAM dialog (called copper fill clearance) and is automatically generated at the stage of creating gerber files. This type of copper area is convenient to use in the inner layers of the circuit board. You can also use a negative value of the width of the side of the copper region, in which case the side of the polygon will become the clearance for other similar polygons. In the menu `DRC-> check copper areas`, it is possible to check such polygons for breaking. Despite this, I recommend viewing gerber files if you use this type of copper area in your project. To add such an area, select `Edge` (Hatch pattern) or` None` + non-zero side width.
 
-### [return](How_to.md)
+
