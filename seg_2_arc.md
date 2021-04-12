@@ -8,4 +8,3 @@ To convert back press `F7_Delete_Group`. To delete the entire bridge, press `F9_
 
 ![](pictures/del_bridge.png)
 
-# [Return](How_to.md)
