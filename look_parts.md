@@ -24,11 +24,11 @@ On the main page where you have the electrical diagram of the project, draw a re
 
 Then, next to the contour line of the complex part, draw a pin polyline in contact with the contour polyline, and in the polyline attributes dialog box, select the Pin of complex part script and enter the appropriate parameters.
 
-![](pictures/look_part7.png)
+![Free schematic editor](pictures/look_part7.png)
 
 Draw the rest of the pins and repeat the procedure (pin 2 and pin 3) 
 
-![](pictures/look_part5.png)
+![Electronic Circuit Design Software](pictures/look_part5.png)
 
 All parts of this channel in the netlist will be named as follows: R1A, R2A (Suffix A will be added)
 
