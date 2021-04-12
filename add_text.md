@@ -19,4 +19,3 @@ If you placed text inside a copper area with the hatch style of `EDGE` or `NONE`
 
 _It is useful to know that when a text string matches the name of a network, that network will be half-highlighted._
 
-# [Return](How_to.md)
