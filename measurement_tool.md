@@ -1,3 +1,5 @@
+## The measurement tool
+
 The measurement tool is switched on with the `M` button on the keyboard. The cursor will take the form:
 
 ![](pictures/m_tool1.png)
