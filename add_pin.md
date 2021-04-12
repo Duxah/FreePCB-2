@@ -13,4 +13,3 @@ We describe the main fields:
 
 ![How to add a new pin](pictures/add_pin.png)
 
-[return](How_to.md)
