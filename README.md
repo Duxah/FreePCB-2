@@ -90,6 +90,8 @@ but at the same time includes almost all the tools needed for professional use.
 
 * Automatic duplication of similar blocks on a printed circuit board when the designations of parts in the blocks correspond to the naming style of hierarchical symbols in `Schematic Constructor-1.1`. For example, block 1 contains parts R1A R2A, block 2 contains parts R1B R2B, block 3 contains parts R1C R2C, etc. By routing only the first block, you can apply the same design to other blocks. The function is located in the main menu `PROJECT`.
 
+* You can copy the copper area cutout. Select the side of cutout and press F4. A copy of the cutout appears on the right. Press F4 again to move it. 
+
 `Schematic Constructor-1.2:`
 
 * You can disable JPEG images from being inverted when printed. For example, when you have a background scheme in JPEG format, you can make yourself a dark theme by inverting the colors of the picture (menu File-> Polyline picture-> Invert). In the PDF print dialog box, check the Disable inversion of pictures checkbox, in this case there will be no color inversion in the PDF file
