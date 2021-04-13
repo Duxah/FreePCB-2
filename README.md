@@ -106,6 +106,8 @@ but at the same time includes almost all the tools needed for professional use.
 
 * In the Print to PDF dialog box, when you uncheck the Print All Pages checkbox, the PDF file name is set by the name of the current print page
 
+* On the selected polyline segment, you can use the `Select similar polylines` right-click menu to find all similar polylines, and then use the new function` Replace polyline pattern` (menu Tools >> Graphic correction) to select a different shape for these polylines. This is useful when, for example, you want to replace the shape of the net labels.
+
 ***
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) 
