@@ -108,6 +108,8 @@ but at the same time includes almost all the tools needed for professional use.
 
 * On the selected polyline segment, you can use the `Select similar polylines` right-click menu to find all similar polylines, and then use the new function` Replace polyline pattern` (menu Tools >> Graphic correction) to select a different shape for these polylines. This is useful when, for example, you want to replace the shape of the net labels.
 
+* When drawing nets it is useful to use magnetic vertices to hit the pin. The F4 button in the polyline drawing mode allows you to disable / enable the magnet. The same feature is now available in the mode of dragging polyline vertices, which makes it possible to completely abandon the use of global grid.
+
 ***
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) 
