@@ -110,6 +110,10 @@ but at the same time includes almost all the tools needed for professional use.
 
 * When drawing nets it is useful to use magnetic vertices to hit the pin. The F4 button in the polyline drawing mode allows you to disable / enable the magnet. The same feature is now available in the mode of dragging polyline vertices, which makes it possible to completely abandon the use of global grid.
 
+* Copying complex parts increments the suffix to eliminate duplication, similar to how it is done with regular parts 
+
+* Improved jumping to parts from the schematic editor to the PCB editor and vice versa. On the highlighted designation, a menu of the right button `Start dragging part on PCB` appeared, which (as opposed to jumping to the part) moves the part to the center of the screen
+
 ***
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) 
