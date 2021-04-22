@@ -3,6 +3,7 @@
 ***
 How to make a schematic design
 
+Run the executable file FreeCds.exe and select the File-> New menu.
 To prevent the player slider from obstructing the bottom panel with buttons, it is recommended to expand it to full screen when watching a video. Flashing orange buttons on the bottom panel means that the corresponding button has been pressed on the keyboard. But you can also click on it with the mouse if you prefer. Let's go!
 
 1) First specify the project folder and then enter the project name in the main line. The program will create a folder of the same name in which it will place your project. In the course of work, many different files associated with the project will appear in this folder. The Schematic Constructor can import parts from other projects by pressing the F1 button, and for this, all projects must be stored in a shared folder. 
