@@ -39,12 +39,12 @@ Special attention should be paid to the topic of hidden text in the schematic de
 
 In the **Schematic Constructor**, you can create multi-graphic part symbols. Just draw two graphic symbols, name the first one for example **DA1.1**, and the second one **DA1.2**. The program will treat it as one part DA1, and it will also appear in the BOM list as **DA1**. Either period or dash can be used as separator.
 
-[`I want to see how the parts might look in Schematic Constructor 1.1`](look_parts.md)
+[I want to see how the parts might look in Schematic Constructor 1.1](look_parts.md)
 
 ***
 ## `Renumbering of parts`
 
-You can automatically renumber parts on a page, either from left to right or from top to bottom. You can also combine two options - number part of the diagram from left to right, and the other part from top to bottom if, for example, you have different blocks of the diagram on the same page. A part reference designator is a unique ID by which a part can be found on a page, so in **Schematic Constructor**, two parts with the same reference designator cannot be placed on the same page. For this reason, it is recommended that you clean up the reference designators before renumbering parts. There is a special menu item for this called Clear Part Numbers. After cleaning, the part numbers will start from **50000**. Then you can already number them in order from number `1`. During renumbering, the program will also check the designations of parts on other pages that are included in the netlist, so do not forget to clear the part indices of these pages (which included in the netlist).
+You can automatically renumber parts on a page, either from left to right or from top to bottom. You can also combine two options - number part of the diagram from left to right, and the other part from top to bottom if, for example, you have different blocks of the diagram on the same page. A part reference designator is a unique ID by which a part can be found on a page, so in **Schematic Constructor**, two parts with the same reference designator cannot be placed on the same page. For this reason, it is recommended that you clean up the reference designators before renumbering parts. There is a special menu item for this called Clear Part Numbers. After cleaning, the part numbers will start from **50000**. Then you can already number them in order from number **1**. During renumbering, the program will also check the designations of parts on other pages that are included in the netlist, so do not forget to clear the part indices of these pages (which included in the netlist).
 
 ***
 ## `Connection to FreePCB-2`
