@@ -108,7 +108,7 @@ but at the same time includes almost all the tools needed for professional use.
 
 * In the Print to PDF dialog box, when you uncheck the Print All Pages checkbox, the PDF file name is set by the name of the current print page
 
-* On the selected polyline segment, you can use the **Select similar polylines** right-click menu to find all similar polylines, and then use the new function  **Replace polyline pattern** (menu Tools >> Graphic correction) to select a different shape for these polylines. This is useful when, for example, you want to replace the shape of the net labels.
+* On the selected polyline segment, you can use the **Select similar polylines** right-click menu to find all similar polylines, and then use the new function  **Replace polyline pattern** (menu **Tools -> Graphic correction**) to select a different shape for these polylines. This is useful when, for example, you want to replace the shape of the net labels.
 
 * When drawing nets it is useful to use magnetic vertices to hit the pin. The F4 button in the polyline drawing mode allows you to disable / enable the magnet. The same feature is now available in the mode of dragging polyline vertices, which makes it possible to completely abandon the use of global grid.
 
@@ -152,6 +152,7 @@ _[to learn more...](partners.md)_
 
 ***
 ### `Useful links`
+
 1. [License](LICENSE)
 2. [FreePcb user guide 1-359](https://github.com/Duxah/FreePCB-2/raw/master/FreePcb-2/bin/doc/freepcb_user_guide.pdf)
 3. [FreePcb-2 "How to.." guide 2020](/How_to.md)
