@@ -77,7 +77,7 @@ If you have a question or suggestion related to **Schematic Constructor**, do no
 ***
 ## [`Donate to development`](https://paypal.me/freepcb2)
 
-You can donate to the **freepcb.dev** resource fund. If you are using FreePcb-2 not in commercial interests, then you can just do something useful, for example, place a link on your site, or make a video instruction for the programs. This is all considered a donation. Your donations are needed to support **freepcb.dev**.
+You can donate to the **freepcb.dev** resource fund. If you are using FreePcb-2 not in commercial interests, then you can just do something useful, for example, place a link on your site or in social media, or make a video instruction for the programs. This is all considered a donation. Your donations are needed to support **freepcb.dev**.
 
 ***
 
