@@ -59,7 +59,7 @@ Quite often, we design a universal PCB for multiple devices or multiple modifica
 ***
 ## For whom...
 
-`Schematic Constructor` is ideal for small projects. At the moment, the editor supports 8 pages, which can be linked (related numbering of parts) or stand-alone (when duplication of RefDes between pages is allowed). You can then export these pages to a PDF file. The orientation of the pages in the PDF file is automatically selected according to the layout orientation (Typically, the layout along the Y axis is less than the X axis - this is landscape orientation). The number of pages may be expanded in the future (on request).
+`Schematic Constructor` is not suitable for large projects because it allows you to create a maximum of 8 pages. But on the other hand, you can increase the size of the page itself by stretching the frame of the template, and then print, for example, in A3 format (not A4). The maximum size allowed is A1. 8 pages can be linked (related numbering of parts) or stand-alone (when duplication of RefDes between pages is allowed). You can then export these pages to a PDF file. The orientation of the pages in the PDF file is automatically selected according to the layout orientation (Typically, the layout along the Y axis is less than the X axis - this is landscape orientation). The number of pages may be expanded in the future (on request).
 
 The program is equipped with an automatic check of design rules before creating a netlist. Checking the design for errors is divided into 2 stages. First, the nets are checked for contact and other errors during the generation of nets, and then the names of parts and pins are checked using the DRC dialog box, in which there is also control of the clearance of texts on the polyline. The output is a netlist, BOM file and parts list.
 
@@ -83,7 +83,7 @@ You can donate to the `freepcb.dev` resource fund. If you are using FreePcb-2 no
 
 ## [Learn from video](How_to_cd.md)
 
-## try this software
+## Download
 
 [I want to try this software right now](Download.md)
 
