@@ -76,7 +76,7 @@ but at the same time includes almost all the tools needed for professional use.
 
 * As you move a group of objects using the arrows on the keyboard, FreePcb2 automatically aligns the copper trace segments that start from the pins outside the group.
 
-* You can add a grid of vias to the area of ​​any copper area. This function is in the top menu `Addition`
+* You can add a grid of vias to the area of ​​any copper area. This function is in the top menu **Addition**
 
 ![](pictures/presentation_1.png)
 
@@ -88,9 +88,9 @@ but at the same time includes almost all the tools needed for professional use.
 
 * You can switch the window from the PCB editor to the schematic editor by selecting the pin of the part on the PCB and pressing F9
 
-* Completed the Alignment menu item located at the top of the window in the main menu. Select the first pin, then select the second pin, then select from the Alignment menu what you want to do with the position of the second pin (`By previous ...` or `Per 45 deg ...` items). Or like this: Select the first pin, then select the second pin, then select the third pin, then select from the Alignment menu to make with the position of the third pin (`To place between ...` or `Midpoint into ...` items)
+* Completed the Alignment menu item located at the top of the window in the main menu. Select the first pin, then select the second pin, then select from the Alignment menu what you want to do with the position of the second pin (**By previous ...** or **Per 45 deg ...** items). Or like this: Select the first pin, then select the second pin, then select the third pin, then select from the Alignment menu to make with the position of the third pin (**To place between ...** or **Midpoint into ...** items)
 
-* Automatic duplication of similar blocks on a printed circuit board when the designations of parts in the blocks correspond to the naming style of hierarchical symbols in `Schematic Constructor-1.1`. For example, block 1 contains parts R1A R2A, block 2 contains parts R1B R2B, block 3 contains parts R1C R2C, etc. By routing only the first block, you can apply the same design to other blocks. The function is located in the main menu `PROJECT`.
+* Automatic duplication of similar blocks on a printed circuit board when the designations of parts in the blocks correspond to the naming style of hierarchical symbols in **Schematic Constructor-1.1**. For example, block 1 contains parts R1A R2A, block 2 contains parts R1B R2B, block 3 contains parts R1C R2C, etc. By routing only the first block, you can apply the same design to other blocks. The function is located in the main menu **PROJECT**.
 
 * You can copy the copper area cutout. Select the side of cutout and press F4. A copy of the cutout appears on the right. Press F4 again to move it. 
 
@@ -98,7 +98,7 @@ but at the same time includes almost all the tools needed for professional use.
 
 * You can disable JPEG images from being inverted when printed. For example, when you have a background scheme in JPEG format, you can make yourself a dark theme by inverting the colors of the picture (menu File-> Polyline picture-> Invert). In the PDF print dialog box, check the Disable inversion of pictures checkbox, in this case there will be no color inversion in the PDF file
 
-* Multiple PCB files can be attached to a single schematic file. You can even assign an individual PCB file to each page. The settings are in the File-> Netlist Settings menu 
+* Multiple PCB files can be attached to a single schematic file. You can even assign an individual PCB file to each page. The settings are in the **File -> Netlist Settings menu**
 
 * Improved switching of active page.
 
@@ -108,13 +108,13 @@ but at the same time includes almost all the tools needed for professional use.
 
 * In the Print to PDF dialog box, when you uncheck the Print All Pages checkbox, the PDF file name is set by the name of the current print page
 
-* On the selected polyline segment, you can use the `Select similar polylines` right-click menu to find all similar polylines, and then use the new function` Replace polyline pattern` (menu Tools >> Graphic correction) to select a different shape for these polylines. This is useful when, for example, you want to replace the shape of the net labels.
+* On the selected polyline segment, you can use the **Select similar polylines** right-click menu to find all similar polylines, and then use the new function  **Replace polyline pattern** (menu Tools >> Graphic correction) to select a different shape for these polylines. This is useful when, for example, you want to replace the shape of the net labels.
 
 * When drawing nets it is useful to use magnetic vertices to hit the pin. The F4 button in the polyline drawing mode allows you to disable / enable the magnet. The same feature is now available in the mode of dragging polyline vertices, which makes it possible to completely abandon the use of global grid.
 
 * Copying complex parts increments the suffix to eliminate duplication, similar to how it is done with regular parts 
 
-* Improved jumping to parts from the schematic editor to the PCB editor and vice versa. On the highlighted designation, a menu of the right button `Start dragging part on PCB` appeared, which (as opposed to jumping to the part) moves the part to the center of the screen
+* Improved jumping to parts from the schematic editor to the PCB editor and vice versa. On the highlighted designation, a menu of the right button **Start dragging part on PCB** appeared, which (as opposed to jumping to the part) moves the part to the center of the screen
 
 ***
 
@@ -145,7 +145,7 @@ _[to learn more...](partners.md)_
 ### `Contacts`
 
 * [User forum](https://groups.io/g/freepcb) You can use the forum of the first official version of FreePcb, which has now been ported to groups.io, and ask your question there. 
-* If you have any suggestions related to FreePcb-2 or you do not want to submit your question for public review, send to email `duxah@yahoo.com`.
+* If you have any suggestions related to FreePcb-2 or you do not want to submit your question for public review, send to email duxah@yahoo.com.
 * If you want to improve the translation of this document, please send your file by email
 * If you have your own libraries of footprints that you are ready to share with everyone, then you can send them to me, and I'll post them on the site.
 * FreePcb-2 is involved in the development of industrial appliances and has been thoroughly tested to prevent errors. But if you find an error, please send me a report by e-mail with a description and screenshots so that I can fix it as soon as possible.
@@ -160,8 +160,6 @@ _[to learn more...](partners.md)_
 6. [For software developers](developers.md)
 
 ***
-### `Get started with FreePcb-2`
-
-[Start learning FreePCB-2](/How_to.md)
+### [`Get started with FreePcb-2`](/How_to.md)
 
 The text of this site is a translation from foreign language using Google inc. ©2019-2021
