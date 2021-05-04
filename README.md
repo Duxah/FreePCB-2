@@ -20,12 +20,12 @@ _Warning! This document has been translated into English from another language. 
 * Design rule checker
 * Autosave
 
-### `View`
+### `Window view`
 
 [![PCB](/pictures/img2.png)](https://freepcb.dev)
 
 ***
-### `About`
+### `About FreePCB-2`
 
 FreePcb is a unique PCB design program with a function key interface. Version 2.0 presented on this site is a fork of version [1.359](http://freepcb.com), taken for revision in 2014. FreePcb-2 contains new features not available in version 1.359 and provides more freedom for circuit board developers. If you don’t want to waste your time mastering complex PCB design applications, download FreePcb-2, which can do a lot of what CADs can do, but is easy to learn and takes up little disk space on your computer. FreePcb-2 does not have a huge number of buttons as in other CAD systems, the purpose of which is not immediately clear. There are only 9 buttons (F1 ... F9), the Functions of which change depending on the type of the selected element (part, vertex of trace, segment and etc.), so FreePcb-2 can be studied even without instructions. There is also a right-click context menu with additional features. 
 
@@ -68,7 +68,7 @@ Put a shortcut to the viewer in the "Shortcut" folder, which is provided in the 
 but at the same time includes almost all the tools needed for professional use. 
 
 ***
-### `Latest improvements and new features`
+### `Latest improvements`
 
 `FreePcb-2.2:`
 
@@ -120,8 +120,8 @@ but at the same time includes almost all the tools needed for professional use.
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) 
 
-# [Download](Download.md)
-# [](unavailable.md)
+### [Download](Download.md)
+### [](unavailable.md)
 
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/По%20рукам.png) If you like, post [this](pictures/logo.png) picture on your website. Have fun using FreePcb-2.
@@ -151,7 +151,7 @@ _[to learn more...](partners.md)_
 * FreePcb-2 is involved in the development of industrial appliances and has been thoroughly tested to prevent errors. But if you find an error, please send me a report by e-mail with a description and screenshots so that I can fix it as soon as possible.
 
 ***
-### `useful links`
+### `Useful links`
 1. [License](LICENSE)
 2. [FreePcb user guide 1-359](https://github.com/Duxah/FreePCB-2/raw/master/FreePcb-2/bin/doc/freepcb_user_guide.pdf)
 3. [FreePcb-2 "How to.." guide 2020](/How_to.md)
