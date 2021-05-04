@@ -162,6 +162,6 @@ _[to learn more...](partners.md)_
 ***
 ### `Get started with FreePcb-2`
 
-[Start learning FreePcb-2](/How_to.md)
+[Start learning FreePCB-2](/How_to.md)
 
 The text of this site is a translation from foreign language using Google inc. ©2019-2021
