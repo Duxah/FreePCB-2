@@ -54,36 +54,36 @@ You can automatically renumber parts on a page, either from left to right or fro
 ***
 ## `Ref-lists`
 
-Quite often, we design a universal PCB for multiple devices or multiple modifications of the same device. We create a generic circuit diagram, generate a netlist and route the PCB. In fact, we have a circuit board diagram and not a diagram of the device itself. Therefore, we must be able to select from the general scheme a list of those parts that are not used in a particular device modification, and then remove them from the BOM list. To do this, the `Schematic Constructor` provides the ability to create up to 20 ref-lists, in which you can place any number of part designations that should not be installed on the board, or vice versa, must be installed on the board. In this sense, do it as it is more convenient for you (just to make the list shorter). Then, when generating a BOM file, you simply select the desired ref list in the dialog box, and the direct / inverse mask of the selected ref list will be superimposed on the full list of parts
+Quite often, we design a universal PCB for multiple devices or multiple modifications of the same device. We create a generic circuit diagram, generate a netlist and route the PCB. In fact, we have a circuit board diagram and not a diagram of the device itself. Therefore, we must be able to select from the general scheme a list of those parts that are not used in a particular device modification, and then remove them from the BOM list. To do this, the **Schematic Constructor** provides the ability to create up to 20 ref-lists, in which you can place any number of part designations that should not be installed on the board, or vice versa, must be installed on the board. In this sense, do it as it is more convenient for you (just to make the list shorter). Then, when generating a BOM file, you simply select the desired ref list in the dialog box, and the direct / inverse mask of the selected ref list will be superimposed on the full list of parts
 
 ***
-## For whom...
+## `For whom...`
 
 Schematic Constructor is not suitable for large projects because it allows you to create a maximum of 8 schematic pages. But on the other hand, you can increase the size of the page itself by stretching the frame of the template, and then print, for example, in A3 format (Instead of A4). The maximum size allowed is A1. 8 pages can be linked (related numbering of parts and the same netlist) or stand-alone (when duplication of RefDes between pages is allowed, when different netlists or no netlist at all). You can then export these pages to a PDF file. The orientation of the pages in the PDF file is automatically selected according to the layout orientation (Typically, the layout along the Y axis is less than the X axis - this is landscape orientation). The number of pages may be expanded in the future (on request).
 
 The program is equipped with an automatic check of design rules before creating a netlist. Checking the design for errors is divided into 2 stages. First, the nets are checked for contact and other errors during the generation of nets, and then the names of parts and pins are checked using the DRC dialog box, in which there is also control of the clearance of texts on the polyline. The output is a netlist, BOM file and parts list.
 
 ***
-## Support department
+## `Support department`
 
 ![](pictures/pochta.jpg)
-If you have a question or suggestion related to `Schematic Constructor`, do not forget to write to duxah@yahoo.com
+If you have a question or suggestion related to **Schematic Constructor**, do not forget to write to duxah@yahoo.com
 
 ***
-## License
+## `License`
 
-`Schematic Constructor` is distributed under the `FreeWare license`. (free for individuals and organizations)
-
-***
-## [Donate to development](https://paypal.me/freepcb2)
-
-You can donate to the `freepcb.dev` resource fund. If you are using FreePcb-2 not in commercial interests, then you can just do something useful, for example, place a link on your site, or make a video instruction for the programs. This is all considered a donation. Your donations are needed to support `freepcb.dev`.
+**Schematic Constructor** is distributed under the **FreeWare license**.
 
 ***
+## [`Donate to development`](https://paypal.me/freepcb2)
 
-## [Learn from video](How_to_cd.md)
+You can donate to the **freepcb.dev** resource fund. If you are using FreePcb-2 not in commercial interests, then you can just do something useful, for example, place a link on your site, or make a video instruction for the programs. This is all considered a donation. Your donations are needed to support **freepcb.dev**.
 
-## Download
+***
+
+## [`Learn from video`](How_to_cd.md)
+
+## `Download`
 
 [I want to try this software right now](Download.md)
 
