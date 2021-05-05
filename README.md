@@ -1,4 +1,4 @@
-<link rel="icon" href="https://freepcb.dev/pictures/favicon.png?" type="image/png">
+layout: head
 
 ***
 
