@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/png" href="https://freepcb.dev/pictures/upload.png?">
+<link rel="shortcut icon" type="image/x-icon" href="https://freepcb.dev/pictures/favicon.ico?">
 ***
 
 _Warning! This document has been translated into English from another language. The author is not responsible for the inaccuracy of the translation, if any._
