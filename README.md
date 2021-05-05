@@ -1,3 +1,4 @@
+# FreePCB-2
 
 <link rel="shortcut icon" type="image/png" href="https://freepcb.dev/pictures/favicon.png?">
 
