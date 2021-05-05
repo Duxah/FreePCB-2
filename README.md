@@ -1,7 +1,5 @@
----
-layout: default
-title: Home
----
+https://github.com/Duxah/FreePCB-2/blob/master/pictures/favicon.png
+
 ***
 
 _Warning! This document has been translated into English from another language. The author is not responsible for the inaccuracy of the translation, if any._
