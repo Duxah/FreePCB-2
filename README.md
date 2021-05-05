@@ -1,5 +1,5 @@
 ---
-layout: head
+head
 ---
 ***
 
