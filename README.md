@@ -1,6 +1,5 @@
 ---
-layout: head
-title: Home
+
 ---
 ***
 
