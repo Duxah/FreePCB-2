@@ -1,6 +1,4 @@
-<head>
 <link rel="shortcut icon" type="image/png" href="https://freepcb.dev/pictures/favicon.png?">
-</head>
 
 ## `Schematic Constructor v1.0` (circuit design software)
 
