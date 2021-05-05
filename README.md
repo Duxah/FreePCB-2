@@ -1,5 +1,5 @@
 
-_Warning! by downloading this repository in the usual way, you will get the most recent debug version, which may contain errors. To download the stable version go to the [download page](https://freepcb.dev/Download.html)_
+_[download page](https://freepcb.dev/Download.html)_
 
 ***
 
