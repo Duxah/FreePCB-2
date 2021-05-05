@@ -1,5 +1,5 @@
 
-<_Warning! by downloading this repository in the usual way, you will get the most recent debug version, which may contain errors. To download the stable version go to the [download page](https://freepcb.dev/Download.html)_>
+_Warning! by downloading this repository in the usual way, you will get the most recent debug version, which may contain errors. To download the stable version go to the [download page](https://freepcb.dev/Download.html)_
 
 ***
 
@@ -40,15 +40,15 @@ In FreePcb, you can create a netlist manually by adding parts and then connectin
 
 If at least one of the following programs is installed on your computer:
 
-* `ViewMate` 
+* **ViewMate** 
 
 [![](pictures/pentalogix_logo.jpg)](https://www.pentalogix.com/)
 
-* `GerberLogix` 
+* **GerberLogix** 
 
 [![](pictures/EasyLogix.png)](https://www.easylogix.de/) 
 
-* `Gerbv (GEDA's Gerber Viewer)` 
+* **Gerbv (GEDA's Gerber Viewer)**
 
 [![](pictures/gerbv_250x60.png)](http://gerbv.geda-project.org/)
 
