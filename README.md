@@ -1,4 +1,4 @@
-https://github.com/Duxah/FreePCB-2/blob/master/pictures/favicon.png
+<link rel="shortcut icon" type="image/png" href="https://github.com/Duxah/FreePCB-2/blob/master/pictures/favicon.png?">
 
 ***
 
