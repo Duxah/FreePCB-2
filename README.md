@@ -1,12 +1,14 @@
-<head>
-<link rel="shortcut icon" type="image/png" href="https://freepcb.dev/pictures/favicon.png?">
-</head>
 
 ***
 
 _Warning! This document has been translated into English from another language. The author is not responsible for the inaccuracy of the translation, if any._
 
 ***
+
+<head>
+<link rel="shortcut icon" type="image/png" href="https://freepcb.dev/pictures/favicon.png?">
+</head>
+
 ### `Introduction`
 
 * 1 to 16 copper layers
