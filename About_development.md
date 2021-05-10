@@ -1,4 +1,4 @@
-# Major improvements and new features
+## Major improvements and new features
 
 ![Developer](/pictures/Developer.png)
 
