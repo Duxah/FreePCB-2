@@ -1,4 +1,4 @@
-# How to add text?
+## How to add text?
 
 ![](pictures/add_text.png)
 
