@@ -115,6 +115,8 @@ but at the same time includes almost all the tools needed for professional use.
 
 * Improved jumping to parts from the schematic editor to the PCB editor and vice versa. On the highlighted designation, a menu of the right button **Start dragging part on PCB** appeared, which (as opposed to jumping to the part) moves the part to the center of the screen
 
+* In the part import dialog box, in addition to the parts list, there is now a list of projects that use a specific part from the list, so when importing, you can select the file from which you want to import this part. Click on the path to the file and press the start button. But double-clicking on the file path will open this file and the program will jump to the selected part, which is also very useful.
+
 ***
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) 
