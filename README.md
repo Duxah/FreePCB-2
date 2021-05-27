@@ -71,6 +71,8 @@ but at the same time includes almost all the tools needed for professional use.
 
 `FreePcb-2.2:`
 
+* If you want to add a via as a part, then create a part with one pin (as in previous versions of FREEPCB), and name it for example VIA1. Parts with the VIA prefix are processed by the program in a special way. They are not removed when importing an external netlist and are not present in BOM lists
+
 * When you swap the pins in the PCB editor, the same pins are automatically swapped in the schematic file. (How to swap pins is described in [PDF-1.359](https://github.com/Duxah/FreePCB-2/raw/master/FreePcb-2/bin/doc/freepcb_user_guide.pdf)). If both pins have the text attribute "description", then they are also swapped. If one of the pins does not have this attribute, then you can change it in the pop-up dialog box.
 
 * As you move a group of objects using the arrows on the keyboard, FreePcb2 automatically aligns the copper trace segments that start from the pins outside the group.
