@@ -95,6 +95,8 @@ but at the same time includes almost all the tools needed for professional use.
 
 * You can copy the copper area cutout. Select the side of cutout and press F4. A copy of the cutout appears on the right. Press F4 again to move it. 
 
+* Added the function of printing in PDF, the program generates 2 pages with the top and bottom views of the board. The layer order corresponds to the layer order on the display at the time of printing. To print a section, select this section along with copper tracks and other objects. Or select only parts to print highlighted parts. There is an option to automatically place the REF and VALUE texts in the center of the part. There is an option to automatically darken a pin named `1` `A` `A1` `a`
+
 `Schematic Constructor-1.2:`
 
 * You can disable JPEG images from being inverted when printed. For example, when you have a background scheme in JPEG format, you can make yourself a dark theme by inverting the colors of the picture (menu File-> Polyline picture-> Invert). In the PDF print dialog box, check the Disable inversion of pictures checkbox, in this case there will be no color inversion in the PDF file
