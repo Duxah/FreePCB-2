@@ -121,6 +121,10 @@ but at the same time includes almost all the tools needed for professional use.
 
 * In the part import dialog box, in addition to the parts list, there is now a list of projects that use a specific part from the list, so when importing, you can select the file from which you want to import this part. Click on the path to the file and press the start button. But double-clicking on the file path will open this file and the program will jump to the selected part, which is also very useful.
 
+* In the Part Attributes dialog (F1), you can select a footprint from your Freepcb library using an external library manager (the L button next to the FOOTPRINT attribute). Now the footprint selected there is automatically inserted into the Schematic Constructor dialog
+
+![](pictures/presentation_2.png)
+
 ***
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) 
