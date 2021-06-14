@@ -74,7 +74,7 @@ If you have a question or suggestion related to **Schematic Constructor**, do no
 ***
 ## `License`
 
-**Schematic Constructor** is distributed under the **FreeWare license**.
+**Schematic Constructor** is distributed under the **DonationWare license**.
 
 ***
 ## [`Donate to development`](https://paypal.me/freepcb2)
