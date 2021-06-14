@@ -113,17 +113,5 @@ but at the same time includes almost all the tools needed for professional use.
 * FreePcb-2 is involved in the development of industrial appliances and has been thoroughly tested to prevent errors. But if you find an error, please send me a report by e-mail with a description and screenshots so that I can fix it as soon as possible.
 
 ***
-### `useful links`
-1. [License](LICENSE)
-2. [FreePcb user guide 1-359](https://github.com/Duxah/FreePCB-2/raw/master/FreePcb-2/bin/doc/freepcb_user_guide.pdf)
-3. [FreePcb-2 "How to.." guide 2020](/How_to.md)
-4. [How to make a schematic design](/How_to_cd.md)
-5. [About this development fork](/About_development.md)
-6. [For software developers](developers.md)
-
-***
-### `Get started with FreePcb-2`
-
-[Start learning FreePcb-2](/How_to.md)
 
 The text of this site is a translation from foreign language using Google inc. ©2019-2020
