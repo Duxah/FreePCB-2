@@ -126,14 +126,6 @@ but at the same time includes almost all the tools needed for professional use.
 ![](pictures/presentation_2.png)
 
 ***
-
-![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) 
-
-![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/По%20рукам.png) If you like, post [this](pictures/logo.png) picture on your website. Have fun using FreePcb-2.
-
-You can participate in the improvement of the application. Feel free to write a message regarding working with FREEPCB2 so that we can release the official version FreePcb2.2 & Schematic Constructor 1.2 as soon as possible. Working together is always more efficient.
-
-***
 ### `Contacts`
 
 * [User forum](https://groups.io/g/freepcb) You can use the forum of the first official version of FreePcb, which has now been ported to groups.io, and ask your question there. 
@@ -143,16 +135,5 @@ You can participate in the improvement of the application. Feel free to write a 
 * FreePcb-2 is involved in the development of industrial appliances and has been thoroughly tested to prevent errors. But if you find an error, please send me a report by e-mail with a description and screenshots so that I can fix it as soon as possible.
 
 ***
-### `Useful links`
-
-1. [License](LICENSE)
-2. [FreePcb user guide 1-359](https://github.com/Duxah/FreePCB-2/raw/master/FreePcb-2/bin/doc/freepcb_user_guide.pdf)
-3. [FreePcb-2 "How to.." guide 2020](/How_to.md)
-4. [How to make a schematic design](/How_to_cd.md)
-5. [About this development fork](/About_development.md)
-6. [For software developers](developers.md)
-
-***
-### [`Get started with FreePcb-2`](/How_to.md)
 
 The text of this site is a translation from foreign language using Google inc. ©2019-2021
