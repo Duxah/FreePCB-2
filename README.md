@@ -69,7 +69,7 @@ but at the same time includes almost all the tools needed for professional use.
 ***
 ### `Latest improvements`
 
-`FreePcb-2.2:`
+`FreePcb-2.3:`
 
 none
 
