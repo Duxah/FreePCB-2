@@ -89,7 +89,7 @@ Added a page comparison option to the PROJECT menu. The two pages can be compare
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/По%20рукам.png) If you like, post [this](pictures/logo.png) picture on your website. Have fun using FreePcb-2.
 
-You can participate in the improvement of the application. Feel free to write a message regarding working with FREEPCB2 so that we can release the official version FreePcb2.2 & Schematic Constructor 1.2 as soon as possible. Working together is always more efficient.
+You can participate in the improvement of the application. Feel free to write a message regarding working with FREEPCB2 so that we can release the official version FreePcb2.3 & Schematic Constructor 1.3 as soon as possible. Working together is always more efficient.
 
 ***
 ### `Partners`
