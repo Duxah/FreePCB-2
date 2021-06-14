@@ -134,19 +134,6 @@ but at the same time includes almost all the tools needed for professional use.
 You can participate in the improvement of the application. Feel free to write a message regarding working with FREEPCB2 so that we can release the official version FreePcb2.2 & Schematic Constructor 1.2 as soon as possible. Working together is always more efficient.
 
 ***
-### `Partners`
-
-[![](pictures/LLC_IP.png)](https://interpribor.com) 
-[]([![](pictures/LOCARUS_LOGO.png)](https://locarus.ru) )
-[![](pictures/jlcpcb.png)](https://jlcpcb.com) 
-[]([![](pictures/pselectro.png)](http://www.pselectro.ru) )
-[![](pictures/arius.png)](https://www.arius.com) 
-[]([![](pictures/bittele.png)](https://www.7pcb.com) )
-[![](pictures/zofzpcb.png)](https://zofzpcb.com) 
-
-_[to learn more...](partners.md)_
-
-***
 ### `Contacts`
 
 * [User forum](https://groups.io/g/freepcb) You can use the forum of the first official version of FreePcb, which has now been ported to groups.io, and ask your question there. 
