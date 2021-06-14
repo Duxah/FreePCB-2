@@ -5,68 +5,6 @@
 _Warning! This document has been translated into English from another language. The author is not responsible for the inaccuracy of the translation, if any._
 
 ***
-
-### `Introduction`
-
-* 1 to 16 copper layers
-* Board size up to 60 inches by 60 inches
-* Uses English or metric units (i.e. mils or mm) for most functions.
-* Footprint Wizard and Footprint Editor for creating or modifying footprints
-* Import and automatic export of PADS-PCB lists when saving file
-* Import and export to mechanical format DXF
-* Import and export Pcad ASCII files (is maintained by Altium)
-* Exports extended Gerber files (RS274X) and Excellon drill files
-* Design rule checker
-* Autosave
-
-### `Window view`
-
-[![PCB](/pictures/img2.png)](https://freepcb.dev)
-
-***
-### `About FreePCB-2`
-
-FreePcb is a unique PCB design program with a function key interface. Version 2.0 presented on this site is a fork of version [1.359](http://freepcb.com), taken for revision in 2014. FreePcb-2 contains new features not available in version 1.359 and provides more freedom for circuit board developers. If you don’t want to waste your time mastering complex PCB design applications, download FreePcb-2, which can do a lot of what CADs can do, but is easy to learn and takes up little disk space on your computer. FreePcb-2 does not have a huge number of buttons as in other CAD systems, the purpose of which is not immediately clear. There are only 9 buttons (F1 ... F9), the Functions of which change depending on the type of the selected element (part, vertex of trace, segment and etc.), so FreePcb-2 can be studied even without instructions. There is also a right-click context menu with additional features. 
-
-***
-### [`Schematic Constructor`](https://freepcb.dev/ECDS.html)
-
-In FreePcb, you can create a netlist manually by adding parts and then connecting their pins. But you can also import a netlist in the PADS-PCB popular format from FreePCB2 compatible Schematic Editor. See description on [this page](https://freepcb.dev/ECDS.html)
-
-![](pictures/ECDS.gif)
-
-***
-### `Uploading Gerber files`
-
-If at least one of the following programs is installed on your computer:
-
-* **ViewMate** 
-
-[![](pictures/pentalogix_logo.jpg)](https://www.pentalogix.com/)
-
-* **GerberLogix** 
-
-[![](pictures/EasyLogix.png)](https://www.easylogix.de/) 
-
-* **Gerbv (GEDA's Gerber Viewer)**
-
-[![](pictures/gerbv_250x60.png)](http://gerbv.geda-project.org/)
-
-You will be able to upload gerber files into it for viewing, using the menu command directly from the FreePcb-2 window. (available from November 26, 2019)
-
-![](pictures/gerbv.png)
-
-Put a shortcut to the viewer in the "Shortcut" folder, which is provided in the root directory of Freepcb2, and then this item will appear in the main File menu.
-
-***
-### `Advantages`
-1. accessibility (it does not have a limit on the number of pins, footprint libraries or any other parameters),
-2. ease of learning (see useful links),
-3. reduction of time for the development of printed circuit boards (A distinctive feature of FreePcb and FreePcb-2 from other PCB-editors is an interface using function keys, which speeds up the process of editing a printed circuit board for an experienced user),
-4. saving computer memory (takes ~ 50MB hard drive),
-but at the same time includes almost all the tools needed for professional use. 
-
-***
 ### `Latest improvements`
 
 `FreePcb-2.2:`
