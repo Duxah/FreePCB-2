@@ -63,6 +63,8 @@ _Warning! This document has been translated into English from another language. 
 
 ![](pictures/presentation_2.png)
 
+* Schematic editor 1.2 in the dialog box for importing a part (from another project) draws a part immediately when you click on the list, in addition, you can see in which projects which part was applied, open this project and jump to this part. If you have not worked with the Schematic Constructor yet, then I recommend that you familiarize yourself with version 1.2 in which the import of parts is made more advanced. 
+
 ***
 ### `Contacts`
 
