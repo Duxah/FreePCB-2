@@ -3,7 +3,7 @@
 _Warning! This document has been translated into English from another language. The author is not responsible for the inaccuracy of the translation, if any._
 
 ***
-### `Latest improvements and new features`
+### `Improvements`
 
 `FreePcb-2.1:`
 
@@ -54,15 +54,6 @@ _Warning! This document has been translated into English from another language. 
 * "Swap the pins of a part on a printed circuit board." The long-awaited function has been completed. In FreePcb2.1, you can swap two pins of the same part in the PCB editor (most often this is needed, for example, for microcontrollers), and the program will automatically change this in the circuit file. The schematic file and the PCB file should usually be stored in the same folder and have the same file name, such as Example.fpc and Example.cds. If the schematic file is open while changing pins, the program will restart it after making changes. If the schematic file is modified and not saved, the program will warn you and the process will be interrupted until you save the schematic file.
 
 * You can open the project folder by pressing F5, in the "nothing selected" mode.
-
-***
-### `Contacts`
-
-* [User forum](https://groups.io/g/freepcb) You can use the forum of the first official version of FreePcb, which has now been ported to groups.io, and ask your question there. 
-* If you have any suggestions related to FreePcb-2 or you do not want to submit your question for public review, send to email `duxah@yahoo.com`.
-* If you want to improve the translation of this document, please send your file by email
-* If you have your own libraries of footprints that you are ready to share with everyone, then you can send them to me, and I'll post them on the site.
-* FreePcb-2 is involved in the development of industrial appliances and has been thoroughly tested to prevent errors. But if you find an error, please send me a report by e-mail with a description and screenshots so that I can fix it as soon as possible.
 
 ***
 
