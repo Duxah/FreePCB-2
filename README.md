@@ -5,7 +5,7 @@
 _Warning! This document has been translated into English from another language. The author is not responsible for the inaccuracy of the translation, if any._
 
 ***
-### `Latest improvements`
+### `Improvements`
 
 `FreePcb-2.2:`
 
@@ -64,15 +64,6 @@ _Warning! This document has been translated into English from another language. 
 ![](pictures/presentation_2.png)
 
 * Schematic editor 1.2 in the dialog box for importing a part (from another project) draws a part immediately when you click on the list, in addition, you can see in which projects which part was applied, open this project and jump to this part. If you have not worked with the Schematic Constructor yet, then I recommend that you familiarize yourself with version 1.2 in which the import of parts is made more advanced. 
-
-***
-### `Contacts`
-
-* [User forum](https://groups.io/g/freepcb) You can use the forum of the first official version of FreePcb, which has now been ported to groups.io, and ask your question there. 
-* If you have any suggestions related to FreePcb-2 or you do not want to submit your question for public review, send to email duxah@yahoo.com.
-* If you want to improve the translation of this document, please send your file by email
-* If you have your own libraries of footprints that you are ready to share with everyone, then you can send them to me, and I'll post them on the site.
-* FreePcb-2 is involved in the development of industrial appliances and has been thoroughly tested to prevent errors. But if you find an error, please send me a report by e-mail with a description and screenshots so that I can fix it as soon as possible.
 
 ***
 
