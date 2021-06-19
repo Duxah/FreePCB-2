@@ -5,8 +5,6 @@ _Warning! This document has been translated into English from another language. 
 ***
 ### `Improvements`
 
-`FreePcb-2.1:`
-
 * A checkbox has been added to the project options dialog box to control the display of merge names during editing. You can now turn off silk-screening altogether while routing the board
 
 ![](pictures/presentation_1.png)
