@@ -1,7 +1,7 @@
-data::20210623
+data::20210624
 msg::Update Checker Service:
 Updates found
-FreePcb2.0.32k
+FreePcb2.0.32L
 FreePcb2.0.33s
 FreePcb2.1.28
 FreePcb2.2.17
