@@ -75,7 +75,9 @@ none
 
 `Schematic Constructor-1.3:`
 
-Added a page comparison option to the PROJECT menu. The two pages can be compared and then the differences in the partlists and netlists are shown. Double click on the list allows you to jump to the object
+* Added a page comparison option to the PROJECT menu. The two pages can be compared and then the differences in the partlists and netlists are shown. Double click on the list allows you to jump to the object
+
+* Schematic Constructor 1.3 can read the names of footprints of other PCB editors (in particular, P-cad). If you are using the Schematic Constructor, but for some reason do not want to use FreePcb2 to route printed circuit boards, then you can specify the path to the library of your CAD system so that the Schematic Constructor downloads footprint names for itself and then suggests them in the drop-down list.
 
 ![](pictures/presentation_1.png)
 
