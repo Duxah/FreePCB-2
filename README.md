@@ -93,6 +93,8 @@ To activate this menu press F3 (Add polyline) or F4 (Repeat polyline)
 
 * Schematic Constructor 1.3 can read the names of footprints of other PCB editors (in particular, P-cad). If you are using the Schematic Constructor, but for some reason do not want to use FreePcb2 to route printed circuit boards, then you can specify the path to the library of your CAD system so that the Schematic Constructor downloads footprint names for itself and then suggests them in the drop-down list.
 
+* Improved polyline properties editing menu. Select the side of the polyline and press F7 (Polyline properties). You can change the color of the polygon fill and make it lighter in relation to the color of the polyline itself (from 3% to 70% of the main tone) 
+
 ***
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) 
