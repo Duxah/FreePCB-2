@@ -95,6 +95,8 @@ To activate this menu press F3 (Add polyline) or F4 (Repeat polyline)
 
 * Improved polyline properties editing menu. Select the side of the polyline and press F7 (Polyline properties). You can change the color of the polygon fill and make it lighter in relation to the color of the polyline itself (from 3% to 70% of the main tone) 
 
+* The "Select" item and the "Unselect" item have been added to the main menu "Editing". Thus, you can select only polylines or only attributes, etc., in order to then edit the properties of a group of objects (for example change the text size or the polyline width)
+
 ***
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) 
