@@ -77,6 +77,18 @@ none
 
 * Added a page comparison option to the PROJECT menu. The two pages can be compared and then the differences in the partlists and netlists are shown. Double click on the list allows you to jump to the object
 
+* Option to add standard objects using a frame with the mouse. You can quickly draw the following shapes:
+
+1) Rectangle (F1 button)
+2) Square (F2 button)
+3) Circle (F3 button)
+4) Oval (F5 button)
+5) Ellipse (F6 button)
+6) Rounded rectangle (F7 key)
+7) Cloud (F8 button)
+
+To activate this menu press F3 (Add polyline) or F4 (Repeat polyline) 
+
 ![](pictures/presentation_1.png)
 
 * Schematic Constructor 1.3 can read the names of footprints of other PCB editors (in particular, P-cad). If you are using the Schematic Constructor, but for some reason do not want to use FreePcb2 to route printed circuit boards, then you can specify the path to the library of your CAD system so that the Schematic Constructor downloads footprint names for itself and then suggests them in the drop-down list.
