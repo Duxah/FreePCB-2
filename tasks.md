@@ -1,6 +1,6 @@
 ## Actual tasks
 
-These tasks remain open to date. If you are ready to help solve one of them, then write to the [mail](duxah@yahoo.com)
+These tasks remain open to date. If you are ready to help solve one of them, then write to the [mail](e-mail:duxah@yahoo.com)
 
 [Specctra Router Interface](https://groups.io/g/freepcb/topic/dsn_for_autorouter/84364636)
 
