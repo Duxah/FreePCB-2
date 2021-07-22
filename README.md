@@ -146,6 +146,7 @@ _[to learn more...](partners.md)_
 4. [How to make a schematic design](/How_to_cd.md)
 5. [About this development fork](/About_development.md)
 6. [For software developers](developers.md)
+7. [Actual tasks](tasks.md)
 
 ***
 ### [`Get started with FreePcb-2`](/How_to.md)
