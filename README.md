@@ -75,7 +75,7 @@ none
 
 `Schematic Constructor-1.3:`
 
-* Added a page comparison option to the PROJECT menu. The two pages can be compared and then the differences in the partlists and netlists are shown. Double click on the list allows you to jump to the object
+* Added a page comparison option to the PROJECT menu. The partlists and netlists on similar pages can be compared and then the differences can be displayed in the listbox. Double click on the list allows you to jump to the object. Double click on the list allows you to jump to the object
 
 ![](pictures/presentation_1.png)
 
