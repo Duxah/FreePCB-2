@@ -1,6 +1,6 @@
 ## Actual tasks
 
-These tasks remain open to date. There is absolutely no time left for their solution, because first, more priority tasks are solved, mainly related to the introduction of new capabilities of the software package. If you are ready to help solve one of them, then write to the mail
+These tasks remain open to date. If you are ready to help solve one of them, then write to the mail
 
 [Specctra Router Interface](https://groups.io/g/freepcb/topic/dsn_for_autorouter/84364636)
 
