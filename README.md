@@ -103,6 +103,8 @@ none
 
 * The "Select" item and the "Unselect" item have been added to the main menu "Editing". Thus, you can select only polylines or only attributes, etc., in order to then edit the properties of a group of objects (for example change the text size or the polyline width)
 
+* Added menu item "Open from project folder" to the "File" menu. This is a tree menu that allows you to directly open files from the project folder, bypassing the standard file dialog box 
+
 ***
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) 
