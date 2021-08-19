@@ -125,6 +125,8 @@ but at the same time includes almost all the tools needed for professional use.
 
 This "Item" is in the Project menu
 
+* Lines style grid is displayed in Transparent mode 
+
 ***
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) 
