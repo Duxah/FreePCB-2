@@ -83,6 +83,8 @@ but at the same time includes almost all the tools needed for professional use.
 
 * In the footprint of a part, you can place a cutout in the board. Wherever you move the part, the cut will move with it. Press F1 to add a cut
 
+* The solder mask on the pins is displayed in Transparent mode
+
 `Schematic Constructor-1.3:`
 
 * Added a page comparison option to the PROJECT menu. The partlists and netlists on similar pages can be compared and then the differences can be displayed in the listbox. Double click on the list allows you to jump to the object. Double click on the list allows you to jump to the object
