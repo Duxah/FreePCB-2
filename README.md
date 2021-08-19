@@ -129,6 +129,8 @@ This "Item" is in the Project menu
 
 * Improved import of parts from another project. You can check the "import with default polylines width" checkbox. In this case, the width of the polylines for the part will always be the same, as specified in the project options. And another super useful improvement is that if the pattern of the imported part is already present in the current project, then it is replaced from the local library
 
+* Added "Component Description" item to the right-click menu on the part. The program can create a text file or a PDF file to store any information about a component (a component is for example "10MOhm @ 0805"). You can also attach an existing Datasheet of this part
+
 ***
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) 
