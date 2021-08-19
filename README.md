@@ -109,6 +109,8 @@ but at the same time includes almost all the tools needed for professional use.
 
 * Added menu item "Open from project folder" to the "File" menu. This is a tree menu that allows you to directly open files from the project folder, bypassing the standard file dialog box 
 
+* Improved "Magnet" function that helps when drawing connections between pins. The magnet works when the cursor approaches not only the vertex of the polyline but also its side
+
 ***
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) 
