@@ -127,6 +127,8 @@ This "Item" is in the Project menu
 
 * Lines style grid is displayed in Transparent mode 
 
+* Improved import of parts from another project. You can check the "import with default polylines width" checkbox. In this case, the width of the polylines for the part will always be the same, as specified in the project options. And another super useful improvement is that if the pattern of the imported part is already present in the current project, then it is replaced from the local library
+
 ***
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) 
