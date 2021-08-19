@@ -121,9 +121,7 @@ but at the same time includes almost all the tools needed for professional use.
 
 * Added "Protection" option to the "Project" menu. By enabling protection, you will not be able to edit the file 
 
-* You can create project branches with index increments in filenames whenever you want to make new changes to a completed project. The branch folder will appear next to the project folder. This option automatically changes all texts that match the file name (increments the index) inside the new schematic and PCB file, so as not to do it manually. 
-
-This "Item" is in the Project menu
+* You can create project branches with index increments in filenames whenever you want to make new changes to a completed project. The branch folder will appear next to the project folder. This option automatically changes all texts that match the file name (increments the index) inside the new schematic and PCB file, so as not to do it manually. This "Item" is in the Project menu
 
 * Lines style grid is displayed in Transparent mode 
 
