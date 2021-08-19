@@ -77,6 +77,8 @@ but at the same time includes almost all the tools needed for professional use.
 
 * The outline line is always shown as a solid fill in the color of the "Board Outline" layer for visual convenience
 
+* Added "Protection" option to the "Project" menu. This can be useful after the design and order of the printed circuit boards from the factory has been completed. By enabling protection, you will not be able to edit the file 
+
 `Schematic Constructor-1.3:`
 
 * Added a page comparison option to the PROJECT menu. The partlists and netlists on similar pages can be compared and then the differences can be displayed in the listbox. Double click on the list allows you to jump to the object. Double click on the list allows you to jump to the object
@@ -110,6 +112,8 @@ but at the same time includes almost all the tools needed for professional use.
 * Added menu item "Open from project folder" to the "File" menu. This is a tree menu that allows you to directly open files from the project folder, bypassing the standard file dialog box 
 
 * Improved "Magnet" function that helps when drawing connections between pins. The magnet works when the cursor approaches not only the vertex of the polyline but also its side
+
+* Added "Protection" option to the "Project" menu. By enabling protection, you will not be able to edit the file 
 
 ***
 
