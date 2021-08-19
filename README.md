@@ -73,6 +73,8 @@ but at the same time includes almost all the tools needed for professional use.
 
 * Improved display of the merge name
 
+* Open the PCB file and from the PCB editor switch to the schematic editor by selecting the "View-> Switch To PCB" menu. Now in the PCB editor, when you hover the mouse cursor over a pin, the same pin is highlighted in the schematic 
+
 `Schematic Constructor-1.3:`
 
 * Added a page comparison option to the PROJECT menu. The partlists and netlists on similar pages can be compared and then the differences can be displayed in the listbox. Double click on the list allows you to jump to the object. Double click on the list allows you to jump to the object
