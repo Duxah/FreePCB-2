@@ -133,6 +133,8 @@ This "Item" is in the Project menu
 
 * When there are many different netmarks in the project, you can quickly duplicate the netmark by selecting it by net name. The panel with label names is located on the left of the main window (under the selection mask). To activate this panel, right-click on any polyline with the network name attribute and select the "Add to favorites" menu
 
+* You can see the pin list of any part. For example, if in your project you drew a microcontroller that, say, has 20 pins, but the maximum number in the pin names, say 30, then the program will display a list of 30 pins of which some will have the status "not connected" or "missing" ... (Right-click menu on any part, then "Get Pin List") 
+
 ***
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) 
