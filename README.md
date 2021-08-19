@@ -71,7 +71,7 @@ but at the same time includes almost all the tools needed for professional use.
 
 `FreePcb-2.3:`
 
-none
+* Improved display of the merge name
 
 `Schematic Constructor-1.3:`
 
