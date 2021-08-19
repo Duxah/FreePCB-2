@@ -131,6 +131,8 @@ This "Item" is in the Project menu
 
 * Added "Component Description" item to the right-click menu on the part. The program can create a text file or a PDF file to store any information about a component (a component is for example "10MOhm @ 0805"). You can also attach an existing Datasheet of this part
 
+* When there are many different netmarks in the project, you can quickly duplicate the netmark by selecting it by net name. The panel with label names is located on the left of the main window (under the selection mask). To activate this panel, right-click on any polyline with the network name attribute and select the "Add to favorites" menu
+
 ***
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) 
