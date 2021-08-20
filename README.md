@@ -133,6 +133,8 @@ but at the same time includes almost all the tools needed for professional use.
 
 * You can see the pin list of any part. For example, if in your project you drew a microcontroller that, say, has 20 pins, but the maximum number in the pin names, say 30, then the program will display a list of 30 pins of which some will have the status "not connected" or "missing" ... (Right-click menu on any part, then "Get Pin List") 
 
+* It is possible to hide all images attached to polylines. The picture will remain attached to the polyline, but will not be displayed on the display
+
 ***
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) 
