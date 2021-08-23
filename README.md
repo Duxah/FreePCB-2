@@ -69,7 +69,7 @@ but at the same time includes almost all the tools needed for professional use.
 ***
 ### `Latest improvements`
 
-`FreePcb-2.3:`
+`FreePcb-2.3.05:`
 
 * Improved display of the merge name
 
@@ -85,7 +85,7 @@ but at the same time includes almost all the tools needed for professional use.
 
 * The solder mask on the pins is displayed in Transparent mode
 
-`Schematic Constructor-1.3:`
+`Schematic Constructor-1.3.05:`
 
 * Added a page comparison option to the PROJECT menu. The partlists and netlists on similar pages can be compared and then the differences can be displayed in the listbox. Double click on the list allows you to jump to the object. Double click on the list allows you to jump to the object
 
