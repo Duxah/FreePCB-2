@@ -1,6 +1,6 @@
-data::20210702
+data::20210828
 msg::Update Checker Service:
-Updates found. Actual versions to date:
+Actual versions to date:
 FreePcb2.0.32L
 FreePcb2.0.33s
 FreePcb2.1.28
