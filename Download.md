@@ -12,7 +12,7 @@ Download                                                                        
 
 ***
 
-**Schematic constructor is distributed under the DonationWare license. If you liked the package and started using it, then you must either post a link to www.freepcb.dev on your website (or on your social page), or [donate $ 10 to the Freepcb-2 foundation](https://paypal.me/freepcb2).**
+**Schematic constructor is distributed under the DonationWare license. If you liked the package and started using it, then you must either post a link "www.freepcb.dev" on your website (or on your social page), or [donate $ 10 to the Freepcb-2 foundation](https://paypal.me/freepcb2).**
 
 ***
 
