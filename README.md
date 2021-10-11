@@ -17,7 +17,10 @@ _Warning! This document has been translated into English from another language. 
 * Import and export Pcad ASCII files (is maintained by Altium)
 * Exports extended Gerber files (RS274X) and Excellon drill files
 * Design rule checker
-* Autosave
+* Autosave (all software versions have autosave of the current file to the root folder \ AUTOSAVE with a frequency of 1.5 minutes)
+
+***
+)
 
 ### `Window view`
 
