@@ -2,7 +2,7 @@
 
 ***
 
-_Warning! This document has been translated into English from another language (the author is not responsible for the inaccuracy of the translation, if any)_
+_This document has been translated into English from another language (the author is not responsible for the inaccuracy of the translation, if any)_
 
 ***
 
