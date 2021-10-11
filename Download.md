@@ -16,7 +16,7 @@ Download                                                                        
 
 ***
 
-* - all software versions have autosave of the current file to the root folder \ AUTOSAVE with a frequency of 1.5 minutes
+All software versions have autosave of the current file to the root folder \ AUTOSAVE with a frequency of 1.5 minutes
 
 ***
 
