@@ -11,7 +11,7 @@ _Warning! This document has been translated into English from another language. 
 * 1 to 16 copper layers
 * Board size up to 60 inches by 60 inches
 * Uses English or metric units (i.e. mils or mm) for most functions
-* schematic editor included
+* Schematic editor included
 * Footprint Wizard and Footprint Editor for creating or modifying footprints
 * Import and automatic export of PADS-PCB lists when saving file
 * Import and export to mechanical format DXF
