@@ -8,11 +8,15 @@ Download                                                                        
 [FreePcb v2.0 + Schematic Constructor v1.0](https://github.com/Duxah/FreePCB-2/archive/0-33.zip) | released | 2020 | 33u | [link](https://github.com/Duxah/FreePCB-2/tree/0-33/README.md)(to just read)
 [FreePcb v2.1 + Schematic Constructor v1.1](https://github.com/Duxah/FreePCB-2/archive/1-xx.zip) | released | 2021 | 31 | [link](https://github.com/Duxah/FreePCB-2/tree/1-xx/README.md)(to just read)
 [FreePcb v2.2 + Schematic Constructor v1.2](https://github.com/Duxah/FreePCB-2/archive/2-xx.zip) | released | 2021 | 20 | [link](https://github.com/Duxah/FreePCB-2/tree/2-xx/README.md)(to just read)
-[Underway FreePcb v2.3 + Schematic Constructor v1.3](https://github.com/Duxah/FreePCB-2/archive/master.zip) | debug | 2022 | 10 | [link](https://freepcb.dev)(home)
+[Underway FreePcb v2.3 + Schematic Constructor v1.3](https://github.com/Duxah/FreePCB-2/archive/master.zip) | debug* | 2022 | 10 | [link](https://freepcb.dev)(home)
 
 ***
 
 **Schematic constructor is distributed under the DonationWare license. If you liked the package and started using it, then you must either post the link "www.freepcb.dev" on your website (or on your social media page), or [donate $ 10 to the Freepcb-2 foundation](https://paypal.me/freepcb2).**
+
+***
+
+* - all software versions have autosave of the current file to the root folder \ AUTOSAVE with a frequency of 1.5 minutes
 
 ***
 
