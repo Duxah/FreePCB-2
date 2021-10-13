@@ -2,7 +2,7 @@
 
 ## `Schematic Constructor` 
 
-*Innovative electronic circuit diagram editor*
+**Innovative electronic circuit diagram editor**
 
 ***
 Program features:
