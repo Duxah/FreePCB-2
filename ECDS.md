@@ -87,7 +87,7 @@ You can donate to the **freepcb.dev** resource fund. If you are using FreePcb-2 
 
 ## [`Learn from video`](How_to_cd.md)
 
-## [Explore the schematic editor guide](https://freepcb.dev/FreePcb-2/bin/doc/Schematic_Constructor.ru.en.pdf)
+## [`Explore the schematic editor guide`](https://freepcb.dev/FreePcb-2/bin/doc/Schematic_Constructor.ru.en.pdf)
 
 ## [`Download`](Download.md)
 
