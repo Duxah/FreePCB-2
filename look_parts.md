@@ -35,3 +35,5 @@ All parts of this channel in the netlist will be named as follows: R1A, R2A (Suf
 ![Reference designator](pictures/hint_1.png)
 
 Now you're done.
+
+[Explore the schematic editor guide](123)
