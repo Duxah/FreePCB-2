@@ -36,4 +36,4 @@ All parts of this channel in the netlist will be named as follows: R1A, R2A (Suf
 
 Now you're done.
 
-[Explore the schematic editor guide](123)
+[Explore the schematic editor guide](https://freepcb.dev/FreePcb-2/bin/doc/Schematic_Constructor.ru.en.pdf)
