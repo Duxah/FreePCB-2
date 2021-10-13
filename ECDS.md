@@ -1,6 +1,8 @@
 <link rel="shortcut icon" type="image/gif" href="https://github.com/Duxah/FreePCB-2/blob/master/pictures/favicon.gif?">
 
-## `Schematic Constructor v1.0` (circuit design software)
+## `Schematic Constructor` 
+
+*Innovative electronic circuit diagram editor*
 
 ***
 Program features:
