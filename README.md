@@ -21,7 +21,6 @@ _This document has been translated into English from another language (the autho
 * Autosave (all software versions have autosave of the current file to the root folder \ AUTOSAVE with a frequency of 1.5 minutes)
 
 ***
-)
 
 ### `Window view`
 
@@ -180,7 +179,7 @@ _[to learn more...](partners.md)_
 2. [FreePcb user guide 1-359](https://freepcb.dev/FreePcb-2/bin/doc/freepcb_user_guide.pdf)
 3. [FreePcb-2 "How to.." guide 2020](/How_to.md)
 4. [How to make a schematic design](/How_to_cd.md)
-5. [NEW! Translating the schematic editor's manual into English](https://freepcb.dev/FreePcb-2/bin/doc/Schematic_Constructor.ru.en.pdf)
+5. [NEW! Translating the schematic editor's manual into English and Spanish](Translated.md)
 6. [About this development fork](/About_development.md)
 7. [For software developers](developers.md)
 8. [Actual tasks](tasks.md)
