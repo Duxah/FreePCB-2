@@ -4,9 +4,9 @@ app_folder: C:\Users\WSTATION8\Downloads\FreePCB-2-master\FreePCB-2-master\FreeP
 version: 1.311
 file_version: 1.311
 project_name: "SimpleTimer.cds"
-library_folder: "C:\FreePcbDev\generate_new_version\fp_lib"
-full_library_folder: "C:\FreePcbDev\generate_new_version\fp_lib\lib"
-CAM_folder: "C:\Freeasy\Projects\Armkor2\cookies\print_layers"
+library_folder: ""
+full_library_folder: ""
+CAM_folder: ""
 netlist_completed: "0"
 bom_options: "721056"
 page_number: "0"
@@ -18,7 +18,7 @@ partlist_pos_x: "105"
 partlist_pos_y: "69"
 partlist_col_w: "960223292"
 part_search: ""
-netlist_file_path: "C:\Users\WSTATION8\Downloads\FreePCB-2-master\FreePCB-2-master\FreePcb-2\SimpleTimer\related_files\CDS_netlist\SimpleTimer.fpc"
+netlist_file_path: ""
 pcb_name: "SimpleTimer.fpc" 1
 netlist_format: 0
 page_mirror_mask: 0
@@ -166,10 +166,14 @@ n_additional_layers: 4
   layer_info: "back layer 1" 17 0 0 0 1
   layer_info: "back layer 2" 18 128 128 255 1
 
-m_pdf_font_i: 1
-m_pdf_margin: 0.01
-m_pdf_use_font: 1
-m_pdf_pages: 1
+m_pdf_font_i: 1
+
+m_pdf_margin: 0.01
+
+m_pdf_use_font: 1
+
+m_pdf_pages: 1
+
   pdf_layer_info: "dragging" 0 255 255 255 0
   pdf_layer_info: "background" 1 255 255 255 0
   pdf_layer_info: "visible grid" 2 255 255 255 0
@@ -209,9 +213,12 @@ m_pdf_pages: 1
 
 [graphics]
 
-rename_page: "Page 1"
-bmp_src: "C:\Users\WSTATION8\Downloads\FreePCB-2-master\FreePCB-2-master\FreePcb-2\SimpleTimer\related_files\pictures\PIC00002"
-bmp_src: "C:\Users\WSTATION8\Downloads\FreePCB-2-master\FreePCB-2-master\FreePcb-2\SimpleTimer\related_files\pictures\PIC00001"
+rename_page: "Page 1"
+
+bmp_src: "C:\Users\WSTATION8\Downloads\FreePCB-2-master\FreePCB-2-master\FreePcb-2\SimpleTimer\related_files\pictures\PIC00002"
+
+bmp_src: "C:\Users\WSTATION8\Downloads\FreePCB-2-master\FreePCB-2-master\FreePcb-2\SimpleTimer\related_files\pictures\PIC00001"
+
 n_pins: 0
 rectangle: -285200000 -200000 200000 200200000
 ref_des: "TMP1" 398780 200399650 7 0 0 0 -1 -1 2 1
@@ -243,7 +250,7 @@ polyline: 3 0 15 400000 -1 -1 -1 0
 polyline: 2 0 15 400000 -1 -1 -1 0
   corner: 1 -81250000 34000000 0 0
   corner: 2 -81250000 24750000 0 0
-description: "НКИП.000000.000СЭ" -71303990 27676060 14 0 3838150 400000 -1 -1 2 1
+description: "ГЌГЉГ€ГЏ.000000.000Г‘Гќ" -71303990 27676060 14 0 3838150 400000 -1 -1 2 1
 
 polyline: 2 0 15 100000 -1 -1 -1 0
   corner: 1 -125250000 31000000 0 0
@@ -256,7 +263,7 @@ polyline: 2 0 15 100000 -1 -1 -1 0
 polyline: 2 0 15 400000 -1 -1 -1 0
   corner: 1 -114000000 22000000 0 0
   corner: 2 -125250000 22000000 0 0
-description: "изм" -124370336 19847348 14 0 1203051 150000 -1 -1 2 1
+description: "ГЁГ§Г¬" -124370336 19847348 14 0 1203051 150000 -1 -1 2 1
 
 polyline: 2 0 15 400000 -1 -1 -1 0
   corner: 1 -90250000 18750000 0 0
@@ -266,7 +273,7 @@ description: "00.00.00|DD.MM.YY'(This is an automatic time update command)" -893
 polyline: 2 0 15 100000 -1 -1 -1 0
   corner: 1 -125250000 12750000 0 0
   corner: 2 -81250000 12750000 0 0
-description: "Т.контр" -124251504 10404352 14 0 1439298 150000 -1 -1 2 1
+description: "Г’.ГЄГ®Г­ГІГ°" -124251504 10404352 14 0 1439298 150000 -1 -1 2 1
 
 polyline: 2 0 15 100000 -1 -1 -1 0
   corner: 1 -125250000 9250000 0 0
@@ -284,12 +291,12 @@ polyline: 2 0 15 100000 -1 -1 -1 0
 polyline: 2 0 15 100000 -1 -1 -1 0
   corner: 1 -125250000 6750000 0 0
   corner: 2 -81250000 6750000 0 0
-description: "Н.контр" -124491384 4167339 14 0 1439298 150000 -1 -1 2 1
+description: "ГЌ.ГЄГ®Г­ГІГ°" -124491384 4167339 14 0 1439298 150000 -1 -1 2 1
 
 polyline: 2 0 15 100000 -1 -1 -1 0
   corner: 1 -125250000 15500000 0 0
   corner: 2 -81250000 15500000 0 0
-description: "Проверил" -124491384 13522854 14 0 1103461 150000 -1 -1 2 1
+description: "ГЏГ°Г®ГўГҐГ°ГЁГ«" -124491384 13522854 14 0 1103461 150000 -1 -1 2 1
 
 polyline: 2 0 15 400000 -1 -1 -1 0
   corner: 1 -81250000 24750000 0 0
@@ -298,7 +305,7 @@ polyline: 2 0 15 400000 -1 -1 -1 0
 polyline: 2 0 15 400000 -1 -1 -1 0
   corner: 1 -81250000 18750000 0 0
   corner: 2 -81250000 24750000 0 0
-description: "[Общее название]" -74250000 21000000 14 0 2187370 300000 -1 -1 2 1
+description: "[ГЋГЎГ№ГҐГҐ Г­Г Г§ГўГ Г­ГЁГҐ]" -74250000 21000000 14 0 2187370 300000 -1 -1 2 1
 
 polyline: 2 0 15 400000 -1 -1 -1 0
   corner: 1 -34250000 9250000 0 0
@@ -316,32 +323,32 @@ polyline: 2 0 15 400000 -1 -1 -1 0
 polyline: 2 0 15 400000 -1 -1 -1 0
   corner: 1 -23750000 24750000 0 0
   corner: 2 -23750000 21500000 0 0
-description: "Масса" -21820596 22182696 14 0 1439298 150000 -1 -1 2 1
+description: "ГЊГ Г±Г±Г " -21820596 22182696 14 0 1439298 150000 -1 -1 2 1
 
 polyline: 2 0 15 400000 -1 -1 -1 0
   corner: 1 -12500000 24750000 0 0
   corner: 2 -12500000 21500000 0 0
-description: "Масштаб" -11745424 22326634 14 0 1439298 150000 -1 -1 2 1
+description: "ГЊГ Г±ГёГІГ ГЎ" -11745424 22326634 14 0 1439298 150000 -1 -1 2 1
 
 polyline: 2 0 15 400000 -1 -1 -1 0
   corner: 1 -20500000 12500000 0 0
   corner: 2 -20500000 9250000 0 0
-description: "Листов 1" -15583600 10188454 14 0 1439298 150000 -1 -1 2 1
+description: "Г‹ГЁГ±ГІГ®Гў 1" -15583600 10188454 14 0 1439298 150000 -1 -1 2 1
 
 polyline: 2 0 15 400000 -1 -1 -1 0
   corner: 1 -81250000 18750000 0 0
   corner: 2 -81250000 15500000 0 0
-description: "[Название]" -70750000 15500000 14 0 3000000 300000 -1 -1 2 1
+description: "[ГЌГ Г§ГўГ Г­ГЁГҐ]" -70750000 15500000 14 0 3000000 300000 -1 -1 2 1
 
 polyline: 2 0 15 400000 -1 -1 -1 0
   corner: 1 -81250000 15500000 0 0
   corner: 2 -81250000 12750000 0 0
-description: "Схема электрическая принципиальная" -78953690 11327190 14 0 1200000 150000 -1 -1 2 1
+description: "Г‘ГµГҐГ¬Г  ГЅГ«ГҐГЄГІГ°ГЁГ·ГҐГ±ГЄГ Гї ГЇГ°ГЁГ­Г¶ГЁГЇГЁГ Г«ГјГ­Г Гї" -78953690 11327190 14 0 1200000 150000 -1 -1 2 1
 
 polyline: 2 0 15 400000 -1 -1 -1 0
   corner: 1 -81250000 12750000 0 0
   corner: 2 -81250000 6750000 0 0
-description: "Файл печатной платы'       [Название].fpc" -74595300 6086420 14 0 1727170 150000 -1 -1 2 1
+description: "Г”Г Г©Г« ГЇГҐГ·Г ГІГ­Г®Г© ГЇГ«Г ГІГ»'       [ГЌГ Г§ГўГ Г­ГЁГҐ].fpc" -74595300 6086420 14 0 1727170 150000 -1 -1 2 1
 
 polyline: 2 0 15 400000 -1 -1 -1 0
   corner: 1 -81250000 6750000 0 0
@@ -354,7 +361,7 @@ polyline: 2 0 15 400000 -1 -1 -1 0
 polyline: 2 0 15 400000 -1 -1 -1 0
   corner: 1 -34250000 9250000 0 0
   corner: 2 -34250000 12750000 0 0
-description: "Лист 1" -30936232 10164466 14 0 1439298 150000 -1 -1 2 1
+description: "Г‹ГЁГ±ГІ 1" -30936232 10164466 14 0 1439298 150000 -1 -1 2 1
 
 polyline: 2 0 15 400000 -1 -1 -1 0
   corner: 1 -34250000 12750000 0 0
@@ -363,7 +370,7 @@ polyline: 2 0 15 400000 -1 -1 -1 0
 polyline: 2 0 15 400000 -1 -1 -1 0
   corner: 1 -34250000 21500000 0 0
   corner: 2 -34250000 24750000 0 0
-description: "Лит" -31416012 22182696 14 0 1439298 150000 -1 -1 2 1
+description: "Г‹ГЁГІ" -31416012 22182696 14 0 1439298 150000 -1 -1 2 1
 
 polyline: 2 0 15 400000 -1 -1 -1 0
   corner: 1 -23750000 21000000 0 0
@@ -381,32 +388,32 @@ description: "Agent1" -111567940 16329510 14 0 1439300 150000 -1 -1 2 1
 polyline: 2 0 15 400000 -1 -1 -1 0
   corner: 1 -114000000 18750000 0 0
   corner: 2 -125250000 18750000 0 0
-description: "Выполнил" -124513248 16401470 14 0 1103461 150000 -1 -1 2 1
+description: "Г‚Г»ГЇГ®Г«Г­ГЁГ«" -124513248 16401470 14 0 1103461 150000 -1 -1 2 1
 
 polyline: 2 0 15 400000 -1 -1 -1 0
   corner: 1 -98500000 22000000 0 0
   corner: 2 -114000000 22000000 0 0
-description: "No докум" -111537592 19884756 14 0 1439298 150000 -1 -1 2 1
+description: "No Г¤Г®ГЄГіГ¬" -111537592 19884756 14 0 1439298 150000 -1 -1 2 1
 
 polyline: 2 0 15 400000 -1 -1 -1 0
   corner: 1 -90250000 22000000 0 0
   corner: 2 -98500000 22000000 0 0
-description: "Подп" -97384400 19687896 14 0 1439298 150000 -1 -1 2 1
+description: "ГЏГ®Г¤ГЇ" -97384400 19687896 14 0 1439298 150000 -1 -1 2 1
 
 polyline: 2 0 15 400000 -1 -1 -1 0
   corner: 1 -90250000 22000000 0 0
   corner: 2 -81250000 22000000 0 0
-description: "Дата" -88268736 19783850 14 0 1151436 150000 -1 -1 2 1
+description: "Г„Г ГІГ " -88268736 19783850 14 0 1151436 150000 -1 -1 2 1
 
 polyline: 2 0 15 100000 -1 -1 -1 0
   corner: 1 -120250000 34000000 0 0
   corner: 2 -120250000 18750000 0 0
-description: "лист" -119551504 19858284 14 0 1203051 150000 -1 -1 2 1
+description: "Г«ГЁГ±ГІ" -119551504 19858284 14 0 1203051 150000 -1 -1 2 1
 
 polyline: 2 0 15 400000 -1 -1 -1 0
   corner: 1 -125250000 3000000 0 0
   corner: 2 -125250000 0 0 0
-description: "Утвердил" -124491384 1288721 14 0 1151436 150000 -1 -1 2 1
+description: "Г“ГІГўГҐГ°Г¤ГЁГ«" -124491384 1288721 14 0 1151436 150000 -1 -1 2 1
 
 part_end
 
@@ -517,7 +524,7 @@ n_pins: 3
 rectangle: -140300001 97950000 -129700000 110800000
 ref_des: "VT1" -142536300 121101229 7 0 2000000 300000 -1 -1 2 73
 footprint_name: "PINER_PT6KH" -158080570 115221230 12 0 2000000 300000 -1 -1 2 9
-part_value: "КУ202Н(rus)" -158353620 118161229 13 0 2000000 300000 -1 -1 2 9
+part_value: "ГЉГ“202ГЌ(rus)" -158353620 118161229 13 0 2000000 300000 -1 -1 2 9
 polyline: 2 0 8 600000 -1 -1 -1 0
   corner: 1 -136000001 107500000 0 0
   corner: 2 -136000000 110500000 0 1
