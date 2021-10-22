@@ -4,15 +4,15 @@ app_folder: C:\Users\WSTATION8\Downloads\FreePCB-2-master\FreePCB-2-master\FreeP
 version: 2.310
 file_version: 2.310
 project_name: "SimpleTimer"
-library_folder: "c:\рабочая папка\freepcb_libraries"
-full_library_folder: "c:\рабочая папка\freepcb_libraries\lib_footprints"
-parent_folder: "C:\Users\WSTATION8\Downloads\FreePCB-2-master\FreePCB-2-master\FreePcb-2\"
-CAM_folder: "C:\FreePcbDev\Schematic Constructor v1.0\Projects\SimpleTimer\CAM(simpletimer)"
+library_folder: ""
+full_library_folder: ""
+parent_folder: ""
+CAM_folder: ""
 ses_file_path: ""
 netlist_completed: "1"
 part_search: "ho"
 png_settings: "800 0.05"
-netlist_file_path: "C:\FreePcbDev\Schematic Constructor\Projects\examples\SimpleTimer\related_files\CDS_netlist\SimpleTimer.fpc.net"
+netlist_file_path: ""
 SMT_connect_copper: "1"
 default_glue_width: "635000"
 dsn_flags: "3"
@@ -2315,7 +2315,7 @@ part: VD5
 part: VT1
   ref_text: 1270000 200000 0 9121780 6194710 1
   shape: "PINER_PT6KH"
-  value: "КУ202Н(rus)" 1270000 177800 0 0 -7740000 0
+  value: "ГЉГ“202ГЌ(rus)" 1270000 177800 0 0 -7740000 0
   pos: 2750009 23199999 0 270 0
 
 part: C1
