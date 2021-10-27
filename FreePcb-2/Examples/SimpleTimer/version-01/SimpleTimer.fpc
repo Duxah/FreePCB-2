@@ -1,17 +1,15 @@
 [options]
 
-app_folder: C:\Users\WSTATION8\Downloads\FreePCB-2-master\FreePCB-2-master\FreePcb-2\bin
-version: 2.310
-file_version: 2.310
+version: 2.033
+file_version: 2.033
 project_name: "SimpleTimer"
 library_folder: ""
 full_library_folder: ""
 parent_folder: ""
 CAM_folder: ""
 ses_file_path: ""
-netlist_completed: "1"
-part_search: ""
-png_settings: "800 0.05"
+netlist_completed: "0"
+part_search: "ho"
 netlist_file_path: ""
 SMT_connect_copper: "1"
 default_glue_width: "635000"
@@ -21,25 +19,24 @@ dsn_signals_poly: "0"
 autosave_interval: 60
 auto_ratline_disable: "1"
 auto_ratline_disable_min_pins: "100"
-netlist_import_flags: 3055
-m_client_rect_left: 110
-m_client_rect_right: 1900
-m_client_rect_bottom: 923
+netlist_import_flags: 943
+m_client_rect_left: 0
+m_client_rect_right: 1904
+m_client_rect_bottom: 942
 m_client_rect_top: 0
-m_org_x: -27845
-m_org_y: 1275
-m_scale_factor: 42584
+m_org_x: -108383
+m_org_y: -29582
+m_scale_factor: 168264
 part_line_visible: 1
-merge_shown: 1
-pdf_pin1: 0.700000
-pdf_use_font: 431800 609600
 units: MM
 
-m_sel_mask: -3
-m_visible_layers: -9349
-m_top_layer: 17
+m_sel_mask: -1
+m_visible_layers: -42117
+m_top_layer: 14
 m_grid_style: 1
 visible_grid_spacing: 5000000.000000
+  visible_grid_item: 20mil
+  visible_grid_item: 50mil
   visible_grid_item: 100mil
   visible_grid_item: 125mil
   visible_grid_item: 200mil
@@ -47,7 +44,11 @@ visible_grid_spacing: 5000000.000000
   visible_grid_item: 400mil
   visible_grid_item: 500mil
   visible_grid_item: 1000mil
+  visible_grid_item: 0.5mm
+  visible_grid_item: 0.65mm
+  visible_grid_item: 0.95mm
   visible_grid_item: 1mm
+  visible_grid_item: 1.27mm
   visible_grid_item: 2mm
   visible_grid_item: 2.5mm
   visible_grid_item: 4mm
@@ -60,6 +61,7 @@ visible_grid_spacing: 5000000.000000
   visible_grid_item: 100mm
 
 placement_grid_spacing: 500000.000000
+  placement_grid_item: 5mil
   placement_grid_item: 10mil
   placement_grid_item: 20mil
   placement_grid_item: 25mil
@@ -71,13 +73,17 @@ placement_grid_spacing: 500000.000000
   placement_grid_item: 400mil
   placement_grid_item: 500mil
   placement_grid_item: 1000mil
-  placement_grid_item: 0mm
+  placement_grid_item: 0.001mm
+  placement_grid_item: 0.01mm
   placement_grid_item: 0.1mm
   placement_grid_item: 0.2mm
   placement_grid_item: 0.25mm
   placement_grid_item: 0.4mm
   placement_grid_item: 0.5mm
+  placement_grid_item: 0.65mm
+  placement_grid_item: 0.95mm
   placement_grid_item: 1mm
+  placement_grid_item: 1.27mm
   placement_grid_item: 2mm
   placement_grid_item: 2.5mm
   placement_grid_item: 4mm
@@ -85,6 +91,8 @@ placement_grid_spacing: 500000.000000
   placement_grid_item: 10mm
 
 routing_grid_spacing: 1.000000
+  routing_grid_item: 0.1mil
+  routing_grid_item: 0.5mil
   routing_grid_item: 1mil
   routing_grid_item: 2mil
   routing_grid_item: 2.5mil
@@ -99,7 +107,8 @@ routing_grid_spacing: 1.000000
   routing_grid_item: 25mil
   routing_grid_item: 40mil
   routing_grid_item: 50mil
-  routing_grid_item: 0mm
+  routing_grid_item: 0.000001mm
+  routing_grid_item: 0.001mm
   routing_grid_item: 0.01mm
   routing_grid_item: 0.02mm
   routing_grid_item: 0.04mm
@@ -110,11 +119,6 @@ routing_grid_spacing: 1.000000
   routing_grid_item: 0.4mm
   routing_grid_item: 0.5mm
   routing_grid_item: 1mm
-  routing_grid_item: 2mm
-  routing_grid_item: 2.5mm
-  routing_grid_item: 4mm
-  routing_grid_item: 5mm
-  routing_grid_item: 10mm
 
 snap_angle: 45
 
@@ -126,7 +130,11 @@ fp_visible_grid_spacing: 1000000.000000
   fp_visible_grid_item: 400mil
   fp_visible_grid_item: 500mil
   fp_visible_grid_item: 1000mil
+  fp_visible_grid_item: 0.5mm
+  fp_visible_grid_item: 0.65mm
+  fp_visible_grid_item: 0.95mm
   fp_visible_grid_item: 1mm
+  fp_visible_grid_item: 1.27mm
   fp_visible_grid_item: 2mm
   fp_visible_grid_item: 2.5mm
   fp_visible_grid_item: 4mm
@@ -139,6 +147,9 @@ fp_visible_grid_spacing: 1000000.000000
   fp_visible_grid_item: 100mm
 
 fp_placement_grid_spacing: 100000.000000
+  fp_placement_grid_item: 0.1mil
+  fp_placement_grid_item: 1mil
+  fp_placement_grid_item: 5mil
   fp_placement_grid_item: 10mil
   fp_placement_grid_item: 20mil
   fp_placement_grid_item: 25mil
@@ -150,12 +161,17 @@ fp_placement_grid_spacing: 100000.000000
   fp_placement_grid_item: 400mil
   fp_placement_grid_item: 500mil
   fp_placement_grid_item: 1000mil
+  fp_placement_grid_item: 0.001mm
+  fp_placement_grid_item: 0.01mm
   fp_placement_grid_item: 0.02mm
   fp_placement_grid_item: 0.05mm
   fp_placement_grid_item: 0.1mm
   fp_placement_grid_item: 0.2mm
   fp_placement_grid_item: 0.5mm
+  fp_placement_grid_item: 0.65mm
+  fp_placement_grid_item: 0.95mm
   fp_placement_grid_item: 1mm
+  fp_placement_grid_item: 1.27mm
   fp_placement_grid_item: 2mm
   fp_placement_grid_item: 2.5mm
   fp_placement_grid_item: 4mm
@@ -177,7 +193,6 @@ annular_ring_for_pins: 200000
 annular_ring_for_vias: 200000
 shrink_paste_mask: 0
 cam_flags: 2160
-crop_flags: 28255
 cam_layers: 1048639
 cam_drill_file: 1
 cam_units: 1
@@ -210,23 +225,23 @@ n_width_menu: 4
   width_menu_item: 4 2mm 0mil 0mil
 
 n_copper_layers: 2
-  layer_info: "dragging" 0 255 255 0 1 127 127 127 0
-  layer_info: "background" 1 235 235 235 1 255 255 255 0
-  layer_info: "visible grid" 2 0 0 0 0 0 0 0 0
-  layer_info: "highlight" 3 255 255 0 1 255 255 0 1
-  layer_info: "DRC error" 4 255 0 0 1 128 64 0 0
-  layer_info: "board outline" 5 0 125 50 1 0 145 45 1
-  layer_info: "scribing" 6 255 0 128 1 127 127 127 0
-  layer_info: "top notes" 7 128 64 0 0 255 0 0 0
-  layer_info: "bot notes" 8 128 64 0 1 128 128 128 0
-  layer_info: "rat line" 9 0 0 128 1 0 0 160 1
-  layer_info: "top silk" 10 255 150 255 0 255 255 255 1
-  layer_info: "bottom silk" 11 255 170 170 1 255 255 255 0
-  layer_info: "thru pad" 12 235 235 235 1 255 255 255 1
-  layer_info: "top view" 13 128 128 127 0 201 201 214 1
-  layer_info: "bot view" 14 192 127 63 1 127 127 127 0
-  layer_info: "top copper" 15 40 180 60 1 33 190 53 1
-  layer_info: "bot copper" 16 30 90 30 1 10 100 20 0
+  layer_info: "dragging" 0 130 130 130 1
+  layer_info: "background" 1 218 218 218 1
+  layer_info: "visible grid" 2 0 0 0 0
+  layer_info: "highlight" 3 255 255 0 1
+  layer_info: "DRC error" 4 255 0 0 1
+  layer_info: "board outline" 5 202 202 255 1
+  layer_info: "scribing" 6 112 112 56 1
+  layer_info: "top notes" 7 0 0 0 0
+  layer_info: "bot notes" 8 128 128 0 1
+  layer_info: "rat line" 9 128 64 0 1
+  layer_info: "top silk" 10 0 0 128 0
+  layer_info: "bottom silk" 11 64 0 64 1
+  layer_info: "thru pad" 12 103 103 103 1
+  layer_info: "top view" 13 0 145 145 0
+  layer_info: "bot view" 14 193 82 28 1
+  layer_info: "top copper" 15 172 172 172 0
+  layer_info: "bot copper" 16 255 128 0 1
 
 [footprints]
 
@@ -2315,7 +2330,7 @@ part: VD5
 part: VT1
   ref_text: 1270000 200000 0 9121780 6194710 1
   shape: "PINER_PT6KH"
-  value: "√ä√ì202√ç(rus)" 1270000 177800 0 0 -7740000 0
+  value: " ”202Õ(rus)" 1270000 177800 0 0 -7740000 0
   pos: 2750009 23199999 0 270 0
 
 part: C1
@@ -2607,14 +2622,16 @@ net: "NET00001" 2 1 0 0 0 0 1
 net: "NET00006" 2 1 0 0 0 0 1
   pin: 1 VD3.1
   pin: 2 R3.1
-  connect: 1 1 0 3 0 -1
+  connect: 1 1 0 4 0 -1
     vtx: 1 21520012 27399997 15 0 0 0 0
     seg: 1 15 1500000 0 0
-    vtx: 2 21518880 33969960 0 0 0 0 0
+    vtx: 2 21520012 31818390 0 0 0 0 0
     seg: 2 15 1500000 0 0
-    vtx: 3 19989800 35499040 0 0 0 0 0
+    vtx: 3 21518880 33969960 0 0 0 0 0
     seg: 3 15 1500000 0 0
-    vtx: 4 17500000 35500000 15 0 0 0 0
+    vtx: 4 19989800 35499040 0 0 0 0 0
+    seg: 4 15 1500000 0 0
+    vtx: 5 17500000 35500000 15 0 0 0 0
 
 net: "NET00007" 2 1 0 0 0 0 1
   pin: 1 VD3.2
