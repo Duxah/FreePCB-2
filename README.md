@@ -166,9 +166,7 @@ _[to learn more...](partners.md)_
 ***
 ### `Contacts`
 
-* You can use the [forum of the first official version of FreePcb](https://groups.io/g/freepcb), which has been moved to groups.io since 2020  
-* You can write to the developer of this software fork. Share your idea or report a bug to duxah@yahoo.com
-* If you want to improve the translation of this document, please send your file by email
+* You can use the [forum of the first official version of FreePcb](https://groups.io/g/freepcb), which has been moved to groups.io since 2020, or write to the developer of this software fork. Share your idea or report a bug to duxah@yahoo.com
 * If you have your own libraries of footprints that you are ready to share with everyone, please send your file by email
 
 ***
@@ -187,3 +185,4 @@ _[to learn more...](partners.md)_
 ### [`Get started with FreePcb-2`](/How_to.md)
 
 The text of this site is a translation from foreign language using Google inc. ©2019-2021
+*If you want to improve the translation of this content, please send your file by email
