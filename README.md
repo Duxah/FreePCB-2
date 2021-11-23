@@ -114,8 +114,6 @@ but at the same time includes almost all the tools needed for professional use.
 
 * Improved polyline properties editing menu. Select the side of the polyline and press F7 (Polyline properties). You can change the color of the polygon fill and make it lighter in relation to the color of the polyline itself (from 3% to 70% of the main tone). This option also works when exporting to PDF.
 
-![](pictures/presentation_2.png)
-
 * The "Select" item and the "Unselect" item have been added to the main menu "Editing". Thus, you can select only polylines or only attributes, etc., in order to then edit the properties of a group of objects (for example change the text size or the polyline width)
 
 * Added menu item "Open from project folder" to the "File" menu. This is a tree menu that allows you to directly open files from the project folder, bypassing the standard file dialog box 
@@ -139,6 +137,8 @@ but at the same time includes almost all the tools needed for professional use.
 * It is possible to hide all images attached to polylines. The picture will remain attached to the polyline, but will not be displayed on the display
 
 * The dialog box for importing parts from other projects (F1 - Import Part) loads three attributes of the used parts - Value, Footprint and RefDes, so that you can find the part by prefix. For example, filter out in the list only capacitors (C) or resistors (R), etc. (before that there were only two attributes - Value and Footprint)
+
+![](pictures/presentation_2.png)
 
 ***
 
