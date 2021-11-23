@@ -138,6 +138,8 @@ but at the same time includes almost all the tools needed for professional use.
 
 * It is possible to hide all images attached to polylines. The picture will remain attached to the polyline, but will not be displayed on the display
 
+* The dialog box for importing parts from other projects (F1 - Import Part) loads three attributes of the used parts - Value, Footprint and RefDes, so that you can find the part by prefix. For example, filter out in the list only capacitors (C) or resistors (R), etc. (before that there were only two attributes - Value and Footprint)
+
 ***
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) 
