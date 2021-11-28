@@ -88,6 +88,8 @@ but at the same time includes almost all the tools needed for professional use.
 
 * The solder mask on the pins is displayed in Transparent mode
 
+* Automatic alignment to ratlines. When positioning, the pins of different parts connected to each other are almost always located on the same axis - horizontal or vertical. for example, when we put a capacitor near the microcontroller leg. Previously, to align, you had to use the Alignment menu or press the Align softkey. Now this happens automatically if the ratline offset is less than the grid spacing. Select a sufficiently large Placement grid at the top of the window - for example 0.5mm to see how this function works. And if you do not want to use this function, then select a smaller grid step, or temporarily turn off the visibility of the Ratlines layer
+
 `Schematic Constructor-1.3.05:`
 
 * Added a page comparison option to the PROJECT menu. The partlists and netlists on similar pages can be compared and then the differences can be displayed in the listbox. Double click on the list allows you to jump to the object. Double click on the list allows you to jump to the object
