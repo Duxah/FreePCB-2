@@ -84,7 +84,7 @@ but at the same time includes almost all the tools needed for professional use.
 
 * The netlist generated from the schematic editor is automatically loaded in the PCB editor by clicking the YES button 
 
-* In the footprint of a part, you can place a cutout in the board. Wherever you move the part, the cut will move with it. Press F1 to add a cut
+* In the footprint of a part, you can place a cutout in the board. Wherever you move the part, the cut will move with it. Press F1 to add a cutout (in the footprint editor)
 
 * The solder mask on the pins is displayed in Transparent mode
 
