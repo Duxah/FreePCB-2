@@ -72,7 +72,7 @@ but at the same time includes almost all the tools needed for professional use.
 ***
 ### `Latest improvements`
 
-`FreePcb-2.3.14:`
+`FreePcb-2.3.15:`
 
 * Improved display of the merge name
 
@@ -92,7 +92,9 @@ but at the same time includes almost all the tools needed for professional use.
 
 * If you want to make all layers visible, then you can do it by pressing a single button on the keyboard: [~] it is located next to the [1] button. Click again to restore the previous visibility of the layers. If your project contains more than 2 layers, then press this button a third time, and only the inner layers will be shown. 
 
-`Schematic Constructor-1.3.13:`
+* You can keep track of the full length of a net or trace when you move a trace segment using the arrow keys on your keyboard. The same when you move a group of selected trace segments.
+
+`Schematic Constructor-1.3.15:`
 
 * Added a page comparison option to the PROJECT menu. The partlists and netlists on similar pages can be compared and then the differences can be displayed in the listbox. Double click on the list allows you to jump to the object. Double click on the list allows you to jump to the object
 
