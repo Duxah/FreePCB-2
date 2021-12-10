@@ -146,6 +146,8 @@ but at the same time includes almost all the tools needed for professional use.
 
 ![](pictures/presentation_2.png)
 
+* You can make PDF with the parts highlighted on the page. Just select the parts in the usual way (with the mouse frame, by calling Project >> RefList, or through the Partlist window) and open the print window to PDF. You can also print a fragment of a page to PDF by highlighting the fragment of the diagram along with text attributes. To do this, move the mouse frame twice over the same fragment (that is, select the fragment with the frame, then, without removing the selection, select it again using the frame). After that, open the print window to PDF via the File >> Print to PDF menu or press the standard CTRL + P combination
+
 ***
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) 
