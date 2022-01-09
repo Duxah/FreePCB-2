@@ -8,7 +8,7 @@ Download                                                                        
 [FreePcb v2.0 + Schematic Constructor v1.0](https://github.com/Duxah/FreePCB-2/archive/0-33.zip) | released | 2020 | 33u | [link](https://github.com/Duxah/FreePCB-2/tree/0-33/README.md)(to just read)
 [FreePcb v2.1 + Schematic Constructor v1.1](https://github.com/Duxah/FreePCB-2/archive/1-xx.zip) | released | 2021 | 31 | [link](https://github.com/Duxah/FreePCB-2/tree/1-xx/README.md)(to just read)
 [FreePcb v2.2 + Schematic Constructor v1.2](https://github.com/Duxah/FreePCB-2/archive/2-xx.zip) | released | 2021 | 20 | [link](https://github.com/Duxah/FreePCB-2/tree/2-xx/README.md)(to just read)
-[Underway FreePcb v2.3 + Schematic Constructor v1.3](https://github.com/Duxah/FreePCB-2/archive/master.zip) | debug | 2022 | 18 | [link](https://freepcb.dev)(home)
+[Underway FreePcb v2.3 + Schematic Constructor v1.3](https://github.com/Duxah/FreePCB-2/archive/master.zip) | debug | 2022 | 21 | [link](https://freepcb.dev)(home)
 
 ***
 
