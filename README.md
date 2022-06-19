@@ -6,7 +6,7 @@ _This document has been translated into English from another language (the autho
 
 ***
 
-_In connection with the recent events in the International political arena, the possibility of supporting freepcb.dev in my face runs into insurmountable obstacles. If you are willing to help now with renewing this domain name (freepcb.dev) please email me as soon as possible. If you are ready to help assist me in moving to your country, please contact me by e-mail._
+_In connection with the recent events in the International political arena, the possibility of supporting freepcb.dev in my face runs into insurmountable obstacles. If you are willing to help now with renewing this domain name (freepcb.dev) please email me as soon as possible. If you are ready to help assist me in moving to your country, please contact me by e-mail freepcb.development@gmail.com_
 
 ***
 
