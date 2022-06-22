@@ -82,9 +82,11 @@ but at the same time includes almost all the tools needed for professional use.
 
 ![](pictures/presentation_1.png)
 
+* Disabling the copper area selection mask (in the left pane of the screen) now makes the copper fill hatching invisible. Thus, the hatching of copper fills no longer interferes with viewing the PCB through all layers.
+
 `Schematic Constructor-1.4:`
 
-* none
+* Improved file dialog
 
 ***
 
