@@ -102,7 +102,7 @@ but at the same time includes almost all the tools needed for professional use.
 
 * In the part import dialog, the list is now sorted by prefix, which is much more convenient than by the "value" parameter as it was before.
 
-
+* The "Footprint Library Manager" program reads the fpc library of PCB files to view the used footprints. Just instead of specifying the path to the footprint library, specify the path to the PCB project folder. (Earlier, the program could only read library files with an fpl extension.)
 
 ***
 
