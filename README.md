@@ -96,6 +96,8 @@ but at the same time includes almost all the tools needed for professional use.
 
 * You can paste a schematic snippet from another open freecds window, using the keyboard shortcut Control+C then in another window Control+V
 
+* The program controls prefixes in parts designation when, for example, in one scheme you designated part 0E@0805 with the RS prefix and in another scheme you mistakenly designated it with the RP prefix (the same component 0E@0805 ). In this case, the program will display a message so that you can correct this error. (Explanation: 0E@0805 means this part has VALUE=0E and FOOTPRINT=0805)
+
 ***
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) 
