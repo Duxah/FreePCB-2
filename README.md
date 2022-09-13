@@ -100,6 +100,10 @@ but at the same time includes almost all the tools needed for professional use.
 
 * In the parts import dialog box, the description of the part is displayed, which the program reads from a text file attached to this part. Attach a text file to the part using the right-click menu: to do this, right-click on the selected part in the workspace and select the COMPONENT ATTACHMENTS menu and then select the submenu: attach file, txt format. In the first line of the text file, enter the basic information that the program will then always display in the part import dialog, save the file
 
+* In the part import dialog, the list is now sorted by prefix, which is much more convenient than by the "value" parameter as it was before.
+
+
+
 ***
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) 
