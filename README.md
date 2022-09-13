@@ -84,6 +84,14 @@ but at the same time includes almost all the tools needed for professional use.
 
 * Disabling the copper area selection mask (in the left pane of the screen) now makes the copper fill hatching invisible. Thus, the hatching of copper fills no longer interferes with viewing the PCB through all layers.
 
+* Freepcb Saves traces even better than previous versions when importing netlist.
+
+* Fills vector copper polygons with merger clearances
+
+* In the footprint editor, the "Set position" function can move the entire polyline.
+
+* You can easily change the footprint name in the detail editing dialog.
+
 `Schematic Constructor-1.4:`
 
 * Improved file dialog
