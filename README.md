@@ -94,7 +94,7 @@ but at the same time includes almost all the tools needed for professional use.
 
 * The "Scale Factor" function changes only the coordinates of objects without changing the thickness of the polyline and the size of the text
 
-
+* You can paste a schematic snippet from another open freecds window, using the keyboard shortcut Control+C then in another window Control+V
 
 ***
 
