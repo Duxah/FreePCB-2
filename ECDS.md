@@ -91,4 +91,4 @@ You can donate to the **freepcb.dev** resource fund. If you are using FreePcb-2 
 
 ## [`Download`](Download.md)
 
-**Software copyright Duxah (c) 2020-2021**
+*Software copyright © 2020-2022 Duxah Technologies*
