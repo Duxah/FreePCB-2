@@ -88,6 +88,8 @@ but at the same time includes almost all the tools needed for professional use.
 
 * Improved file dialog
 
+* The PDF file supports links to websites when you select the File->Print to PDF menu. You can create a link to the site using the polyline attributes setting dialog box: On the selected polyline, press the F1(Set attributes) function key. And then click the appropriate button on the add Command template tab.
+
 ***
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) 
