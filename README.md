@@ -166,5 +166,6 @@ _[to learn more...](partners.md)_
 ***
 ### [`Get started with FreePcb-2`](/How_to.md)
 
-*The text of this site is a translation from foreign language using Google inc. ©2019-2022
-If you want to improve the translation of this content, please send your file by email*
+*The text of this site is a translation from foreign language using Google inc. If you want to improve the translation of this content, please send your file by email*
+
+*© 2014-2022 Duxah Technologies*
