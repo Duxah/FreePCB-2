@@ -106,7 +106,7 @@ but at the same time includes almost all the tools needed for professional use.
 
 * You can attach a picture to any part in the schematic editor via the "Import Part" dialog box, F1 button.
 
-
+* You can attach all datasheets to the component, as well as a picture of the part's package, and even a URL link to the store where this part is sold. To do this, call the right-click menu on the selected part and click COMPONENT ATTACHMENTS
 
 ***
 
