@@ -36,7 +36,7 @@ _In connection with the recent events in the International political arena, the 
 FreePcb is a unique PCB design program with a function key interface. Version 2.0 presented on this site is a fork of version [1.359](http://freepcb.com), taken for revision in 2014. FreePcb-2 contains new features not available in version 1.359 and provides more freedom for circuit board developers. If you don’t want to waste your time mastering complex PCB design applications, download FreePcb-2, which can do a lot of what CADs can do, but is easy to learn and takes up little disk space on your computer. FreePcb-2 does not have a huge number of buttons as in other CAD systems, the purpose of which is not immediately clear. There are only 9 buttons (F1 ... F9), the Functions of which change depending on the type of the selected element (part, vertex of trace, segment and etc.), so FreePcb-2 can be studied even without instructions. There is also a right-click context menu with additional features. 
 
 ***
-### [`Schematic Constructor`](https://freepcb.dev/ECDS.html)
+### [`Schematic Constructor`](https://github.com/Duxah/FreePCB-2/blob/master/ECDS.md)
 
 In FreePcb, you can create a netlist manually by adding parts and then connecting their pins. But you can also import a netlist in the PADS-PCB popular format from FreePCB2 compatible Schematic Editor. See description on [this page](https://freepcb.dev/ECDS.html)
 
@@ -155,7 +155,7 @@ _[to learn more...](partners.md)_
 ### `Useful links`
 
 1. [License](LICENSE)
-2. [FreePcb user guide 1-359](https://freepcb.dev/FreePcb-2/bin/doc/freepcb_user_guide.pdf)
+2. [FreePcb user guide 1-359](https://github.com/Duxah/FreePcb-2/bin/doc/freepcb_user_guide.pdf)
 3. [FreePcb-2 "How to.." guide 2020](/How_to.md)
 4. [How to make a schematic design](/How_to_cd.md)
 5. [NEW! Translating the schematic editor's manual into English and Spanish](Translated.md)
