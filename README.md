@@ -92,6 +92,10 @@ but at the same time includes almost all the tools needed for professional use.
 
 * When creating a new project page, it can be inserted anywhere, that is, for example, between other pages. When you press the menu button view->add new page, a window pops up with a question for clarification. (Procedure: First go to the page where you would like to insert a new page, and then click the view menu -> add new page)
 
+* The "Scale Factor" function changes only the coordinates of objects without changing the thickness of the polyline and the size of the text
+
+
+
 ***
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) 
