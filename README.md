@@ -104,6 +104,10 @@ but at the same time includes almost all the tools needed for professional use.
 
 * The "Footprint Library Manager" program reads the fpc library of PCB files to view the used footprints. Just instead of specifying the path to the footprint library, specify the path to the PCB project folder. (Earlier, the program could only read library files with an fpl extension.)
 
+* You can attach a picture to any part in the schematic editor via the "Import Part" dialog box, F1 button.
+
+
+
 ***
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) 
