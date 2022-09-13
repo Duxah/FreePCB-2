@@ -1,7 +1,7 @@
 ![freepcb-2 icon](/pictures/upload.png) 
 ## [freepcb-2.033](https://freepcb.dev)
 
-Beginner's «How To ...» Guide  © 2019-2020 [freepcb.dev](https://freepcb.dev)
+Beginner's «How To ...» Guide 2019
 
 _This document has been translated into English from another language (the author is not responsible for the inaccuracy of the translation, if any)_
 
