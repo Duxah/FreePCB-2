@@ -108,6 +108,10 @@ but at the same time includes almost all the tools needed for professional use.
 
 * You can attach all datasheets to the component, as well as a picture of the part's package, and even a URL link to the store where this part is sold. To do this, call the right-click menu on the selected part and click COMPONENT ATTACHMENTS
 
+* Extended bom-file generation. The extended bom-file is created in PDF format. All parts are grouped by reference designations. In order for the program (instead of question marks) to correctly create headers Fill in the file prefixes.txt, which is located in the Root directory of the program.
+
+![](pictures/presentation_2.png)
+
 ***
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) 
