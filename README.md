@@ -98,6 +98,8 @@ but at the same time includes almost all the tools needed for professional use.
 
 * The program controls prefixes in parts designation when, for example, in one scheme you designated part 0E@0805 with the RS prefix and in another scheme you mistakenly designated it with the RP prefix (the same component 0E@0805 ). In this case, the program will display a message so that you can correct this error. (Explanation: 0E@0805 means this part has VALUE=0E and FOOTPRINT=0805)
 
+* In the parts import dialog box, the description of the part is displayed, which the program reads from a text file attached to this part. Attach a text file to the part using the right-click menu: to do this, right-click on the selected part in the workspace and select the COMPONENT ATTACHMENTS menu and then select the submenu: attach file, txt format. In the first line of the text file, enter the basic information that the program will then always display in the part import dialog, save the file
+
 ***
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) 
