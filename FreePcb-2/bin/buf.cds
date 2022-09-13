@@ -1,12 +1,11 @@
 [options]
 
-app_folder: C:\Users\Duxah\Desktop\Duxah\FreePcbDoc\FreePCBDev\Schematic Constructor\.\Debug
+app_folder: C:\Users\Duxah\Desktop\Duxah\FreePcbDoc\FreePCBDev\upload_latest_version\FreePcbDev
 version: 1.403
 file_version: 1.403
-project_name: "LED-01.cds"
+project_name: "StopSignal-03.cds"
 library_folder: "c:\users\duxah\desktop\duxah\freepcbdoc\freepcbdev\upload_latest_version\fp_lib"
 full_library_folder: "c:\users\duxah\desktop\duxah\freepcbdoc\freepcbdev\upload_latest_version\fp_lib\my_lib"
-parent_folder: "C:\Users\Duxah\Desktop\Duxah\FreePcbDoc\TRASH\PCB"
 CAM_folder: ""
 netlist_completed: "0"
 bom_options: "721056"
@@ -19,27 +18,27 @@ partlist_pos_x: "105"
 partlist_pos_y: "69"
 partlist_col_w: "960223292"
 part_search: ""
-netlist_file_path: ""
+netlist_file_path: "C:\Users\Duxah\Desktop\Duxah\FreePcbDoc\TRASH\PCB\StopSignal\version-03\related_files\CDS_netlist\StopSignal-03.fpc"
+pcb_name: "StopSignal-03.fpc" 1
 netlist_format: 0
 page_mirror_mask: 0
 default_font: 2
 default_node_width: -1500000
 autosave_interval: 60
 m_client_rect_left: 0
-m_client_rect_right: 1143
-m_client_rect_bottom: 910
+m_client_rect_right: 1167
+m_client_rect_bottom: 877
 m_client_rect_top: 0
-m_org_x: -65652
-m_org_y: -28038
-m_scale_factor: 322666
+m_org_x: 159509
+m_org_y: 88800
+m_scale_factor: 126428
 m_attr_size: 2200000 300000 2200000 300000 2200000 300000 2200000 300000 2200000 300000 2200000 300000
-m_system_colors: 1
 units: MM
 
 m_sel_mask: -1
-m_visible_layers: 524287
+m_visible_layers: 524283
 m_top_layer: 10
-m_grid_style: 1
+m_grid_style: 0
 visible_grid_spacing: 10000000.000000
   visible_grid_item: 20mil
   visible_grid_item: 50mil
@@ -129,7 +128,6 @@ text_grid_spacing: 100000.000000
 snap_angle: 45
 
 m_seg_clearance: 640080
-magnetize_value: 100
 polyline_width: 200000
 text_height: 200000
 min_text_stroke_width: 100000
@@ -139,10 +137,10 @@ cam_layers: 8191
 cam_units: 1
 
 report_options: 0
-apply_invert_for_pdf: 0
+apply_invert_for_pdf: 1
 drc_check_unrouted: 0
-drc_part_attr_to_attr: 100000
-drc_part_attr_to_poly: 100000
+drc_part_attr_to_attr: 200000
+drc_part_attr_to_poly: 200000
 drc_pin_attr_to_attr: 254000
 drc_pin_attr_to_poly: 254000
 
@@ -150,7 +148,7 @@ default_polyline_width:0.5mm
 n_additional_layers: 4
   layer_info: "dragging" 0 130 130 130 1
   layer_info: "background" 1 77 77 77 1
-  layer_info: "visible grid" 2 40 40 40 1
+  layer_info: "visible grid" 2 40 40 40 0
   layer_info: "highlight" 3 255 255 0 1
   layer_info: "DRC error" 4 255 255 0 1
   layer_info: "ownerless line" 5 255 0 0 1
@@ -205,4 +203,20 @@ m_pdf_pages: 1
   pdf_layer_info: "back layer 14" 30 255 255 255 0
   pdf_layer_info: "undefined" 31 255 255 255 0
 
+  ref_list: "RefList-1"
+  ref_list: "RefList-3"
+
+[graphics]
+
+rename_page: "Main Page"
+bmp_src: "C:\Users\Duxah\Desktop\Duxah\FreePcbDoc\TRASH\PCB\StopSignal\version-03\related_files\pictures\PIC00005"
+polyline: 5 0 10 500000 -1 -1 -1 0 9
+  corner: 1 242750000 197237600 0 1500000
+  corner: 2 242749984 204999984 0 0
+  corner: 3 242250000 202750000 0 0
+  corner: 4 243250000 202750000 0 0
+  corner: 5 242750000 205000000 0 0
+net_name: "+3.3" 239450000 205887600 11 0 2200000 300000 -1 -1 2 1
+
+add_new_page: "BOM-LIST"
 [end]

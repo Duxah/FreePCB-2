@@ -1,0 +1,124 @@
+[AC]
+AC to DC converter
+
+[B]
+Converters of non-electric quantities into electrical ones
+[BL]
+Photocell
+[BS]
+Sound sensor
+[BQ]
+Quartz resonator
+[BA]
+Accelerometer
+[BT]
+Temperature sensor
+[BP]
+Pressure sensor
+[BH]
+Hall-effect sensor
+
+[C]
+Capasitor
+[CU]
+Varicap
+
+[D]
+Analogue-digital chip
+[DD]
+Digital chip or Logic element
+[DC]
+Pulse DC voltage converter or LED-driver
+[DA]
+OpAmp or Linear voltage converter
+[DB]
+Battery charger
+[DS]
+Information storage device
+[DM]
+Microcontroller
+[DI]
+ADC (analog-to-digital converter)
+[DO]
+DAC (digital-to-analogue converter)
+
+[FU]
+Melt Fuse
+[FV]
+Arrester
+[FD]
+Discrete current protection element
+
+[G]
+Generator, power supply
+[GB]
+Battery
+
+[HL]
+Light signal element
+[HA]
+Sound alarm element
+[HG]
+Character indicator or Display
+
+[KT]
+Check point
+
+[L]
+Inductor
+
+[M]
+Motors
+
+[R]
+Resistor
+[RA]
+Resistor assembly
+[RS]
+Shunt and jumper
+[RP]
+Potentiometer
+[RU]
+Varistor
+
+[SM]
+Mechanical switch
+[SB]
+Buttons, including toutch
+[SA]
+Automatic switch
+
+[TA]
+Current transformer
+[TV]
+Voltage transformer
+
+[U]
+UNKNOWN
+
+[VD]
+Diodes
+[VO]
+Optocoupler
+[VT]
+Transistor
+[VS]
+Thyristor
+
+[WA]
+Antenna
+[WB]
+Bluetooth wireless interface
+[WL]
+LoraWan wireless interface
+[WF]
+Wi-Fi wireless interface
+
+[XW]
+High frequency connector
+[X]
+Connector
+[XC]
+Special connector
+
+
