@@ -90,6 +90,8 @@ but at the same time includes almost all the tools needed for professional use.
 
 * The PDF file supports links to websites when you select the File->Print to PDF menu. You can create a link to the site using the polyline attributes setting dialog box: On the selected polyline, press the F1(Set attributes) function key. And then click the appropriate button on the add Command template tab.
 
+* When creating a new project page, it can be inserted anywhere, that is, for example, between other pages. When you press the menu button view->add new page, a window pops up with a question for clarification. (Procedure: First go to the page where you would like to insert a new page, and then click the view menu -> add new page)
+
 ***
 
 ![](https://raw.githubusercontent.com/Duxah/FreePCB/master/pictures/cloud-down.png) 
