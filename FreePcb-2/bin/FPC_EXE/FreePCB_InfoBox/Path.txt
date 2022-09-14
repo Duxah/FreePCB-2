@@ -2,7 +2,9 @@ Index
 RefDes
 Package
 FootPrint
+PackageNL
 Value
+ValueNL
 Side
 partX
 partY
@@ -11,42 +13,16 @@ Merge
 Pins
 Holes
 Glued
-ValueNL
-PackageNL
 CompareNetlist
 Ignore_case_in_the_filter
 Only_Latin_symbols
-Form1_Left: "107"
-Form1_Top: "78"
-Form1_Width: "1125"
-Form1_Height: "162"
+Embed_R
+Form1_Left: "950"
+Form1_Top: "0"
+Form1_Width: "330"
+Form1_Height: "1024"
 check_refs
-check_ref_index
 check_values
-check_values_extern
-check_package
-check_package_extern
-check_foot
-check_merge
-check_parts_pins
-check_parts_holes
-check_glueds
-check_sides
-check_angles
-check_partx
-check_party
-check_comp_nlist
 check_pinname
 check_netpcb
-check_pins_cnt
-check_ext_netlist
-check_pins_type
-check_pins_w
-check_pins_l
-check_thrml
-check_holes_diam
-check_paste
-check_pinsx
-check_pinsy
-check_vias
 end
