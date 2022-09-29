@@ -1,5 +1,5 @@
 ![freepcb-2 icon](/pictures/upload.png) 
-## [freepcb-2.033](https://freepcb.dev)
+## [freepcb-2.033](https://freepcb.org)
 
 Beginner's «How To ...» Guide 2019
 
