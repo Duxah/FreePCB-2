@@ -5,11 +5,7 @@
 _This document has been translated into English from another language (the author is not responsible for the inaccuracy of the translation, if any)_
 
 ***
-
-_In connection with the recent events in the International political arena, the possibility of supporting freepcb2 in my face runs into insurmountable obstacles. If you are ready to help assist me in moving to your country, please contact me by e-mail freepcb.development@gmail.com_
-
-***
-
+ 
 ### `Introduction`
 
 * 1 to 16 copper layers
