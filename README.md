@@ -88,6 +88,8 @@ but at the same time includes almost all the tools needed for professional use.
 
 * You can easily change the footprint name in the detail editing dialog.
 
+* You can paste a PCB snippet from another open freepcb window, using the keyboard shortcut Control+C then in another window Control+V
+
 `Schematic Constructor-1.4:`
 
 * Improved file dialog
