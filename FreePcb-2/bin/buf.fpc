@@ -1,0 +1,259 @@
+[options]
+
+app_folder: C:\Users\Duxah\Desktop\Duxah\FreePcbDoc\FreePCBDev\FreePCB_2\.\Debug
+version: 2.404
+file_version: 2.404
+project_name: "StopSignal-03"
+library_folder: "c:\users\duxah\desktop\duxah\freepcbdoc\freepcbdev\upload_latest_version\fp_lib"
+full_library_folder: "c:\users\duxah\desktop\duxah\freepcbdoc\freepcbdev\upload_latest_version\fp_lib\my_lib"
+parent_folder: "C:\Users\Duxah\Desktop\Duxah\FreePcbDoc\TRASH\PCB\StopSignal\"
+CAM_folder: "C:\Users\Duxah\Desktop\Duxah\FreePcbDoc\TRASH\PCB\StopSignal\version-03\CAM(StopSignal-03)(9-21-2022)"
+ses_file_path: ""
+netlist_completed: "1"
+part_search: "MINI_USB"
+png_settings: "800 0.05"
+netlist_file_path: "C:\Users\Duxah\Desktop\Duxah\FreePcbDoc\TRASH\PCB\StopSignal\version-03\related_files\CDS_netlist\StopSignal-03.fpc.net"
+SMT_connect_copper: "1"
+default_glue_width: "635000"
+dsn_flags: "0"
+dsn_bounds_poly: "0"
+dsn_signals_poly: "0"
+autosave_interval: 60
+auto_ratline_disable: "0"
+auto_ratline_disable_min_pins: "100"
+netlist_import_flags: 21383
+m_client_rect_left: 110
+m_client_rect_right: 1854
+m_client_rect_bottom: 990
+m_client_rect_top: 0
+m_org_x: 3986
+m_org_y: 5184
+m_scale_factor: 56564
+part_line_visible: 1
+merge_shown: 1
+pdf_pin1: -0.700000
+pdf_use_font: -889000 889000
+units: MM
+
+m_sel_mask: 65533
+m_visible_layers: -84229
+m_top_layer: 13
+m_grid_style: 0
+visible_grid_spacing: 1000000.000000
+  visible_grid_item: 100mil
+  visible_grid_item: 125mil
+  visible_grid_item: 200mil
+  visible_grid_item: 250mil
+  visible_grid_item: 400mil
+  visible_grid_item: 500mil
+  visible_grid_item: 1000mil
+  visible_grid_item: 1mm
+  visible_grid_item: 2mm
+  visible_grid_item: 2.5mm
+  visible_grid_item: 4mm
+  visible_grid_item: 5mm
+  visible_grid_item: 10mm
+  visible_grid_item: 20mm
+  visible_grid_item: 25mm
+  visible_grid_item: 40mm
+  visible_grid_item: 50mm
+  visible_grid_item: 100mm
+
+placement_grid_spacing: 100000.000000
+  placement_grid_item: 10mil
+  placement_grid_item: 20mil
+  placement_grid_item: 25mil
+  placement_grid_item: 40mil
+  placement_grid_item: 50mil
+  placement_grid_item: 100mil
+  placement_grid_item: 200mil
+  placement_grid_item: 250mil
+  placement_grid_item: 400mil
+  placement_grid_item: 500mil
+  placement_grid_item: 1000mil
+  placement_grid_item: 0mm
+  placement_grid_item: 0.1mm
+  placement_grid_item: 0.2mm
+  placement_grid_item: 0.25mm
+  placement_grid_item: 0.4mm
+  placement_grid_item: 0.5mm
+  placement_grid_item: 1mm
+  placement_grid_item: 2mm
+  placement_grid_item: 2.5mm
+  placement_grid_item: 4mm
+  placement_grid_item: 5mm
+  placement_grid_item: 10mm
+
+routing_grid_spacing: 0.000000
+  routing_grid_item: 1mil
+  routing_grid_item: 2mil
+  routing_grid_item: 2.5mil
+  routing_grid_item: 3.33330709mil
+  routing_grid_item: 4mil
+  routing_grid_item: 5mil
+  routing_grid_item: 6.665mil
+  routing_grid_item: 10mil
+  routing_grid_item: 12.5mil
+  routing_grid_item: 16.665mil
+  routing_grid_item: 20mil
+  routing_grid_item: 25mil
+  routing_grid_item: 40mil
+  routing_grid_item: 50mil
+  routing_grid_item: 0mm
+  routing_grid_item: 0.01mm
+  routing_grid_item: 0.02mm
+  routing_grid_item: 0.04mm
+  routing_grid_item: 0.05mm
+  routing_grid_item: 0.1mm
+  routing_grid_item: 0.2mm
+  routing_grid_item: 0.25mm
+  routing_grid_item: 0.4mm
+  routing_grid_item: 0.5mm
+  routing_grid_item: 1mm
+  routing_grid_item: 2mm
+  routing_grid_item: 2.5mm
+  routing_grid_item: 4mm
+  routing_grid_item: 5mm
+  routing_grid_item: 10mm
+
+snap_angle: 45
+
+fp_visible_grid_spacing: 1000000.000000
+  fp_visible_grid_item: 100mil
+  fp_visible_grid_item: 125mil
+  fp_visible_grid_item: 200mil
+  fp_visible_grid_item: 250mil
+  fp_visible_grid_item: 400mil
+  fp_visible_grid_item: 500mil
+  fp_visible_grid_item: 1000mil
+  fp_visible_grid_item: 1mm
+  fp_visible_grid_item: 2mm
+  fp_visible_grid_item: 2.5mm
+  fp_visible_grid_item: 4mm
+  fp_visible_grid_item: 5mm
+  fp_visible_grid_item: 10mm
+  fp_visible_grid_item: 20mm
+  fp_visible_grid_item: 25mm
+  fp_visible_grid_item: 40mm
+  fp_visible_grid_item: 50mm
+  fp_visible_grid_item: 100mm
+
+fp_placement_grid_spacing: 500000.000000
+  fp_placement_grid_item: 10mil
+  fp_placement_grid_item: 20mil
+  fp_placement_grid_item: 25mil
+  fp_placement_grid_item: 40mil
+  fp_placement_grid_item: 50mil
+  fp_placement_grid_item: 100mil
+  fp_placement_grid_item: 200mil
+  fp_placement_grid_item: 250mil
+  fp_placement_grid_item: 400mil
+  fp_placement_grid_item: 500mil
+  fp_placement_grid_item: 1000mil
+  fp_placement_grid_item: 0.02mm
+  fp_placement_grid_item: 0.05mm
+  fp_placement_grid_item: 0.1mm
+  fp_placement_grid_item: 0.2mm
+  fp_placement_grid_item: 0.5mm
+  fp_placement_grid_item: 1mm
+  fp_placement_grid_item: 2mm
+  fp_placement_grid_item: 2.5mm
+  fp_placement_grid_item: 4mm
+  fp_placement_grid_item: 5mm
+  fp_placement_grid_item: 10mm
+
+fp_snap_angle: 45
+
+m_seg_clearance: 205080
+fill_clearance: 300000
+mask_clearance: 50000
+thermal_width: 300000
+thermal_clearance: 500000
+min_silkscreen_width: 100000
+highlight_width: 300000
+hole_clearance: 300000
+pilot_diameter: 200000
+annular_ring_for_pins: 1000000
+annular_ring_for_vias: 1000000
+shrink_paste_mask: 300000
+cam_flags: 8
+crop_flags: 28255
+cam_layers: 9437247
+cam_drill_file: 1
+cam_units: 1
+cam_n_x: 3
+cam_n_y: 2
+cam_space_x: 2000000
+cam_space_y: 2000000
+
+report_options: 0
+drc_check_unrouted: 1
+drc_trace_width: 200000
+drc_pad_pad: 200000
+drc_pad_trace: 200000
+drc_trace_trace: 200000
+drc_hole_copper: 300000
+drc_annular_ring_pins: 177800
+drc_annular_ring_vias: 127000
+drc_board_edge_copper: 300000
+drc_board_edge_hole: 500000
+drc_hole_hole: 500000
+drc_copper_copper: 200000
+
+default_trace_width:0.3mm
+default_via_pad_width:1mm
+default_via_hole_width:0.5mm
+n_width_menu: 2
+  width_menu_item: 1 0.3mm 0mil 0mil
+  width_menu_item: 2 1mm 0mil 0mil
+
+n_copper_layers: 2
+  layer_info: "dragging" 0 255 255 0 1 127 127 127 0
+  layer_info: "background" 1 238 238 238 1 255 255 255 0
+  layer_info: "visible grid" 2 238 238 238 0 0 0 0 0
+  layer_info: "highlight" 3 255 255 0 1 255 255 0 1
+  layer_info: "DRC error" 4 255 0 0 1 128 64 0 0
+  layer_info: "board outline" 5 0 115 60 1 0 185 120 1
+  layer_info: "scribing" 6 255 0 128 1 127 127 127 0
+  layer_info: "top notes" 7 128 64 0 1 255 0 0 0
+  layer_info: "bot notes" 8 128 64 0 0 128 128 128 0
+  layer_info: "rat line" 9 0 0 128 1 0 0 160 1
+  layer_info: "top silk" 10 178 178 178 1 255 255 255 1
+  layer_info: "bottom silk" 11 255 170 170 0 255 255 255 0
+  layer_info: "thru pad" 12 235 235 235 1 255 255 255 1
+  layer_info: "top view" 13 77 77 122 1 230 230 230 1
+  layer_info: "bot view" 14 222 111 111 0 127 127 127 0
+  layer_info: "top copper" 15 40 165 90 1 47 255 182 1
+  layer_info: "bot copper" 16 30 90 50 0 10 100 20 0
+
+[footprints]
+
+[board]
+
+
+[solder_mask_cutouts]
+
+
+[graphics]
+
+
+[parts]
+
+[nets]
+
+[texts]
+
+text: "First Select a group of objects, then press Control C and then Control V" 32300000 32700000 15 0 0 1000000 100000 0 -1 -1163005939
+
+[merges]
+
+  merge: "POWER" 0
+  merge: "VT" 0
+  merge: "Merge-1" 0
+  merge: "CPU" 0
+  merge: "+3.3" 0
+  merge: "ADXL" 0
+  merge: "ID56710" 0
+  merge: "ID100864" 0
+
+[end]

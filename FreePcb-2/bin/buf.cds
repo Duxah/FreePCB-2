@@ -1,14 +1,14 @@
 [options]
 
-app_folder: C:\Users\Duxah\Desktop\Duxah\FreePcbDoc\FreePCBDev\upload_latest_version\FreePcbDev
+app_folder: C:\Users\Duxah\Desktop\Duxah\FreePcbDoc\FreePCBDev\Schematic Constructor\.\Debug
 version: 1.403
 file_version: 1.403
-project_name: "StopSignal-03.cds"
-library_folder: "c:\users\duxah\desktop\duxah\freepcbdoc\freepcbdev\upload_latest_version\fp_lib"
-full_library_folder: "c:\users\duxah\desktop\duxah\freepcbdoc\freepcbdev\upload_latest_version\fp_lib\my_lib"
+project_name: "SmartKeyhole-02.cds"
+library_folder: "c:\freepcbdoc\freepcbdev"
+full_library_folder: "c:\freepcbdoc\freepcbdev\my_lib"
 CAM_folder: ""
 netlist_completed: "0"
-bom_options: "721056"
+bom_options: "224"
 page_number: "0"
 parent_index: "2"
 alignment: 0.70
@@ -18,8 +18,8 @@ partlist_pos_x: "105"
 partlist_pos_y: "69"
 partlist_col_w: "960223292"
 part_search: ""
-netlist_file_path: "C:\Users\Duxah\Desktop\Duxah\FreePcbDoc\TRASH\PCB\StopSignal\version-03\related_files\CDS_netlist\StopSignal-03.fpc"
-pcb_name: "StopSignal-03.fpc" 1
+netlist_file_path: "C:\Users\Duxah\Desktop\version-02\related_files\CDS_netlist\SmartKeyhole-02.fpc"
+pcb_name: "SmartKeyhole-02.fpc" 1
 netlist_format: 0
 page_mirror_mask: 0
 default_font: 2
@@ -29,17 +29,17 @@ m_client_rect_left: 0
 m_client_rect_right: 1167
 m_client_rect_bottom: 877
 m_client_rect_top: 0
-m_org_x: 159509
-m_org_y: 88800
-m_scale_factor: 126428
+m_org_x: 195086
+m_org_y: 51156
+m_scale_factor: 105357
 m_attr_size: 2200000 300000 2200000 300000 2200000 300000 2200000 300000 2200000 300000 2200000 300000
 units: MM
 
-m_sel_mask: -1
+m_sel_mask: -65
 m_visible_layers: 524283
-m_top_layer: 10
+m_top_layer: 5
 m_grid_style: 0
-visible_grid_spacing: 10000000.000000
+visible_grid_spacing: 2000000.000000
   visible_grid_item: 20mil
   visible_grid_item: 50mil
   visible_grid_item: 100mil
@@ -95,7 +95,7 @@ polyline_grid_spacing: 250000.000000
   placement_grid_item: 5mm
   placement_grid_item: 10mm
 
-text_grid_spacing: 100000.000000
+text_grid_spacing: 200000.000000
   text_grid_item: 0.1mil
   text_grid_item: 0.5mil
   text_grid_item: 1mil
@@ -137,14 +137,14 @@ cam_layers: 8191
 cam_units: 1
 
 report_options: 0
-apply_invert_for_pdf: 1
+apply_invert_for_pdf: 0
 drc_check_unrouted: 0
-drc_part_attr_to_attr: 200000
-drc_part_attr_to_poly: 200000
+drc_part_attr_to_attr: 100000
+drc_part_attr_to_poly: 100000
 drc_pin_attr_to_attr: 254000
 drc_pin_attr_to_poly: 254000
 
-default_polyline_width:0.5mm
+default_polyline_width:0.3mm
 n_additional_layers: 4
   layer_info: "dragging" 0 130 130 130 1
   layer_info: "background" 1 77 77 77 1
@@ -203,20 +203,110 @@ m_pdf_pages: 1
   pdf_layer_info: "back layer 14" 30 255 255 255 0
   pdf_layer_info: "undefined" 31 255 255 255 0
 
-  ref_list: "RefList-1"
-  ref_list: "RefList-3"
+  merge: "Merge-2"
 
 [graphics]
 
-rename_page: "Main Page"
-bmp_src: "C:\Users\Duxah\Desktop\Duxah\FreePcbDoc\TRASH\PCB\StopSignal\version-03\related_files\pictures\PIC00005"
-polyline: 5 0 10 500000 -1 -1 -1 0 9
-  corner: 1 242750000 197237600 0 1500000
-  corner: 2 242749984 204999984 0 0
-  corner: 3 242250000 202750000 0 0
-  corner: 4 243250000 202750000 0 0
-  corner: 5 242750000 205000000 0 0
-net_name: "+3.3" 239450000 205887600 11 0 2200000 300000 -1 -1 2 1
+rename_page: "Page 1"
+bmp_src: "C:\Users\Duxah\Desktop\version-02\related_files\pictures\PIC00001"
+bmp_src: "C:\Users\Duxah\Desktop\version-02\related_files\pictures\PIC00003"
+outline: 96 0 5 300000 -1 -1 -1 0
+  corner: 1 271738474 109576273 1 0
+  corner: 2 273150257 110988056 1 0
+  corner: 3 271738474 112399839 1 0
+  corner: 4 273150257 113811622 1 0
+  corner: 5 271738474 115223405 1 0
+  corner: 6 273150257 116635188 1 0
+  corner: 7 271738474 118046971 1 0
+  corner: 8 273150257 119458754 1 0
+  corner: 9 271738474 120870537 1 0
+  corner: 10 274562040 123694103 1 0
+  corner: 11 275973823 122282320 1 0
+  corner: 12 277385606 123694103 1 0
+  corner: 13 278797389 122282320 1 0
+  corner: 14 280209172 123694103 1 0
+  corner: 15 281620955 122282320 1 0
+  corner: 16 283032738 123694103 1 0
+  corner: 17 284444521 122282320 1 0
+  corner: 18 285856304 123694103 1 0
+  corner: 19 287268087 122282320 1 0
+  corner: 20 288679870 123694103 1 0
+  corner: 21 290091653 122282320 1 0
+  corner: 22 291503436 123694103 1 0
+  corner: 23 292915219 122282320 1 0
+  corner: 24 294327002 123694103 1 0
+  corner: 25 295738785 122282320 1 0
+  corner: 26 297150568 123694103 1 0
+  corner: 27 298562351 122282320 1 0
+  corner: 28 299974134 123694103 1 0
+  corner: 29 301385917 122282320 1 0
+  corner: 30 302797700 123694103 1 0
+  corner: 31 304209483 122282320 1 0
+  corner: 32 305621266 123694103 1 0
+  corner: 33 307033049 122282320 1 0
+  corner: 34 308444832 123694103 1 0
+  corner: 35 309856615 122282320 1 0
+  corner: 36 311268398 123694103 1 0
+  corner: 37 312680181 122282320 1 0
+  corner: 38 314091964 123694103 1 0
+  corner: 39 315503747 122282320 1 0
+  corner: 40 316915530 123694103 1 0
+  corner: 41 318327313 122282320 1 0
+  corner: 42 319739096 123694103 1 0
+  corner: 43 321150879 122282320 1 0
+  corner: 44 322562662 123694103 1 0
+  corner: 45 323974445 122282320 1 0
+  corner: 46 325386228 123694103 1 0
+  corner: 47 326798011 122282320 1 0
+  corner: 48 328209794 123694103 1 0
+  corner: 49 331033360 120870537 1 0
+  corner: 50 329621577 119458754 1 0
+  corner: 51 331033360 118046971 1 0
+  corner: 52 329621577 116635188 1 0
+  corner: 53 331033360 115223405 1 0
+  corner: 54 329621577 113811622 1 0
+  corner: 55 331033360 112399839 1 0
+  corner: 56 329621577 110988056 1 0
+  corner: 57 331033360 109576273 1 0
+  corner: 58 328209794 106752707 1 0
+  corner: 59 326798011 108164490 1 0
+  corner: 60 325386228 106752707 1 0
+  corner: 61 323974445 108164490 1 0
+  corner: 62 322562662 106752707 1 0
+  corner: 63 321150879 108164490 1 0
+  corner: 64 319739096 106752707 1 0
+  corner: 65 318327313 108164490 1 0
+  corner: 66 316915530 106752707 1 0
+  corner: 67 315503747 108164490 1 0
+  corner: 68 314091964 106752707 1 0
+  corner: 69 312680181 108164490 1 0
+  corner: 70 311268398 106752707 1 0
+  corner: 71 309856615 108164490 1 0
+  corner: 72 308444832 106752707 1 0
+  corner: 73 307033049 108164490 1 0
+  corner: 74 305621266 106752707 1 0
+  corner: 75 304209483 108164490 1 0
+  corner: 76 302797700 106752707 1 0
+  corner: 77 301385917 108164490 1 0
+  corner: 78 299974134 106752707 1 0
+  corner: 79 298562351 108164490 1 0
+  corner: 80 297150568 106752707 1 0
+  corner: 81 295738785 108164490 1 0
+  corner: 82 294327002 106752707 1 0
+  corner: 83 292915219 108164490 1 0
+  corner: 84 291503436 106752707 1 0
+  corner: 85 290091653 108164490 1 0
+  corner: 86 288679870 106752707 1 0
+  corner: 87 287268087 108164490 1 0
+  corner: 88 285856304 106752707 1 0
+  corner: 89 284444521 108164490 1 0
+  corner: 90 283032738 106752707 1 0
+  corner: 91 281620955 108164490 1 0
+  corner: 92 280209172 106752707 1 0
+  corner: 93 278797389 108164490 1 0
+  corner: 94 277385606 106752707 1 0
+  corner: 95 275973823 108164490 1 0
+  corner: 96 274562040 106752707 1 0
+description: "First Select a group of objects,'then press Control C,'and then Control V" 276185606 117602707 14 0 2200000 300000 -1 -1 2 0
 
-add_new_page: "BOM-LIST"
 [end]
