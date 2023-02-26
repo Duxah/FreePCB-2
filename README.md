@@ -139,7 +139,8 @@ You can participate in the improvement of the application. Feel free to write a 
 []([![](pictures/bittele.png)](https://www.7pcb.com) )
 [![](pictures/zofzpcb.png)](https://zofzpcb.com) 
 
-_[to learn more...](partners.md)_
+***
+### [`Sponsors`](partners.md)
 
 ***
 ### `Contacts`
