@@ -90,6 +90,8 @@ but at the same time includes almost all the tools needed for professional use.
 
 * You can paste a PCB snippet from another open freepcb window, using the keyboard shortcut Control+C then in another window Control+V
 
+* You can insert a background image the size of a board outline. If you want to recreate the board from a sample, if you have a photo of the top and bottom sides of the sample, then this function is perfect for you. Crop the photo along the outline of the board in any image editor. Upload a photo of the top and bottom side through the main menu "Addition". Ready. Now, when you select the bottom side as the active layer, the image of the bottom layer will automatically come to the front and be mirrored. This is useful when routing traces from the top layer to the bottom one. During routing, switch the active layer using the 1 and 2 buttons on the keyboard
+
 `Schematic Constructor-1.4:`
 
 * Improved file dialog
