@@ -1,8 +1,9 @@
 <link rel="shortcut icon" type="image/png" href="https://github.com/Duxah/FreePCB-2/blob/master/pictures/favicon.png?raw=true">
 
 ***
+_The latest version of FreePCB-2 with the option for export PCB to opencad (3d) is [here](https://github.com/niconson/Freepcb2-portable)
 
-_This document has been translated into English (the author is not responsible for the inaccuracy of the translation, if any)_
+This document has been translated into English (the author is not responsible for the inaccuracy of the translation, if any)_
 
 ***
  
