@@ -150,7 +150,7 @@ You can participate in the improvement of the application. Feel free to write a 
 ***
 ### `Contacts`
 
-* You can use the [forum of the first official version of FreePcb](https://groups.io/g/freepcb), which has been moved to groups.io since 2020, or write to the developer of this software fork - share your idea or report a bug to duxah@yahoo.com
+* You can use the [forum of the first official version of FreePcb](https://groups.io/g/freepcb), which has been moved to groups.io since 2020, or write to the developer of this software fork - share your idea or report a bug to niconson.com@gmail.com
 * If you have your own libraries of footprints that you are ready to share with everyone, please send your file by email
 
 ***
@@ -170,4 +170,4 @@ You can participate in the improvement of the application. Feel free to write a 
 
 *The text of this site is a translation from foreign language using Google inc. If you want to improve the translation of this content, please send your file by email*
 
-*© 2014-2022 Duxah Technologies*
+*© 2014-2022 DuxahTech*
