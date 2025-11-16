@@ -34,6 +34,8 @@ _This document has been translated into English (the author is not responsible f
 
 FreePcb-2 is a PCB design program with a function key interface. Version 2.0 presented on this site is a fork of version [1.359](http://freepcb.com), taken for revision in 2014. FreePcb-2 contains new features not available in version 1.359 and provides more freedom for circuit board developers. If you don’t want to waste your time mastering complex PCB design applications, download FreePcb-2, which can do a lot of what CADs can do, but is easy to learn and takes up little disk space on your computer. FreePcb-2 does not have a huge number of buttons as in other CAD systems, the purpose of which is not immediately clear. There are only 9 buttons (F1 ... F9), the Functions of which change depending on the type of the selected element (part, vertex of trace, segment and etc.), so FreePcb-2 can be studied even without instructions. There is also a right-click context menu with additional features. 
 
+In the near future (first half of 2026) it is planned to release version 2.4.27.
+
 ***
 ### [`Schematic Constructor`](https://github.com/Duxah/FreePCB-2/blob/master/ECDS.md)
 
