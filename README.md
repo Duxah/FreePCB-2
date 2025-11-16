@@ -1,6 +1,8 @@
 <link rel="shortcut icon" type="image/png" href="https://github.com/Duxah/FreePCB-2/blob/master/pictures/favicon.png?raw=true">
 
 ***
+_Check out my new Niconson® account with repositories containing the source code for version 2.4 and Schematic Constructor 1.4._
+
 _The latest version of FreePCB-2 with the option for export PCB to OpenScad (3d) is [here](https://github.com/niconson/Freepcb2-portable)_
 
 _This document has been translated into English (the author is not responsible for the inaccuracy of the translation, if any)_
@@ -170,4 +172,4 @@ You can participate in the improvement of the application. Feel free to write a 
 
 *The text of this site is a translation from foreign language using Google inc. If you want to improve the translation of this content, please send your file by email*
 
-*© 2014-2022 DuxahTech*
+*© 2014-2022 Duxah*
